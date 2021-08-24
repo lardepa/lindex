@@ -1,9 +1,9 @@
 import { AirtableBase } from "airtable/lib/airtable_base";
 import fs from "fs";
 import Airtable from "airtable";
-import { keys, values } from "lodash";
+import { identity, keys, mapValues, pickBy, values } from "lodash";
 import https from "https";
-import { Media } from "./types";
+import { Dataset, Lieu, LieuAirTable, LieuRoot, Media } from "./types";
 
 // load .env variables into process.env
 require("dotenv").config();
@@ -54,8 +54,17 @@ const importAllTables = async (incremental?: boolean) => {
     lastImportDate = fs.readFileSync(".last_import_date").toString();
 
   try {
-    const dataset = {};
-    for (let table of ["lieux", "professionnels", "périodes", "média"]) {
+    const dataset: Dataset = {};
+    for (let table of [
+      "lieux",
+      "professionnels",
+      "périodes",
+      "médias",
+      "types_lieu",
+      "sélections",
+      "distinctions",
+      "parcours",
+    ]) {
       const incomingData: { [key: string]: any } = await dumpObjects(
         base,
         table,
@@ -65,8 +74,10 @@ const importAllTables = async (incremental?: boolean) => {
         let newData = incomingData;
         if (incremental) {
           // update existingData
-          const existingData = fs.existsSync(`data/${table}.json`)
-            ? JSON.parse(fs.readFileSync(`data/${table}.json`).toString())
+          const existingData = fs.existsSync(`data/${table}_airtable.json`)
+            ? JSON.parse(
+                fs.readFileSync(`data/${table}_airtable.json`).toString()
+              )
             : {};
           // TODO: find a way to get deleted items
           newData = { ...existingData, ...incomingData };
@@ -74,7 +85,7 @@ const importAllTables = async (incremental?: boolean) => {
         dataset[table] = newData;
         // storing on disk
         fs.writeFileSync(
-          `data/${table}.json`,
+          `data/${table}_airtable.json`,
           JSON.stringify(newData, null, 2)
         );
         console.log(`data/${table}.json updated`);
@@ -106,7 +117,7 @@ const downloadFile = (url: string, filenameWithoutExtension: string) => {
 importAllTables().then(async (dataset) => {
   // download media
   const fichierIds = new Set<string>();
-  values(dataset["média"]).forEach((media: Media) => {
+  values(dataset.médias).forEach((media: Media) => {
     if (media.fichiers && media.fichiers.length > 0) {
       media.fichiers.forEach((fichier) => {
         fichierIds.add(fichier.id);
@@ -126,7 +137,53 @@ importAllTables().then(async (dataset) => {
   fs.readdirSync("attachments", { withFileTypes: true })
     .filter((dirent) => dirent.isDirectory() && !fichierIds.has(dirent.name))
     .forEach((dirent) => {
-      fs.rmSync(`attachments\${dirent.name}`, { recursive: true, force: true });
+      console.log(`removing attachment ${dirent.name}`);
+      fs.rmSync(`attachments/${dirent.name}`, {
+        recursive: true,
+        force: true,
+      });
     });
-  // todo: hydrate lieux's foreign keys
+  // hydrate lieux's foreign keys
+  const lieux: { [key: string]: Lieu } = mapValues(
+    dataset.lieux,
+    (lieuAirtable: LieuAirTable): Lieu => {
+      // replacing ids by foreign objects
+      const lieu: Lieu = {
+        ...lieuAirtable,
+        maitre_oeuvre:
+          lieuAirtable["maitre_oeuvre"] &&
+          dataset.professionnels[lieuAirtable["maitre_oeuvre"]],
+        maitre_ouvrage:
+          lieuAirtable["maitre_ouvrage"] &&
+          dataset.professionnels[lieuAirtable["maitre_ouvrage"]],
+        périodes:
+          lieuAirtable.périodes &&
+          lieuAirtable.périodes.map((p) => dataset.périodes[p]),
+        geolocalisation: lieuAirtable.geolocalisation
+          ? lieuAirtable.geolocalisation.split(",").map((l) => parseFloat(l))
+          : null,
+        médias:
+          lieuAirtable["médias"] &&
+          lieuAirtable["médias"].map((m) => dataset.médias[m] as Media),
+        cover_media:
+          lieuAirtable["cover_media"] &&
+          dataset.médias[lieuAirtable["cover_media"]],
+        type:
+          lieuAirtable["type de lieu"] &&
+          dataset.types_lieu[lieuAirtable["type de lieu"]],
+        distinctions:
+          lieuAirtable.distinctions &&
+          lieuAirtable.distinctions.map((d) => dataset.distinctions[d]),
+        sélections:
+          lieuAirtable.sélections &&
+          lieuAirtable.sélections.map((s) => dataset.sélections[s]),
+        parcours:
+          lieuAirtable.parcours &&
+          lieuAirtable.parcours.map((p) => dataset.parcours[p]),
+      };
+      return lieu;
+    }
+  );
+  // write lieu
+  fs.writeFileSync(`data/lieux.json`, JSON.stringify(lieux, null, 2));
 });
