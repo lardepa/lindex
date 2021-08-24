@@ -1,3 +1,4 @@
 node_modules/
 data/
 .env
+.last_import_date
