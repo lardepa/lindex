@@ -1,9 +1,15 @@
 import React from "react";
+import { Logo } from "../logo";
 
 export const Layout: React.FC<{}> = ({ children }) => {
   return (
     <>
-      <main>{children}</main>
+      <main>
+        <>
+          <Logo />
+          {children}
+        </>
+      </main>
     </>
   );
 };
