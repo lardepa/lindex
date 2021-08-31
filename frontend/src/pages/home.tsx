@@ -2,14 +2,14 @@ import React from "react";
 import get from "axios";
 import { useEffect } from "react";
 import { useState } from "react";
-import { Lieu } from "../types";
+import { LieuType } from "../types";
 import config from "../config.json";
 import { values } from "lodash";
 import { Map } from "../components/map/map";
 import { Logo } from "../components/logo";
 
 export const Home: React.FC<{}> = () => {
-  const [lieux, setLieux] = useState<Lieu[]>([]);
+  const [lieux, setLieux] = useState<LieuType[]>([]);
   useEffect(() => {
     get(`${config.DATA_URL}/data/lieux.json`, { responseType: "json" })
       .then((response) => setLieux(values(response.data)))

@@ -1,7 +1,7 @@
 import React from "react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import config from "../../config.json";
-import { Lieu } from "../../types";
+import { LieuType } from "../../types";
 import { LatLngExpression } from "leaflet";
 
 // FYI: default leaflet icon can't be used without a workaround: https://github.com/PaulLeCam/react-leaflet/issues/453
@@ -10,7 +10,7 @@ import { PurpleIcon } from "./marker-icon";
 // TODO: import three icons for the three type_lieu
 
 interface MapProps {
-  lieux: Lieu[];
+  lieux: LieuType[];
   className?: string;
 }
 

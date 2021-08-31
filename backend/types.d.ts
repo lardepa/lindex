@@ -2,7 +2,7 @@ export interface Dataset {
   lieux?: { [key: string]: LieuAirTable };
   professionnels?: { [key: string]: Professionnel };
   périodes?: { [key: string]: Periode };
-  médias?: { [key: string]: Media };
+  médias?: { [key: string]: MediaType };
   types_lieu?: { [key: string]: TypeLieu };
   sélections?: { [key: string]: Selection };
   distinctions?: { [key: string]: Distinction };
@@ -29,7 +29,7 @@ export interface Attachment {
   };
 }
 
-export interface Media {
+export interface MediaType {
   id: string;
   url?: string;
   lieux?: string[];
@@ -50,13 +50,13 @@ interface LieuRoot {
 }
 
 // complete version after foreign key completion
-export interface Lieu extends LieuRoot {
+export interface LieuType extends LieuRoot {
   geolocalisation?: number[];
   maitre_oeuvre?: Professionnel;
   maitre_ouvrage?: Professionnel;
   périodes?: Periode[];
-  médias?: Media[];
-  cover_media?: Media;
+  médias?: MediaType[];
+  cover_media?: MediaType;
   type: TypeLieu;
   distinctions?: Distinction[];
   // reverse keys
@@ -120,7 +120,7 @@ export interface Parcours {
   status: Status;
   lieux: LieuRoot[];
   date?: Date;
-  cover_media?: Media;
-  médias?: Media;
+  cover_media?: MediaType;
+  médias?: MediaType;
   expédition?: boolean;
 }

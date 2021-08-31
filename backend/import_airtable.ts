@@ -3,7 +3,7 @@ import fs from "fs";
 import Airtable from "airtable";
 import { identity, keys, mapValues, pickBy, values } from "lodash";
 import https from "https";
-import { Dataset, Lieu, LieuAirTable, LieuRoot, Media } from "./types";
+import { Dataset, LieuType, LieuAirTable, LieuRoot, MediaType } from "./types";
 
 // load .env variables into process.env
 require("dotenv").config();
@@ -117,7 +117,7 @@ const downloadFile = (url: string, filenameWithoutExtension: string) => {
 importAllTables().then(async (dataset) => {
   // download media
   const fichierIds = new Set<string>();
-  values(dataset.médias).forEach((media: Media) => {
+  values(dataset.médias).forEach((media: MediaType) => {
     if (media.fichiers && media.fichiers.length > 0) {
       media.fichiers.forEach((fichier) => {
         fichierIds.add(fichier.id);
@@ -144,11 +144,11 @@ importAllTables().then(async (dataset) => {
       });
     });
   // hydrate lieux's foreign keys
-  const lieux: { [key: string]: Lieu } = mapValues(
+  const lieux: { [key: string]: LieuType } = mapValues(
     dataset.lieux,
-    (lieuAirtable: LieuAirTable): Lieu => {
+    (lieuAirtable: LieuAirTable): LieuType => {
       // replacing ids by foreign objects
-      const lieu: Lieu = {
+      const lieu: LieuType = {
         ...lieuAirtable,
         maitre_oeuvre:
           lieuAirtable["maitre_oeuvre"] &&
@@ -164,7 +164,7 @@ importAllTables().then(async (dataset) => {
           : null,
         médias:
           lieuAirtable["médias"] &&
-          lieuAirtable["médias"].map((m) => dataset.médias[m] as Media),
+          lieuAirtable["médias"].map((m) => dataset.médias[m] as MediaType),
         cover_media:
           lieuAirtable["cover_media"] &&
           dataset.médias[lieuAirtable["cover_media"]],
@@ -184,4 +184,11 @@ importAllTables().then(async (dataset) => {
   );
   // write lieu
   fs.writeFileSync(`data/lieux.json`, JSON.stringify(lieux, null, 2));
+  if (!fs.existsSync("data/lieux")) fs.mkdirSync("data/lieux/");
+  values(lieux).forEach((lieu) => {
+    fs.writeFileSync(
+      `data/lieux/${lieu.id}.json`,
+      JSON.stringify(lieu, null, 2)
+    );
+  });
 });
