@@ -168,9 +168,7 @@ importAllTables().then(async (dataset) => {
         cover_media:
           lieuAirtable["cover_media"] &&
           dataset.médias[lieuAirtable["cover_media"]],
-        type:
-          lieuAirtable["type de lieu"] &&
-          dataset.types_lieu[lieuAirtable["type de lieu"]],
+        type: lieuAirtable["type"] && dataset.types_lieu[lieuAirtable["type"]],
         distinctions:
           lieuAirtable.distinctions &&
           lieuAirtable.distinctions.map((d) => dataset.distinctions[d]),
