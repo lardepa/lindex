@@ -7,6 +7,8 @@ import { LatLngExpression } from "leaflet";
 // FYI: default leaflet icon can't be used without a workaround: https://github.com/PaulLeCam/react-leaflet/issues/453
 // anyway we use custom icons
 import { PurpleIcon } from "./marker-icon";
+import { Media } from "../media";
+import { Link } from "react-router-dom";
 // TODO: import three icons for the three type_lieu
 
 interface MapProps {
@@ -30,13 +32,10 @@ export const Map: React.FC<MapProps> = (props) => {
         .map((lieu) => (
           <Marker position={lieu.geolocalisation as LatLngExpression} icon={PurpleIcon}>
             <Popup className="lieu-popup">
-              {lieu.cover_media?.fichiers && lieu.cover_media?.fichiers.length > 0 && (
-                <img
-                  src={`${config.DATA_URL}/attachments/${lieu.cover_media?.fichiers[0].id}/large.jpeg`}
-                  alt={lieu.nom}
-                />
-              )}
-              <h4>{lieu.nom}</h4>
+              {lieu.cover_media && <Media media={lieu.cover_media} />}
+              <Link to={`/lieu/${lieu.id}`}>
+                <h4>{lieu.nom}</h4>
+              </Link>
               <div className="metadata">
                 <div>
                   <span className="field">
