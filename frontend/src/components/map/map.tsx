@@ -23,13 +23,38 @@ export const Map: React.FC<MapProps> = (props) => {
       <TileLayer
         attribution='<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>'
         //url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        url={`https://api.maptiler.com/maps/voyager/{z}/{x}/{y}.png?key=${config.MAP_KEY}`}
+        url={`https://api.maptiler.com/maps/pastel/{z}/{x}/{y}.png?key=${config.MAP_KEY}`}
       />
       {lieux
         .filter((lieu) => lieu.geolocalisation)
         .map((lieu) => (
           <Marker position={lieu.geolocalisation as LatLngExpression} icon={PurpleIcon}>
-            <Popup>{lieu.nom}</Popup>
+            <Popup className="lieu-popup">
+              {lieu.cover_media?.fichiers && lieu.cover_media?.fichiers.length > 0 && (
+                <img
+                  src={`${config.DATA_URL}/attachments/${lieu.cover_media?.fichiers[0].id}/large.jpeg`}
+                  alt={lieu.nom}
+                />
+              )}
+              <h4>{lieu.nom}</h4>
+              <div className="metadata">
+                <div>
+                  <span className="field">
+                    <span className="label">Maître d'œuvre</span>{" "}
+                    <span className="info">{lieu.maitre_oeuvre?.nom}</span>
+                  </span>
+                  <span className="field">
+                    <span className="label">Date</span> <span className="info">{lieu.date}</span>
+                  </span>
+                </div>
+                <div>
+                  {" "}
+                  <span className="field">
+                    <span className="label">Typologie</span> <span className="info">{lieu.type?.destination}</span>
+                  </span>
+                </div>
+              </div>
+            </Popup>
           </Marker>
         ))}
     </MapContainer>
