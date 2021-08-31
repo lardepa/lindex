@@ -2,6 +2,7 @@
   margin: 3rem 1rem;
   font-size: 1.5rem;
   font-weight: 600;
+  flex-shrink: 0;
 }
 
 .menu {
@@ -13,5 +14,6 @@
   }
   div:last-child {
     border-bottom: 1px solid black;
+    margin-bottom: 3rem;
   }
 }
