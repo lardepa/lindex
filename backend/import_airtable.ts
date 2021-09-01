@@ -3,7 +3,14 @@ import fs from "fs";
 import Airtable from "airtable";
 import { identity, keys, mapValues, pickBy, values } from "lodash";
 import https from "https";
-import { Dataset, LieuType, LieuAirTable, LieuRoot, MediaType } from "./types";
+import {
+  Dataset,
+  LieuType,
+  LieuAirTable,
+  MediaType,
+  ParcoursType,
+  ParcoursAirtable,
+} from "./types";
 
 // load .env variables into process.env
 require("dotenv").config();
@@ -190,5 +197,29 @@ importAllTables().then(async (dataset) => {
       `data/lieux/${lieu.id}.json`,
       JSON.stringify(lieu, null, 2)
     );
+  });
+  // hydrate parcours
+  const parcours: any = mapValues(
+    dataset.parcours,
+    (parcoursAirtable: ParcoursAirtable): ParcoursType => {
+      // replacing ids by foreign objects
+      const p: ParcoursType = {
+        ...parcoursAirtable,
+        lieux: parcoursAirtable["lieux"].map((l) => lieux[l]),
+        médias:
+          parcoursAirtable["médias"] &&
+          parcoursAirtable["médias"].map((m) => dataset.médias[m] as MediaType),
+        cover_media:
+          parcoursAirtable["cover_media"] &&
+          dataset.médias[parcoursAirtable["cover_media"]],
+      };
+      return p;
+    }
+  );
+  // write parcours
+  fs.writeFileSync(`data/parcours.json`, JSON.stringify(parcours, null, 2));
+  if (!fs.existsSync("data/parcours")) fs.mkdirSync("data/parcours/");
+  values(parcours).forEach((p) => {
+    fs.writeFileSync(`data/parcours/${p.id}.json`, JSON.stringify(p, null, 2));
   });
 });

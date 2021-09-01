@@ -5,7 +5,7 @@ import { useState } from "react";
 import { LieuType } from "../types";
 import config from "../config.json";
 import { Logo } from "../components/logo";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { Media } from "../components/media";
 
 export const LieuPage: React.FC<{}> = () => {
@@ -23,7 +23,14 @@ export const LieuPage: React.FC<{}> = () => {
       <div className="row full-height no-gutters">
         <div className="col-sm-6 col-xl-2 px-0 map-full-height overflow-scroll d-flex flex-column justify-content-end">
           <div className="d-flex flex-column" style={{ margin: "auto 0" }}>
-            context TODO
+            {lieu?.parcours && lieu?.parcours.length > 0 && (
+              <div>
+                <h3>Parcours associés</h3>
+                {lieu.parcours.map((p) => (
+                  <Link to={`/parcours/${p.id}`}>{p.nom}</Link>
+                ))}
+              </div>
+            )}
           </div>
         </div>
         <div className="col-sm-6 col-xl-4 px-0 map-full-height overflow-scroll d-flex flex-column justify-content-between">

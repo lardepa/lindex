@@ -1,5 +1,5 @@
 import React from "react";
-import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
+import { MapContainer, TileLayer, Marker, Popup, Polyline } from "react-leaflet";
 import config from "../../config.json";
 import { LieuType } from "../../types";
 import { LatLngExpression } from "leaflet";
@@ -15,10 +15,11 @@ import { max, min } from "lodash";
 interface MapProps {
   lieux: LieuType[];
   className?: string;
+  itinary?: boolean;
 }
 
 export const Map: React.FC<MapProps> = (props) => {
-  const { lieux, className } = props;
+  const { lieux, className, itinary } = props;
 
   // TODO: add a polygon option to trace "parcours"
 
@@ -81,6 +82,14 @@ export const Map: React.FC<MapProps> = (props) => {
             </Popup>
           </Marker>
         ))}
+      {itinary && (
+        <Polyline
+          pathOptions={{ color: "black" }}
+          positions={lieux
+            .filter((lieu) => lieu.geolocalisation)
+            .map((lieu) => lieu.geolocalisation as LatLngExpression)}
+        />
+      )}
     </MapContainer>
   );
 };

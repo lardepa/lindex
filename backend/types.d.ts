@@ -6,7 +6,7 @@ export interface Dataset {
   types_lieu?: { [key: string]: TypeLieu };
   sélections?: { [key: string]: Selection };
   distinctions?: { [key: string]: Distinction };
-  parcours?: { [key: string]: Parcours };
+  parcours?: { [key: string]: ParcoursType };
 }
 
 export interface Thumbnail {
@@ -61,7 +61,7 @@ export interface LieuType extends LieuRoot {
   distinctions?: Distinction[];
   // reverse keys
   sélections?: Selection[];
-  parcours?: Parcours[];
+  parcours?: ParcoursType[];
 }
 
 // airtable version only includes ids as string
@@ -113,14 +113,23 @@ export interface Selection {
   édito: string;
   lieux: LieuRoot[];
 }
-export interface Parcours {
+
+interface ParcoursRoot {
   id: string;
   nom: string;
   édito: string;
   status: Status;
-  lieux: LieuRoot[];
   date?: Date;
-  cover_media?: MediaType;
-  médias?: MediaType;
   expédition?: boolean;
+}
+export interface ParcoursAirtable extends ParcoursRoot {
+  lieux: string[];
+  cover_media?: string;
+  médias?: string[];
+}
+
+export interface ParcoursType extends ParcoursRoot {
+  lieux: LieuType[];
+  cover_media?: MediaType;
+  médias?: MediaType[];
 }
