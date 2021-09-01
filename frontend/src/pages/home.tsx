@@ -9,7 +9,7 @@ import { Map } from "../components/map/map";
 import { Logo } from "../components/logo";
 
 export const Home: React.FC<{}> = () => {
-  const [lieux, setLieux] = useState<LieuType[]>([]);
+  const [lieux, setLieux] = useState<LieuType[] | null>(null);
   useEffect(() => {
     get(`${config.DATA_URL}/data/lieux.json`, { responseType: "json" })
       .then((response) => setLieux(values(response.data)))
@@ -34,9 +34,8 @@ export const Home: React.FC<{}> = () => {
             </div>
           </div>
         </div>
-        <div className="col-sm-6 col-xl-8 px-0">
-          <Map lieux={lieux} className="map-full-height" />
-        </div>
+        <div className="col-sm-6 col-xl-8 px-0">{lieux && <Map lieux={lieux} className="map-full-height" />}</div>
+        {/* TODO:add a loader here */}
       </div>
     </div>
   );
