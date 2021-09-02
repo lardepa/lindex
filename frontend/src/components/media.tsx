@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { MediaType } from "../types";
-import config from "../config.json";
+import config from "../config";
 import Embed from "react-tiny-oembed";
 import { Document, Page, pdfjs } from "react-pdf/dist/esm/entry.webpack";
 // issue with webworker load through webpack see https://github.com/wojtekmaj/react-pdf/issues/291

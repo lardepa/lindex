@@ -1,16 +1,14 @@
 import React from "react";
-import { MapContainer, TileLayer, Marker, Popup, Polyline } from "react-leaflet";
-import config from "../../config.json";
+import { MapContainer, TileLayer, Popup, Polyline, CircleMarker } from "react-leaflet";
+import config from "../../config";
 import { LieuType } from "../../types";
 import { LatLngExpression } from "leaflet";
 
 // FYI: default leaflet icon can't be used without a workaround: https://github.com/PaulLeCam/react-leaflet/issues/453
 // anyway we use custom icons
-import { PurpleIcon } from "./marker-icon";
 import { Media } from "../media";
 import { Link } from "react-router-dom";
 import { max, min } from "lodash";
-// TODO: import three icons for the three type_lieu
 
 interface MapProps {
   lieux: LieuType[];
@@ -21,7 +19,7 @@ interface MapProps {
 export const Map: React.FC<MapProps> = (props) => {
   const { lieux, className, itinary } = props;
 
-  // TODO: add a polygon option to trace "parcours"
+  // TODO: Change marker pixels size according to zoom? https://jsfiddle.net/falkedesign/nobapxvd/
 
   // calculate bounds of lieux geo points
   const { lats, lngs } = lieux.reduce(
@@ -56,7 +54,12 @@ export const Map: React.FC<MapProps> = (props) => {
       {lieux
         .filter((lieu) => lieu.geolocalisation)
         .map((lieu) => (
-          <Marker key={lieu.id} position={lieu.geolocalisation as LatLngExpression} icon={PurpleIcon}>
+          <CircleMarker
+            key={lieu.id}
+            center={lieu.geolocalisation as LatLngExpression}
+            radius={8}
+            pathOptions={{ color: config.COLORS.DESTINATIONS[lieu.type.type_destination], fillOpacity: 1, weight: 0 }}
+          >
             <Popup className="lieu-popup">
               {lieu.cover_media && <Media media={lieu.cover_media} />}
               <Link to={`/lieu/${lieu.id}`}>
@@ -80,7 +83,7 @@ export const Map: React.FC<MapProps> = (props) => {
                 </div>
               </div>
             </Popup>
-          </Marker>
+          </CircleMarker>
         ))}
       {itinary && (
         <Polyline

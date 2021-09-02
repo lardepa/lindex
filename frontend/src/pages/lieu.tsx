@@ -3,7 +3,7 @@ import get from "axios";
 import { useEffect } from "react";
 import { useState } from "react";
 import { LieuType } from "../types";
-import config from "../config.json";
+import config from "../config";
 import { Logo } from "../components/logo";
 import { Link, useParams } from "react-router-dom";
 import { Media } from "../components/media";

@@ -92,9 +92,11 @@ export interface Professionnel {
   site_web: string;
 }
 
+export type DestinationType = "Logement" | "Équipement" | "Espace public";
+
 export interface TypeLieu {
   id: string;
-  type_destination: "Logement" | "Équipement" | "Espace public";
+  type_destination: DestinationType;
   destination: string;
 }
 export interface Distinction {
