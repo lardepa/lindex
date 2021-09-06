@@ -7,6 +7,7 @@ import config from "../config";
 import { values } from "lodash";
 import { Map } from "../components/map/map";
 import { Logo } from "../components/logo";
+import { Link } from "react-router-dom";
 
 export const Home: React.FC<{}> = () => {
   const [lieux, setLieux] = useState<LieuType[] | null>(null);
@@ -27,7 +28,9 @@ export const Home: React.FC<{}> = () => {
               zamijza miozaje mzoaij ezmaoijzmoijza emoiza jmzioj
             </div>
             <div className="menu">
-              <div>Explorer la carte</div>
+              <div>
+                <Link to="/explorer">Explorer la carte</Link>
+              </div>
               <div>Sélections des invités</div>
               <div>Parcours</div>
               <div>Random</div>

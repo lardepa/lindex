@@ -1,3 +1,4 @@
+import { ExplorePage } from "../pages/explore";
 import { Home } from "../pages/home";
 import { LieuPage } from "../pages/lieu";
 import { ParcoursPage } from "../pages/parcours";
@@ -27,6 +28,10 @@ export const routes: RouteDefinition[] = [
       {
         path: "/parcours/:id",
         component: ParcoursPage,
+      },
+      {
+        path: "/explorer/",
+        component: ExplorePage,
       },
     ],
   },

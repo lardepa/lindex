@@ -1,4 +1,4 @@
-import { DestinationType } from "./types";
+import { DestinationType, LieuType } from "./types";
 
 export interface ConfigType {
   DATA_URL: string;
@@ -12,4 +12,11 @@ export interface ConfigType {
       TILE_URL: string;
     };
   };
+}
+
+export interface FilterType {
+  key: string; // used in URL to store state
+  label: string; // used in UI for filter menu
+  getValueFromLieu: (lieu: LieuType) => string[]; // used to index filter values
+  prefixLabel?: string; //used to render the current filter state phrase
 }
