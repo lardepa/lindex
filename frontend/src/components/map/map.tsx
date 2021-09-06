@@ -1,14 +1,16 @@
 import React from "react";
-import { MapContainer, TileLayer, Popup, Polyline, CircleMarker } from "react-leaflet";
+import { MapContainer, TileLayer, Popup, Polyline, Marker } from "react-leaflet";
 import config from "../../config";
 import { LieuType } from "../../types";
 import { LatLngExpression } from "leaflet";
 
 // FYI: default leaflet icon can't be used without a workaround: https://github.com/PaulLeCam/react-leaflet/issues/453
 // anyway we use custom icons
+
 import { Media } from "../media";
 import { Link } from "react-router-dom";
 import { max, min } from "lodash";
+import { MarkerIcon } from "./marker-icon";
 
 interface MapProps {
   lieux: LieuType[];
@@ -47,18 +49,16 @@ export const Map: React.FC<MapProps> = (props) => {
   return (
     <MapContainer bounds={bounds} center={center} zoom={zoom} scrollWheelZoom={true} className={className}>
       <TileLayer
-        attribution='<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>'
-        //url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        url={`https://api.maptiler.com/maps/pastel/{z}/{x}/{y}.png?key=${config.MAP_KEY}`}
+        attribution={config.MAP_LAYERS[config.MAP_LAYER].TILE_CREDITS}
+        url={config.MAP_LAYERS[config.MAP_LAYER].TILE_URL}
       />
       {lieux
         .filter((lieu) => lieu.geolocalisation)
         .map((lieu) => (
-          <CircleMarker
+          <Marker
             key={lieu.id}
-            center={lieu.geolocalisation as LatLngExpression}
-            radius={8}
-            pathOptions={{ color: config.COLORS.DESTINATIONS[lieu.type.type_destination], fillOpacity: 1, weight: 0 }}
+            icon={MarkerIcon(lieu.type.type_destination)}
+            position={lieu.geolocalisation as LatLngExpression}
           >
             <Popup className="lieu-popup">
               {lieu.cover_media && <Media media={lieu.cover_media} />}
@@ -83,7 +83,7 @@ export const Map: React.FC<MapProps> = (props) => {
                 </div>
               </div>
             </Popup>
-          </CircleMarker>
+          </Marker>
         ))}
       {itinary && (
         <Polyline
