@@ -1,0 +1,50 @@
+{
+  "rec0D9TkCH83ItF6j": {
+    "id": "rec0D9TkCH83ItF6j",
+    "nom": "années 2010"
+  },
+  "rec49ra2Jb8NhV3cl": {
+    "id": "rec49ra2Jb8NhV3cl",
+    "nom": "années 90"
+  },
+  "recAnX6ahvGJYvz0M": {
+    "id": "recAnX6ahvGJYvz0M",
+    "lieux": [
+      "recLVrdGzklj7mmLE"
+    ],
+    "nom": "années 2000"
+  },
+  "recOTINF3xZD1l6uI": {
+    "id": "recOTINF3xZD1l6uI",
+    "nom": "années 70"
+  },
+  "recSztFxOKfg2lnEY": {
+    "id": "recSztFxOKfg2lnEY",
+    "début": "1945-01-01",
+    "fin": "1975-01-01",
+    "nom": "30 glorieuses"
+  },
+  "recWiHCG46dlpbgdo": {
+    "id": "recWiHCG46dlpbgdo",
+    "nom": "années 40"
+  },
+  "recoq00NAUf4eKDs0": {
+    "id": "recoq00NAUf4eKDs0",
+    "nom": "années 60"
+  },
+  "recrOfcUS3a0toY0i": {
+    "id": "recrOfcUS3a0toY0i",
+    "lieux": [
+      "recTr9BzAt1jG9yaJ"
+    ],
+    "nom": "années 2020"
+  },
+  "rectIY4LvjIh60mHP": {
+    "id": "rectIY4LvjIh60mHP",
+    "nom": "années 50"
+  },
+  "recvZzDZl9CjwwI2F": {
+    "id": "recvZzDZl9CjwwI2F",
+    "nom": "années 80"
+  }
+}
