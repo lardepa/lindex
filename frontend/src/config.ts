@@ -1,7 +1,9 @@
 import { ConfigType } from "./types.frontend";
+// load .env variables
+import env from "react-dotenv";
 
-export const config: ConfigType = {
-  DATA_URL: "http://localhost:8080",
+const config: ConfigType = {
+  DATA_URL: env.DATA_URL || ".",
   MAP_LAYERS: {
     positron: {
       TILE_CREDITS:
@@ -11,10 +13,10 @@ export const config: ConfigType = {
     "maptiler.pastel": {
       TILE_CREDITS:
         '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>',
-      TILE_URL: "https://api.maptiler.com/maps/pastel/{z}/{x}/{y}.png?key=INSERT_YOUR_KEY_HERE",
+      TILE_URL: `https://api.maptiler.com/maps/pastel/{z}/{x}/{y}.png?key=${env.MAPTILER_KEY}`,
     },
   },
-  MAP_LAYER: "positron",
+  MAP_LAYER: env.MAP_LAYER || "positron",
   COLORS: {
     DESTINATIONS: {
       Équipement: "#6F5FF9",
@@ -23,3 +25,4 @@ export const config: ConfigType = {
     },
   },
 };
+export default config;
