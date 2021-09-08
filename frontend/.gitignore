@@ -22,5 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-//env variable created by react-dotenv
+#env variable created by react-dotenv
 env.js
