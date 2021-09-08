@@ -3,7 +3,7 @@ import { ConfigType } from "./types.frontend";
 import env from "react-dotenv";
 
 const config: ConfigType = {
-  DATA_URL: env.DATA_URL || ".",
+  DATA_URL: env.DATA_URL || process.env.PUBLIC_URL || "",
   MAP_LAYERS: {
     positron: {
       TILE_CREDITS:
