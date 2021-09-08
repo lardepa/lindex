@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b57d83cb.chunk.css",
+    "main.js": "/static/js/main.2660739d.chunk.js",
+    "main.js.map": "/static/js/main.2660739d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.95cd7759.js",
+    "runtime-main.js.map": "/static/js/runtime-main.95cd7759.js.map",
+    "static/css/2.8af0f5d7.chunk.css": "/static/css/2.8af0f5d7.chunk.css",
+    "static/js/2.8edf8197.chunk.js": "/static/js/2.8edf8197.chunk.js",
+    "static/js/2.8edf8197.chunk.js.map": "/static/js/2.8edf8197.chunk.js.map",
+    "static/js/3.2fafbe22.chunk.js": "/static/js/3.2fafbe22.chunk.js",
+    "static/js/3.2fafbe22.chunk.js.map": "/static/js/3.2fafbe22.chunk.js.map",
+    "74da7f48cb0e3ced23b58a1ae5c60c40.js": "/74da7f48cb0e3ced23b58a1ae5c60c40.js",
+    "74da7f48cb0e3ced23b58a1ae5c60c40.js.LICENSE.txt": "/74da7f48cb0e3ced23b58a1ae5c60c40.js.LICENSE.txt",
+    "index.html": "/index.html",
+    "static/css/2.8af0f5d7.chunk.css.map": "/static/css/2.8af0f5d7.chunk.css.map",
+    "static/css/main.b57d83cb.chunk.css.map": "/static/css/main.b57d83cb.chunk.css.map",
+    "static/js/2.8edf8197.chunk.js.LICENSE.txt": "/static/js/2.8edf8197.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/NeuzeitGroExt-Bla.c34101f2.woff2",
+    "static/media/equipement.55026f35.svg": "/static/media/equipement.55026f35.svg",
+    "static/media/espace_public.c8fecb97.svg": "/static/media/espace_public.c8fecb97.svg",
+    "static/media/logement.6c411c45.svg": "/static/media/logement.6c411c45.svg",
+    "static/media/logo.67760755.svg": "/static/media/logo.67760755.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95cd7759.js",
+    "static/css/2.8af0f5d7.chunk.css",
+    "static/js/2.8edf8197.chunk.js",
+    "static/css/main.b57d83cb.chunk.css",
+    "static/js/main.2660739d.chunk.js"
+  ]
+}
