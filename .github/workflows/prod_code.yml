@@ -6,9 +6,9 @@ name: Prod Code
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ prod ]
+    branches: [prod]
   pull_request:
-    branches: [ prod ]
+    branches: [prod]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -25,26 +25,26 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         with:
-            fetch-depth: 0
-      
+          fetch-depth: 0
+
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.4.0
         with:
           # Version Spec of the version to use.  Examples: 12.x, 10.15.1, >=10.15.0
           node-version: 14.15
 
-        
       # Runs a single command using the runners shell
       - name: Build Frontend code
+        env:
+          PUBLIC_URL: https://lardepa.github.io/lindex/
         run: |
           cd frontend
           npm i
           npm run build
-          
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: frontend/build # The folder the action should deploy.
-          
+
