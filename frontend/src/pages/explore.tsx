@@ -4,10 +4,10 @@ import { useEffect } from "react";
 import { useState } from "react";
 import { LieuType } from "../types";
 import config from "../config";
-import { every, filter, flatten, some, sortedUniq, toPairs, uniq, values } from "lodash";
+import { every, flatten, some, sortedUniq, uniq, values } from "lodash";
 import { Map } from "../components/map/map";
 import { Logo } from "../components/logo";
-import { Link, useHistory, useLocation } from "react-router-dom";
+import { useHistory, useLocation } from "react-router-dom";
 import filtersConfig from "../filters-config";
 import { FilterType } from "../types.frontend";
 
