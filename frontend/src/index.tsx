@@ -3,16 +3,16 @@ import ReactDOM from "react-dom";
 import "./scss/index.scss";
 import reportWebVitals from "./reportWebVitals";
 // Routing system
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import { Layout } from "./components/layout";
 import { RouterWrapper } from "./router/router";
 import { routes } from "./router/routes";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
+    <HashRouter>
       <RouterWrapper routes={routes} wrapper={Layout} />
-    </Router>
+    </HashRouter>
   </React.StrictMode>,
   document.getElementById("root"),
 );
