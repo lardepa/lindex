@@ -13,7 +13,7 @@ export const Home: React.FC<{}> = () => {
   const [lieux, setLieux] = useState<LieuType[] | null>(null);
   useEffect(() => {
     get(`${config.DATA_URL}/lieux.json`, { responseType: "json" })
-      .then((response) => setLieux(values(response.data)))
+      .then((response) => setLieux(response.data))
       .catch((error) => console.error(error));
   }, []);
 

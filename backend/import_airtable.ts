@@ -204,11 +204,22 @@ importAllTables().then(async (dataset) => {
       return lieu;
     }
   );
-  // write lieu
+  // write lieux.json
   fs.writeFileSync(
     `${process.env.DATA_PATH}/data/lieux.json`,
-    JSON.stringify(lieux, null, 2)
+    JSON.stringify(
+      values(lieux).filter((l) => l.status === "Publié"),
+      null,
+      2
+    )
   );
+  // write lieux_preview.json
+  fs.writeFileSync(
+    `${process.env.DATA_PATH}/data/lieux_preview.json`,
+    JSON.stringify(values(lieux), null, 2)
+  );
+
+  // write lieu/id.json
   if (!fs.existsSync(`${process.env.DATA_PATH}/data/lieux`))
     fs.mkdirSync(`${process.env.DATA_PATH}/data/lieux/`);
   values(lieux).forEach((lieu) => {

@@ -9,27 +9,8 @@ import { Map } from "../components/map/map";
 import { Logo } from "../components/logo";
 import { useHistory, useLocation } from "react-router-dom";
 import filtersConfig from "../filters-config";
-import { FilterType } from "../types.frontend";
-
-// FILTER DATA MANAGEMENT
-interface FiltersParamType {
-  filter: FilterType;
-  values: string[];
-}
-
-const filtersToQueryString = (filtersParams: FiltersParamType[]): string => {
-  return filtersParams
-    .map(({ filter, values }) => `${encodeURIComponent(filter.key)}=${encodeURIComponent(values.join(","))}`)
-    .join("&");
-};
-const queryToFilters = (query: URLSearchParams): FiltersParamType[] => {
-  const filtersParams: FiltersParamType[] = [];
-  filtersConfig.forEach((f) => {
-    const param = query.get(f.key);
-    if (param) filtersParams.push({ filter: f, values: param.split(",") });
-  });
-  return filtersParams;
-};
+import { FiltersParamType, FilterType } from "../types.frontend";
+import { useQueryParamsState } from "../hooks/queryParams";
 
 const SelectedFilterValues: React.FC<{ filtersParam: FiltersParamType; deSelect: (value: string) => void }> = ({
   filtersParam,
@@ -53,29 +34,34 @@ const SelectedFilterValues: React.FC<{ filtersParam: FiltersParamType; deSelect:
 export const ExplorePage: React.FC<{}> = () => {
   // main data
   const [lieux, setLieux] = useState<LieuType[] | null>(null);
+  const [filteredLieux, setFilteredLieux] = useState<LieuType[] | null>(null);
+  // filters params
+  const [queryParamsState, setQueryParamsState] = useQueryParamsState();
+  const { filtersParams, isPreview } = queryParamsState;
+
   useEffect(() => {
-    get(`${config.DATA_URL}/lieux.json`, { responseType: "json" })
-      .then((response) => setLieux(values(response.data)))
+    get(`${config.DATA_URL}/lieux${isPreview ? "_preview" : ""}.json`, { responseType: "json" })
+      .then((response) => {
+        setLieux(response.data);
+      })
       //TODO: build filters values index here
       .catch((error) => console.error(error));
-  }, []);
-  // filters params
-  const location = useLocation();
-  const history = useHistory();
-  const query = new URLSearchParams(location.search);
-  const filtersParams = queryToFilters(query);
+  }, [isPreview]);
 
   const [filterForPicker, showFilterPicker] = useState<FiltersParamType | null>(null);
 
   // filter lieux
-  const filteredLieux: LieuType[] | null =
-    lieux && filtersParams
-      ? lieux.filter((l) =>
+  useEffect(() => {
+    if (lieux && filtersParams.length > 0)
+      setFilteredLieux(
+        lieux.filter((l) =>
           every(filtersParams, ({ filter, values }) =>
             some(filter.getValueFromLieu(l), (v: string) => values.includes(v)),
           ),
-        )
-      : lieux;
+        ),
+      );
+    if (lieux && filtersParams.length === 0) setFilteredLieux(lieux);
+  }, [lieux, filtersParams]);
 
   return (
     <>
@@ -98,9 +84,7 @@ export const ExplorePage: React.FC<{}> = () => {
                         // add one value to the picker filter
                         { ...filterForPicker, values: uniq([...filterForPicker.values, v]) },
                       ];
-                      history.push({
-                        search: filtersToQueryString(newFilters),
-                      });
+                      setQueryParamsState({ ...queryParamsState, filtersParams: newFilters });
                     }}
                   >
                     {v}
@@ -144,9 +128,7 @@ export const ExplorePage: React.FC<{}> = () => {
                           // add one value to the picker filter
                           { ...f, values: f.values.filter((v) => v !== value) },
                         ];
-                        history.push({
-                          search: filtersToQueryString(newFilters),
-                        });
+                        setQueryParamsState({ ...queryParamsState, filtersParams: newFilters });
                       }}
                     />
                   ))}

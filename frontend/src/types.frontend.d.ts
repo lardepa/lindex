@@ -20,3 +20,13 @@ export interface FilterType {
   getValueFromLieu: (lieu: LieuType) => string[]; // used to index filter values
   prefixLabel?: string; //used to render the current filter state phrase
 }
+
+export interface FiltersParamType {
+  filter: FilterType;
+  values: string[];
+}
+
+export interface QueryParamsState {
+  filtersParams: FiltersParamType[];
+  isPreview: boolean;
+}
