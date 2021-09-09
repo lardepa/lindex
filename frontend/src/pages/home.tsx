@@ -4,7 +4,6 @@ import { useEffect } from "react";
 import { useState } from "react";
 import { LieuType } from "../types";
 import config from "../config";
-import { values } from "lodash";
 import { Map } from "../components/map/map";
 import { Logo } from "../components/logo";
 import { Link } from "react-router-dom";
