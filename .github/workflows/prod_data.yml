@@ -35,7 +35,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Build data from airtable
         env:
-          DATA_PATH: ${{env.GITHUB_WORKSPACE}}/gh-pages
+          DATA_PATH: ${{github.workspace}}/gh-pages
           AIRTABLE_API_KEY: ${{secrets.AIRTABLE_API_KEY}}
           AIRTABLE_BASE: ${{secrets.AIRTABLE_BASE}}
         run: |
