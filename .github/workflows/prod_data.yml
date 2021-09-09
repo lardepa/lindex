@@ -28,8 +28,6 @@ jobs:
 
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.4.0
-        env:
-          DATA_PATH: gh-pages/data
         with:
           # Version Spec of the version to use.  Examples: 12.x, 10.15.1, >=10.15.0
           node-version: 14.15
@@ -37,6 +35,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Build data from airtable
         env:
+          DATA_PATH: gh-pages/data
           AIRTABLE_API_KEY: ${{secrets.AIRTABLE_API_KEY}}
           AIRTABLE_BASE: ${{secrets.AIRTABLE_BASE}}
         run: |
