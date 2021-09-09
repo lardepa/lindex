@@ -89,38 +89,6 @@
     "crédits": "L'ARDEPA",
     "type": "photo"
   },
-  "recPo7BLNY6Hn0PER": {
-    "id": "recPo7BLNY6Hn0PER",
-    "fichiers": [
-      {
-        "id": "attzwwJ1e0VApd4Rf",
-        "width": 640,
-        "height": 480,
-        "url": "https://dl.airtable.com/.attachments/db2843d7c2f0fd9b46b3d990aabb3bf4/0492ecdc/webcam-99202121829PM.png",
-        "filename": "webcam-9/9/2021, 2:18:29 PM.png",
-        "size": 392439,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7fce6a20b1d31fb22f8ec1f22a1e9dd2/2dca22b8",
-            "width": 48,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/deb462032536ace49a1d7dd83dd316ed/e6759085",
-            "width": 640,
-            "height": 480
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/855943b388f3169956d39d8ccfff0d1c/99eec2eb",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "titre": "test"
-  },
   "recTm9l1b9USK625B": {
     "id": "recTm9l1b9USK625B",
     "fichiers": [
