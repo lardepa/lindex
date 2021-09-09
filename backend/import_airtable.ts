@@ -133,11 +133,15 @@ const downloadFile = (url: string, filenameWithoutExtension: string) => {
 importAllTables().then(async (dataset) => {
   // download media
   const fichierIds = new Set<string>();
+  const attachmentDir = `${process.env.DATA_PATH}/attachments`;
+  if (!fs.existsSync(attachmentDir)) {
+    fs.mkdirSync(attachmentDir);
+  }
   values(dataset.médias).forEach((media: MediaType) => {
     if (media.fichiers && media.fichiers.length > 0) {
       media.fichiers.forEach((fichier) => {
         fichierIds.add(fichier.id);
-        const dirname = `${process.env.DATA_PATH}/attachments/${fichier.id}/`;
+        const dirname = `${attachmentDir}/${fichier.id}/`;
         if (!fs.existsSync(dirname)) {
           fs.mkdirSync(dirname);
           downloadFile(fichier.url, `${dirname}/full`);
