@@ -12,7 +12,7 @@ export const LieuPage: React.FC<{}> = () => {
   const { id } = useParams<{ id: string }>();
   const [lieu, setLieu] = useState<LieuType | null>(null);
   useEffect(() => {
-    get(`${config.DATA_URL}/data/lieux/${id}.json`, { responseType: "json" })
+    get(`${config.DATA_URL}/lieux/${id}.json`, { responseType: "json" })
       .then((response) => setLieu(response.data))
       .catch((error) => console.error(error));
   }, [id]);

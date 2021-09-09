@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import { MediaType } from "../types";
 import Embed from "react-tiny-oembed";
 import { Document, Page, pdfjs } from "react-pdf/dist/esm/entry.webpack";
+import config from "../config";
+
 // issue with webworker load through webpack see https://github.com/wojtekmaj/react-pdf/issues/291
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
@@ -38,12 +40,12 @@ export const Media: React.FC<{ media: MediaType }> = ({ media }) => {
           switch (ext) {
             case "pdf":
               // PDF file is stored under full quality (other are thumbnail of first page)
-              return <PDF key={f.id} file={f.url} />; // {`${config.DATA_URL}/attachments/${f.id}/full.${ext}`} />;
+              return <PDF key={f.id} file={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`} />;
             default:
               return (
                 <img
                   key={f.id}
-                  src={f.thumbnails?.large.url} //{`${config.DATA_URL}/attachments/${f.id}/large.${ext}`}
+                  src={`${config.DATA_URL}/attachments/${f.id}/large.${ext}`}
                   alt={media.nom}
                   title={media.credits}
                 />

@@ -12,7 +12,7 @@ import { Link } from "react-router-dom";
 export const Home: React.FC<{}> = () => {
   const [lieux, setLieux] = useState<LieuType[] | null>(null);
   useEffect(() => {
-    get(`${config.DATA_URL}/data/lieux.json`, { responseType: "json" })
+    get(`${config.DATA_URL}/lieux.json`, { responseType: "json" })
       .then((response) => setLieux(values(response.data)))
       .catch((error) => console.error(error));
   }, []);

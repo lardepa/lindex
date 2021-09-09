@@ -36,7 +36,9 @@ jobs:
       # Runs a single command using the runners shell
       - name: Build Frontend code
         env:
+          # since we switched to hash router PUBLIC_URL might be deprecated
           PUBLIC_URL: https://lardepa.github.io/lindex/
+          DATA_URL: ./data
         run: |
           cd frontend
           npm i
@@ -48,4 +50,3 @@ jobs:
           branch: gh-pages # The branch the action should deploy to.
           folder: frontend/build # The folder the action should deploy.
           clean-exclude: data
-

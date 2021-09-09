@@ -13,7 +13,7 @@ export const ParcoursPage: React.FC<{}> = () => {
   const { id } = useParams<{ id: string }>();
   const [parcours, setParcours] = useState<ParcoursType | null>(null);
   useEffect(() => {
-    get(`${config.DATA_URL}/data/parcours/${id}.json`, { responseType: "json" })
+    get(`${config.DATA_URL}/parcours/${id}.json`, { responseType: "json" })
       .then((response) => setParcours(response.data))
       .catch((error) => console.error(error));
   }, [id]);

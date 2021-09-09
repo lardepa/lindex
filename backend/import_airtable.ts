@@ -133,7 +133,7 @@ const downloadFile = (url: string, filenameWithoutExtension: string) => {
 importAllTables().then(async (dataset) => {
   // download media
   const fichierIds = new Set<string>();
-  const attachmentDir = `${process.env.DATA_PATH}/attachments`;
+  const attachmentDir = `${process.env.DATA_PATH}/data/attachments`;
   if (!fs.existsSync(attachmentDir)) {
     fs.mkdirSync(attachmentDir);
   }
@@ -154,13 +154,13 @@ importAllTables().then(async (dataset) => {
     }
   });
   // remove deprecated attachments
-  fs.readdirSync(`${process.env.DATA_PATH}/attachments`, {
+  fs.readdirSync(`${process.env.DATA_PATH}/data/attachments`, {
     withFileTypes: true,
   })
     .filter((dirent) => dirent.isDirectory() && !fichierIds.has(dirent.name))
     .forEach((dirent) => {
       console.log(`removing attachment ${dirent.name}`);
-      fs.rmSync(`${process.env.DATA_PATH}/attachments/${dirent.name}`, {
+      fs.rmSync(`${process.env.DATA_PATH}/data/attachments/${dirent.name}`, {
         recursive: true,
         force: true,
       });

@@ -54,7 +54,7 @@ export const ExplorePage: React.FC<{}> = () => {
   // main data
   const [lieux, setLieux] = useState<LieuType[] | null>(null);
   useEffect(() => {
-    get(`${config.DATA_URL}/data/lieux.json`, { responseType: "json" })
+    get(`${config.DATA_URL}/lieux.json`, { responseType: "json" })
       .then((response) => setLieux(values(response.data)))
       //TODO: build filters values index here
       .catch((error) => console.error(error));
