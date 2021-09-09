@@ -81,9 +81,15 @@ const importAllTables = async (incremental?: boolean) => {
         let newData = incomingData;
         if (incremental) {
           // update existingData
-          const existingData = fs.existsSync(`data/${table}_airtable.json`)
+          const existingData = fs.existsSync(
+            `${process.env.DATA_PATH}/data/${table}_airtable.json`
+          )
             ? JSON.parse(
-                fs.readFileSync(`data/${table}_airtable.json`).toString()
+                fs
+                  .readFileSync(
+                    `${process.env.DATA_PATH}/data/${table}_airtable.json`
+                  )
+                  .toString()
               )
             : {};
           // TODO: find a way to get deleted items
@@ -92,14 +98,17 @@ const importAllTables = async (incremental?: boolean) => {
         dataset[table] = newData;
         // storing on disk
         fs.writeFileSync(
-          `data/${table}_airtable.json`,
+          `${process.env.DATA_PATH}/data/${table}_airtable.json`,
           JSON.stringify(newData, null, 2)
         );
         console.log(`data/${table}.json updated`);
       }
     }
     // write import date into disk
-    fs.writeFileSync(`.last_import_date`, new Date().toISOString());
+    fs.writeFileSync(
+      `${process.env.DATA_PATH}/.last_import_date`,
+      new Date().toISOString()
+    );
     return dataset;
   } catch (error) {
     console.error(error);
@@ -128,7 +137,7 @@ importAllTables().then(async (dataset) => {
     if (media.fichiers && media.fichiers.length > 0) {
       media.fichiers.forEach((fichier) => {
         fichierIds.add(fichier.id);
-        const dirname = `attachments/${fichier.id}/`;
+        const dirname = `${process.env.DATA_PATH}/attachments/${fichier.id}/`;
         if (!fs.existsSync(dirname)) {
           fs.mkdirSync(dirname);
           downloadFile(fichier.url, `${dirname}/full`);
@@ -141,11 +150,13 @@ importAllTables().then(async (dataset) => {
     }
   });
   // remove deprecated attachments
-  fs.readdirSync("attachments", { withFileTypes: true })
+  fs.readdirSync(`${process.env.DATA_PATH}/attachments`, {
+    withFileTypes: true,
+  })
     .filter((dirent) => dirent.isDirectory() && !fichierIds.has(dirent.name))
     .forEach((dirent) => {
       console.log(`removing attachment ${dirent.name}`);
-      fs.rmSync(`attachments/${dirent.name}`, {
+      fs.rmSync(`${process.env.DATA_PATH}/attachments/${dirent.name}`, {
         recursive: true,
         force: true,
       });
@@ -190,11 +201,15 @@ importAllTables().then(async (dataset) => {
     }
   );
   // write lieu
-  fs.writeFileSync(`data/lieux.json`, JSON.stringify(lieux, null, 2));
-  if (!fs.existsSync("data/lieux")) fs.mkdirSync("data/lieux/");
+  fs.writeFileSync(
+    `${process.env.DATA_PATH}/data/lieux.json`,
+    JSON.stringify(lieux, null, 2)
+  );
+  if (!fs.existsSync(`${process.env.DATA_PATH}/data/lieux`))
+    fs.mkdirSync(`${process.env.DATA_PATH}/data/lieux/`);
   values(lieux).forEach((lieu) => {
     fs.writeFileSync(
-      `data/lieux/${lieu.id}.json`,
+      `${process.env.DATA_PATH}/data/lieux/${lieu.id}.json`,
       JSON.stringify(lieu, null, 2)
     );
   });
@@ -217,9 +232,16 @@ importAllTables().then(async (dataset) => {
     }
   );
   // write parcours
-  fs.writeFileSync(`data/parcours.json`, JSON.stringify(parcours, null, 2));
-  if (!fs.existsSync("data/parcours")) fs.mkdirSync("data/parcours/");
+  fs.writeFileSync(
+    `${process.env.DATA_PATH}/data/parcours.json`,
+    JSON.stringify(parcours, null, 2)
+  );
+  if (!fs.existsSync(`${process.env.DATA_PATH}/data/parcours`))
+    fs.mkdirSync(`${process.env.DATA_PATH}/data/parcours/`);
   values(parcours).forEach((p) => {
-    fs.writeFileSync(`data/parcours/${p.id}.json`, JSON.stringify(p, null, 2));
+    fs.writeFileSync(
+      `${process.env.DATA_PATH}/data/parcours/${p.id}.json`,
+      JSON.stringify(p, null, 2)
+    );
   });
 });
