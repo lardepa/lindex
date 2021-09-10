@@ -10,6 +10,7 @@ import { Logo } from "../components/logo";
 import filtersConfig from "../filters-config";
 import { FiltersParamType } from "../types.frontend";
 import { useQueryParamsState } from "../hooks/queryParams";
+import { HorizontalMenu } from "../components/layout/horizontal-menu";
 
 const SelectedFilterValues: React.FC<{ filtersParam: FiltersParamType; deSelect: (value: string) => void }> = ({
   filtersParam,
@@ -114,6 +115,7 @@ export const ExplorePage: React.FC<{}> = () => {
           <div className="col-sm-6 col-xl-9 px-0">
             {filteredLieux && (
               <div className="d-flex flex-column map-full-height">
+                <HorizontalMenu selected="explorer" />
                 <div className="filters-status-bar">
                   {filteredLieux.length} {!filtersParams.find(({ filter }) => filter.key === "use") && "lieux"}
                   {filtersParams.map((f) => (

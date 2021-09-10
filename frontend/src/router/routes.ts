@@ -1,7 +1,10 @@
+import { APropos } from "../pages/a-propos";
 import { ExplorePage } from "../pages/explore";
 import { Home } from "../pages/home";
 import { LieuPage } from "../pages/lieu";
+import { MentionsLegales } from "../pages/mentions-legales";
 import { ParcoursPage } from "../pages/parcours";
+import { SelectionsPage } from "../pages/selections";
 
 // Definition of a route
 export interface RouteDefinition {
@@ -26,12 +29,26 @@ export const routes: RouteDefinition[] = [
         component: Home,
       },
       {
-        path: "/parcours/:id",
+        path: "/parcours/",
         component: ParcoursPage,
+        routes: [{ path: "/:id", component: ParcoursPage }],
       },
       {
         path: "/explorer/",
         component: ExplorePage,
+      },
+      {
+        path: "/selections/",
+        component: SelectionsPage,
+        routes: [{ path: "/:id", component: SelectionsPage }],
+      },
+      {
+        path: "/a-propos",
+        component: APropos,
+      },
+      {
+        path: "/mentions-legales",
+        component: MentionsLegales,
       },
     ],
   },

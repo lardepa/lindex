@@ -13,3 +13,46 @@ body {
   top: 10px;
   left: 10px;
 }
+
+.parcours {
+  background-color: $color_parcours;
+}
+.explorer {
+  background-color: $color_explorer;
+}
+.selections {
+  background-color: $color_selections;
+}
+.vertical-menu {
+  font-size: 1.5rem;
+  font-weight: 600;
+  div {
+    border-top: 1px solid black;
+    padding-left: 1rem;
+  }
+  div:last-child {
+    border-bottom: 1px solid black;
+    margin-bottom: 3rem;
+  }
+  .about-item {
+    font-size: 1rem;
+  }
+}
+
+.horizontal-menu {
+  font-size: 1.3rem;
+  font-weight: 600;
+  display: flex;
+
+  div {
+    cursor: pointer;
+    border-left: 1px solid black;
+    padding-left: 1rem;
+    text-align: left;
+    flex-grow: 1;
+    a {
+      width: 100%;
+      text-decoration: none;
+    }
+  }
+}

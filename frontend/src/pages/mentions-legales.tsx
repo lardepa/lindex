@@ -1,21 +1,8 @@
 import React from "react";
-import get from "axios";
-import { useEffect } from "react";
-import { useState } from "react";
-import { LieuType } from "../types";
-import config from "../config";
-import { Map } from "../components/map/map";
 import { Logo } from "../components/logo";
 import { VerticalMenu } from "../components/layout/vertical-menu";
 
-export const Home: React.FC<{}> = () => {
-  const [lieux, setLieux] = useState<LieuType[] | null>(null);
-  useEffect(() => {
-    get(`${config.DATA_URL}/lieux.json`, { responseType: "json" })
-      .then((response) => setLieux(response.data))
-      .catch((error) => console.error(error));
-  }, []);
-
+export const MentionsLegales: React.FC<{}> = () => {
   return (
     <div className="container-fluid" style={{ position: "relative" }}>
       <Logo />
@@ -29,7 +16,10 @@ export const Home: React.FC<{}> = () => {
             <VerticalMenu />
           </div>
         </div>
-        <div className="col-sm-6 col-xl-8 px-0">{lieux && <Map lieux={lieux} className="map-full-height" />}</div>
+        <div className="col-sm-6 col-xl-8 px-0">
+          {" "}
+          <h1>MENTIONS LEGALES</h1>
+        </div>
         {/* TODO:add a loader here */}
       </div>
     </div>

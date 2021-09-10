@@ -30,7 +30,9 @@
 }
 
 .filters-status-bar {
-  background-color: #87affe;
+  background-color: $color_explorer_full;
+  font-size: 1.5rem;
+  padding: 16px;
 }
 .filter-value {
   border-radius: 3rem;
