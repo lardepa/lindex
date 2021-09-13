@@ -4,20 +4,3 @@
   font-weight: 600;
   flex-shrink: 0;
 }
-
-// TODO: style use in explorer to refacto
-.menu {
-  font-size: 1.5rem;
-  font-weight: 600;
-  div {
-    border-top: 1px solid black;
-    padding-left: 1rem;
-  }
-  div:last-child {
-    border-bottom: 1px solid black;
-    margin-bottom: 3rem;
-  }
-  .about-item {
-    font-size: 1rem;
-  }
-}
