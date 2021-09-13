@@ -18,7 +18,24 @@
       padding: 1em;
     }
   }
-  .parcours-card:last-child {
+  a:last-child > .parcours-list {
     border-bottom: 2px black solid;
   }
+}
+
+.steps {
+  display: flex;
+  flex-direction: column;
+  .step {
+    padding: 1em;
+    border-top: 2px black solid;
+  }
+  .step:last-child {
+    border-bottom: 2px black solid;
+  }
+}
+
+.edito {
+  font-size: 1em;
+  padding: 1em;
 }

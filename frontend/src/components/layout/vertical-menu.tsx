@@ -1,22 +1,22 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { LinkPreview } from "../link-preview";
 
 export const VerticalMenu: React.FC<{}> = () => (
   <div className="vertical-menu">
     <div className="selections">
-      <Link to="/selections">Les sélections de nos invités</Link>
+      <LinkPreview to="/selections">Les sélections de nos invités</LinkPreview>
     </div>
     <div className="explorer">
-      <Link to="/explorer">Explorer la carte</Link>
+      <LinkPreview to="/explorer">Explorer la carte</LinkPreview>
     </div>
     <div className="parcours">
-      <Link to="/parcours">Les parcours de l'Ardepa</Link>
+      <LinkPreview to="/parcours">Les parcours de l'Ardepa</LinkPreview>
     </div>
     <div className="about-item">
-      <Link to="/a-propos">Qui sommes nous ?</Link>
+      <LinkPreview to="/a-propos">Qui sommes nous ?</LinkPreview>
     </div>
     <div className="about-item">
-      <Link to="/mentions-legales">Mentions légales</Link>
+      <LinkPreview to="/mentions-legales">Mentions légales</LinkPreview>
     </div>
   </div>
 );

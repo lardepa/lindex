@@ -1,54 +1,67 @@
 import React from "react";
-import get from "axios";
-import { useEffect } from "react";
-import { useState } from "react";
 import { ParcoursType } from "../types";
-import config from "../config";
-import { Logo } from "../components/logo";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { Media } from "../components/media";
 import { Map } from "../components/map/map";
+import { PageLayout } from "../components/layout/page-layout";
+import ReactMarkdown from "react-markdown";
+import { LinkPreview } from "../components/link-preview";
+import { useGetOne } from "../hooks/useAPI";
 
 export const ParcoursPage: React.FC<{}> = () => {
   const { id } = useParams<{ id: string }>();
-  const [parcours, setParcours] = useState<ParcoursType | null>(null);
-  useEffect(() => {
-    get(`${config.DATA_URL}/parcours/${id}.json`, { responseType: "json" })
-      .then((response) => setParcours(response.data))
-      .catch((error) => console.error(error));
-  }, [id]);
+  const parcours = useGetOne<ParcoursType | null>("parcours", id);
+
   return (
-    <div className="container-fluid" style={{ position: "relative" }}>
-      <Logo />
-      <div className="row full-height no-gutters">
-        <div className="col-sm-3 col-xl-2 px-0 map-full-height overflow-scroll d-flex flex-column justify-content-end">
-          <div className="d-flex flex-column" style={{ margin: "auto 0" }}></div>
-        </div>
-        <div className="col-sm-3 col-xl-4 px-0 map-full-height overflow-scroll d-flex flex-column justify-content-between">
+    <PageLayout
+      menuSelectedItem="parcours"
+      leftContent={
+        <>
           {parcours && (
-            <>
-              <div>
-                <h1>{parcours.nom}</h1>
-                {parcours.date && <h3>{Intl.DateTimeFormat("FR-fr").format(new Date(parcours.date))}</h3>}
-                {/*  */}
-                <div className="presentation">{parcours.édito}</div>
+            <div className="d-flex flex-column flex-grow-1">
+              <div className="rightHeader">{parcours["sous-titre"]}</div>
+              {parcours.lieux && <Map lieux={parcours.lieux} className="half-height" itinary={true} />}
+              <div className="steps flex-grow-1 parcours">
+                {parcours.lieux.map((l, stepIndex) => (
+                  // todo: change link to state in params
+                  <Link to={`/lieux/${l.id}`} className="step" key={l.id}>
+                    Étape {stepIndex}
+                    <br />
+                    <b>{l.nom}</b>
+                  </Link>
+                ))}
               </div>
-              <div>
-                <div> metadata</div>
-              </div>
-            </>
+              <LinkPreview className="menu-item" to="/parcours">
+                Voir les autres parcours
+              </LinkPreview>
+            </div>
           )}
-        </div>
-        <div className="col-sm-6 col-xl-6 px-0 overflow-scroll full-height d-flex flex-column">
-          <div className="d-flex flex-row overflow-scroll">
-            {parcours?.cover_media && <Media media={parcours?.cover_media} />}
-            {parcours?.médias?.map((m) => (
-              <Media key={m.id} media={m} />
-            ))}
-          </div>
-          <div>{parcours?.lieux && <Map lieux={parcours.lieux} className="half-height" itinary={true} />}</div>
-        </div>
-      </div>
-    </div>
+        </>
+      }
+      rightContent={
+        <>
+          {parcours && (
+            <div className="d-flex flex-column">
+              <div className="d-flex">
+                <div className="flex-grow-1 metadata">
+                  {parcours.cover_media && <Media media={parcours.cover_media} />}
+                  <h1>{parcours.nom}</h1>
+                  <h4>{parcours["sous-titre"]}</h4>
+                  {parcours.date && <h3>{Intl.DateTimeFormat("FR-fr").format(new Date(parcours.date))}</h3>}
+                </div>
+                <div className="flex-grow-2 edito">
+                  <ReactMarkdown>{parcours.édito}</ReactMarkdown>
+                </div>
+              </div>
+              <div className="d-flex flex-row overflow-scroll">
+                {parcours?.médias?.map((m) => (
+                  <Media key={m.id} media={m} />
+                ))}
+              </div>
+            </div>
+          )}
+        </>
+      }
+    />
   );
 };
