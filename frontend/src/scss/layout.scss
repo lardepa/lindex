@@ -44,6 +44,7 @@ body {
   font-weight: 600;
   display: flex;
 
+  border-bottom: 1px solid black;
   div {
     cursor: pointer;
     border-left: 1px solid black;
@@ -55,4 +56,8 @@ body {
       text-decoration: none;
     }
   }
+}
+
+.explore-map {
+  height: 100%;
 }

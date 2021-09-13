@@ -10,6 +10,8 @@ import {
   MediaType,
   ParcoursType,
   ParcoursAirtable,
+  SelectionAirtable,
+  SelectionType,
 } from "./types";
 
 // load .env variables into process.env
@@ -48,6 +50,35 @@ const dumpObjects = (
           resolve(data);
         }
       );
+  });
+};
+const saveModelOnDisk = (
+  modelName: string,
+  data: { [key: string]: LieuType | ParcoursType | SelectionType }
+): void => {
+  // write public objects
+  fs.writeFileSync(
+    `${process.env.DATA_PATH}/data/${modelName}.json`,
+    JSON.stringify(
+      values(data).filter((o) => o.status === "Publié"),
+      null,
+      2
+    )
+  );
+  // write all including preview objects
+  fs.writeFileSync(
+    `${process.env.DATA_PATH}/data/${modelName}_preview.json`,
+    JSON.stringify(values(data), null, 2)
+  );
+
+  // write individual object json
+  if (!fs.existsSync(`${process.env.DATA_PATH}/data/${modelName}`))
+    fs.mkdirSync(`${process.env.DATA_PATH}/data/${modelName}/`);
+  values(data).forEach((o) => {
+    fs.writeFileSync(
+      `${process.env.DATA_PATH}/data/${modelName}/${o.id}.json`,
+      JSON.stringify(o, null, 2)
+    );
   });
 };
 
@@ -204,30 +235,7 @@ importAllTables().then(async (dataset) => {
       return lieu;
     }
   );
-  // write lieux.json
-  fs.writeFileSync(
-    `${process.env.DATA_PATH}/data/lieux.json`,
-    JSON.stringify(
-      values(lieux).filter((l) => l.status === "Publié"),
-      null,
-      2
-    )
-  );
-  // write lieux_preview.json
-  fs.writeFileSync(
-    `${process.env.DATA_PATH}/data/lieux_preview.json`,
-    JSON.stringify(values(lieux), null, 2)
-  );
-
-  // write lieu/id.json
-  if (!fs.existsSync(`${process.env.DATA_PATH}/data/lieux`))
-    fs.mkdirSync(`${process.env.DATA_PATH}/data/lieux/`);
-  values(lieux).forEach((lieu) => {
-    fs.writeFileSync(
-      `${process.env.DATA_PATH}/data/lieux/${lieu.id}.json`,
-      JSON.stringify(lieu, null, 2)
-    );
-  });
+  saveModelOnDisk("lieux", lieux);
   // hydrate parcours
   const parcours: any = mapValues(
     dataset.parcours,
@@ -246,17 +254,21 @@ importAllTables().then(async (dataset) => {
       return p;
     }
   );
-  // write parcours
-  fs.writeFileSync(
-    `${process.env.DATA_PATH}/data/parcours.json`,
-    JSON.stringify(parcours, null, 2)
+  saveModelOnDisk("parcours", parcours);
+  // hydrate parcours
+  const selections = mapValues(
+    dataset.sélections,
+    (selectionAirtable: SelectionAirtable): SelectionType => {
+      // replacing ids by foreign objects
+      const s: SelectionType = {
+        ...selectionAirtable,
+        lieux: (selectionAirtable.lieux || []).map((l) => lieux[l]),
+        portrait:
+          selectionAirtable.portrait &&
+          dataset.médias[selectionAirtable.portrait],
+      };
+      return s;
+    }
   );
-  if (!fs.existsSync(`${process.env.DATA_PATH}/data/parcours`))
-    fs.mkdirSync(`${process.env.DATA_PATH}/data/parcours/`);
-  values(parcours).forEach((p) => {
-    fs.writeFileSync(
-      `${process.env.DATA_PATH}/data/parcours/${p.id}.json`,
-      JSON.stringify(p, null, 2)
-    );
-  });
+  saveModelOnDisk("selections", selections);
 });

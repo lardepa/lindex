@@ -1,0 +1,24 @@
+.parcours-list {
+  display: flex;
+  flex-direction: column;
+  border-left: 10px black solid;
+  .parcours-card {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    border-top: 2px black solid;
+    height: 130px;
+    > img {
+      height: 100%;
+    }
+
+    > .parcours-title {
+      font-family: "Neue Machina";
+      flex-grow: 1;
+      padding: 1em;
+    }
+  }
+  .parcours-card:last-child {
+    border-bottom: 2px black solid;
+  }
+}

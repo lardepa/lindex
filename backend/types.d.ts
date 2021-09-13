@@ -4,7 +4,7 @@ export interface Dataset {
   périodes?: { [key: string]: Periode };
   médias?: { [key: string]: MediaType };
   types_lieu?: { [key: string]: TypeLieu };
-  sélections?: { [key: string]: Selection };
+  sélections?: { [key: string]: SelectionAirtable };
   distinctions?: { [key: string]: Distinction };
   parcours?: { [key: string]: ParcoursType };
 }
@@ -60,7 +60,7 @@ export interface LieuType extends LieuRoot {
   type: TypeLieu;
   distinctions?: Distinction[];
   // reverse keys
-  sélections?: Selection[];
+  sélections?: SelectionAirtable[];
   parcours?: ParcoursType[];
 }
 
@@ -106,20 +106,28 @@ export interface Distinction {
   logo: Attachment;
   site_web: string;
 }
-export interface Selection {
+interface SelectionRoot {
   id: string;
   invité: string;
-  portrait?: Attachment;
   status: Status;
   introduction: string;
   édito: string;
-  lieux: LieuRoot[];
+}
+
+export interface SelectionAirtable extends SelectionRoot {
+  lieux: string[];
+  portrait?: string;
+}
+export interface SelectionType extends SelectionRoot {
+  lieux: LieuType[];
+  portrait?: MediaType;
 }
 
 interface ParcoursRoot {
   id: string;
   nom: string;
   édito: string;
+  "sous-titre": string;
   status: Status;
   date?: Date;
   expédition?: boolean;
