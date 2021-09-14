@@ -5,7 +5,8 @@ import { LieuPage } from "../pages/lieu-page";
 import { MentionsLegales } from "../pages/mentions-legales";
 import { ParcoursPage } from "../pages/parcours";
 import { ParcoursListPage } from "../pages/parcours-list";
-import { SelectionsPage } from "../pages/selections";
+import { SelectionPage } from "../pages/selection-page";
+import { SelectionsListPage } from "../pages/selections-list";
 
 // Definition of a route
 export interface RouteDefinition {
@@ -39,9 +40,9 @@ export const routes: RouteDefinition[] = [
         component: ExplorePage,
       },
       {
-        path: "/selections/",
-        component: SelectionsPage,
-        routes: [{ path: "/:id", component: SelectionsPage }],
+        path: "/selections",
+        component: SelectionsListPage,
+        routes: [{ path: "/:id", component: SelectionPage }],
       },
       {
         path: "/a-propos",

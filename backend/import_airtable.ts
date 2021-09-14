@@ -255,7 +255,7 @@ importAllTables().then(async (dataset) => {
     }
   );
   saveModelOnDisk("parcours", parcours);
-  // hydrate parcours
+  // hydrate sélections
   const selections = mapValues(
     dataset.sélections,
     (selectionAirtable: SelectionAirtable): SelectionType => {
