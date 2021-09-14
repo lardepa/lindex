@@ -8,9 +8,9 @@ import { LatLngExpression } from "leaflet";
 // anyway we use custom icons
 
 import { Media } from "../media";
-import { Link } from "react-router-dom";
 import { MarkerIcon } from "./marker-icon";
 import { CenterMap } from "./center-map";
+import { LinkPreview } from "../link-preview";
 
 interface MapProps {
   lieux: LieuType[];
@@ -40,9 +40,9 @@ export const Map: React.FC<MapProps> = (props) => {
           >
             <Popup className="lieu-popup">
               {lieu.cover_media && <Media media={lieu.cover_media} />}
-              <Link to={`/lieu/${lieu.id}`}>
+              <LinkPreview to={`/lieu/${lieu.id}`}>
                 <h4>{lieu.nom}</h4>
-              </Link>
+              </LinkPreview>
               <div className="metadata">
                 <div>
                   <span className="field">

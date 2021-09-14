@@ -40,11 +40,13 @@ body {
 .vertical-menu {
   font-size: 1.5rem;
   font-weight: 600;
+  display: flex;
+  flex-direction: column;
   div {
     border-top: 1px solid black;
     padding-left: 1rem;
   }
-  div:last-child {
+  .menu-item:last-child {
     border-bottom: 1px solid black;
   }
   .about-item {
@@ -78,7 +80,7 @@ body {
   padding: 0.5em;
 }
 .metadata {
-  font-family: "Neue Machina";
+  font-family: $technical_font;
 }
 
 .page-layout-grid-container {
