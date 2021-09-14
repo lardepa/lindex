@@ -3,13 +3,14 @@ import { Logo } from "../logo";
 import { HorizontalMenu } from "./horizontal-menu";
 
 interface Props {
-  menuSelectedItem: "selections" | "parcours" | "explorer";
+  menuSelectedItem?: "selections" | "parcours" | "explorer";
   leftContent: ReactNode;
   rightContent: ReactNode;
+  gridLayoutName?: string;
 }
 
 export const PageLayout: React.FC<Props> = (props) => {
-  const { menuSelectedItem, leftContent, rightContent } = props;
+  const { menuSelectedItem, leftContent, rightContent, gridLayoutName } = props;
 
   return (
     <div className="container-fluid">
@@ -19,7 +20,11 @@ export const PageLayout: React.FC<Props> = (props) => {
           {leftContent}
         </div>
         <div className="col-sm-6 col-lg-8 col-xl-9 px-0  overflow-auto">
-          <div className="d-flex flex-column full-responsive-height">
+          <div
+            className={`page-layout-grid-container ${
+              gridLayoutName ? gridLayoutName : "page-layout-default-area"
+            } full-responsive-height`}
+          >
             <HorizontalMenu selected={menuSelectedItem} />
             {rightContent}
           </div>

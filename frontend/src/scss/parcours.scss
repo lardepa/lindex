@@ -39,3 +39,10 @@
   font-size: 1em;
   padding: 1em;
 }
+.parcours-grid-area {
+  grid-template-rows: min-content auto min-content;
+  grid-template-areas:
+    "menu menu menu"
+    "col-content main-content main-content"
+    "footer footer footer";
+}

@@ -56,3 +56,11 @@
     font-size: 1rem;
   }
 }
+
+.explore-grid-area {
+  grid-template-rows: min-content min-content auto;
+  grid-template-areas:
+    "menu menu menu"
+    "status-bar status-bar status-bar"
+    "main-content main-content main-content";
+}

@@ -55,15 +55,14 @@ body {
 .horizontal-menu {
   font-size: 1.3rem;
   font-weight: 600;
-  display: flex;
+  display: contents;
 
-  border-bottom: 1px solid black;
   a {
+    border-bottom: 1px solid black;
     border-left: 1px solid black;
     padding-left: 1rem;
     text-align: left;
-    flex-grow: 1;
-
+    grid-row: menu;
     text-decoration: none;
   }
 }
@@ -80,4 +79,15 @@ body {
 }
 .metadata {
   font-family: "Neue Machina";
+}
+
+.page-layout-grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.page-layout-default-area {
+  grid-template-rows: min-content auto;
+  grid-template-areas:
+    "menu menu menu"
+    "col-content main-content main-content";
 }

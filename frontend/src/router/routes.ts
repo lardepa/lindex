@@ -1,7 +1,7 @@
 import { APropos } from "../pages/a-propos";
 import { ExplorePage } from "../pages/explore";
 import { Home } from "../pages/home";
-import { LieuPage } from "../pages/lieu";
+import { LieuPage } from "../pages/lieu-page";
 import { MentionsLegales } from "../pages/mentions-legales";
 import { ParcoursPage } from "../pages/parcours";
 import { ParcoursListPage } from "../pages/parcours-list";

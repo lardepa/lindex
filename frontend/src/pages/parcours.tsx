@@ -15,6 +15,7 @@ export const ParcoursPage: React.FC<{}> = () => {
 
   return (
     <PageLayout
+      gridLayoutName="parcours-grid-area"
       menuSelectedItem="parcours"
       leftContent={
         <>
@@ -42,24 +43,22 @@ export const ParcoursPage: React.FC<{}> = () => {
       rightContent={
         <>
           {!loading && parcours && (
-            <div className="d-flex flex-column">
-              <div className="d-flex">
-                <div className="flex-grow-1 metadata">
-                  {parcours.cover_media && <Media media={parcours.cover_media} />}
-                  <h1>{parcours.nom}</h1>
-                  <h4>{parcours["sous-titre"]}</h4>
-                  {parcours.date && <h3>{Intl.DateTimeFormat("FR-fr").format(new Date(parcours.date))}</h3>}
-                </div>
-                <div className="flex-grow-2 edito">
-                  <ReactMarkdown>{parcours.édito}</ReactMarkdown>
-                </div>
+            <>
+              <div className="flex-grow-1 metadata" style={{ gridArea: "col-content" }}>
+                {parcours.cover_media && <Media media={parcours.cover_media} />}
+                <h1>{parcours.nom}</h1>
+                <h4>{parcours["sous-titre"]}</h4>
+                {parcours.date && <h3>{Intl.DateTimeFormat("FR-fr").format(new Date(parcours.date))}</h3>}
               </div>
-              <div className="d-flex flex-row overflow-scroll">
+              <div className="flex-grow-2 edito" style={{ gridArea: "main-content" }}>
+                <ReactMarkdown>{parcours.édito}</ReactMarkdown>
+              </div>
+              <div className="d-flex flex-row" style={{ gridArea: "footer" }}>
                 {parcours?.médias?.map((m) => (
                   <Media key={m.id} media={m} />
                 ))}
               </div>
-            </div>
+            </>
           )}
           <Loader loading={loading} />
         </>

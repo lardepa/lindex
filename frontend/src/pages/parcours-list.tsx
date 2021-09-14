@@ -33,7 +33,7 @@ export const ParcoursListPage: React.FC<{}> = () => {
         </>
       }
       rightContent={
-        <div className="flex-grow-1">
+        <div style={{ gridArea: "2/1/2/4" }}>
           {!loading && parcours && <Map lieux={flatten(parcours.map((p) => p.lieux))} className="explore-map" />}
           <Loader loading={loading} />
         </div>

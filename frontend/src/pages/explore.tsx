@@ -85,6 +85,7 @@ export const ExplorePage: React.FC<{}> = () => {
       )}
       <PageLayout
         menuSelectedItem="explorer"
+        gridLayoutName="explore-grid-area"
         leftContent={
           <div className="d-flex flex-grow-1 flex-column justify-content-center">
             <div className="menu">
@@ -105,7 +106,7 @@ export const ExplorePage: React.FC<{}> = () => {
           <>
             {filteredLieux && (
               <>
-                <div className="filters-status-bar">
+                <div className="filters-status-bar" style={{ gridArea: "status-bar" }}>
                   {filteredLieux.length} {!filtersParams.find(({ filter }) => filter.key === "use") && "lieux"}
                   {filtersParams.map((f) => (
                     <SelectedFilterValues
@@ -123,7 +124,7 @@ export const ExplorePage: React.FC<{}> = () => {
                     />
                   ))}
                 </div>
-                <div className="flex-grow-1">
+                <div style={{ gridArea: "main-content" }}>
                   {!loading && <Map lieux={filteredLieux} className="explore-map" />}
                   <Loader loading={loading} />
                 </div>
