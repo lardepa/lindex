@@ -4,9 +4,10 @@ import { Map } from "../components/map/map";
 import { Logo } from "../components/logo";
 import { VerticalMenu } from "../components/layout/vertical-menu";
 import { useGetList } from "../hooks/useAPI";
+import { Loader } from "../components/loader";
 
 export const Home: React.FC<{}> = () => {
-  const lieux = useGetList<LieuType>("lieux");
+  const [lieux, loading] = useGetList<LieuType>("lieux");
 
   return (
     <div className="container-fluid">
@@ -21,9 +22,9 @@ export const Home: React.FC<{}> = () => {
           <VerticalMenu />
         </div>
         <div className="col-sm-6 col-lg-8 col-xl-9 px-0">
-          {lieux && <Map lieux={lieux} className="full-responsive-height" />}
+          {!loading && lieux && <Map lieux={lieux} className="full-responsive-height" />}
+          <Loader loading={loading} />
         </div>
-        {/* TODO:add a loader here */}
       </div>
     </div>
   );

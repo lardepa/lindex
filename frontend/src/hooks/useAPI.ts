@@ -3,25 +3,42 @@ import { useEffect, useState } from "react";
 import config from "../config";
 import { useQueryParamsState } from "./queryParams";
 
-export const useGetList = <Data>(modelName: "lieux" | "parcours" | "selections"): Data[] => {
+const useGetData = <Data>(
+  modelName: "lieux" | "parcours" | "selections",
+  id?: string,
+): [data: Data | null, loading: boolean] => {
+  const [data, setData] = useState<Data | null>(null);
   const [{ isPreview }] = useQueryParamsState();
-  const [data, setData] = useState<Data[]>([]);
-  //TODO: handle loading and error correctly
+  const [loading, setLoading] = useState<boolean>(false);
+  //TODO: handle  error correctly
   useEffect(() => {
-    get(`${config.DATA_URL}/${modelName}${isPreview ? "_preview" : ""}.json`, { responseType: "json" })
-      .then((response) => setData(response.data))
-      .catch((error) => console.error(error));
-  }, [isPreview, modelName]);
-  return data;
+    setData(null);
+    setLoading(true);
+    const url: string = id
+      ? `${config.DATA_URL}/${modelName}/${id}.json`
+      : `${config.DATA_URL}/${modelName}${isPreview ? "_preview" : ""}.json`;
+    get(url, { responseType: "json" })
+      .then((response) => {
+        setLoading(false);
+        setData(response.data);
+      })
+      .catch((error) => {
+        setLoading(false);
+        console.error(error);
+      });
+  }, [isPreview, modelName, id]);
+  return [data, loading];
 };
 
-export const useGetOne = <Data>(modelName: "lieux" | "parcours" | "selections", id: string): Data | null => {
-  const [data, setData] = useState<Data | null>(null);
-  //TODO: handle loading and error correctly
-  useEffect(() => {
-    get(`${config.DATA_URL}/${modelName}/${id}.json`, { responseType: "json" })
-      .then((response) => setData(response.data))
-      .catch((error) => console.error(error));
-  }, [id, modelName]);
-  return data;
+export const useGetList = <Data>(
+  modelName: "lieux" | "parcours" | "selections",
+): [data: Data[] | null, loading: boolean] => {
+  return useGetData<Data[]>(modelName);
+};
+
+export const useGetOne = <Data>(
+  modelName: "lieux" | "parcours" | "selections",
+  id: string,
+): [data: Data | null, loading: boolean] => {
+  return useGetData<Data>(modelName, id);
 };

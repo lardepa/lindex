@@ -7,17 +7,18 @@ import { PageLayout } from "../components/layout/page-layout";
 import ReactMarkdown from "react-markdown";
 import { LinkPreview } from "../components/link-preview";
 import { useGetOne } from "../hooks/useAPI";
+import { Loader } from "../components/loader";
 
 export const ParcoursPage: React.FC<{}> = () => {
   const { id } = useParams<{ id: string }>();
-  const parcours = useGetOne<ParcoursType | null>("parcours", id);
+  const [parcours, loading] = useGetOne<ParcoursType | null>("parcours", id);
 
   return (
     <PageLayout
       menuSelectedItem="parcours"
       leftContent={
         <>
-          {parcours && (
+          {!loading && parcours && (
             <div className="d-flex flex-column flex-grow-1">
               <div className="rightHeader">{parcours["sous-titre"]}</div>
               {parcours.lieux && <Map lieux={parcours.lieux} className="half-height" itinary={true} />}
@@ -40,7 +41,7 @@ export const ParcoursPage: React.FC<{}> = () => {
       }
       rightContent={
         <>
-          {parcours && (
+          {!loading && parcours && (
             <div className="d-flex flex-column">
               <div className="d-flex">
                 <div className="flex-grow-1 metadata">
@@ -60,6 +61,7 @@ export const ParcoursPage: React.FC<{}> = () => {
               </div>
             </div>
           )}
+          <Loader loading={loading} />
         </>
       }
     />

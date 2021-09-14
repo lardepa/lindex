@@ -1,16 +1,15 @@
 import React from "react";
-import get from "axios";
 import { useEffect } from "react";
 import { useState } from "react";
 import { LieuType } from "../types";
-import config from "../config";
 import { every, flatten, some, sortedUniq, uniq } from "lodash";
 import { Map } from "../components/map/map";
 import filtersConfig from "../filters-config";
 import { FiltersParamType } from "../types.frontend";
 import { useQueryParamsState } from "../hooks/queryParams";
 import { PageLayout } from "../components/layout/page-layout";
-import { previewURL } from "../components/link-preview";
+import { useGetList } from "../hooks/useAPI";
+import { Loader } from "../components/loader";
 
 const SelectedFilterValues: React.FC<{ filtersParam: FiltersParamType; deSelect: (value: string) => void }> = ({
   filtersParam,
@@ -33,20 +32,11 @@ const SelectedFilterValues: React.FC<{ filtersParam: FiltersParamType; deSelect:
 
 export const ExplorePage: React.FC<{}> = () => {
   // main data
-  const [lieux, setLieux] = useState<LieuType[] | null>(null);
+  const [lieux, loading] = useGetList<LieuType>("lieux");
   const [filteredLieux, setFilteredLieux] = useState<LieuType[] | null>(null);
   // filters params
   const [queryParamsState, setQueryParamsState] = useQueryParamsState();
-  const { filtersParams, isPreview } = queryParamsState;
-
-  useEffect(() => {
-    get(previewURL(`${config.DATA_URL}/lieux.json`, isPreview), { responseType: "json" })
-      .then((response) => {
-        setLieux(response.data);
-      })
-      //TODO: build filters values index here
-      .catch((error) => console.error(error));
-  }, [isPreview]);
+  const { filtersParams } = queryParamsState;
 
   const [filterForPicker, showFilterPicker] = useState<FiltersParamType | null>(null);
 
@@ -134,7 +124,8 @@ export const ExplorePage: React.FC<{}> = () => {
                   ))}
                 </div>
                 <div className="flex-grow-1">
-                  <Map lieux={filteredLieux} className="explore-map" />
+                  {!loading && <Map lieux={filteredLieux} className="explore-map" />}
+                  <Loader loading={loading} />
                 </div>
               </>
             )}

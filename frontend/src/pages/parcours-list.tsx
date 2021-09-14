@@ -6,9 +6,10 @@ import { Media } from "../components/media";
 import { PageLayout } from "../components/layout/page-layout";
 import { LinkPreview } from "../components/link-preview";
 import { useGetList } from "../hooks/useAPI";
+import { Loader } from "../components/loader";
 
 export const ParcoursListPage: React.FC<{}> = () => {
-  const parcours = useGetList<ParcoursType>("parcours");
+  const [parcours, loading] = useGetList<ParcoursType>("parcours");
 
   return (
     <PageLayout
@@ -33,7 +34,8 @@ export const ParcoursListPage: React.FC<{}> = () => {
       }
       rightContent={
         <div className="flex-grow-1">
-          {parcours && <Map lieux={flatten(parcours.map((p) => p.lieux))} className="explore-map" />}
+          {!loading && parcours && <Map lieux={flatten(parcours.map((p) => p.lieux))} className="explore-map" />}
+          <Loader loading={loading} />
         </div>
       }
     />
