@@ -12,7 +12,7 @@ export const LieuRelatedItems: React.FC<{ lieu: LieuType }> = ({ lieu }) => {
         lieu.parcours
           .filter((p) => isPreview || p.status === "Publié")
           .map((p) => (
-            <Link to={`/parcours/${p.id}`} className="parcours menu-item">
+            <Link to={`/parcours/${p.id}`} className="parcours menu-item selected">
               Mentionné dans le parcours "{p["sous-titre"]}"
             </Link>
           ))}
@@ -20,7 +20,7 @@ export const LieuRelatedItems: React.FC<{ lieu: LieuType }> = ({ lieu }) => {
         lieu.sélections
           .filter((s) => isPreview || s.status === "Publié")
           .map((s) => (
-            <Link to={`/selections/${s.id}`} className="selections menu-item">
+            <Link to={`/selections/${s.id}`} className="selections menu-item selected">
               Sélectionné par {s.invité}
             </Link>
           ))}
