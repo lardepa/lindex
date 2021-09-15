@@ -1,7 +1,7 @@
 import { AirtableBase } from "airtable/lib/airtable_base";
 import fs from "fs";
 import Airtable from "airtable";
-import { identity, keys, mapValues, pickBy, values } from "lodash";
+import { flatten, identity, keys, mapValues, pickBy, values } from "lodash";
 import https from "https";
 import {
   Dataset,
@@ -205,10 +205,14 @@ importAllTables().then(async (dataset) => {
         ...lieuAirtable,
         maitre_oeuvre:
           lieuAirtable["maitre_oeuvre"] &&
-          dataset.professionnels[lieuAirtable["maitre_oeuvre"]],
+          flatten([lieuAirtable["maitre_oeuvre"]]).map(
+            (p) => dataset.professionnels[p]
+          ),
         maitre_ouvrage:
           lieuAirtable["maitre_ouvrage"] &&
-          dataset.professionnels[lieuAirtable["maitre_ouvrage"]],
+          flatten([lieuAirtable["maitre_ouvrage"]]).map(
+            (p) => dataset.professionnels[p]
+          ),
         périodes:
           lieuAirtable.périodes &&
           lieuAirtable.périodes.map((p) => dataset.périodes[p]),

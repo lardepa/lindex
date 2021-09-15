@@ -44,6 +44,7 @@ interface LieuRoot {
   id: string;
   nom: string;
   adresse: string;
+  département: string;
   status: Status;
   présentation: string;
   date: string; // approximate date not to be parsed as date
@@ -52,8 +53,8 @@ interface LieuRoot {
 // complete version after foreign key completion
 export interface LieuType extends LieuRoot {
   geolocalisation?: number[];
-  maitre_oeuvre?: Professionnel;
-  maitre_ouvrage?: Professionnel;
+  maitre_oeuvre?: Professionnel[];
+  maitre_ouvrage?: Professionnel[];
   périodes?: Periode[];
   médias?: MediaType[];
   cover_media?: MediaType;
