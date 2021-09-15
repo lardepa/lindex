@@ -3,12 +3,17 @@ import ReactMarkdown from "react-markdown";
 import { LieuType } from "../../types";
 import { Media } from "../media";
 
-const MetadataField: React.FC<{ label: string; value: string }> = ({ label, value }) => (
-  <div className="field">
-    <span className="label">{label}</span>
-    <span className="value">{value}</span>
-  </div>
-);
+const MetadataField: React.FC<{ label: string; value: string | string[] }> = ({ label, value }) => {
+  const values: string[] = Array.isArray(value) ? value : [value];
+  return (
+    <div className="field">
+      <span className="label">{label}</span>
+      {values?.map((v) => (
+        <span className="value">{v}</span>
+      ))}
+    </div>
+  );
+};
 
 export const Lieu: React.FC<{ lieu: LieuType }> = ({ lieu }) => (
   <>
@@ -23,9 +28,7 @@ export const Lieu: React.FC<{ lieu: LieuType }> = ({ lieu }) => (
         </div>
 
         <div className="metadata metadata-panel">
-          {lieu.maitre_oeuvre && lieu.maitre_oeuvre.nom && (
-            <MetadataField label="Maître d'œuvre" value={lieu.maitre_oeuvre.nom} />
-          )}
+          {lieu.maitre_oeuvre && <MetadataField label="Maître d'œuvre" value={lieu.maitre_oeuvre.map((m) => m.nom)} />}
           {lieu.date && <MetadataField label="Date" value={lieu.date} />}
           {lieu.type && <MetadataField label="Typologie" value={lieu.type.destination} />}
 
