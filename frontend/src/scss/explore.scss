@@ -1,12 +1,12 @@
 .filter-modal {
-  display: absolute;
+  position: absolute;
   top: 0;
   left: 0;
-  z-index: 1000;
+  z-index: 1900;
   width: 100vw;
   height: 100vh;
   //   TODO: change color when final color chosen
-  background-color: #87affe;
+  background-color: rgba($color_explorer, 0.6);
   .filter {
     display: flex;
     width: 100%;
@@ -31,13 +31,20 @@
 
 .filters-status-bar {
   background-color: $color_explorer_full;
-  font-size: 1.5rem;
-  padding: 16px;
+  font-size: 1.875rem;
+  line-height: 3rem;
+  padding: 1rem;
+  font-weight: bold;
+  .filter-value {
+    font-size: 1.875rem;
+    line-height: 1.875rem;
+  }
 }
 .filter-value {
   border-radius: 3rem;
+  padding: 0.5rem 2rem;
   background-color: white;
-  font-weight: 600;
+  font-weight: bold;
 }
 
 // TODO: style use in explorer to refacto

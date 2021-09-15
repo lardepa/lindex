@@ -17,3 +17,6 @@
     }
   }
 }
+.lieu-colonne {
+  height: calc(100vh - #{$horizontal_menu_height} - 1em);
+}

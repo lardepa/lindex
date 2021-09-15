@@ -1,0 +1,6 @@
+.long-text {
+  font-weight: bold;
+  > p > a {
+    color: $color_link;
+  }
+}

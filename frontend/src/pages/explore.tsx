@@ -96,7 +96,7 @@ export const ExplorePage: React.FC<{}> = () => {
                     showFilterPicker({ filter, values: filterParams?.values || [] });
                   }}
                 >
-                  {filter.label}
+                  🎉 {filter.label}
                 </div>
               ))}
             </div>

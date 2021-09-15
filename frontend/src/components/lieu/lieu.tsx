@@ -13,30 +13,34 @@ const MetadataField: React.FC<{ label: string; value: string }> = ({ label, valu
 export const Lieu: React.FC<{ lieu: LieuType }> = ({ lieu }) => (
   <>
     {/* first 1/3 column */}
-    <div className="d-flex flex-column justify-content-start " style={{ gridArea: "col-content" }}>
-      <h1>{lieu.nom}</h1>
-      <div>
-        <ReactMarkdown>{lieu.présentation}</ReactMarkdown>
-      </div>
+    <div style={{ gridArea: "col-content" }}>
+      <div className="d-flex flex-column justify-content-between lieu-colonne">
+        <div style={{ padding: "2rem 1rem 3rem 1rem", overflow: "auto", lineHeight: "1.5rem", fontSize: "1.125em" }}>
+          <h1>{lieu.nom}</h1>
+          <div className="long-text">
+            <ReactMarkdown>{lieu.présentation}</ReactMarkdown>
+          </div>
+        </div>
 
-      <div className="metadata metadata-panel">
-        {lieu.maitre_oeuvre && lieu.maitre_oeuvre.nom && (
-          <MetadataField label="Maître d'œuvre" value={lieu.maitre_oeuvre.nom} />
-        )}
-        {lieu.date && <MetadataField label="Date" value={lieu.date} />}
-        {lieu.type && <MetadataField label="Typologie" value={lieu.type.destination} />}
+        <div className="metadata metadata-panel">
+          {lieu.maitre_oeuvre && lieu.maitre_oeuvre.nom && (
+            <MetadataField label="Maître d'œuvre" value={lieu.maitre_oeuvre.nom} />
+          )}
+          {lieu.date && <MetadataField label="Date" value={lieu.date} />}
+          {lieu.type && <MetadataField label="Typologie" value={lieu.type.destination} />}
 
-        {lieu.distinctions && (
-          <>
-            {lieu.distinctions.map((d, i) => (
-              <MetadataField key={i} label="Récompense" value={d.nom} />
-            ))}
-          </>
-        )}
+          {lieu.distinctions && (
+            <>
+              {lieu.distinctions.map((d, i) => (
+                <MetadataField key={i} label="Récompense" value={d.nom} />
+              ))}
+            </>
+          )}
+        </div>
       </div>
     </div>
     {/* seccond 2/3 column */}
-    <div style={{ gridArea: "main-content" }}>
+    <div style={{ gridArea: "main-content", overflow: "auto", paddingTop: "1rem" }}>
       {lieu?.cover_media && <Media media={lieu?.cover_media} />}
       {lieu?.médias?.map((m) => (
         <Media key={m.id} media={m} />

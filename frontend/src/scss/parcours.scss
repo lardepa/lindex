@@ -2,7 +2,7 @@
 .parcours-list {
   display: flex;
   flex-direction: column;
-  border-left: 10px black solid;
+  border-left: 8px black solid;
   .parcours-card {
     display: flex;
     flex-direction: row;
@@ -17,6 +17,9 @@
       font-family: "Neue Machina";
       flex-grow: 1;
       padding: 1em;
+      h5 {
+        font-weight: bold;
+      }
     }
   }
   a:last-child > .parcours-list {
