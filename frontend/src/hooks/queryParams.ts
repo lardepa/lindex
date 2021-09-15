@@ -1,4 +1,4 @@
-import { sortBy } from "lodash";
+import { sortBy, uniq } from "lodash";
 import { useEffect, useState } from "react";
 import { useHistory, useLocation } from "react-router";
 import filtersConfig from "../filters-config";
@@ -17,13 +17,23 @@ export const useQueryParamsState = (): [QueryParamsState, (queryParamsState: Que
   }, [location.search]);
 
   // update state effect
-  useEffect(() => {
-    history.push({
-      search: queryParamsStateToQueryString(queryParamsState),
-    });
-  }, [queryParamsState, history]);
+  // TODO: understand why this pattern fails...
+  // useEffect(() => {
+  //   console.log("in set query effect", queryParamsState);
+  //   history.push({
+  //     search: queryParamsStateToQueryString(queryParamsState),
+  //   });
+  // }, values(queryParamsState));
 
-  return [queryParamsState, setQueryParamsState];
+  return [
+    queryParamsState,
+    //Kind of a hack till I understand the issue
+    (newQueryState: QueryParamsState) => {
+      history.push({
+        search: queryParamsStateToQueryString(newQueryState),
+      });
+    },
+  ];
 };
 
 const queryParamsStateToQueryString = (state: QueryParamsState): string => {
@@ -49,3 +59,57 @@ const queryStringToQueryParamsState = (query: URLSearchParams): QueryParamsState
 
   return { filtersParams, isPreview };
 };
+
+// //utils for filter (de)selection
+// TODO: keep this for review to delete
+
+// const makeSelectFilterValue = (
+//   queryParamsState: QueryParamsState,
+//   setQueryParamsState: (q: QueryParamsState) => void,
+// ) => {
+//   return (value: string, filterParam: FiltersParamType) => {
+//     // update filters in URL's search params)
+//     const newFilters: FiltersParamType[] = [
+//       //other filters
+//       ...queryParamsState.filtersParams.filter(({ filter, values }) => filter.key !== filterParam.filter.key),
+//       // add one value to the picker filter
+//       { ...filterParam, values: uniq([...filterParam.values, value]) },
+//     ];
+//     console.log(value, filterParam, newFilters, queryParamsState);
+//     setQueryParamsState({ ...queryParamsState, filtersParams: newFilters });
+//   };
+// };
+// const makeDeSelectFilterValue =
+//   (queryParamsState: QueryParamsState, setQueryParamsState: (q: QueryParamsState) => void) =>
+//   (value: string, filterParam: FiltersParamType) => {
+//     // update filters in URL's search params)
+//     const newFilters: FiltersParamType[] = [
+//       //other filters
+//       ...queryParamsState.filtersParams.filter(({ filter }) => filter.key !== filterParam.filter.key),
+//       // remove one value to the picker filter
+//       { ...filterParam, values: filterParam.values.filter((v) => v !== value) },
+//     ];
+//     setQueryParamsState({ ...queryParamsState, filtersParams: newFilters });
+//   };
+
+// export const useFilterValueSelection = (): [
+//   (value: string, filterParam: FiltersParamType) => void,
+//   (value: string, filterParam: FiltersParamType) => void,
+// ] => {
+//   const [queryParamsState, setQueryParamsState] = useQueryParamsState();
+//   return [
+//     makeSelectFilterValue(queryParamsState, setQueryParamsState),
+//     makeDeSelectFilterValue(queryParamsState, setQueryParamsState),
+//   ];
+//   // const [selectFilterValue, setSelectFilterValue] = useState<(value: string, filterParam: FiltersParamType) => void>(
+//   //   makeSelectFilterValue(queryParamsState, setQueryParamsState),
+//   // );
+//   // const [deSelectFilterValue, setDeSelectFilterValue] = useState<
+//   //   (value: string, filterParam: FiltersParamType) => void
+//   // >(makeDeSelectFilterValue(queryParamsState, setQueryParamsState));
+//   // useEffect(() => {
+//   //   setSelectFilterValue(makeSelectFilterValue(queryParamsState, setQueryParamsState));
+//   //   setDeSelectFilterValue(makeDeSelectFilterValue(queryParamsState, setQueryParamsState));
+//   // // }, [queryParamsState, setQueryParamsState]);
+//   // return [selectFilterValue, deSelectFilterValue];
+// };

@@ -2,43 +2,29 @@ import React from "react";
 import { useEffect } from "react";
 import { useState } from "react";
 import { LieuType } from "../types";
-import { every, flatten, some, sortedUniq, uniq } from "lodash";
+import { every, flatten, some, sortedUniq } from "lodash";
 import { Map } from "../components/map/map";
-import filtersConfig from "../filters-config";
 import { FiltersParamType } from "../types.frontend";
 import { useQueryParamsState } from "../hooks/queryParams";
 import { PageLayout } from "../components/layout/page-layout";
 import { useGetList } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
 
-const SelectedFilterValues: React.FC<{ filtersParam: FiltersParamType; deSelect: (value: string) => void }> = ({
-  filtersParam,
-  deSelect,
-}) => (
-  <>
-    <span>{filtersParam.filter.prefixLabel}</span>{" "}
-    {filtersParam.values.map((v) => (
-      <button
-        className="btn filter-value"
-        onClick={() => {
-          deSelect(v);
-        }}
-      >
-        {v}
-      </button>
-    ))}
-  </>
-);
+import FiltersStatusBar from "../components/filters/filters-status-bar";
+import FilterModal from "../components/filters/filter-modal";
+import FiltersMenu from "../components/filters/filters-menu";
+import filtersConfig from "../filters-config";
 
 export const ExplorePage: React.FC<{}> = () => {
   // main data
   const [lieux, loading] = useGetList<LieuType>("lieux");
   const [filteredLieux, setFilteredLieux] = useState<LieuType[] | null>(null);
   // filters params
-  const [queryParamsState, setQueryParamsState] = useQueryParamsState();
+  const [queryParamsState] = useQueryParamsState();
   const { filtersParams } = queryParamsState;
 
   const [filterForPicker, showFilterPicker] = useState<FiltersParamType | null>(null);
+  const [filtersOptions, setFiltersOptions] = useState<{ [filterKey: string]: string[] }>({});
 
   // filter lieux
   useEffect(() => {
@@ -52,78 +38,52 @@ export const ExplorePage: React.FC<{}> = () => {
       );
     if (lieux && filtersParams.length === 0) setFilteredLieux(lieux);
   }, [lieux, filtersParams]);
+  // index possible filter options from filteredLieux
+  useEffect(() => {
+    setFiltersOptions(
+      filtersConfig.reduce((options, filter) => {
+        const filterParams = filtersParams.find((f) => f.filter.key === filter.key);
+        const selectedValues = filterParams ? filterParams.values : [];
+        return {
+          ...options,
+          // options are : selected values (to allow unselect) + other available values in remaining lieux
+          [filter.key]: sortedUniq(
+            selectedValues.concat(flatten((filteredLieux || []).map((l) => filter.getValueFromLieu(l)))),
+          ),
+        };
+      }, {}),
+    );
+  }, [filteredLieux, filtersParams]);
 
   return (
     <>
-      {lieux && filterForPicker && (
-        <div className="filter-modal" onClick={() => showFilterPicker(null)}>
-          <div className="filter">
-            <h2>{filterForPicker.filter.label}</h2>
-            <div className="filter-values">
-              {sortedUniq(flatten(lieux.map((l) => filterForPicker.filter.getValueFromLieu(l)))).map((v, i) => (
-                <button
-                  disabled={filterForPicker.values.includes(v)}
-                  key={i}
-                  className="btn filter-value"
-                  onClick={() => {
-                    // update filters in URL's search params)
-                    const newFilters: FiltersParamType[] = [
-                      //other filters
-                      ...filtersParams.filter(({ filter, values }) => filter.key !== filterForPicker.filter.key),
-                      // add one value to the picker filter
-                      { ...filterForPicker, values: uniq([...filterForPicker.values, v]) },
-                    ];
-                    setQueryParamsState({ ...queryParamsState, filtersParams: newFilters });
-                  }}
-                >
-                  {v}
-                </button>
-              ))}
-            </div>
-          </div>
-        </div>
+      {filteredLieux && filterForPicker && (
+        // Full screen Modal to change filter state
+        <FilterModal
+          filterParam={filterForPicker}
+          options={filtersOptions[filterForPicker.filter.key]}
+          onClose={() => showFilterPicker(null)}
+        />
       )}
       <PageLayout
         menuSelectedItem="explorer"
         gridLayoutName="explore-grid-area"
         leftContent={
+          // Menu top open filters modals
           <div className="d-flex flex-grow-1 flex-column justify-content-center">
-            <div className="menu">
-              {filtersConfig.map((filter) => (
-                <div
-                  onClick={() => {
-                    const filterParams = filtersParams.find((fp) => fp.filter.key === filter.key);
-                    showFilterPicker({ filter, values: filterParams?.values || [] });
-                  }}
-                >
-                  🎉 {filter.label}
-                </div>
-              ))}
-            </div>
+            <FiltersMenu
+              filtersParams={filtersParams}
+              filtersOptions={filtersOptions}
+              showFilterPicker={showFilterPicker}
+            />
           </div>
         }
         rightContent={
           <>
             {filteredLieux && (
               <>
-                <div className="filters-status-bar" style={{ gridArea: "status-bar" }}>
-                  {filteredLieux.length} {!filtersParams.find(({ filter }) => filter.key === "use") && "lieux"}
-                  {filtersParams.map((f) => (
-                    <SelectedFilterValues
-                      filtersParam={f}
-                      deSelect={(value: string) => {
-                        // update filters in URL's search params)
-                        const newFilters: FiltersParamType[] = [
-                          //other filters
-                          ...filtersParams.filter(({ filter }) => filter.key !== f.filter.key),
-                          // add one value to the picker filter
-                          { ...f, values: f.values.filter((v) => v !== value) },
-                        ];
-                        setQueryParamsState({ ...queryParamsState, filtersParams: newFilters });
-                      }}
-                    />
-                  ))}
-                </div>
+                {/* Current Filters Status Bar  */}
+                <FiltersStatusBar nbSelectedLieux={filteredLieux.length} />
                 <div style={{ gridArea: "main-content" }}>
                   {!loading && <Map lieux={filteredLieux} className="explore-map" />}
                   <Loader loading={loading} />

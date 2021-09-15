@@ -20,6 +20,7 @@
     .filter-value {
       font-size: 1.5em;
     }
+
     .filter-value:hover {
       background-color: #eee;
     }
@@ -35,6 +36,8 @@
   line-height: 3rem;
   padding: 1rem;
   font-weight: bold;
+  display: flex;
+  flex-wrap: wrap;
   .filter-value {
     font-size: 1.875rem;
     line-height: 1.875rem;
@@ -42,26 +45,26 @@
 }
 .filter-value {
   border-radius: 3rem;
-  padding: 0.5rem 2rem;
+  padding: 0.5rem 1rem;
   background-color: white;
   font-weight: bold;
-}
+  display: flex;
+  align-items: center;
 
-// TODO: style use in explorer to refacto
-.menu {
+  img {
+    margin-right: 0.5rem;
+  }
+}
+.filter-value.selected {
+  padding-right: 1rem;
+  margin: 0 0.5rem;
+}
+.filter-value.selected::after {
+  content: "✕";
+  padding-left: 0.5rem;
   font-size: 1.5rem;
-  font-weight: 600;
-  div {
-    border-top: 1px solid black;
-    padding-left: 1rem;
-  }
-  div:last-child {
-    border-bottom: 1px solid black;
-    margin-bottom: 3rem;
-  }
-  .about-item {
-    font-size: 1rem;
-  }
+  font-weight: 800;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 }
 
 .explore-grid-area {

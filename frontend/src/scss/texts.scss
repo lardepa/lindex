@@ -1,6 +1,28 @@
+body {
+  font-family: "Neuzeit Grotesk";
+  color: $color_default_text;
+  font-weight: bold;
+}
+h1 {
+  font-weight: 800;
+  font-size: 3rem;
+  line-height: 3rem;
+  margin-bottom: 5rem;
+}
+h4 {
+  font-weight: bold;
+}
+
 .long-text {
   font-weight: bold;
   > p > a {
     color: $color_link;
   }
+}
+
+.nav-home {
+  font-size: 1.5rem;
+}
+.horizontal-menu {
+  font-size: 1.25rem;
 }

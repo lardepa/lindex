@@ -1,0 +1,67 @@
+// todo : unify menu styles
+.menu-item {
+  border-top: 1px solid black;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  cursor: pointer; //some menu item are not <a>
+  background-color: white;
+}
+
+.vertical-menu {
+  display: flex;
+  flex-direction: column;
+
+  .menu-item:last-child {
+    border-bottom: 1px solid black;
+  }
+  .about-item {
+    font-size: 1rem;
+  }
+}
+
+.horizontal-menu {
+  display: contents;
+  height: $horizontal_menu_height;
+  box-sizing: border-box;
+
+  .menu-item {
+    border-top: none;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    text-align: left;
+    grid-row: menu;
+  }
+}
+
+// COLORS
+.menu-item.disabled {
+  background-color: $color_grey_background;
+  cursor: not-allowed;
+  color: grey;
+}
+.disabled:hover {
+  background-color: $color_grey_background !important;
+}
+.explorer.menu-item.selected {
+  background-color: $color_explorer;
+}
+.selections.menu-item.selected {
+  background-color: $color_selections;
+}
+.parcours.menu-item.selected {
+  background-color: $color_parcours;
+}
+
+.explorer-hover:hover,
+.explorer.menu-item:hover {
+  background-color: $color_explorer_full;
+}
+
+.selections-hover:hover,
+.selections.menu-item:hover {
+  background-color: $color_selections_full;
+}
+.parcours-hover:hover,
+.parcours.menu-item:hover {
+  background-color: $color_parcours_full;
+}
