@@ -11,6 +11,7 @@ import { Media } from "../media";
 import { MarkerIcon } from "./marker-icon";
 import { CenterMap } from "./center-map";
 import { LinkPreview } from "../link-preview";
+import { prettyPrintValueList } from "../../utils";
 
 interface MapProps {
   lieux: LieuType[];
@@ -45,10 +46,12 @@ export const Map: React.FC<MapProps> = (props) => {
               </LinkPreview>
               <div className="metadata">
                 <div>
-                  <span className="field">
-                    <span className="label">Maître d'œuvre</span>{" "}
-                    <span className="info">{lieu.maitre_oeuvre?.nom}</span>
-                  </span>
+                  {lieu.maitre_oeuvre && (
+                    <span className="field">
+                      <span className="label">Maître d'œuvre</span>{" "}
+                      <span className="info">{prettyPrintValueList(lieu.maitre_oeuvre?.map((m) => m.nom))}</span>
+                    </span>
+                  )}
                   <span className="field">
                     <span className="label">Date</span> <span className="info">{lieu.date}</span>
                   </span>
