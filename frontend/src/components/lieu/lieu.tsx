@@ -1,7 +1,7 @@
 import React from "react";
 import ReactMarkdown from "react-markdown";
 import { LieuType } from "../../types";
-import { Media } from "../media";
+import { Media } from "../media/media";
 
 const MetadataField: React.FC<{ label: string; value: string | string[] }> = ({ label, value }) => {
   const values: string[] = Array.isArray(value) ? value : [value];
@@ -43,7 +43,7 @@ export const Lieu: React.FC<{ lieu: LieuType }> = ({ lieu }) => (
       </div>
     </div>
     {/* seccond 2/3 column */}
-    <div style={{ gridArea: "main-content", overflow: "auto", paddingTop: "1rem" }}>
+    <div className="media-container" style={{ gridArea: "main-content", overflow: "auto", paddingTop: "1rem" }}>
       {lieu?.cover_media && <Media media={lieu?.cover_media} />}
       {lieu?.médias?.map((m) => (
         <Media key={m.id} media={m} />

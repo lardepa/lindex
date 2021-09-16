@@ -1,7 +1,7 @@
 import React from "react";
 import { ParcoursType } from "../types";
 import { Link, useParams } from "react-router-dom";
-import { Media } from "../components/media";
+import { Media } from "../components/media/media";
 import { Map } from "../components/map/map";
 import { PageLayout } from "../components/layout/page-layout";
 import ReactMarkdown from "react-markdown";

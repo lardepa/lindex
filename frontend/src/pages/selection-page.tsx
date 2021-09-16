@@ -1,13 +1,7 @@
 import React from "react";
-import get from "axios";
-import { useEffect } from "react";
-import { useState } from "react";
-import { ParcoursType, SelectionType } from "../types";
-import config from "../config";
-import { Logo } from "../components/logo";
+import { SelectionType } from "../types";
 import { useParams } from "react-router-dom";
-import { Media } from "../components/media";
-import { Map } from "../components/map/map";
+import { Media } from "../components/media/media";
 import { useGetOne } from "../hooks/useAPI";
 import { PageLayout } from "../components/layout/page-layout";
 import ReactMarkdown from "react-markdown";

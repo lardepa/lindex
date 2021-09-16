@@ -7,7 +7,7 @@ import { LatLngExpression } from "leaflet";
 // FYI: default leaflet icon can't be used without a workaround: https://github.com/PaulLeCam/react-leaflet/issues/453
 // anyway we use custom icons
 
-import { Media } from "../media";
+import { Media } from "../media/media";
 import { MarkerIcon } from "./marker-icon";
 import { CenterMap } from "./center-map";
 import { LinkPreview } from "../link-preview";
