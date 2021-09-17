@@ -25,10 +25,12 @@ const _PDF: React.FC<PDFProps & SizeState> = ({ file, ratio, width, height }) =>
     setNumPages(numPages);
   }
 
-  const pageWidth = ratio && ratio < 1 ? width : undefined;
+  const pageWidth = ratio && ratio < 1 ? width - (window.scrollbars ? 2 : 0) : undefined;
   const pageHeight = ratio && ratio < 1 ? undefined : window.innerHeight * 0.7;
   const realWidth = pageWidth || (pageHeight && pageHeight / (ratio || 1));
   const realHeight = pageHeight || (pageWidth && pageWidth * (ratio || 1));
+
+  const buttonStyle = { padding: "0.3rem" };
   return (
     <div className="d-flex flex-column align-content-center">
       <Document
@@ -44,16 +46,24 @@ const _PDF: React.FC<PDFProps & SizeState> = ({ file, ratio, width, height }) =>
           loading={<PDFLoader width={realWidth} height={realHeight} />}
         ></Page>
         {numPages && numPages > 1 && (
-          <div className="d-flex justify-content-between align-items-center" style={{ width: realWidth }}>
-            <button className="btn" disabled={pageNumber <= 1} onClick={() => setPageNumber(pageNumber - 1)}>
-              {" "}
+          <div className="d-flex justify-content-between align-items-center p-1" style={{ width: realWidth }}>
+            <button
+              className="btn"
+              style={buttonStyle}
+              disabled={pageNumber <= 1}
+              onClick={() => setPageNumber(pageNumber - 1)}
+            >
               &lt;
             </button>
             <span>
               Page {pageNumber} sur {numPages}
             </span>
-            <button className="btn" disabled={pageNumber >= numPages} onClick={() => setPageNumber(pageNumber + 1)}>
-              {" "}
+            <button
+              className="btn"
+              style={buttonStyle}
+              disabled={pageNumber >= numPages}
+              onClick={() => setPageNumber(pageNumber + 1)}
+            >
               &gt;
             </button>
           </div>

@@ -19,7 +19,7 @@ export const PageLayout: React.FC<Props> = (props) => {
           <Logo />
           {leftContent}
         </div>
-        <div className="col-sm-6 col-lg-8 col-xl-9 px-0  overflow-auto">
+        <div className="col-sm-6 col-lg-8 col-xl-9 px-0">
           <div
             className={`page-layout-grid-container ${
               gridLayoutName ? gridLayoutName : "page-layout-default-area"
