@@ -4,6 +4,19 @@ import equipementSVG from "./equipement.svg";
 import logementSVG from "./logement.svg";
 import espacePublicSVG from "./espace_public.svg";
 
+const DestinationSVG = (destination: DestinationType): any => {
+  switch (destination) {
+    case "Logement":
+      return logementSVG;
+    case "Équipement":
+      return equipementSVG;
+    case "Espace public":
+      return espacePublicSVG;
+    default:
+      return equipementSVG;
+  }
+};
+
 const leafletICon = (SVGURL: any) =>
   new L.Icon({
     iconUrl: SVGURL,
@@ -12,16 +25,7 @@ const leafletICon = (SVGURL: any) =>
   });
 
 const MarkerIcon = (destination: DestinationType) => {
-  switch (destination) {
-    case "Logement":
-      return leafletICon(logementSVG);
-    case "Équipement":
-      return leafletICon(equipementSVG);
-    case "Espace public":
-      return leafletICon(espacePublicSVG);
-    default:
-      return leafletICon(equipementSVG);
-  }
+  return leafletICon(DestinationSVG(destination));
 };
 
-export { MarkerIcon };
+export { MarkerIcon, DestinationSVG };

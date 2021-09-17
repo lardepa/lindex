@@ -16,7 +16,12 @@ export const Media: React.FC<{ media: MediaType }> = ({ media }) => {
             case "pdf":
               // PDF file is stored under full quality (other are thumbnail of first page)
               const ratio: number | undefined = f.thumbnails && f.thumbnails?.large.height / f.thumbnails?.large.width;
-              return <PDF key={f.id} file={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`} ratio={ratio} />;
+              const forceRatio = ratio && ratio > 1 ? "force-portrait" : "force-landscape";
+              return (
+                <div className={forceRatio}>
+                  <PDF key={f.id} file={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`} ratio={ratio} />
+                </div>
+              );
             default:
               return (
                 <img

@@ -1,3 +1,4 @@
+import { min } from "lodash";
 import React, { useState } from "react";
 import { Document, Page, pdfjs } from "react-pdf/dist/esm/entry.webpack";
 import withSize, { SizeState } from "../layout/with-size";
@@ -24,12 +25,12 @@ const _PDF: React.FC<PDFProps & SizeState> = ({ file, ratio, width, height }) =>
   function onDocumentLoadSuccess({ numPages }: { numPages: number }) {
     setNumPages(numPages);
   }
-
+  const pageSelectionHeight = 40;
   const pageWidth = ratio && ratio < 1 ? width - (window.scrollbars ? 2 : 0) : undefined;
-  const pageHeight = ratio && ratio < 1 ? undefined : window.innerHeight * 0.7;
+  const pageHeight = ratio && ratio < 1 ? undefined : height - (numPages && numPages > 1 ? pageSelectionHeight : 0);
   const realWidth = pageWidth || (pageHeight && pageHeight / (ratio || 1));
   const realHeight = pageHeight || (pageWidth && pageWidth * (ratio || 1));
-
+  console.log(ratio, height, pageHeight, realHeight);
   const buttonStyle = { padding: "0.3rem" };
   return (
     <div className="d-flex flex-column align-content-center">
@@ -46,7 +47,10 @@ const _PDF: React.FC<PDFProps & SizeState> = ({ file, ratio, width, height }) =>
           loading={<PDFLoader width={realWidth} height={realHeight} />}
         ></Page>
         {numPages && numPages > 1 && (
-          <div className="d-flex justify-content-between align-items-center p-1" style={{ width: realWidth }}>
+          <div
+            className="d-flex justify-content-between align-items-center p-1"
+            style={{ width: realWidth, height: `${pageSelectionHeight}px` }}
+          >
             <button
               className="btn"
               style={buttonStyle}

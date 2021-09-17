@@ -50,6 +50,13 @@
     "menu menu menu"
     "col-content main-content main-content";
 }
+.colonne-main-footer-area {
+  grid-template-rows: min-content auto min-content;
+  grid-template-areas:
+    "menu menu menu"
+    "col-content main-content main-content"
+    "footer footer footer";
+}
 
 .media-container {
   > * {
@@ -85,4 +92,18 @@
 }
 .media-container:last-child {
   margin-bottom: 0;
+}
+.force-landscape,
+.force-landscape > * {
+  width: 100%;
+}
+.force-portrait,
+.force-portrait > * {
+  height: 100%;
+}
+.horizontal-carousel {
+  display: flex;
+  > * {
+    margin-left: 1rem;
+  }
 }

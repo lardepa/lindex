@@ -23,7 +23,7 @@ export const PageLayout: React.FC<Props> = (props) => {
           <div
             className={`page-layout-grid-container ${
               gridLayoutName ? gridLayoutName : "page-layout-default-area"
-            } full-responsive-height`}
+            } full-responsive-height overflow-auto`}
           >
             <HorizontalMenu selected={menuSelectedItem} />
             {rightContent}

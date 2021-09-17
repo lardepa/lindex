@@ -1,6 +1,6 @@
 import React from "react";
 import { ParcoursType } from "../types";
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { Media } from "../components/media/media";
 import { Map } from "../components/map/map";
 import { PageLayout } from "../components/layout/page-layout";
@@ -8,6 +8,7 @@ import ReactMarkdown from "react-markdown";
 import { LinkPreview } from "../components/link-preview";
 import { useGetOne } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
+import { LieuItem } from "../components/lieu/lieu-item";
 
 export const ParcoursPage: React.FC<{}> = () => {
   const { id } = useParams<{ id: string }>();
@@ -23,14 +24,9 @@ export const ParcoursPage: React.FC<{}> = () => {
             <div className="d-flex flex-column flex-grow-1">
               <div className="rightHeader">{parcours["sous-titre"]}</div>
               {parcours.lieux && <Map lieux={parcours.lieux} className="half-height" itinary={true} />}
-              <div className="steps flex-grow-1 parcours">
+              <div className="steps flex-grow-1 parcours vertical-menu">
                 {parcours.lieux.map((l, stepIndex) => (
-                  // todo: change link to state in params
-                  <Link to={`/lieux/${l.id}`} className="step" key={l.id}>
-                    Étape {stepIndex}
-                    <br />
-                    <b>{l.nom}</b>
-                  </Link>
+                  <LieuItem lieu={l} className="parcours" />
                 ))}
               </div>
               <LinkPreview className="menu-item" to="/parcours">
@@ -45,7 +41,11 @@ export const ParcoursPage: React.FC<{}> = () => {
           {!loading && parcours && (
             <>
               <div className="flex-grow-1 metadata" style={{ gridArea: "col-content" }}>
-                {parcours.cover_media && <Media media={parcours.cover_media} />}
+                {parcours.cover_media && (
+                  <div className="w-100 media-container">
+                    <Media media={parcours.cover_media} />
+                  </div>
+                )}
                 <h1>{parcours.nom}</h1>
                 <h4>{parcours["sous-titre"]}</h4>
                 {parcours.date && <h3>{Intl.DateTimeFormat("FR-fr").format(new Date(parcours.date))}</h3>}
