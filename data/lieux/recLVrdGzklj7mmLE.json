@@ -4,40 +4,17 @@
   "sélections": [
     {
       "id": "recNOfjWkwIQ7wPig",
-      "Portrait": [
-        {
-          "id": "attEZT60bU4QfUn07",
-          "width": 1787,
-          "height": 1787,
-          "url": "https://dl.airtable.com/.attachments/d5a1e4c5b57b7fbdd12f9f840a832ee1/a673599a/photo_anomalie.jpeg",
-          "filename": "photo_anomalie.jpeg",
-          "size": 1742587,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/b00d9b180152508c76f6690fa57bd45d/e468b204",
-              "width": 36,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/bf93ffb86fab882ee023e638b1c653ec/fd244433",
-              "width": 512,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/f5585bf8735e31c5e270014bb20a3fb6/23a87c83",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
+      "portrait": [
+        "rec09fZqSVXpUydK2"
       ],
-      "Invité": "Paul Girard",
-      "Lieux": [
+      "invité": "Paul Girard",
+      "lieux": [
         "recTr9BzAt1jG9yaJ",
         "recLVrdGzklj7mmLE"
       ],
-      "dernière modification": "2021-08-23T12:12:53.000Z"
+      "status": "Publié",
+      "édito": "Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+      "dernière modification": "2021-09-17T14:14:37.000Z"
     }
   ],
   "type": {
@@ -48,19 +25,37 @@
       "recLVrdGzklj7mmLE"
     ]
   },
-  "maitre_ouvrage": {
-    "id": "recegbiVZFy9vuXE4",
-    "maitre_ouvrage": [
-      "recLVrdGzklj7mmLE"
-    ],
-    "nom": "Néo Promotion (concession du Port Autonome Nantes St-Nazaire)"
-  },
+  "maitre_oeuvre": [
+    {
+      "id": "recvFhyaq6f2ABLWB",
+      "maitre_oeuvre": [
+        "recLVrdGzklj7mmLE"
+      ],
+      "nom": "Roulleau Architecture"
+    },
+    {
+      "id": "reckn1XpRdcQnChXt",
+      "maitre_oeuvre": [
+        "recLVrdGzklj7mmLE"
+      ],
+      "nom": "Paul Ridard"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recegbiVZFy9vuXE4",
+      "maitre_ouvrage": [
+        "recLVrdGzklj7mmLE"
+      ],
+      "nom": "Néo Promotion (concession du Port Autonome Nantes St-Nazaire)"
+    }
+  ],
   "parcours": [
     {
       "id": "recyxl64SW35uLcjC",
       "nom": "Du hangar à Banane à la Brasserie Little Atlantique Brewery",
       "status": "en cours de rédaction",
-      "édito": "Du champ à l’assiette, de la chapelle au marché, de l’étal à la marmite… cette année le fil rouge que nous suivrons tout au long du cycle 2020 des expéditions urbaines sera le nourricier.\nCette thématique prend toute son importance dans le contexte sanitaire et social que nous sommes en train de vivre. En effet l’épidémie de coronavirus nous questionne sur la résilience de nos systèmes alimentaires, de notre autonomie et nous fait prendre conscience de notre dépendance liée à l’approvisionnement.\nCes expéditions urbaines nous permettront d’explorer différents enjeux de cette thématique, à différentes échelles. Les restrictions liées au déconfinement nous poussent à nous réinventer et à vous proposer un format dématérialisé où vous serez autonomes dans votre exploration.\nLe territoire nantais a un réel passé industriel dans le domaine agro-alimentaire, entre l’île de Nantes avec le MIN, l’usine Beghin-Say, le Hangar à Bananes, puis sur l’autre rive de la Loire, le Bas-Chantenay avec les conserveries, la brasserie de la Meuse, les Moulins de Loire...\nLa loire etait un réel atout pour le transpor t de toutes ces marchandises. Nous pourrons l’emprunter grâce à la nouvelle liaison Navibus gérée par Nantes métropole et la TAN qui relie depuis le début de l’année la pointe Ouest de l’ile de Nantes et le bas Chantenay et ainsi découvrir toutes les traces de ces diverses activitées et en comprendre les transformations à venir avec Vincent Morandeau, chargé de projet du Bas-Chantenay.\nDepuis décembre 2019, à quelques mètres de l’ancienne cale Dubigeon (aujourd’hui chantier naval de l’ Esclain), la brasserie ar tisanale « Little Atlantique Brewery » a ouver t ses portes dans une imposante bâtisse du XIXe siècle. Dans cette ancienne huilerie devenue savonnerie, les investisseurs comptent « renouer avec le passé brassicole » de la cité des ducs. C’est avec Christophe Theilmann, l’architecte de cette réhabilitation que nous découvrirons ce nouveau lieu hybride, révélateur du mode de vie actuel : les gens y mangent et boivent, y travaillent, se cultivent. C’est une réalité sociétale ou le besoin d’être ensemble, d’éviter l’isolement dans la ville devient vital.\n",
+      "édito": "**Du champ à l’assiette**, de la chapelle au marché, de l’étal à la marmite… cette année le fil rouge que nous suivrons tout au long du cycle 2020 des expéditions urbaines sera le nourricier.\n\nCette thématique prend toute son importance dans le contexte sanitaire et social que nous sommes en train de vivre. En effet l’épidémie de coronavirus nous questionne sur la résilience de nos systèmes alimentaires, de notre autonomie et nous fait prendre conscience de notre dépendance liée à l’approvisionnement.\n\nCes expéditions urbaines nous permettront d’explorer différents enjeux de cette thématique, à différentes échelles. Les restrictions liées au déconfinement nous poussent à nous réinventer et à vous proposer un format dématérialisé où vous serez autonomes dans votre exploration.\n\nLe territoire nantais a un réel passé industriel dans le domaine agro-alimentaire, entre l’île de Nantes avec le MIN, l’usine Beghin-Say, le Hangar à Bananes, puis sur l’autre rive de la Loire, le Bas-Chantenay avec les conserveries, la brasserie de la Meuse, les Moulins de Loire...\nLa loire etait un réel atout pour le transpor t de toutes ces marchandises. Nous pourrons l’emprunter grâce à la nouvelle liaison Navibus gérée par Nantes métropole et la TAN qui relie depuis le début de l’année la pointe Ouest de l’ile de Nantes et le bas Chantenay et ainsi découvrir toutes les traces de ces diverses activitées et en comprendre les transformations à venir avec Vincent Morandeau, chargé de projet du Bas-Chantenay.\nDepuis décembre 2019, à quelques mètres de l’ancienne cale Dubigeon (aujourd’hui chantier naval de l’ Esclain), la brasserie ar tisanale « Little Atlantique Brewery » a ouver t ses portes dans une imposante bâtisse du XIXe siècle. Dans cette ancienne huilerie devenue savonnerie, les investisseurs comptent « renouer avec le passé brassicole » de la cité des ducs. C’est avec Christophe Theilmann, l’architecte de cette réhabilitation que nous découvrirons ce nouveau lieu hybride, révélateur du mode de vie actuel : les gens y mangent et boivent, y travaillent, se cultivent. C’est une réalité sociétale ou le besoin d’être ensemble, d’éviter l’isolement dans la ville devient vital.\n",
       "médias": [
         "recDuI24dJpt5WXsB",
         "rec0LseZElWit1Xb7"
@@ -69,6 +64,7 @@
       "cover_media": [
         "recF5As2SEQr2DHuF"
       ],
+      "sous-titre": "Expé 2020#2",
       "type parcours": "Expédition",
       "lieux": [
         "recLVrdGzklj7mmLE",
@@ -79,32 +75,32 @@
   "status": "En rédaction",
   "nom": "Le Hangar",
   "cover_media": {
-    "id": "rec18MwuKXo0UlYF2",
+    "id": "recjGz63Hv79VBMPA",
     "fichiers": [
       {
-        "id": "att4NYvS29N3xV1gd",
-        "url": "https://dl.airtable.com/.attachments/66aab8e9b98b215854e9564de20870fa/4d211f58/guide_imuse_0.pdf",
-        "filename": "guide_imuse_0.pdf",
-        "size": 2407902,
+        "id": "attnu1naoe2aOrlcG",
+        "url": "https://dl.airtable.com/.attachments/8861e9e16292aa34ba0f61f1b9d2f3ab/4e054c87/2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf",
+        "filename": "2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf",
+        "size": 698455,
         "type": "application/pdf",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3af3506cf3caa4368a6b8356341f944e/b43d3959",
-            "width": 25,
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d49eeb89e1c1ce3d71b84c5e8d9d0f8f/970f4087",
+            "width": 51,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e8c6a3cca9040bb7712789858025f5e1/5996bf43",
-            "width": 362,
-            "height": 512
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2ad7ca22fe1f882a88e8c798b6bec31c/6fc9b918",
+            "width": 512,
+            "height": 362
           }
         }
       }
     ],
     "lieux": [
-      "recLVrdGzklj7mmLE"
+      "recTr9BzAt1jG9yaJ"
     ],
-    "titre": "guide imuse",
+    "titre": "test PDf paysage",
     "cover_lieux": [
       "recLVrdGzklj7mmLE"
     ]
@@ -164,34 +160,31 @@
       "lieux": [
         "recLVrdGzklj7mmLE"
       ],
-      "titre": "guide imuse",
-      "cover_lieux": [
-        "recLVrdGzklj7mmLE"
-      ]
+      "titre": "guide imuse"
     }
   ],
   "Attachments (from cover_media)": [
     {
-      "id": "att4NYvS29N3xV1gd",
-      "url": "https://dl.airtable.com/.attachments/66aab8e9b98b215854e9564de20870fa/4d211f58/guide_imuse_0.pdf",
-      "filename": "guide_imuse_0.pdf",
-      "size": 2407902,
+      "id": "attnu1naoe2aOrlcG",
+      "url": "https://dl.airtable.com/.attachments/8861e9e16292aa34ba0f61f1b9d2f3ab/4e054c87/2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf",
+      "filename": "2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf",
+      "size": 698455,
       "type": "application/pdf",
       "thumbnails": {
         "small": {
-          "url": "https://dl.airtable.com/.attachmentThumbnails/3af3506cf3caa4368a6b8356341f944e/b43d3959",
-          "width": 25,
+          "url": "https://dl.airtable.com/.attachmentThumbnails/d49eeb89e1c1ce3d71b84c5e8d9d0f8f/970f4087",
+          "width": 51,
           "height": 36
         },
         "large": {
-          "url": "https://dl.airtable.com/.attachmentThumbnails/e8c6a3cca9040bb7712789858025f5e1/5996bf43",
-          "width": 362,
-          "height": 512
+          "url": "https://dl.airtable.com/.attachmentThumbnails/2ad7ca22fe1f882a88e8c798b6bec31c/6fc9b918",
+          "width": 512,
+          "height": 362
         }
       }
     }
   ],
-  "dernière modification": "2021-09-07T13:35:53.000Z",
+  "dernière modification": "2021-09-20T09:28:55.000Z",
   "fichiers (from médias)": [
     {
       "id": "att4NYvS29N3xV1gd",
