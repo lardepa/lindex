@@ -10,9 +10,9 @@ const FilterValueIcons: React.FC<{ filterKey: string; value: string }> = ({ filt
     case "Logement":
       return <img src={LogementSVG} alt="Logement" />;
     case "Équipement":
-      return <img src={EquipementSVG} alt="Logement" />;
+      return <img src={EquipementSVG} alt="Équipement" />;
     case "Espace Public":
-      return <img src={EspacePublicSVG} alt="Logement" />;
+      return <img src={EspacePublicSVG} alt="Espace Public" />;
     default:
       return null;
   }
