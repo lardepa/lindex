@@ -5,7 +5,7 @@ import { DestinationSVG } from "../map/marker-icon";
 
 export const LieuItem: React.FC<{ lieu: LieuType; className?: string }> = ({ lieu, className }) => (
   <LinkPreview
-    to={`/lieu/${lieu.id}`}
+    to={`/lieux/${lieu.id}`}
     className={`menu-item selected d-flex align-items-center ${className}`}
     key={lieu.id}
   >

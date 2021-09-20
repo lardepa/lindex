@@ -23,8 +23,9 @@ export const routes: RouteDefinition[] = [
     redirect: "/",
     routes: [
       {
-        path: "/lieu/:id",
-        component: LieuPage,
+        path: "/lieux",
+        redirect: "/explorer",
+        routes: [{ path: "/:id", component: LieuPage }],
       },
       {
         path: "/",

@@ -1,6 +1,6 @@
 // todo : unify menu styles
 .menu-item {
-  border-top: 1px solid black;
+  border-top: $menu_border;
   padding: 0.5rem 1rem;
   text-decoration: none;
   cursor: pointer; //some menu item are not <a>
@@ -12,7 +12,7 @@
   flex-direction: column;
 
   .menu-item:last-child {
-    border-bottom: 1px solid black;
+    border-bottom: $menu_border;
   }
   .about-item {
     font-size: 1rem;
@@ -26,8 +26,8 @@
 
   .menu-item {
     border-top: none;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
+    border-bottom: $menu_border;
+    border-left: $menu_border;
     text-align: left;
     grid-row: menu;
   }

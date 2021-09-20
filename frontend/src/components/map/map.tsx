@@ -41,7 +41,7 @@ export const Map: React.FC<MapProps> = (props) => {
           >
             <Popup className="lieu-popup">
               {lieu.cover_media && <Media media={lieu.cover_media} />}
-              <LinkPreview to={`/lieu/${lieu.id}`}>
+              <LinkPreview to={`/lieux/${lieu.id}`}>
                 <h4>{lieu.nom}</h4>
               </LinkPreview>
               <div className="metadata">

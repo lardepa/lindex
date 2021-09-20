@@ -5,6 +5,7 @@ import { Logo } from "../components/logo";
 import { VerticalMenu } from "../components/layout/vertical-menu";
 import { useGetList } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
+import { NewsCarousel } from "../components/news";
 
 export const Home: React.FC<{}> = () => {
   const [lieux, loading] = useGetList<LieuType>("lieux");
@@ -14,12 +15,11 @@ export const Home: React.FC<{}> = () => {
       <div className="row full-height no-gutters">
         <div className="col-sm-6 col-lg-4 col-xl-3 px-0 full-responsive-height overflow-auto d-flex flex-column justify-content-between">
           <Logo />
-          <div className="presentation">
-            Texte de présentation de la cartographie de l'Ardepa... azebzoae hzaomi jezmoejzami zjmazioj mzaioej zamijza
-            miozaje mzoaij ezmaoijzmoijza emoiza jmzioj
+          <div className="presentation">Une cartographie de l'architecture en Pays de la Loire.</div>
+          <div>
+            <NewsCarousel />
+            <VerticalMenu />
           </div>
-          {/* TODO add "in home" card */}
-          <VerticalMenu />
         </div>
         <div className="col-sm-6 col-lg-8 col-xl-9 px-0">
           {!loading && lieux && <Map lieux={lieux} className="full-responsive-height" />}
