@@ -8,6 +8,7 @@ import ReactMarkdown from "react-markdown";
 import { Map } from "../components/map/map";
 import { LieuItem } from "../components/lieu/lieu-item";
 import { LinkPreview } from "../components/link-preview";
+import { DestinationSVG } from "../components/map/marker-icon";
 
 export const SelectionPage: React.FC<{}> = () => {
   const { id } = useParams<{ id: string }>();
@@ -54,11 +55,17 @@ export const SelectionPage: React.FC<{}> = () => {
               <div className="long-text p-3" style={{ gridArea: "main-content" }}>
                 <ReactMarkdown>{selection?.édito}</ReactMarkdown>
               </div>
-              <div className="horizontal-carousel" style={{ gridArea: "footer", overflowX: "auto", height: "25vh" }}>
+              <div className="horizontal-carousel" style={{ gridArea: "footer" }}>
                 {selection.lieux.map(
                   (l) =>
                     (l.cover_media || l.médias?.[0]) && (
-                      <Media media={l.cover_media || (l.médias?.[0] as MediaType)} forceRatio="force-height" />
+                      <LinkPreview to={`/lieux/${l.id}`} className="lieu-card">
+                        <span className="title">
+                          <img src={DestinationSVG(l.type.type_destination)} alt={l.type.type_destination} />
+                          {l.nom}
+                        </span>
+                        <Media media={l.cover_media || (l.médias?.[0] as MediaType)} forceRatio="force-height" cover />
+                      </LinkPreview>
                     ),
                 )}
               </div>
