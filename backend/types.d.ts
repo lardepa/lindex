@@ -48,6 +48,7 @@ interface LieuRoot {
   status: Status;
   présentation: string;
   date: string; // approximate date not to be parsed as date
+  "en une"?: boolean;
 }
 
 // complete version after foreign key completion
@@ -113,6 +114,7 @@ interface SelectionRoot {
   status: Status;
   introduction: string;
   édito: string;
+  "en une"?: boolean;
 }
 
 export interface SelectionAirtable extends SelectionRoot {
@@ -132,6 +134,7 @@ interface ParcoursRoot {
   status: Status;
   date?: Date;
   expédition?: boolean;
+  "en une"?: boolean;
 }
 export interface ParcoursAirtable extends ParcoursRoot {
   lieux: string[];
@@ -143,4 +146,12 @@ export interface ParcoursType extends ParcoursRoot {
   lieux: LieuType[];
   cover_media?: MediaType;
   médias?: MediaType[];
+}
+
+export interface NewsType {
+  id: string;
+  type: "lieu" | "parcours" | "selection";
+  lastModification: Date;
+  cover_media: MediaType;
+  title: string;
 }

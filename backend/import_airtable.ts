@@ -1,7 +1,7 @@
 import { AirtableBase } from "airtable/lib/airtable_base";
 import fs from "fs";
 import Airtable from "airtable";
-import { flatten, identity, keys, mapValues, pickBy, values } from "lodash";
+import { flatten, keys, mapValues, sortBy, values } from "lodash";
 import https from "https";
 import {
   Dataset,
@@ -275,4 +275,42 @@ importAllTables().then(async (dataset) => {
     }
   );
   saveModelOnDisk("selections", selections);
+  // en une objects
+  const news = sortBy(
+    [
+      ...values(lieux)
+        .filter((l) => l["en une"])
+        .map((l) => ({
+          id: l.id,
+          type: "lieux",
+          cover_media: l.cover_media,
+          title: l.nom,
+          lastModification: l["dernière modification"],
+        })),
+      ...values(selections)
+        .filter((s) => s["en une"])
+        .map((s) => ({
+          id: s.id,
+          type: "selections",
+          cover_media: s.portrait,
+          title: s.invité,
+          lastModification: s["dernière modification"],
+        })),
+      ...values(parcours)
+        .filter((l) => l["en une"])
+        .map((p) => ({
+          id: p.id,
+          type: "parcours",
+          cover_media: p.cover_media,
+          title: p.nom,
+          lastModification: p["dernière modification"],
+        })),
+    ],
+    (o) => o.lastModification
+  );
+  fs.writeFileSync(
+    `${process.env.DATA_PATH}/data/news.json`,
+    JSON.stringify(news, null, 2)
+  );
+  console.log(`data/news.json updated`);
 });
