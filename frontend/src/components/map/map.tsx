@@ -11,7 +11,7 @@ import { Media } from "../media/media";
 import { MarkerIcon } from "./marker-icon";
 import { CenterMap } from "./center-map";
 import { LinkPreview } from "../link-preview";
-import { prettyPrintValueList } from "../../utils";
+import { MetadataField } from "../lieu/lieu";
 
 interface MapProps {
   lieux: LieuType[];
@@ -40,29 +40,30 @@ export const Map: React.FC<MapProps> = (props) => {
             position={lieu.geolocalisation as LatLngExpression}
           >
             <Popup className="lieu-popup">
-              {lieu.cover_media && <Media media={lieu.cover_media} />}
-              <LinkPreview to={`/lieux/${lieu.id}`}>
-                <h4>{lieu.nom}</h4>
-              </LinkPreview>
-              <div className="metadata">
-                <div>
+              <LinkPreview className="d-flex flex-column" to={`/lieux/${lieu.id}`}>
+                <h5>{lieu.nom}</h5>
+
+                {lieu.cover_media && <Media media={lieu.cover_media} cover forceRatio="force-width" />}
+                <div className="metadata-panel">
                   {lieu.maitre_oeuvre && (
-                    <span className="field">
-                      <span className="label">Maître d'œuvre</span>{" "}
-                      <span className="info">{prettyPrintValueList(lieu.maitre_oeuvre?.map((m) => m.nom))}</span>
-                    </span>
+                    <MetadataField
+                      filterKey="moeuvre"
+                      label="Maître d'œuvre"
+                      value={lieu.maitre_oeuvre.map((m) => m.nom)}
+                    />
                   )}
-                  <span className="field">
-                    <span className="label">Date</span> <span className="info">{lieu.date}</span>
-                  </span>
+                  {lieu.date && <MetadataField filterKey="date" label="Date" value={lieu.date} noLink />}
+                  {lieu.type && <MetadataField filterKey="type" label="Typologie" value={lieu.type.destination} />}
+
+                  {lieu.distinctions && (
+                    <>
+                      {lieu.distinctions.map((d, i) => (
+                        <MetadataField filterKey="dist" key={i} label="Récompense" value={d.nom} />
+                      ))}
+                    </>
+                  )}
                 </div>
-                <div>
-                  {" "}
-                  <span className="field">
-                    <span className="label">Typologie</span> <span className="info">{lieu.type?.destination}</span>
-                  </span>
-                </div>
-              </div>
+              </LinkPreview>
             </Popup>
           </Marker>
         ))}

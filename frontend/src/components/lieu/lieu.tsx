@@ -4,30 +4,26 @@ import { LieuType } from "../../types";
 import { LinkPreview } from "../link-preview";
 import { Media } from "../media/media";
 
-const MetadataField: React.FC<{ label: string; filterKey: string; value: string | string[]; noLink?: Boolean }> = ({
-  label,
-  value,
-  filterKey,
-  noLink,
-}) => {
-  const values: string[] = Array.isArray(value) ? value : [value];
-  return (
-    <div className="field">
-      <span className="label">{label}</span>
-      {values?.map((v, i) => (
-        <>
-          {!noLink ? (
-            <LinkPreview key={i} to={`/explorer?${filterKey}=${v}`} className="value">
-              {v}
-            </LinkPreview>
-          ) : (
-            <span>{v}</span>
-          )}
-        </>
-      ))}
-    </div>
-  );
-};
+export const MetadataField: React.FC<{ label: string; filterKey: string; value: string | string[]; noLink?: Boolean }> =
+  ({ label, value, filterKey, noLink }) => {
+    const values: string[] = Array.isArray(value) ? value : [value];
+    return (
+      <div className="field">
+        <span className="label">{label}</span>
+        {values?.map((v, i) => (
+          <>
+            {!noLink ? (
+              <LinkPreview key={i} to={`/explorer?${filterKey}=${v}`} className="value">
+                {v}
+              </LinkPreview>
+            ) : (
+              <span>{v}</span>
+            )}
+          </>
+        ))}
+      </div>
+    );
+  };
 
 export const Lieu: React.FC<{ lieu: LieuType }> = ({ lieu }) => (
   <>

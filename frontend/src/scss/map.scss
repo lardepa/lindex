@@ -9,5 +9,30 @@
     margin: 0;
     display: flex;
     flex-direction: column;
+    background-color: $color_explorer;
+
+    .metadata-panel {
+      background-color: inherit;
+      border-top: unset;
+      font-weight: bold;
+
+      .value {
+        font-family: $default_font;
+      }
+    }
+    a {
+      color: $color_default_text;
+      .media {
+        width: 100%;
+      }
+      h5 {
+        padding: 0.8rem;
+        font-weight: bold;
+        min-width: 301px;
+
+        font-family: $technical_font;
+      }
+      text-decoration: none;
+    }
   }
 }

@@ -5,17 +5,27 @@
   padding: 0.5em;
   flex-wrap: wrap;
   .field {
+    margin-top: 0.3em;
     margin-right: 1em;
-    line-height: 3rem;
+    line-height: 1.6em;
+    align-items: center;
+    justify-content: start;
+    display: flex;
+    flex-wrap: wrap;
+
     .label {
       font-family: $technical_font;
       margin-right: 0.5em;
       font-weight: normal;
+      white-space: nowrap;
+      // margin top to align fonts
+      margin-top: -0.3em;
     }
     .value {
       background-color: white;
+      white-space: nowrap;
       border-radius: 1em;
-      padding: 0.5em;
+      padding: 0.3em 0.6em;
       margin-right: 0.5em;
       text-decoration: none;
     }
