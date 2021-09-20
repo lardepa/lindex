@@ -1,0 +1,164 @@
+{
+  "id": "recFcTJxRycqAdsQr",
+  "nom": "truc",
+  "dernière modification": "2021-09-20T22:00:34.000Z",
+  "médias": [
+    {
+      "id": "rec18MwuKXo0UlYF2",
+      "fichiers": [
+        {
+          "id": "att4NYvS29N3xV1gd",
+          "url": "https://dl.airtable.com/.attachments/66aab8e9b98b215854e9564de20870fa/4d211f58/guide_imuse_0.pdf",
+          "filename": "guide_imuse_0.pdf",
+          "size": 2407902,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3af3506cf3caa4368a6b8356341f944e/b43d3959",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e8c6a3cca9040bb7712789858025f5e1/5996bf43",
+              "width": 362,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recLVrdGzklj7mmLE",
+        "recFcTJxRycqAdsQr"
+      ],
+      "titre": "guide imuse"
+    },
+    {
+      "id": "rec0LseZElWit1Xb7",
+      "url": "https://vimeo.com/500050251",
+      "parcours": [
+        "recyxl64SW35uLcjC"
+      ],
+      "titre": "expédition banane - brasserie 2/2",
+      "type": "video",
+      "lieux": [
+        "recFcTJxRycqAdsQr"
+      ]
+    }
+  ],
+  "fichiers (from médias)": [
+    {
+      "id": "att4NYvS29N3xV1gd",
+      "url": "https://dl.airtable.com/.attachments/66aab8e9b98b215854e9564de20870fa/4d211f58/guide_imuse_0.pdf",
+      "filename": "guide_imuse_0.pdf",
+      "size": 2407902,
+      "type": "application/pdf",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/3af3506cf3caa4368a6b8356341f944e/b43d3959",
+          "width": 25,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/e8c6a3cca9040bb7712789858025f5e1/5996bf43",
+          "width": 362,
+          "height": 512
+        }
+      }
+    }
+  ],
+  "cover_media": {
+    "id": "rechw9M38kNeCsbK3",
+    "fichiers": [
+      {
+        "id": "attjtVt38kKl5UTlg",
+        "width": 1600,
+        "height": 1200,
+        "url": "https://dl.airtable.com/.attachments/a42af1ca880d2756cad555215983028d/333a150a/project_photo_gallery.jpeg",
+        "filename": "project_photo_gallery.jpeg",
+        "size": 284206,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bd99223e80479db67576e5afc559e7c6/d9d06445",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f442718748cec8208e958f18c97bbe1f/79e7c37e",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4de3d77206dc116250c7e8fdf00284e4/de23df50",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "lieux": [
+      "recTr9BzAt1jG9yaJ"
+    ],
+    "credits": "Philippe Orel",
+    "type": "photo",
+    "cover_lieux": [
+      "recFcTJxRycqAdsQr"
+    ]
+  },
+  "Attachments (from cover_media)": [
+    {
+      "id": "attjtVt38kKl5UTlg",
+      "width": 1600,
+      "height": 1200,
+      "url": "https://dl.airtable.com/.attachments/a42af1ca880d2756cad555215983028d/333a150a/project_photo_gallery.jpeg",
+      "filename": "project_photo_gallery.jpeg",
+      "size": 284206,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/bd99223e80479db67576e5afc559e7c6/d9d06445",
+          "width": 48,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/f442718748cec8208e958f18c97bbe1f/79e7c37e",
+          "width": 683,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/.attachmentThumbnails/4de3d77206dc116250c7e8fdf00284e4/de23df50",
+          "width": 3000,
+          "height": 3000
+        }
+      }
+    }
+  ],
+  "type": {
+    "id": "recgBvHbjDyN7yskz",
+    "type_destination": "Équipement",
+    "destination": "Crêche",
+    "lieux": [
+      "recFcTJxRycqAdsQr"
+    ]
+  },
+  "sélections": [
+    {
+      "id": "recNOfjWkwIQ7wPig",
+      "portrait": [
+        "rec09fZqSVXpUydK2"
+      ],
+      "invité": "Paul Girard",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recLVrdGzklj7mmLE",
+        "recFcTJxRycqAdsQr",
+        "recl5KPgc3zjCrnjA"
+      ],
+      "status": "Publié",
+      "en une": true,
+      "édito": "Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+      "dernière modification": "2021-09-20T22:00:36.000Z"
+    }
+  ],
+  "geolocalisation": null
+}

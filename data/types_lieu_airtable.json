@@ -2,12 +2,18 @@
   "recKz37RIU8kUf2cu": {
     "id": "recKz37RIU8kUf2cu",
     "type_destination": "Espace public",
-    "destination": "Place"
+    "destination": "Place",
+    "lieux": [
+      "recl5KPgc3zjCrnjA"
+    ]
   },
   "recgBvHbjDyN7yskz": {
     "id": "recgBvHbjDyN7yskz",
     "type_destination": "Équipement",
-    "destination": "Crêche"
+    "destination": "Crêche",
+    "lieux": [
+      "recFcTJxRycqAdsQr"
+    ]
   },
   "recrpFA9KQQobRh6X": {
     "id": "recrpFA9KQQobRh6X",

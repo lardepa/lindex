@@ -33,7 +33,10 @@
       "recNOfjWkwIQ7wPig"
     ],
     "titre": "Paul Anomalie",
-    "crédits": "Alexis Jacomy"
+    "credits": "Alexis Jacomy",
+    "cover_lieux": [
+      "recl5KPgc3zjCrnjA"
+    ]
   },
   "rec0LseZElWit1Xb7": {
     "id": "rec0LseZElWit1Xb7",
@@ -42,7 +45,10 @@
       "recyxl64SW35uLcjC"
     ],
     "titre": "expédition banane - brasserie 2/2",
-    "type": "video"
+    "type": "video",
+    "lieux": [
+      "recFcTJxRycqAdsQr"
+    ]
   },
   "rec18MwuKXo0UlYF2": {
     "id": "rec18MwuKXo0UlYF2",
@@ -68,7 +74,8 @@
       }
     ],
     "lieux": [
-      "recLVrdGzklj7mmLE"
+      "recLVrdGzklj7mmLE",
+      "recFcTJxRycqAdsQr"
     ],
     "titre": "guide imuse"
   },
@@ -122,7 +129,7 @@
       "recTr9BzAt1jG9yaJ"
     ],
     "titre": "Visite du chantier LAB",
-    "crédits": "L'ARDEPA",
+    "credits": "L'ARDEPA",
     "type": "photo"
   },
   "recTm9l1b9USK625B": {
@@ -194,8 +201,11 @@
     "lieux": [
       "recTr9BzAt1jG9yaJ"
     ],
-    "crédits": "Philippe Orel",
-    "type": "photo"
+    "credits": "Philippe Orel",
+    "type": "photo",
+    "cover_lieux": [
+      "recFcTJxRycqAdsQr"
+    ]
   },
   "reciQiKc6ZjKoNX2E": {
     "id": "reciQiKc6ZjKoNX2E",
@@ -224,7 +234,7 @@
       "recTr9BzAt1jG9yaJ"
     ],
     "titre": "Formulaire d'adhésion",
-    "crédits": "L'Ardepa",
+    "credits": "L'Ardepa",
     "type": "pdf"
   },
   "recjGz63Hv79VBMPA": {
