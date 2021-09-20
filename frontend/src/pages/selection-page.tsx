@@ -57,7 +57,9 @@ export const SelectionPage: React.FC<{}> = () => {
               <div className="horizontal-carousel" style={{ gridArea: "footer", overflowX: "auto", height: "25vh" }}>
                 {selection.lieux.map(
                   (l) =>
-                    (l.cover_media || l.médias?.[0]) && <Media media={l.cover_media || (l.médias?.[0] as MediaType)} />,
+                    (l.cover_media || l.médias?.[0]) && (
+                      <Media media={l.cover_media || (l.médias?.[0] as MediaType)} forceRatio="force-height" />
+                    ),
                 )}
               </div>
             </>

@@ -17,8 +17,9 @@ const PDFLoader: React.FC<{ width: number | undefined; height: number | undefine
 interface PDFProps {
   file: string;
   ratio: number | undefined;
+  forceRatio?: "force-height" | "force-width";
 }
-const _PDF: React.FC<PDFProps & SizeState> = ({ file, ratio, width, height }) => {
+const _PDF: React.FC<PDFProps & SizeState> = ({ file, ratio, forceRatio, width, height }) => {
   const [numPages, setNumPages] = useState<number | null>(null);
   const [pageNumber, setPageNumber] = useState<number>(1);
 
@@ -26,11 +27,16 @@ const _PDF: React.FC<PDFProps & SizeState> = ({ file, ratio, width, height }) =>
     setNumPages(numPages);
   }
   const pageSelectionHeight = 40;
-  const pageWidth = ratio && ratio < 1 ? width - (window.scrollbars ? 2 : 0) : undefined;
-  const pageHeight = ratio && ratio < 1 ? undefined : height - (numPages && numPages > 1 ? pageSelectionHeight : 0);
+  const pageWidth =
+    forceRatio === "force-width" || (!forceRatio && ratio && ratio <= 1)
+      ? width - (window.scrollbars ? 2 : 0)
+      : undefined;
+  const pageHeight =
+    forceRatio === "force-height" || (!forceRatio && ratio && ratio >= 1)
+      ? height - (numPages && numPages > 1 ? pageSelectionHeight : 0)
+      : undefined;
   const realWidth = pageWidth || (pageHeight && pageHeight / (ratio || 1));
   const realHeight = pageHeight || (pageWidth && pageWidth * (ratio || 1));
-  console.log(ratio, height, pageHeight, realHeight);
   const buttonStyle = { padding: "0.3rem" };
   return (
     <div className="d-flex flex-column align-content-center">

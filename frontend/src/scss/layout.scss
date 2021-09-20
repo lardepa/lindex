@@ -93,12 +93,12 @@
 .media-container:last-child {
   margin-bottom: 0;
 }
-.force-landscape,
-.force-landscape > * {
+.force-width,
+.force-width > * {
   width: 100%;
 }
-.force-portrait,
-.force-portrait > * {
+.force-height,
+.force-height > * {
   height: 100%;
 }
 .horizontal-carousel {

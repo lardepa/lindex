@@ -4,7 +4,10 @@ import Embed from "react-tiny-oembed";
 import config from "../../config";
 import PDF from "./pdf";
 
-export const Media: React.FC<{ media: MediaType }> = ({ media }) => {
+export const Media: React.FC<{ media: MediaType; forceRatio?: "force-height" | "force-width" }> = ({
+  media,
+  forceRatio,
+}) => {
   // media as files
   if (media.fichiers && media.fichiers.length > 0) {
     return (
@@ -16,10 +19,15 @@ export const Media: React.FC<{ media: MediaType }> = ({ media }) => {
             case "pdf":
               // PDF file is stored under full quality (other are thumbnail of first page)
               const ratio: number | undefined = f.thumbnails && f.thumbnails?.large.height / f.thumbnails?.large.width;
-              const forceRatio = ratio && ratio > 1 ? "force-portrait" : "force-landscape";
+              if (!forceRatio) forceRatio = ratio && ratio > 1 ? "force-height" : "force-width";
               return (
                 <div className={forceRatio}>
-                  <PDF key={f.id} file={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`} ratio={ratio} />
+                  <PDF
+                    key={f.id}
+                    file={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`}
+                    ratio={ratio}
+                    forceRatio={forceRatio}
+                  />
                 </div>
               );
             default:
