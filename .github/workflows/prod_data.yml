@@ -6,6 +6,9 @@ name: Prod Data
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  # update code on prod might impact import code
+  push:
+    branches: [prod]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
