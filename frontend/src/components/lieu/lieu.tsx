@@ -50,7 +50,7 @@ export const Lieu: React.FC<{ lieu: LieuType }> = ({ lieu }) => (
         </div>
       </div>
 
-      <div className="metadata metadata-panel flex-shrink-0">
+      <div className=" metadata-panel flex-shrink-0">
         {lieu.maitre_oeuvre && (
           <MetadataField filterKey="moeuvre" label="Maître d'œuvre" value={lieu.maitre_oeuvre.map((m) => m.nom)} />
         )}
