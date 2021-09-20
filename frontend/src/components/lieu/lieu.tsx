@@ -13,7 +13,11 @@ export const MetadataField: React.FC<{ label: string; filterKey: string; value: 
         {values?.map((v, i) => (
           <>
             {!noLink ? (
-              <LinkPreview key={i} to={`/explorer?${filterKey}=${v}`} className="value">
+              <LinkPreview
+                key={i}
+                to={`/explorer?${encodeURIComponent(filterKey)}=${encodeURIComponent(v)}`}
+                className="value"
+              >
                 {v}
               </LinkPreview>
             ) : (
