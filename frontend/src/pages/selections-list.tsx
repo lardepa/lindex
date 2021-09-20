@@ -21,7 +21,11 @@ export const SelectionsListPage: React.FC<{}> = () => {
             {selections?.map((s) => (
               <LinkPreview to={`/selections/${s.id}`}>
                 <div key={s.id} className="parcours-card">
-                  {s.portrait && <Media media={s.portrait} />}
+                  {s.portrait && (
+                    <div className="parcours-cover">
+                      <Media media={s.portrait} />
+                    </div>
+                  )}
                   <div className="parcours-title">
                     <h5>{s.invité}</h5>
                     <h6>TODO: add profession</h6>

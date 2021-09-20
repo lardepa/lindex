@@ -21,7 +21,7 @@ export const Media: React.FC<{ media: MediaType; forceRatio?: "force-height" | "
               const ratio: number | undefined = f.thumbnails && f.thumbnails?.large.height / f.thumbnails?.large.width;
               if (!forceRatio) forceRatio = ratio && ratio > 1 ? "force-height" : "force-width";
               return (
-                <div className={forceRatio}>
+                <div className={`media ${forceRatio}`}>
                   <PDF
                     key={f.id}
                     file={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`}
@@ -33,6 +33,7 @@ export const Media: React.FC<{ media: MediaType; forceRatio?: "force-height" | "
             default:
               return (
                 <img
+                  className="media"
                   key={f.id}
                   src={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`}
                   alt={media.nom}

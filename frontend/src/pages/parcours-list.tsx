@@ -21,7 +21,11 @@ export const ParcoursListPage: React.FC<{}> = () => {
             {parcours?.map((p) => (
               <LinkPreview to={`/parcours/${p.id}`}>
                 <div key={p.id} className="parcours-card">
-                  {p.cover_media && <Media media={p.cover_media} />}
+                  {p.cover_media && (
+                    <div className="parcours-cover">
+                      <Media media={p.cover_media} forceRatio="force-width" />
+                    </div>
+                  )}
                   <div className="parcours-title">
                     <h5>{p.nom}</h5>
                     <h6>{p["sous-titre"]}</h6>

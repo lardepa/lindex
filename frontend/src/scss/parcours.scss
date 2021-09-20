@@ -6,23 +6,27 @@
   .parcours-card {
     display: flex;
     flex-direction: row;
-    box-sizing: border-box;
     border-top: 2px black solid;
-    height: 130px;
-    > img {
-      height: 100%;
+
+    .parcours-cover {
+      width: 30%;
+      flex-shrink: 0;
+      .media {
+        width: 100%;
+      }
     }
 
-    > .parcours-title {
+    .parcours-title {
       font-family: $technical_font;
-      flex-grow: 1;
+      flex-shrink: 1;
       padding: 1em;
+      min-height: 64px;
       h5 {
         font-weight: bold;
       }
     }
   }
-  a:last-child > .parcours-list {
+  a:last-child > .parcours-card {
     border-bottom: 2px black solid;
   }
 }
