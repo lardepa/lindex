@@ -1,4 +1,3 @@
-import { min } from "lodash";
 import React, { useState } from "react";
 import { Document, Page, pdfjs } from "react-pdf/dist/esm/entry.webpack";
 import withSize, { SizeState } from "../layout/with-size";

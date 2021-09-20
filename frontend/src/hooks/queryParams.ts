@@ -1,4 +1,4 @@
-import { sortBy, uniq } from "lodash";
+import { sortBy } from "lodash";
 import { useEffect, useState } from "react";
 import { useHistory, useLocation } from "react-router";
 import filtersConfig from "../filters-config";

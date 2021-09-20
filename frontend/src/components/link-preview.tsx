@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
-import { Link, LinkProps } from "react-router-dom";
+import React from "react";
+import { Link } from "react-router-dom";
 
 export const previewURL = (url: string, preview: boolean): string => {
   console.log(url, process.env.PUBLIC_URL);

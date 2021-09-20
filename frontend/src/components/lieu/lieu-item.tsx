@@ -1,6 +1,5 @@
 import React from "react";
 import { LieuType } from "../../types";
-import LogoSVG from "../assets/logo.svg";
 import { LinkPreview } from "../link-preview";
 import { DestinationSVG } from "../map/marker-icon";
 
