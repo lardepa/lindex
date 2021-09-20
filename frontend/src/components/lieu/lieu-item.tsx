@@ -9,7 +9,11 @@ export const LieuItem: React.FC<{ lieu: LieuType; className?: string }> = ({ lie
     className={`menu-item selected d-flex align-items-center ${className}`}
     key={lieu.id}
   >
-    <img src={DestinationSVG(lieu.type.type_destination)} alt={lieu.type.type_destination} className="h-50" />
+    <img
+      src={DestinationSVG(lieu.type.type_destination)}
+      alt={lieu.type.type_destination}
+      style={{ width: "1.8rem" }}
+    />
     <div className="d-flex flex-column mx-3">
       <div>
         <b>{lieu.nom}</b>,{" "}
