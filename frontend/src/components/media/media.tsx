@@ -4,6 +4,13 @@ import Embed from "react-tiny-oembed";
 import config from "../../config";
 import PDF from "./pdf";
 
+const Figure: React.FC<{ url: string; media: MediaType }> = ({ url, media }) => (
+  <figure className="media">
+    <img src={url} alt={media.nom} title={media.nom} />
+    {media.credits && <div className="caption">{media.credits}</div>}
+  </figure>
+);
+
 export const Media: React.FC<{ media: MediaType; cover?: boolean; forceRatio?: "force-height" | "force-width" }> = ({
   media,
   cover,
@@ -32,26 +39,9 @@ export const Media: React.FC<{ media: MediaType; cover?: boolean; forceRatio?: "
                     />
                   </div>
                 );
-              else
-                return (
-                  <img
-                    className="media"
-                    key={f.id}
-                    src={`${config.DATA_URL}/attachments/${f.id}/large.png`}
-                    alt={media.nom}
-                    title={media.credits}
-                  />
-                );
+              else return <Figure key={f.id} url={`${config.DATA_URL}/attachments/${f.id}/large.png`} media={media} />;
             default:
-              return (
-                <img
-                  className="media"
-                  key={f.id}
-                  src={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`}
-                  alt={media.nom}
-                  title={media.credits}
-                />
-              );
+              return <Figure key={f.id} url={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`} media={media} />;
           }
         })}
       </>
