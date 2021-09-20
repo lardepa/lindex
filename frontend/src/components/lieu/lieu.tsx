@@ -1,15 +1,29 @@
 import React from "react";
 import ReactMarkdown from "react-markdown";
 import { LieuType } from "../../types";
+import { LinkPreview } from "../link-preview";
 import { Media } from "../media/media";
 
-const MetadataField: React.FC<{ label: string; value: string | string[] }> = ({ label, value }) => {
+const MetadataField: React.FC<{ label: string; filterKey: string; value: string | string[]; noLink?: Boolean }> = ({
+  label,
+  value,
+  filterKey,
+  noLink,
+}) => {
   const values: string[] = Array.isArray(value) ? value : [value];
   return (
     <div className="field">
       <span className="label">{label}</span>
-      {values?.map((v) => (
-        <span className="value">{v}</span>
+      {values?.map((v, i) => (
+        <>
+          {!noLink ? (
+            <LinkPreview key={i} to={`/explorer?${filterKey}=${v}`} className="value">
+              {v}
+            </LinkPreview>
+          ) : (
+            <span>{v}</span>
+          )}
+        </>
       ))}
     </div>
   );
@@ -37,14 +51,16 @@ export const Lieu: React.FC<{ lieu: LieuType }> = ({ lieu }) => (
       </div>
 
       <div className="metadata metadata-panel flex-shrink-0">
-        {lieu.maitre_oeuvre && <MetadataField label="Maître d'œuvre" value={lieu.maitre_oeuvre.map((m) => m.nom)} />}
-        {lieu.date && <MetadataField label="Date" value={lieu.date} />}
-        {lieu.type && <MetadataField label="Typologie" value={lieu.type.destination} />}
+        {lieu.maitre_oeuvre && (
+          <MetadataField filterKey="moeuvre" label="Maître d'œuvre" value={lieu.maitre_oeuvre.map((m) => m.nom)} />
+        )}
+        {lieu.date && <MetadataField filterKey="date" label="Date" value={lieu.date} noLink />}
+        {lieu.type && <MetadataField filterKey="type" label="Typologie" value={lieu.type.destination} />}
 
         {lieu.distinctions && (
           <>
             {lieu.distinctions.map((d, i) => (
-              <MetadataField key={i} label="Récompense" value={d.nom} />
+              <MetadataField filterKey="dist" key={i} label="Récompense" value={d.nom} />
             ))}
           </>
         )}
