@@ -5,7 +5,7 @@ import { Logo } from "../components/logo";
 import { VerticalMenu } from "../components/layout/vertical-menu";
 import { useGetList } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
-import { NewsCarousel } from "../components/news";
+import { NewsCarousel } from "../components/news-carousel";
 
 export const Home: React.FC<{}> = () => {
   const [lieux, loading] = useGetList<LieuType>("lieux");

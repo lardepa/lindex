@@ -12,6 +12,7 @@ import {
   ParcoursAirtable,
   SelectionAirtable,
   SelectionType,
+  NewsType,
 } from "./types";
 
 // load .env variables into process.env
@@ -276,41 +277,52 @@ importAllTables().then(async (dataset) => {
   );
   saveModelOnDisk("selections", selections);
   // en une objects
-  const news = sortBy(
+  const news: NewsType[] = sortBy(
     [
-      ...values(lieux)
+      ...(values(lieux)
         .filter((l) => l["en une"])
         .map((l) => ({
           id: l.id,
           type: "lieux",
+          status: l.status,
           cover_media: l.cover_media,
           title: l.nom,
           lastModification: l["dernière modification"],
-        })),
-      ...values(selections)
+        })) as NewsType[]),
+      ...(values(selections)
         .filter((s) => s["en une"])
         .map((s) => ({
           id: s.id,
           type: "selections",
+          status: s.status,
           cover_media: s.portrait,
           title: s.invité,
           lastModification: s["dernière modification"],
-        })),
-      ...values(parcours)
+        })) as NewsType[]),
+      ...(values(parcours)
         .filter((l) => l["en une"])
         .map((p) => ({
           id: p.id,
           type: "parcours",
+          status: p.status,
           cover_media: p.cover_media,
           title: p.nom,
           lastModification: p["dernière modification"],
-        })),
+        })) as NewsType[]),
     ],
     (o) => o.lastModification
   );
   fs.writeFileSync(
-    `${process.env.DATA_PATH}/data/news.json`,
+    `${process.env.DATA_PATH}/data/news_preview.json`,
     JSON.stringify(news, null, 2)
+  );
+  fs.writeFileSync(
+    `${process.env.DATA_PATH}/data/news.json`,
+    JSON.stringify(
+      news.filter((n) => n.status === "Publié"),
+      null,
+      2
+    )
   );
   console.log(`data/news.json updated`);
 });

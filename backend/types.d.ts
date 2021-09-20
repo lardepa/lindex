@@ -150,7 +150,8 @@ export interface ParcoursType extends ParcoursRoot {
 
 export interface NewsType {
   id: string;
-  type: "lieu" | "parcours" | "selection";
+  type: "lieux" | "parcours" | "selections";
+  status: Status;
   lastModification: Date;
   cover_media: MediaType;
   title: string;

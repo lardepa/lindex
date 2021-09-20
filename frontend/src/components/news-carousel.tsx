@@ -2,16 +2,15 @@ import React, { useState } from "react";
 import { useGetList } from "../hooks/useAPI";
 import { NewsType } from "../types";
 import { LinkPreview } from "./link-preview";
-import { Loader } from "./loader";
 import { Media } from "./media/media";
 
-const headerTitle = (type: "lieu" | "selection" | "parcours") => {
+const headerTitle = (type: "lieux" | "selections" | "parcours") => {
   switch (type) {
-    case "lieu":
+    case "lieux":
       return "le lieu";
     case "parcours":
       return "le parcours";
-    case "selection":
+    case "selections":
       return "la sélection de";
   }
 };
@@ -20,7 +19,7 @@ const NewsItem: React.FC<{ news: NewsType }> = ({ news }) => (
   <LinkPreview className="d-flex flex-column news" to={`/${news.type}/${news.id}`}>
     <div className="rightHeader">Découvrez {headerTitle(news.type)}</div>
 
-    <Media media={news.cover_media} />
+    <Media media={news.cover_media} cover />
     <div className="title">{news.title}</div>
   </LinkPreview>
 );
@@ -31,7 +30,6 @@ export const NewsCarousel: React.FC<{}> = () => {
 
   return (
     <>
-      <Loader loading={loading} />
       {!loading && news && (
         <div id="news-carousel" className="carousel slide ">
           <div className="carousel-inner">
