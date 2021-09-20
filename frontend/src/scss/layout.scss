@@ -119,9 +119,12 @@ figure {
   height: 100%;
 }
 .horizontal-carousel {
+  width: 100%;
   display: flex;
   justify-content: flex-start;
+  overflow-x: scroll;
   .lieu-card {
+    flex-shrink: 0;
     position: relative;
     margin-left: 1rem;
     margin-bottom: 1rem;
