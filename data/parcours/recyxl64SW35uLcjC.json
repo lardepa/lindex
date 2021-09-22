@@ -20,14 +20,14 @@
     {
       "id": "rec0LseZElWit1Xb7",
       "url": "https://vimeo.com/500050251",
+      "lieux": [
+        "recFcTJxRycqAdsQr"
+      ],
       "parcours": [
         "recyxl64SW35uLcjC"
       ],
       "titre": "expédition banane - brasserie 2/2",
-      "type": "video",
-      "lieux": [
-        "recFcTJxRycqAdsQr"
-      ]
+      "type": "video"
     }
   ],
   "en une": true,
@@ -416,7 +416,9 @@
         {
           "id": "recrOfcUS3a0toY0i",
           "lieux": [
-            "recTr9BzAt1jG9yaJ"
+            "recTr9BzAt1jG9yaJ",
+            "recRlloApjtcScitR",
+            "recXrmOzavWvTwx9T"
           ],
           "nom": "années 2020"
         }

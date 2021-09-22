@@ -1,5 +1,65 @@
 [
   {
+    "id": "recRlloApjtcScitR",
+    "type": {
+      "id": "recNke3kjEMK03uS4",
+      "type_destination": "Logement",
+      "destination": "Habitat participatif",
+      "lieux": [
+        "recRlloApjtcScitR"
+      ]
+    },
+    "maitre_oeuvre": [
+      {
+        "id": "recOl6lYjNOuOGchX",
+        "maitre_oeuvre": [
+          "recRlloApjtcScitR"
+        ],
+        "site_web": "http://www.guineepotin.fr/",
+        "nom": "Guinée Potin Architecture"
+      },
+      {
+        "id": "reciNctuIqiIP1F3N",
+        "maitre_oeuvre": [
+          "recRlloApjtcScitR"
+        ],
+        "site_web": "https://laformeetlusage.com/",
+        "nom": "La forme et l'usage Paysage"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recgzi6JEpvrTHInV",
+        "maitre_ouvrage": [
+          "recRlloApjtcScitR"
+        ],
+        "site_web": "https://www.leprecommun.fr/",
+        "nom": "La pré commun - Collectif d'habitants"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Comment (re)trouver du plaisir à habiter ensemble ? Comment permettre les rencontres sans les imposer ? Comment disposer d’espaces flexibles, polyvalents mais aussi généreux ? L’habitat participatif soulève plusieurs débats qui interrogent à la fois individuellement et collectivement.\n Qu’en est-il de notre capacité à interagir selon un modèle plus horizontal ?\n De quelle manière pouvons-nous inventer ensemble une autre manière d’habiter ? En effet «habiter» dépasse la simple cellule de vie et renvoie à une réalité économique, architecturale, sociale, urbaine, humaine ou encore quotidienne… Si chaque opération d’habitat participatif est unique car intimement liée à ses initiateurs et concepteurs, ce modèle a le mérite de reposer la question de «l’habiter» et cela nous intéresse d’autant plus dans le contexte actuel.\nLe Pré Commun est une opération de 12 logements à la Montagne réalisée par les architectes de l’agence Guinée\\*Potin.\n Accompagnés par Bruno Suner, habitant et également président de HEN (Habitats, Energies, Naturels), ainsi que par Hervé Potin, architecte de l’opération, nous découvrirons ensemble comment le projet du Pré Commun a été rendu possible, entre la constitution d’un groupe, le montage financier et la participation active du groupe au projet d’architecture…\n Découvrons ensemble comment le collectif rend plus fort !\n",
+    "nom": "Le Pré Commun",
+    "périodes": [
+      {
+        "id": "recrOfcUS3a0toY0i",
+        "lieux": [
+          "recTr9BzAt1jG9yaJ",
+          "recRlloApjtcScitR",
+          "recXrmOzavWvTwx9T"
+        ],
+        "nom": "années 2020"
+      }
+    ],
+    "geolocalisation": [
+      47.180246,
+      -1.67942
+    ],
+    "département": "44 Loire-Atlantique",
+    "date": "2021",
+    "dernière modification": "2021-09-21T15:05:09.000Z"
+  },
+  {
     "id": "recTr9BzAt1jG9yaJ",
     "adresse": "23 Bd de Chantenay, 44100 Nantes\n",
     "sélections": [
@@ -126,7 +186,9 @@
       {
         "id": "recrOfcUS3a0toY0i",
         "lieux": [
-          "recTr9BzAt1jG9yaJ"
+          "recTr9BzAt1jG9yaJ",
+          "recRlloApjtcScitR",
+          "recXrmOzavWvTwx9T"
         ],
         "nom": "années 2020"
       }
@@ -413,5 +475,57 @@
         }
       }
     ]
+  },
+  {
+    "id": "recXrmOzavWvTwx9T",
+    "adresse": "16 boulevard de berlin 4000 nantes\n",
+    "maitre_oeuvre": [
+      {
+        "id": "recAzaWtKKkvowDI3",
+        "maitre_oeuvre": [
+          "recXrmOzavWvTwx9T"
+        ],
+        "site_web": "https://raum.fr/",
+        "nom": "raum"
+      },
+      {
+        "id": "recQCBctiWmJvPyre",
+        "maitre_oeuvre": [
+          "recXrmOzavWvTwx9T"
+        ],
+        "site_web": "http://www.d-ici-la.com/",
+        "nom": "D'ici Là Paysage"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recO0mgRjbzwkE5YB",
+        "maitre_ouvrage": [
+          "recXrmOzavWvTwx9T"
+        ],
+        "nom": "Nantes Métropole Aménagement"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Le quartier Euronantes, dont l’îlot 5B vient finaliser la frange Nord à proximité de la gare, participe au désenclavement du quartier Malakoff en le reliant au quartier Dalby, au quartier des Olivettes et par extension au centre historique et au développement Ouest de l’île de Nantes. Le projet s’intègre donc comme outil de connexion entre les usages proposés et le grand paysage, et se construit autour de 3 enjeux majeurs :\n\\- L’échelle humaine comme mesure de référence : cheminements et usages au cœur de l’identité du projet.\n\\- Une architecture qui par la qualité de sa matière et de ses volumes participe à la qualification pérenne du quartier.\n\\- La mise en place des conditions d’une mixité programmatique : dissocier clairement les entités afin de garantir leur modularité et de favoriser les échanges.\n1\\. Une architecture de chemins\nLa fabrique du paysage urbain à l’échelle de l’homme, significative dans la construction du quartier par le travail du « volume du piéton » est abordée dans le projet par un travail précis sur la porosité des rez-de chaussée et sur leur lisibilité. Cette démarche est poursuivie dans l’ensemble du projet en offrant un grand escalier qui non seulement garantit la potentialité publique des toitures en leur offrant un adressage sur rue, mais garantit aussi le caractère piéton des niveaux de parking.\n2\\. La matière de la ville\nLes matériaux utilisés s’intègrent comme première garantie d’un projet économe énergétiquement et financièrement :\n\\- La double peau en briques des bureaux SNCF permet de traiter efficacement les variations de porosité entre les locaux et l’extérieur\n\\- Le parking est construit selon des dispositifs structurels en béton rouge permettant sa transparence maximale et son éventuelle mutation future (éclairage naturel, hauteur sous dalle importante)\n\\- Les logements profitent d’une façade épaisse qui offrent sur toutes ses orientations un jeu subtil de nus extérieurs pour les espaces extérieurs protégés et de grand vitrage au nu intérieur des façades, en marquant la massivité du dispositif structurel.\n\n",
+    "nom": "Viséo",
+    "périodes": [
+      {
+        "id": "recrOfcUS3a0toY0i",
+        "lieux": [
+          "recTr9BzAt1jG9yaJ",
+          "recRlloApjtcScitR",
+          "recXrmOzavWvTwx9T"
+        ],
+        "nom": "années 2020"
+      }
+    ],
+    "geolocalisation": [
+      47.216643,
+      -1.536066
+    ],
+    "département": "44 Loire-Atlantique",
+    "date": "2021",
+    "dernière modification": "2021-09-21T15:12:48.000Z"
   }
 ]

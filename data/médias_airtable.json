@@ -41,14 +41,14 @@
   "rec0LseZElWit1Xb7": {
     "id": "rec0LseZElWit1Xb7",
     "url": "https://vimeo.com/500050251",
+    "lieux": [
+      "recFcTJxRycqAdsQr"
+    ],
     "parcours": [
       "recyxl64SW35uLcjC"
     ],
     "titre": "expédition banane - brasserie 2/2",
-    "type": "video",
-    "lieux": [
-      "recFcTJxRycqAdsQr"
-    ]
+    "type": "video"
   },
   "rec18MwuKXo0UlYF2": {
     "id": "rec18MwuKXo0UlYF2",
@@ -267,5 +267,9 @@
     "cover_lieux": [
       "recLVrdGzklj7mmLE"
     ]
+  },
+  "rectF182SaWWzymqR": {
+    "id": "rectF182SaWWzymqR",
+    "type": "photo"
   }
 }

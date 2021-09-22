@@ -7,12 +7,36 @@
       "recl5KPgc3zjCrnjA"
     ]
   },
+  "recNke3kjEMK03uS4": {
+    "id": "recNke3kjEMK03uS4",
+    "type_destination": "Logement",
+    "destination": "Habitat participatif",
+    "lieux": [
+      "recRlloApjtcScitR"
+    ]
+  },
   "recgBvHbjDyN7yskz": {
     "id": "recgBvHbjDyN7yskz",
     "type_destination": "Équipement",
     "destination": "Crêche",
     "lieux": [
       "recFcTJxRycqAdsQr"
+    ]
+  },
+  "recjX9ygJ9VA81LG6": {
+    "id": "recjX9ygJ9VA81LG6",
+    "type_destination": "Équipement",
+    "destination": "Bureaux",
+    "lieux": [
+      "recXrmOzavWvTwx9T"
+    ]
+  },
+  "recmAxAQJjnH2ft4h": {
+    "id": "recmAxAQJjnH2ft4h",
+    "type_destination": "Équipement",
+    "destination": "Parking silo",
+    "lieux": [
+      "recXrmOzavWvTwx9T"
     ]
   },
   "recrpFA9KQQobRh6X": {
@@ -26,7 +50,10 @@
   "recutlOJwb5QQKd5c": {
     "id": "recutlOJwb5QQKd5c",
     "type_destination": "Logement",
-    "destination": "Collectif"
+    "destination": "Collectif",
+    "lieux": [
+      "recXrmOzavWvTwx9T"
+    ]
   },
   "recvYQkJNzMNb10UF": {
     "id": "recvYQkJNzMNb10UF",
