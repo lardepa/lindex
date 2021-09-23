@@ -1,8 +1,7 @@
-import { APropos } from "../pages/a-propos";
+import { APropos, MentionsLegales } from "../pages/static-pages";
 import { ExplorePage } from "../pages/explore";
 import { Home } from "../pages/home";
 import { LieuPage } from "../pages/lieu-page";
-import { MentionsLegales } from "../pages/mentions-legales";
 import { ParcoursPage } from "../pages/parcours";
 import { ParcoursListPage } from "../pages/parcours-list";
 import { SelectionPage } from "../pages/selection-page";

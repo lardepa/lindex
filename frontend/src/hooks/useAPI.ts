@@ -4,7 +4,7 @@ import config from "../config";
 import { useQueryParamsState } from "./queryParams";
 
 const useGetData = <Data>(
-  modelName: "lieux" | "parcours" | "selections" | "news",
+  modelName: "lieux" | "parcours" | "selections" | "news" | "a_propos" | "mentions_legales",
   id?: string,
 ): [data: Data | null, loading: boolean] => {
   const [data, setData] = useState<Data | null>(null);
@@ -31,7 +31,7 @@ const useGetData = <Data>(
 };
 
 export const useGetList = <Data>(
-  modelName: "lieux" | "parcours" | "selections" | "news",
+  modelName: "lieux" | "parcours" | "selections" | "news" | "a_propos" | "mentions_legales",
 ): [data: Data[] | null, loading: boolean] => {
   return useGetData<Data[]>(modelName);
 };

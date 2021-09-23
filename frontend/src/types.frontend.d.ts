@@ -19,6 +19,7 @@ export interface FilterType {
   label: string; // used in UI for filter menu
   getValueFromLieu: (lieu: LieuType) => string[]; // used to index filter values
   prefixLabel?: string; //used to render the current filter state phrase
+  hide?: boolean;
 }
 
 export interface FiltersParamType {
@@ -29,4 +30,8 @@ export interface FiltersParamType {
 export interface QueryParamsState {
   filtersParams: FiltersParamType[];
   isPreview: boolean;
+}
+export interface StatiPageContent {
+  modelName: "a_propos" | "mentions_legales";
+  title: string;
 }
