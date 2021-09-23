@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 export const previewURL = (url: string, preview: boolean): string => {
-  console.log(url, process.env.PUBLIC_URL);
   const { pathname, searchParams } = new URL(url, process.env.PUBLIC_URL || "http://localhost");
   if (!url) return "";
   // normal mode leave url intact
