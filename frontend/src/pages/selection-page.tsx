@@ -48,8 +48,10 @@ export const SelectionPage: React.FC<{}> = () => {
                     <Media media={selection?.portrait} />
                   </div>
                 )}
-                <div className="metadata p-3">
-                  <h1>{selection.invité}</h1>
+                <div className="p-3">
+                  <h1 className="metadata">{selection.invité}</h1>
+
+                  <ReactMarkdown>{selection?.introduction}</ReactMarkdown>
                 </div>
               </div>
               <div className="long-text p-3" style={{ gridArea: "main-content" }}>
