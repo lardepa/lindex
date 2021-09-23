@@ -55,11 +55,18 @@ export const Map: React.FC<MapProps> = (props) => {
                   )}
                   {lieu.date && <MetadataField filterKey="date" label="Date" value={lieu.date} noLink />}
                   {lieu.type && (
-                    <MetadataField
-                      filterKey="type"
-                      label="Typologie"
-                      value={uniq(lieu.type.map((t) => t.type_destination))}
-                    />
+                    <>
+                      <MetadataField
+                        filterKey="type"
+                        label="Typologie"
+                        value={uniq(lieu.type.map((t) => t.type_destination))}
+                      />
+                      <MetadataField
+                        filterKey="prog"
+                        label="Programme"
+                        value={uniq(lieu.type.map((t) => t.destination))}
+                      />
+                    </>
                   )}
 
                   {lieu.distinctions && (

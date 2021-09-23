@@ -1,3 +1,4 @@
+import { uniq } from "lodash";
 import React from "react";
 import ReactMarkdown from "react-markdown";
 import { LieuType } from "../../types";
@@ -56,7 +57,10 @@ export const Lieu: React.FC<{ lieu: LieuType }> = ({ lieu }) => (
         )}
         {lieu.date && <MetadataField filterKey="date" label="Date" value={lieu.date} noLink />}
         {lieu.type && (
-          <MetadataField filterKey="type" label="Typologie" value={lieu.type.map((t) => t.type_destination)} />
+          <>
+            <MetadataField filterKey="type" label="Typologie" value={uniq(lieu.type.map((t) => t.type_destination))} />
+            <MetadataField filterKey="prog" label="Programme" value={uniq(lieu.type.map((t) => t.destination))} />
+          </>
         )}
 
         {lieu.distinctions && (

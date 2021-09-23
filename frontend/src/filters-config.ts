@@ -8,6 +8,11 @@ const filtersConfig: FilterType[] = [
     getValueFromLieu: (lieu) => uniq(lieu.type.map((t) => t.type_destination)),
   },
   {
+    key: "prog",
+    label: "🏙️ Programme",
+    getValueFromLieu: (lieu) => uniq(lieu.type.map((t) => t.destination)),
+  },
+  {
     key: "moeuvre",
     label: "📐 Maîtres d'œuvre",
     prefixLabel: "signés",
