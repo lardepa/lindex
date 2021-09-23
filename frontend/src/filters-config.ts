@@ -4,13 +4,14 @@ import { FilterType } from "./types.frontend";
 const filtersConfig: FilterType[] = [
   {
     key: "type",
-    label: "🏠 Typologies",
+    label: "🏠 Type",
     getValueFromLieu: (lieu) => uniq(lieu.type.map((t) => t.type_destination)),
   },
   {
     key: "prog",
     label: "🏙️ Programme",
     getValueFromLieu: (lieu) => uniq(lieu.type.map((t) => t.destination)),
+    hide: true,
   },
   {
     key: "moeuvre",
