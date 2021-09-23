@@ -61,7 +61,7 @@ export const SelectionPage: React.FC<{}> = () => {
                     (l.cover_media || l.médias?.[0]) && (
                       <LinkPreview to={`/lieux/${l.id}`} className="lieu-card">
                         <span className="title">
-                          <img src={DestinationSVG(l.type.type_destination)} alt={l.type.type_destination} />
+                          <img src={DestinationSVG(l.type[0]?.type_destination)} alt={l.type[0]?.type_destination} />
                           {l.nom}
                         </span>
                         <Media media={l.cover_media || (l.médias?.[0] as MediaType)} forceRatio="force-height" cover />

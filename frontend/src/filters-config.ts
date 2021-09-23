@@ -1,10 +1,11 @@
+import { uniq } from "lodash";
 import { FilterType } from "./types.frontend";
 
 const filtersConfig: FilterType[] = [
   {
     key: "type",
     label: "🏠 Typologies",
-    getValueFromLieu: (lieu) => [lieu.type.type_destination],
+    getValueFromLieu: (lieu) => uniq(lieu.type.map((t) => t.type_destination)),
   },
   {
     key: "moeuvre",

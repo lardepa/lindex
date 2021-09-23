@@ -4,7 +4,7 @@ import equipementSVG from "./equipement.svg";
 import logementSVG from "./logement.svg";
 import espacePublicSVG from "./espace_public.svg";
 
-const DestinationSVG = (destination: DestinationType): any => {
+const DestinationSVG = (destination: DestinationType | undefined): any => {
   switch (destination) {
     case "Logement":
       return logementSVG;
@@ -24,7 +24,7 @@ const leafletICon = (SVGURL: any) =>
     iconSize: new L.Point(12, 12),
   });
 
-const MarkerIcon = (destination: DestinationType) => {
+const MarkerIcon = (destination: DestinationType | undefined) => {
   return leafletICon(DestinationSVG(destination));
 };
 

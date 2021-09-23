@@ -12,6 +12,7 @@ import { MarkerIcon } from "./marker-icon";
 import { CenterMap } from "./center-map";
 import { LinkPreview } from "../link-preview";
 import { MetadataField } from "../lieu/lieu";
+import { uniq } from "lodash";
 
 interface MapProps {
   lieux: LieuType[];
@@ -36,7 +37,7 @@ export const Map: React.FC<MapProps> = (props) => {
         .map((lieu) => (
           <Marker
             key={lieu.id}
-            icon={MarkerIcon(lieu.type.type_destination)}
+            icon={MarkerIcon(lieu.type[0]?.type_destination)}
             position={lieu.geolocalisation as LatLngExpression}
           >
             <Popup className="lieu-popup">
@@ -53,7 +54,13 @@ export const Map: React.FC<MapProps> = (props) => {
                     />
                   )}
                   {lieu.date && <MetadataField filterKey="date" label="Date" value={lieu.date} noLink />}
-                  {lieu.type && <MetadataField filterKey="type" label="Typologie" value={lieu.type.destination} />}
+                  {lieu.type && (
+                    <MetadataField
+                      filterKey="type"
+                      label="Typologie"
+                      value={uniq(lieu.type.map((t) => t.type_destination))}
+                    />
+                  )}
 
                   {lieu.distinctions && (
                     <>

@@ -2,7 +2,7 @@ import React from "react";
 import { useEffect } from "react";
 import { useState } from "react";
 import { LieuType } from "../types";
-import { every, flatten, some, sortedUniq } from "lodash";
+import { every, flatten, some, sortBy, sortedUniq, uniq } from "lodash";
 import { Map } from "../components/map/map";
 import { FiltersParamType } from "../types.frontend";
 import { useQueryParamsState } from "../hooks/queryParams";
@@ -48,7 +48,7 @@ export const ExplorePage: React.FC<{}> = () => {
           ...options,
           // options are : selected values (to allow unselect) + other available values in remaining lieux
           [filter.key]: sortedUniq(
-            selectedValues.concat(flatten((filteredLieux || []).map((l) => filter.getValueFromLieu(l)))),
+            sortBy(selectedValues.concat(flatten((filteredLieux || []).map((l) => filter.getValueFromLieu(l))))),
           ),
         };
       }, {}),

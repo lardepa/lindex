@@ -59,7 +59,7 @@ export interface LieuType extends LieuRoot {
   périodes?: Periode[];
   médias?: MediaType[];
   cover_media?: MediaType;
-  type: TypeLieu;
+  type: TypeLieu[];
   distinctions?: Distinction[];
   // reverse keys
   sélections?: SelectionAirtable[];

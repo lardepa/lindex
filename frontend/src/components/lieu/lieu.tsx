@@ -55,7 +55,9 @@ export const Lieu: React.FC<{ lieu: LieuType }> = ({ lieu }) => (
           <MetadataField filterKey="moeuvre" label="Maître d'œuvre" value={lieu.maitre_oeuvre.map((m) => m.nom)} />
         )}
         {lieu.date && <MetadataField filterKey="date" label="Date" value={lieu.date} noLink />}
-        {lieu.type && <MetadataField filterKey="type" label="Typologie" value={lieu.type.destination} />}
+        {lieu.type && (
+          <MetadataField filterKey="type" label="Typologie" value={lieu.type.map((t) => t.type_destination)} />
+        )}
 
         {lieu.distinctions && (
           <>

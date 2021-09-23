@@ -11,8 +11,8 @@ const FilterValueIcons: React.FC<{ filterKey: string; value: string }> = ({ filt
       return <img src={LogementSVG} alt="Logement" />;
     case "Équipement":
       return <img src={EquipementSVG} alt="Équipement" />;
-    case "Espace Public":
-      return <img src={EspacePublicSVG} alt="Espace Public" />;
+    case "Espace public":
+      return <img src={EspacePublicSVG} alt="Espace public" />;
     default:
       return null;
   }
