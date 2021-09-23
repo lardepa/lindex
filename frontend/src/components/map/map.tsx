@@ -13,6 +13,7 @@ import { CenterMap } from "./center-map";
 import { LinkPreview } from "../link-preview";
 import { MetadataField } from "../lieu/lieu";
 import { uniq } from "lodash";
+import MapScale from "./map-scale";
 
 interface MapProps {
   lieux: LieuType[];
@@ -28,6 +29,7 @@ export const Map: React.FC<MapProps> = (props) => {
   return (
     <MapContainer center={[47.207562, -1.557635]} zoom={15} scrollWheelZoom={true} className={className}>
       <CenterMap lieux={lieux} />
+      <MapScale options={{ metric: true, imperial: false }} />
       <TileLayer
         attribution={config.MAP_LAYERS[config.MAP_LAYER].TILE_CREDITS}
         url={config.MAP_LAYERS[config.MAP_LAYER].TILE_URL}
