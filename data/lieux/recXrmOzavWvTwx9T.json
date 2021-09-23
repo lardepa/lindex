@@ -57,6 +57,40 @@
   "status": "Publié",
   "présentation": "Le quartier Euronantes, dont l’îlot 5B vient finaliser la frange Nord à proximité de la gare, participe au désenclavement du quartier Malakoff en le reliant au quartier Dalby, au quartier des Olivettes et par extension au centre historique et au développement Ouest de l’île de Nantes. Le projet s’intègre donc comme outil de connexion entre les usages proposés et le grand paysage, et se construit autour de 3 enjeux majeurs :\n\\- L’échelle humaine comme mesure de référence : cheminements et usages au cœur de l’identité du projet.\n\\- Une architecture qui par la qualité de sa matière et de ses volumes participe à la qualification pérenne du quartier.\n\\- La mise en place des conditions d’une mixité programmatique : dissocier clairement les entités afin de garantir leur modularité et de favoriser les échanges.\n1\\. Une architecture de chemins\nLa fabrique du paysage urbain à l’échelle de l’homme, significative dans la construction du quartier par le travail du « volume du piéton » est abordée dans le projet par un travail précis sur la porosité des rez-de chaussée et sur leur lisibilité. Cette démarche est poursuivie dans l’ensemble du projet en offrant un grand escalier qui non seulement garantit la potentialité publique des toitures en leur offrant un adressage sur rue, mais garantit aussi le caractère piéton des niveaux de parking.\n2\\. La matière de la ville\nLes matériaux utilisés s’intègrent comme première garantie d’un projet économe énergétiquement et financièrement :\n\\- La double peau en briques des bureaux SNCF permet de traiter efficacement les variations de porosité entre les locaux et l’extérieur\n\\- Le parking est construit selon des dispositifs structurels en béton rouge permettant sa transparence maximale et son éventuelle mutation future (éclairage naturel, hauteur sous dalle importante)\n\\- Les logements profitent d’une façade épaisse qui offrent sur toutes ses orientations un jeu subtil de nus extérieurs pour les espaces extérieurs protégés et de grand vitrage au nu intérieur des façades, en marquant la massivité du dispositif structurel.\n\n",
   "nom": "Viséo",
+  "cover_media": {
+    "id": "recR0CyEHxK24Jg9r",
+    "fichiers": [
+      {
+        "id": "att5CWH0NN57OHoxF",
+        "width": 1950,
+        "height": 1161,
+        "url": "https://dl.airtable.com/.attachments/083f2cabf2e90bb4b0455441fa864018/4179cb3e/edna.jpg",
+        "filename": "edna.jpg",
+        "size": 315303,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c1f2c153538c729b04ad3bf97b28d6d8/87c7b38d",
+            "width": 60,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8f7ad8f49a360ff90c77157b6e0fec04/5c94d075",
+            "width": 860,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8a55c18febc9acada08d22214f4c50aa/993be327",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "cover_lieux": [
+      "recXrmOzavWvTwx9T"
+    ]
+  },
   "périodes": [
     {
       "id": "recrOfcUS3a0toY0i",
@@ -74,5 +108,5 @@
   ],
   "département": "44 Loire-Atlantique",
   "date": "2021",
-  "dernière modification": "2021-09-21T15:12:48.000Z"
+  "dernière modification": "2021-09-23T10:25:56.000Z"
 }
