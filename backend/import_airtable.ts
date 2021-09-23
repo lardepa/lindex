@@ -13,6 +13,7 @@ import {
   SelectionAirtable,
   SelectionType,
   NewsType,
+  ContenuType,
 } from "./types";
 
 // load .env variables into process.env
@@ -103,6 +104,7 @@ const importAllTables = async (incremental?: boolean) => {
       "sélections",
       "distinctions",
       "parcours",
+      "contenus",
     ]) {
       const incomingData: { [key: string]: any } = await dumpObjects(
         base,
@@ -327,4 +329,24 @@ importAllTables().then(async (dataset) => {
     )
   );
   console.log(`data/news.json updated`);
+  fs.writeFileSync(
+    `${process.env.DATA_PATH}/data/a_propos.json`,
+    JSON.stringify(
+      values(dataset["contenus"]).filter(
+        (n: ContenuType) => n.page === "à propos"
+      ),
+      null,
+      2
+    )
+  );
+  fs.writeFileSync(
+    `${process.env.DATA_PATH}/data/mentions_legales.json`,
+    JSON.stringify(
+      values(dataset["contenus"]).filter(
+        (n: ContenuType) => n.page === "mentions légales"
+      ),
+      null,
+      2
+    )
+  );
 });

@@ -156,3 +156,10 @@ export interface NewsType {
   cover_media: MediaType;
   title: string;
 }
+
+export interface ContenuType {
+  id: string;
+  section: string;
+  page: "à propos" | "mentions légales";
+  contenu: string;
+}
