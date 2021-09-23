@@ -20,14 +20,16 @@
       "dernière modification": "2021-09-20T22:00:36.000Z"
     }
   ],
-  "type": {
-    "id": "recvYQkJNzMNb10UF",
-    "type_destination": "Équipement",
-    "destination": "Restauration",
-    "lieux": [
-      "recLVrdGzklj7mmLE"
-    ]
-  },
+  "type": [
+    {
+      "id": "recvYQkJNzMNb10UF",
+      "type_destination": "Équipement",
+      "destination": "Restauration",
+      "lieux": [
+        "recLVrdGzklj7mmLE"
+      ]
+    }
+  ],
   "maitre_oeuvre": [
     {
       "id": "recvFhyaq6f2ABLWB",
@@ -135,8 +137,7 @@
       "parcours": [
         "recyxl64SW35uLcjC"
       ],
-      "titre": "expédition banane - brasserie",
-      "type": "video"
+      "titre": "expédition banane - brasserie"
     },
     {
       "id": "rec18MwuKXo0UlYF2",
@@ -168,47 +169,5 @@
       "titre": "guide imuse"
     }
   ],
-  "Attachments (from cover_media)": [
-    {
-      "id": "attnu1naoe2aOrlcG",
-      "url": "https://dl.airtable.com/.attachments/8861e9e16292aa34ba0f61f1b9d2f3ab/4e054c87/2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf",
-      "filename": "2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf",
-      "size": 698455,
-      "type": "application/pdf",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/.attachmentThumbnails/d49eeb89e1c1ce3d71b84c5e8d9d0f8f/970f4087",
-          "width": 51,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/.attachmentThumbnails/2ad7ca22fe1f882a88e8c798b6bec31c/6fc9b918",
-          "width": 512,
-          "height": 362
-        }
-      }
-    }
-  ],
-  "dernière modification": "2021-09-20T09:28:55.000Z",
-  "fichiers (from médias)": [
-    {
-      "id": "att4NYvS29N3xV1gd",
-      "url": "https://dl.airtable.com/.attachments/66aab8e9b98b215854e9564de20870fa/4d211f58/guide_imuse_0.pdf",
-      "filename": "guide_imuse_0.pdf",
-      "size": 2407902,
-      "type": "application/pdf",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/.attachmentThumbnails/3af3506cf3caa4368a6b8356341f944e/b43d3959",
-          "width": 25,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/.attachmentThumbnails/e8c6a3cca9040bb7712789858025f5e1/5996bf43",
-          "width": 362,
-          "height": 512
-        }
-      }
-    }
-  ]
+  "dernière modification": "2021-09-20T09:28:55.000Z"
 }

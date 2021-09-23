@@ -63,14 +63,16 @@
           "dernière modification": "2021-09-20T22:00:36.000Z"
         }
       ],
-      "type": {
-        "id": "recrpFA9KQQobRh6X",
-        "type_destination": "Logement",
-        "destination": "Maison",
-        "lieux": [
-          "recTr9BzAt1jG9yaJ"
-        ]
-      },
+      "type": [
+        {
+          "id": "recrpFA9KQQobRh6X",
+          "type_destination": "Logement",
+          "destination": "Maison",
+          "lieux": [
+            "recTr9BzAt1jG9yaJ"
+          ]
+        }
+      ],
       "maitre_oeuvre": [
         {
           "id": "rec40dPyedNC61z9q",
@@ -159,7 +161,6 @@
           }
         ],
         "titre": "façade",
-        "type": "photo",
         "cover_lieux": [
           "recTr9BzAt1jG9yaJ"
         ]
@@ -192,8 +193,7 @@
           "parcours": [
             "recyxl64SW35uLcjC"
           ],
-          "titre": "expédition banane - brasserie",
-          "type": "video"
+          "titre": "expédition banane - brasserie"
         },
         {
           "id": "rechw9M38kNeCsbK3",
@@ -229,7 +229,6 @@
             "recTr9BzAt1jG9yaJ"
           ],
           "credits": "Philippe Orel",
-          "type": "photo",
           "cover_lieux": [
             "recFcTJxRycqAdsQr"
           ]
@@ -261,8 +260,7 @@
             "recTr9BzAt1jG9yaJ"
           ],
           "titre": "Formulaire d'adhésion",
-          "credits": "L'Ardepa",
-          "type": "pdf"
+          "credits": "L'Ardepa"
         },
         {
           "id": "recjGz63Hv79VBMPA",
@@ -332,131 +330,10 @@
             "recTr9BzAt1jG9yaJ"
           ],
           "titre": "Visite du chantier LAB",
-          "credits": "L'ARDEPA",
-          "type": "photo"
+          "credits": "L'ARDEPA"
         }
       ],
-      "Attachments (from cover_media)": [
-        {
-          "id": "attcc8TB1q3eSBQAH",
-          "width": 1080,
-          "height": 675,
-          "url": "https://dl.airtable.com/.attachments/08d2f8f1750a3e1d603ae80d391c8ca3/63ac8975/yoga-music-little-atlantique-yoga-nantes-1-1080x675.jpg",
-          "filename": "yoga-music-little-atlantique-yoga-nantes-1-1080x675.jpg",
-          "size": 101735,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/56eb44641f4bb6caea67480c3d7f6e2c/96acca41",
-              "width": 58,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/1a1a5d3338bb0bf910a8ebe52be989d8/c595cf9a",
-              "width": 819,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/3c0d47f07008190f9ae3abaaf4516792/790b4047",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "dernière modification": "2021-09-20T14:40:25.000Z",
-      "fichiers (from médias)": [
-        {
-          "id": "attjtVt38kKl5UTlg",
-          "width": 1600,
-          "height": 1200,
-          "url": "https://dl.airtable.com/.attachments/a42af1ca880d2756cad555215983028d/333a150a/project_photo_gallery.jpeg",
-          "filename": "project_photo_gallery.jpeg",
-          "size": 284206,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/bd99223e80479db67576e5afc559e7c6/d9d06445",
-              "width": 48,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/f442718748cec8208e958f18c97bbe1f/79e7c37e",
-              "width": 683,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/4de3d77206dc116250c7e8fdf00284e4/de23df50",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        },
-        {
-          "id": "att7UUcDUqziE18qt",
-          "url": "https://dl.airtable.com/.attachments/d9ae801b2a4ce6f18373f55be2ca2c26/7f2b39bf/Bulletin2021.pdf",
-          "filename": "Bulletin2021.pdf",
-          "size": 69241,
-          "type": "application/pdf",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/d5d29a5f5a03283c16c1b3b28e4c8371/d7bc84b9",
-              "width": 25,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/36245d59fc38fbb4ed7eed390ddb8800/20b6fbe4",
-              "width": 362,
-              "height": 512
-            }
-          }
-        },
-        {
-          "id": "attnu1naoe2aOrlcG",
-          "url": "https://dl.airtable.com/.attachments/8861e9e16292aa34ba0f61f1b9d2f3ab/4e054c87/2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf",
-          "filename": "2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf",
-          "size": 698455,
-          "type": "application/pdf",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/d49eeb89e1c1ce3d71b84c5e8d9d0f8f/970f4087",
-              "width": 51,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/2ad7ca22fe1f882a88e8c798b6bec31c/6fc9b918",
-              "width": 512,
-              "height": 362
-            }
-          }
-        },
-        {
-          "id": "att1oYvXYxpMGP5Nv",
-          "width": 1920,
-          "height": 2560,
-          "url": "https://dl.airtable.com/.attachments/7bd451036000fe08c1fb0c4e5d02e9e7/dd7560a6/20201017_115010-1-scaled.jpg",
-          "filename": "20201017_115010-1-scaled.jpg",
-          "size": 1076824,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/7eaf44bed4e5fc072f1f6624e949d4c8/51cada3b",
-              "width": 27,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/f4a4972423c5a3a695b5b839a5e6febb/54de3803",
-              "width": 512,
-              "height": 683
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/4c87dfdab25c1aca1008f839897433a4/50ba5f95",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ]
+      "dernière modification": "2021-09-20T14:40:25.000Z"
     },
     {
       "id": "recLVrdGzklj7mmLE",
@@ -480,14 +357,16 @@
           "dernière modification": "2021-09-20T22:00:36.000Z"
         }
       ],
-      "type": {
-        "id": "recvYQkJNzMNb10UF",
-        "type_destination": "Équipement",
-        "destination": "Restauration",
-        "lieux": [
-          "recLVrdGzklj7mmLE"
-        ]
-      },
+      "type": [
+        {
+          "id": "recvYQkJNzMNb10UF",
+          "type_destination": "Équipement",
+          "destination": "Restauration",
+          "lieux": [
+            "recLVrdGzklj7mmLE"
+          ]
+        }
+      ],
       "maitre_oeuvre": [
         {
           "id": "recvFhyaq6f2ABLWB",
@@ -595,8 +474,7 @@
           "parcours": [
             "recyxl64SW35uLcjC"
           ],
-          "titre": "expédition banane - brasserie",
-          "type": "video"
+          "titre": "expédition banane - brasserie"
         },
         {
           "id": "rec18MwuKXo0UlYF2",
@@ -628,49 +506,7 @@
           "titre": "guide imuse"
         }
       ],
-      "Attachments (from cover_media)": [
-        {
-          "id": "attnu1naoe2aOrlcG",
-          "url": "https://dl.airtable.com/.attachments/8861e9e16292aa34ba0f61f1b9d2f3ab/4e054c87/2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf",
-          "filename": "2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf",
-          "size": 698455,
-          "type": "application/pdf",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/d49eeb89e1c1ce3d71b84c5e8d9d0f8f/970f4087",
-              "width": 51,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/2ad7ca22fe1f882a88e8c798b6bec31c/6fc9b918",
-              "width": 512,
-              "height": 362
-            }
-          }
-        }
-      ],
-      "dernière modification": "2021-09-20T09:28:55.000Z",
-      "fichiers (from médias)": [
-        {
-          "id": "att4NYvS29N3xV1gd",
-          "url": "https://dl.airtable.com/.attachments/66aab8e9b98b215854e9564de20870fa/4d211f58/guide_imuse_0.pdf",
-          "filename": "guide_imuse_0.pdf",
-          "size": 2407902,
-          "type": "application/pdf",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/3af3506cf3caa4368a6b8356341f944e/b43d3959",
-              "width": 25,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/e8c6a3cca9040bb7712789858025f5e1/5996bf43",
-              "width": 362,
-              "height": 512
-            }
-          }
-        }
-      ]
+      "dernière modification": "2021-09-20T09:28:55.000Z"
     },
     {
       "id": "recFcTJxRycqAdsQr",
@@ -693,14 +529,16 @@
           "dernière modification": "2021-09-20T22:00:36.000Z"
         }
       ],
-      "type": {
-        "id": "recgBvHbjDyN7yskz",
-        "type_destination": "Équipement",
-        "destination": "Crêche",
-        "lieux": [
-          "recFcTJxRycqAdsQr"
-        ]
-      },
+      "type": [
+        {
+          "id": "recgBvHbjDyN7yskz",
+          "type_destination": "Équipement",
+          "destination": "Crêche",
+          "lieux": [
+            "recFcTJxRycqAdsQr"
+          ]
+        }
+      ],
       "nom": "truc",
       "cover_media": {
         "id": "rechw9M38kNeCsbK3",
@@ -736,7 +574,6 @@
           "recTr9BzAt1jG9yaJ"
         ],
         "credits": "Philippe Orel",
-        "type": "photo",
         "cover_lieux": [
           "recFcTJxRycqAdsQr"
         ]
@@ -780,60 +617,10 @@
           "parcours": [
             "recyxl64SW35uLcjC"
           ],
-          "titre": "expédition banane - brasserie 2/2",
-          "type": "video"
-        }
-      ],
-      "Attachments (from cover_media)": [
-        {
-          "id": "attjtVt38kKl5UTlg",
-          "width": 1600,
-          "height": 1200,
-          "url": "https://dl.airtable.com/.attachments/a42af1ca880d2756cad555215983028d/333a150a/project_photo_gallery.jpeg",
-          "filename": "project_photo_gallery.jpeg",
-          "size": 284206,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/bd99223e80479db67576e5afc559e7c6/d9d06445",
-              "width": 48,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/f442718748cec8208e958f18c97bbe1f/79e7c37e",
-              "width": 683,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/4de3d77206dc116250c7e8fdf00284e4/de23df50",
-              "width": 3000,
-              "height": 3000
-            }
-          }
+          "titre": "expédition banane - brasserie 2/2"
         }
       ],
       "dernière modification": "2021-09-20T22:00:34.000Z",
-      "fichiers (from médias)": [
-        {
-          "id": "att4NYvS29N3xV1gd",
-          "url": "https://dl.airtable.com/.attachments/66aab8e9b98b215854e9564de20870fa/4d211f58/guide_imuse_0.pdf",
-          "filename": "guide_imuse_0.pdf",
-          "size": 2407902,
-          "type": "application/pdf",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/3af3506cf3caa4368a6b8356341f944e/b43d3959",
-              "width": 25,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/e8c6a3cca9040bb7712789858025f5e1/5996bf43",
-              "width": 362,
-              "height": 512
-            }
-          }
-        }
-      ],
       "geolocalisation": null
     },
     {
@@ -857,14 +644,16 @@
           "dernière modification": "2021-09-20T22:00:36.000Z"
         }
       ],
-      "type": {
-        "id": "recKz37RIU8kUf2cu",
-        "type_destination": "Espace public",
-        "destination": "Place",
-        "lieux": [
-          "recl5KPgc3zjCrnjA"
-        ]
-      },
+      "type": [
+        {
+          "id": "recKz37RIU8kUf2cu",
+          "type_destination": "Espace public",
+          "destination": "Place",
+          "lieux": [
+            "recl5KPgc3zjCrnjA"
+          ]
+        }
+      ],
       "nom": "bidule",
       "cover_media": {
         "id": "rec09fZqSVXpUydK2",
@@ -905,34 +694,6 @@
           "recl5KPgc3zjCrnjA"
         ]
       },
-      "Attachments (from cover_media)": [
-        {
-          "id": "att7oVIjK1NXQSnBi",
-          "width": 1787,
-          "height": 1787,
-          "url": "https://dl.airtable.com/.attachments/28a955a0b9938f3efdb0fa6bd0d212c3/708874b3/photo_anomalie.jpeg",
-          "filename": "photo_anomalie.jpeg",
-          "size": 1742587,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/3ffa7a804f3afa5febc0d64b9bd94e92/bc466b57",
-              "width": 36,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/41ba6634ae7b523d98c5cfee5123471f/a2728e35",
-              "width": 512,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/a386e0b0c613272eeaaf09c4e8ae7c71/e33d07fd",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
       "dernière modification": "2021-09-20T22:00:36.000Z",
       "geolocalisation": null
     }

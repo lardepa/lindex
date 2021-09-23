@@ -1,6 +1,32 @@
 {
   "id": "recXrmOzavWvTwx9T",
   "adresse": "16 boulevard de berlin 4000 nantes\n",
+  "type": [
+    {
+      "id": "recutlOJwb5QQKd5c",
+      "type_destination": "Logement",
+      "destination": "Collectif",
+      "lieux": [
+        "recXrmOzavWvTwx9T"
+      ]
+    },
+    {
+      "id": "recmAxAQJjnH2ft4h",
+      "type_destination": "Équipement",
+      "destination": "Parking silo",
+      "lieux": [
+        "recXrmOzavWvTwx9T"
+      ]
+    },
+    {
+      "id": "recjX9ygJ9VA81LG6",
+      "type_destination": "Équipement",
+      "destination": "Bureaux",
+      "lieux": [
+        "recXrmOzavWvTwx9T"
+      ]
+    }
+  ],
   "maitre_oeuvre": [
     {
       "id": "recAzaWtKKkvowDI3",

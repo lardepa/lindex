@@ -47,8 +47,7 @@
     "parcours": [
       "recyxl64SW35uLcjC"
     ],
-    "titre": "expédition banane - brasserie 2/2",
-    "type": "video"
+    "titre": "expédition banane - brasserie 2/2"
   },
   "rec18MwuKXo0UlYF2": {
     "id": "rec18MwuKXo0UlYF2",
@@ -89,8 +88,7 @@
     "parcours": [
       "recyxl64SW35uLcjC"
     ],
-    "titre": "expédition banane - brasserie",
-    "type": "video"
+    "titre": "expédition banane - brasserie"
   },
   "recF5As2SEQr2DHuF": {
     "id": "recF5As2SEQr2DHuF",
@@ -129,8 +127,7 @@
       "recTr9BzAt1jG9yaJ"
     ],
     "titre": "Visite du chantier LAB",
-    "credits": "L'ARDEPA",
-    "type": "photo"
+    "credits": "L'ARDEPA"
   },
   "recTm9l1b9USK625B": {
     "id": "recTm9l1b9USK625B",
@@ -163,9 +160,14 @@
       }
     ],
     "titre": "façade",
-    "type": "photo",
     "cover_lieux": [
       "recTr9BzAt1jG9yaJ"
+    ]
+  },
+  "reccXP1RszJA4selS": {
+    "id": "reccXP1RszJA4selS",
+    "cover_lieux": [
+      "recRlloApjtcScitR"
     ]
   },
   "rechw9M38kNeCsbK3": {
@@ -202,7 +204,6 @@
       "recTr9BzAt1jG9yaJ"
     ],
     "credits": "Philippe Orel",
-    "type": "photo",
     "cover_lieux": [
       "recFcTJxRycqAdsQr"
     ]
@@ -234,8 +235,7 @@
       "recTr9BzAt1jG9yaJ"
     ],
     "titre": "Formulaire d'adhésion",
-    "credits": "L'Ardepa",
-    "type": "pdf"
+    "credits": "L'Ardepa"
   },
   "recjGz63Hv79VBMPA": {
     "id": "recjGz63Hv79VBMPA",
@@ -269,7 +269,6 @@
     ]
   },
   "rectF182SaWWzymqR": {
-    "id": "rectF182SaWWzymqR",
-    "type": "photo"
+    "id": "rectF182SaWWzymqR"
   }
 }

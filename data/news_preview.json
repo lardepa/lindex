@@ -34,7 +34,6 @@
         }
       ],
       "titre": "façade",
-      "type": "photo",
       "cover_lieux": [
         "recTr9BzAt1jG9yaJ"
       ]
@@ -129,8 +128,7 @@
         "recTr9BzAt1jG9yaJ"
       ],
       "titre": "Visite du chantier LAB",
-      "credits": "L'ARDEPA",
-      "type": "photo"
+      "credits": "L'ARDEPA"
     },
     "title": "Du hangar à Banane à la Brasserie Little Atlantique Brewery"
   }
