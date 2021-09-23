@@ -2,7 +2,7 @@ import React from "react";
 import { useEffect } from "react";
 import { useState } from "react";
 import { LieuType } from "../types";
-import { every, flatten, some, sortBy, sortedUniq, uniq } from "lodash";
+import { every, flatten, some, sortBy, sortedUniq } from "lodash";
 import { Map } from "../components/map/map";
 import { FiltersParamType } from "../types.frontend";
 import { useQueryParamsState } from "../hooks/queryParams";
