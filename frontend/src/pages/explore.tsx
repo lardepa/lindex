@@ -30,13 +30,15 @@ export const ExplorePage: React.FC<{}> = () => {
   useEffect(() => {
     if (lieux && filtersParams.length > 0)
       setFilteredLieux(
-        lieux.filter((l) =>
-          every(filtersParams, ({ filter, values }) =>
-            some(filter.getValueFromLieu(l), (v: string) => values.includes(v)),
-          ),
+        lieux.filter(
+          (l) =>
+            l.geolocalisation &&
+            every(filtersParams, ({ filter, values }) =>
+              some(filter.getValueFromLieu(l), (v: string) => values.includes(v)),
+            ),
         ),
       );
-    if (lieux && filtersParams.length === 0) setFilteredLieux(lieux);
+    if (lieux && filtersParams.length === 0) setFilteredLieux(lieux.filter((l) => l.geolocalisation));
   }, [lieux, filtersParams]);
   // index possible filter options from filteredLieux
   useEffect(() => {
