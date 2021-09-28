@@ -1,0 +1,108 @@
+{
+  "id": "recM6PpcEu5bvmzwd",
+  "adresse": "place du mail, 72003 Allonnes\n",
+  "type": [
+    {
+      "id": "recKz37RIU8kUf2cu",
+      "type_destination": "Espace public",
+      "destination": "Place",
+      "lieux": [
+        "recdqD43kpp1pOv3x",
+        "recM6PpcEu5bvmzwd",
+        "recQh9bPlaf7FDpmG"
+      ]
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "recmXxP7S1u94yfQp",
+      "maitre_oeuvre": [
+        "recM6PpcEu5bvmzwd"
+      ],
+      "nom": "Charles Dard Paysage"
+    },
+    {
+      "id": "recxbSsoxnApY8i6C",
+      "maitre_oeuvre": [
+        "recM6PpcEu5bvmzwd"
+      ],
+      "nom": "Guillaume Belus Architecte"
+    },
+    {
+      "id": "recSuEGau43qiMjre",
+      "maitre_oeuvre": [
+        "recM6PpcEu5bvmzwd"
+      ],
+      "nom": "Adrien Henocq Architecte"
+    },
+    {
+      "id": "recNklaa9ashZHOi4",
+      "maitre_oeuvre": [
+        "recM6PpcEu5bvmzwd"
+      ],
+      "nom": "Adèle Sarrailh Paysage"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recWI1zsiYjip0uaA",
+      "maitre_ouvrage": [
+        "recM6PpcEu5bvmzwd"
+      ],
+      "nom": "Le Mans Métropole"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Aménagement)\n",
+  "distinctions": [
+    {
+      "id": "recmk2YRhgfa5q8Dj",
+      "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+      "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+      "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.",
+      "lieux": [
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recq85i5LBfpWsp9R",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r"
+      ]
+    }
+  ],
+  "nom": "Place du Mail",
+  "périodes": [
+    {
+      "id": "rec0D9TkCH83ItF6j",
+      "lieux": [
+        "recXIe49AgTTO1AuY",
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R",
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r",
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
+        "recYQXv9Df1Bn5fTu"
+      ],
+      "nom": "années 2010"
+    }
+  ],
+  "geolocalisation": [
+    47.97005865090112,
+    0.16015876538675414
+  ],
+  "département": "72 Sarthe",
+  "date": "2011",
+  "dernière modification": "2021-09-27T16:23:43.000Z"
+}

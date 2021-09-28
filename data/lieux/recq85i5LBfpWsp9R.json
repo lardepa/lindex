@@ -1,0 +1,69 @@
+{
+  "id": "recq85i5LBfpWsp9R",
+  "adresse": "3 chemin du pressoir, 72119 Domfront-en-Champagne\n",
+  "type": [
+    {
+      "id": "recU0DF0Isnpt8rJ1",
+      "type_destination": "Équipement",
+      "destination": "Centre culturel",
+      "lieux": [
+        "recq85i5LBfpWsp9R"
+      ]
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "rec8r73AaBFcWgkdQ",
+      "maitre_oeuvre": [
+        "recq85i5LBfpWsp9R"
+      ],
+      "nom": "Xavier Ménard Architecte"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recTedn3N7A0RKkXU",
+      "maitre_ouvrage": [
+        "recq85i5LBfpWsp9R"
+      ],
+      "nom": "Commune de Domfront-en-Champagne"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Architecture)\n",
+  "distinctions": [
+    {
+      "id": "recmk2YRhgfa5q8Dj",
+      "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+      "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+      "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.",
+      "lieux": [
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recq85i5LBfpWsp9R",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r"
+      ]
+    }
+  ],
+  "nom": "Espace de diffusion culturelle",
+  "périodes": [
+    {
+      "id": "recAnX6ahvGJYvz0M",
+      "lieux": [
+        "recLVrdGzklj7mmLE",
+        "recq85i5LBfpWsp9R"
+      ],
+      "nom": "années 2000"
+    }
+  ],
+  "geolocalisation": [
+    48.106156,
+    0.026757
+  ],
+  "département": "72 Sarthe",
+  "date": "2009",
+  "dernière modification": "2021-09-27T16:20:04.000Z"
+}

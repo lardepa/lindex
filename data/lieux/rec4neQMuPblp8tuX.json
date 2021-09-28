@@ -1,0 +1,93 @@
+{
+  "id": "rec4neQMuPblp8tuX",
+  "adresse": "106 avenue Pierre de Couvertin 53130 Laval\n",
+  "type": [
+    {
+      "id": "recjX9ygJ9VA81LG6",
+      "type_destination": "Équipement",
+      "destination": "Bureaux",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "rec4neQMuPblp8tuX"
+      ]
+    },
+    {
+      "id": "recpmZv90qfrbo9DK",
+      "type_destination": "Équipement",
+      "destination": "Commerces",
+      "lieux": [
+        "rec4neQMuPblp8tuX"
+      ]
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "recIlRRPhQlArn587",
+      "maitre_oeuvre": [
+        "rec4neQMuPblp8tuX"
+      ],
+      "site_web": "http://www.marin-trottin.com/",
+      "nom": "Périphériques - Martin + Trottin Architectes"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recYN1GObPbFyoxvj",
+      "maitre_ouvrage": [
+        "rec4neQMuPblp8tuX"
+      ],
+      "nom": "SEM Laval Mayenne Aménagements"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne (Grand Prix)\n",
+  "distinctions": [
+    {
+      "id": "rec3Xe5U2PVARPF2u",
+      "site_web": "https://www.caue53.com/page-grand-prix-public/",
+      "nom": "Grand prix départemental du cadre de vie (53)",
+      "description": "Le Grand prix Départemental du cadre de vie de Mayenne est remis tous les quatre ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Mayenne",
+      "lieux": [
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R"
+      ]
+    }
+  ],
+  "nom": "Hôtel des entreprises innovantes \"La Licorne\"",
+  "périodes": [
+    {
+      "id": "rec0D9TkCH83ItF6j",
+      "lieux": [
+        "recXIe49AgTTO1AuY",
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R",
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r",
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
+        "recYQXv9Df1Bn5fTu"
+      ],
+      "nom": "années 2010"
+    }
+  ],
+  "geolocalisation": [
+    48.081351,
+    -0.757244
+  ],
+  "département": "53 Mayenne",
+  "date": "2016",
+  "dernière modification": "2021-09-24T14:48:10.000Z"
+}

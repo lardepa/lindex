@@ -33,17 +33,11 @@
       "recNOfjWkwIQ7wPig"
     ],
     "titre": "Paul Anomalie",
-    "credits": "Alexis Jacomy",
-    "cover_lieux": [
-      "recl5KPgc3zjCrnjA"
-    ]
+    "credits": "Alexis Jacomy"
   },
   "rec0LseZElWit1Xb7": {
     "id": "rec0LseZElWit1Xb7",
     "url": "https://vimeo.com/500050251",
-    "lieux": [
-      "recFcTJxRycqAdsQr"
-    ],
     "parcours": [
       "recyxl64SW35uLcjC"
     ],
@@ -73,8 +67,7 @@
       }
     ],
     "lieux": [
-      "recLVrdGzklj7mmLE",
-      "recFcTJxRycqAdsQr"
+      "recLVrdGzklj7mmLE"
     ],
     "titre": "guide imuse"
   },
@@ -158,9 +151,6 @@
           }
         }
       }
-    ],
-    "cover_lieux": [
-      "recXrmOzavWvTwx9T"
     ]
   },
   "recTm9l1b9USK625B": {
@@ -198,8 +188,17 @@
       "recTr9BzAt1jG9yaJ"
     ]
   },
-  "reccXP1RszJA4selS": {
-    "id": "reccXP1RszJA4selS"
+  "recgTCGhnV7JPI85T": {
+    "id": "recgTCGhnV7JPI85T",
+    "cover_lieux": [
+      "recRlloApjtcScitR"
+    ]
+  },
+  "recgsgovOytQsNOoV": {
+    "id": "recgsgovOytQsNOoV",
+    "cover_lieux": [
+      "recXrmOzavWvTwx9T"
+    ]
   },
   "rechw9M38kNeCsbK3": {
     "id": "rechw9M38kNeCsbK3",
@@ -234,10 +233,7 @@
     "lieux": [
       "recTr9BzAt1jG9yaJ"
     ],
-    "credits": "Philippe Orel",
-    "cover_lieux": [
-      "recFcTJxRycqAdsQr"
-    ]
+    "credits": "Philippe Orel"
   },
   "reciQiKc6ZjKoNX2E": {
     "id": "reciQiKc6ZjKoNX2E",
@@ -267,9 +263,6 @@
     ],
     "titre": "Formulaire d'adhésion",
     "credits": "L'Ardepa"
-  },
-  "reciopV7S7dSS2jd5": {
-    "id": "reciopV7S7dSS2jd5"
   },
   "recjGz63Hv79VBMPA": {
     "id": "recjGz63Hv79VBMPA",
@@ -302,14 +295,14 @@
       "recLVrdGzklj7mmLE"
     ]
   },
-  "rectF182SaWWzymqR": {
-    "id": "rectF182SaWWzymqR"
+  "recm5ZABxVNTdAnjg": {
+    "id": "recm5ZABxVNTdAnjg",
+    "cover_lieux": [
+      "recXIe49AgTTO1AuY"
+    ]
   },
   "recyE9GAQtMxFjjuo": {
     "id": "recyE9GAQtMxFjjuo",
-    "titre": "titre",
-    "cover_lieux": [
-      "recRlloApjtcScitR"
-    ]
+    "titre": "titre"
   }
 }

@@ -1,5 +1,732 @@
 [
   {
+    "id": "rec4neQMuPblp8tuX",
+    "adresse": "106 avenue Pierre de Couvertin 53130 Laval\n",
+    "type": [
+      {
+        "id": "recjX9ygJ9VA81LG6",
+        "type_destination": "Équipement",
+        "destination": "Bureaux",
+        "lieux": [
+          "recXrmOzavWvTwx9T",
+          "rec4neQMuPblp8tuX"
+        ]
+      },
+      {
+        "id": "recpmZv90qfrbo9DK",
+        "type_destination": "Équipement",
+        "destination": "Commerces",
+        "lieux": [
+          "rec4neQMuPblp8tuX"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recIlRRPhQlArn587",
+        "maitre_oeuvre": [
+          "rec4neQMuPblp8tuX"
+        ],
+        "site_web": "http://www.marin-trottin.com/",
+        "nom": "Périphériques - Martin + Trottin Architectes"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recYN1GObPbFyoxvj",
+        "maitre_ouvrage": [
+          "rec4neQMuPblp8tuX"
+        ],
+        "nom": "SEM Laval Mayenne Aménagements"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne (Grand Prix)\n",
+    "distinctions": [
+      {
+        "id": "rec3Xe5U2PVARPF2u",
+        "site_web": "https://www.caue53.com/page-grand-prix-public/",
+        "nom": "Grand prix départemental du cadre de vie (53)",
+        "description": "Le Grand prix Départemental du cadre de vie de Mayenne est remis tous les quatre ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Mayenne",
+        "lieux": [
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R"
+        ]
+      }
+    ],
+    "nom": "Hôtel des entreprises innovantes \"La Licorne\"",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      48.081351,
+      -0.757244
+    ],
+    "département": "53 Mayenne",
+    "date": "2016",
+    "dernière modification": "2021-09-24T14:48:10.000Z"
+  },
+  {
+    "id": "rec72cuqtL80v3RYm",
+    "adresse": "Rue de Suisse, 72000 Le Mans\n",
+    "type": [
+      {
+        "id": "recutlOJwb5QQKd5c",
+        "type_destination": "Logement",
+        "destination": "Logements Collectifs",
+        "lieux": [
+          "recXrmOzavWvTwx9T",
+          "recdqD43kpp1pOv3x",
+          "rec72cuqtL80v3RYm",
+          "recjkXrXE0hZw6f4t"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recd9BTJF3mhwJ6rc",
+        "maitre_oeuvre": [
+          "rec72cuqtL80v3RYm"
+        ],
+        "site_web": "https://www.nomade.info/",
+        "nom": "Nomade Architectes"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recC3M7YO4nSWNqIa",
+        "maitre_ouvrage": [
+          "rec72cuqtL80v3RYm"
+        ],
+        "nom": "Le Mans Habitat"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 - (Catégorie Patrimoine Contemporain)\n",
+    "distinctions": [
+      {
+        "id": "recmk2YRhgfa5q8Dj",
+        "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+        "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+        "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.",
+        "lieux": [
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recq85i5LBfpWsp9R",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r"
+        ]
+      }
+    ],
+    "nom": "Réhabilitation des logements \"De l'or en barre\"",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      47.993715,
+      0.227019
+    ],
+    "département": "72 Sarthe",
+    "date": "2015",
+    "dernière modification": "2021-09-27T16:12:42.000Z"
+  },
+  {
+    "id": "recBxhZLsWO1HSu4R",
+    "adresse": "2 Rue de la Petite Vitesse,\n53185 Pré-en-Pail-Saint-Samson\n",
+    "type": [
+      {
+        "id": "recVwThcYNMfnh2XW",
+        "type_destination": "Équipement",
+        "destination": "Pôle Santé",
+        "lieux": [
+          "recBxhZLsWO1HSu4R"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "reccAacRcHWkL3gaJ",
+        "maitre_oeuvre": [
+          "recBxhZLsWO1HSu4R"
+        ],
+        "site_web": "https://www.magma-architecture.com/",
+        "nom": "Magma Architecture"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "rechOf0u0LDWCXnse",
+        "maitre_ouvrage": [
+          "recBxhZLsWO1HSu4R"
+        ],
+        "nom": "Communauté de Communes du Mont des Avaloirs"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne 2014 (Catégorie Développement Durable)\n",
+    "distinctions": [
+      {
+        "id": "rec3Xe5U2PVARPF2u",
+        "site_web": "https://www.caue53.com/page-grand-prix-public/",
+        "nom": "Grand prix départemental du cadre de vie (53)",
+        "description": "Le Grand prix Départemental du cadre de vie de Mayenne est remis tous les quatre ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Mayenne",
+        "lieux": [
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R"
+        ]
+      }
+    ],
+    "nom": "Pôle Santé",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      48.457773,
+      -0.205491
+    ],
+    "département": "53 Mayenne",
+    "date": "2017",
+    "dernière modification": "2021-09-27T16:12:54.000Z"
+  },
+  {
+    "id": "recGXesDW1kGxSoxQ",
+    "adresse": "Rue des planches, 49110 Corzé\n",
+    "type": [
+      {
+        "id": "recsi8kyIdpmX1wtW",
+        "type_destination": "Équipement",
+        "destination": "Scierie",
+        "lieux": [
+          "recGXesDW1kGxSoxQ"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recwrlfHSJHJUojt2",
+        "maitre_oeuvre": [
+          "recGXesDW1kGxSoxQ"
+        ],
+        "site_web": "https://www.atelier-ramdam.com/",
+        "nom": "Atelier d'Architecture RAMDAM"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "rec3q31cWdpVBT2tG",
+        "maitre_ouvrage": [
+          "recGXesDW1kGxSoxQ"
+        ],
+        "nom": "Scierie Dibon"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix Aperçus Maine et Loire en 2019 (Catégorie Architecture - 1er prix)\n\nPrix PARI de la Maison de l'Architecture des Pays de la Loire (Grand Prix)\n",
+    "distinctions": [
+      {
+        "id": "recZpmWI8aJAmlsmQ",
+        "site_web": "https://www.apercus49.fr/",
+        "nom": "Prix Aperçus Maine et Loire",
+        "description": "Le prix Aperçus 49 est remis tous les deux ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Maine et Loire.",
+        "lieux": [
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ]
+      },
+      {
+        "id": "recTs7PiTVMctPJpB",
+        "site_web": "https://www.ma-paysdelaloire.com/prixpari",
+        "nom": "Prix PARI ",
+        "description": "Le Prix PARI est remis par la Maison de l'Architecture des Pays de la Loire",
+        "lieux": [
+          "recGXesDW1kGxSoxQ"
+        ]
+      }
+    ],
+    "nom": "Pavillon d'Accueil de la Scierie Dibon",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      47.55455818599004,
+      -0.383542758845127
+    ],
+    "département": "49 Maine-et-Loire",
+    "date": "2017",
+    "dernière modification": "2021-09-28T07:22:29.000Z"
+  },
+  {
+    "id": "recHVehEvNmwXAJIO",
+    "adresse": "Rue du Port de l'Ancre 49000 Angers\n",
+    "type": [
+      {
+        "id": "recrpFA9KQQobRh6X",
+        "type_destination": "Logement",
+        "destination": "Logement individuel",
+        "lieux": [
+          "recTr9BzAt1jG9yaJ",
+          "recHVehEvNmwXAJIO"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recnlsgaTUOFgxUft",
+        "maitre_oeuvre": [
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "site_web": "http://www.sabh.fr/",
+        "nom": "SABH Studio d'Architecture Bruno Huet"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recXT4TItsP1IuLWU",
+        "maitre_ouvrage": [
+          "recHVehEvNmwXAJIO"
+        ],
+        "nom": "Privé"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix Aperçus Maine et Loire en 2019 (Catégorie Architecture - 2ème prix)\n",
+    "distinctions": [
+      {
+        "id": "recZpmWI8aJAmlsmQ",
+        "site_web": "https://www.apercus49.fr/",
+        "nom": "Prix Aperçus Maine et Loire",
+        "description": "Le prix Aperçus 49 est remis tous les deux ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Maine et Loire.",
+        "lieux": [
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ]
+      }
+    ],
+    "nom": "Maison du Port de l'Ancre",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      47.474912,
+      -0.55145
+    ],
+    "département": "49 Maine-et-Loire",
+    "date": "2018",
+    "dernière modification": "2021-09-28T07:44:30.000Z"
+  },
+  {
+    "id": "recJgalSFcQX7dLe6",
+    "adresse": "ZAC des Hauts du Couzé, 49070 BEAUCOUZE\n",
+    "type": [
+      {
+        "id": "recEWoJWizkQSrwEo",
+        "type_destination": "Espace public",
+        "destination": "Aménagement paysager",
+        "lieux": [
+          "recJgalSFcQX7dLe6"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "rec5Hv3G4xYoddlcE",
+        "maitre_oeuvre": [
+          "recJgalSFcQX7dLe6"
+        ],
+        "site_web": "http://www.forma6.net/",
+        "nom": "Forma6"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recfN85rTPfKx2Ccs",
+        "maitre_ouvrage": [
+          "recJgalSFcQX7dLe6"
+        ],
+        "nom": "Ville de Beaucouzé"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix Aperçus Maine et Loire en 2019 (Catégorie Aménagement - 2nd prix)\n",
+    "distinctions": [
+      {
+        "id": "recZpmWI8aJAmlsmQ",
+        "site_web": "https://www.apercus49.fr/",
+        "nom": "Prix Aperçus Maine et Loire",
+        "description": "Le prix Aperçus 49 est remis tous les deux ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Maine et Loire.",
+        "lieux": [
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ]
+      }
+    ],
+    "nom": "Les Hauts du Couzé",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      47.47066154578797,
+      -0.635834619365218
+    ],
+    "département": "49 Maine-et-Loire",
+    "date": "2018",
+    "dernière modification": "2021-09-28T07:22:35.000Z"
+  },
+  {
+    "id": "recM6PpcEu5bvmzwd",
+    "adresse": "place du mail, 72003 Allonnes\n",
+    "type": [
+      {
+        "id": "recKz37RIU8kUf2cu",
+        "type_destination": "Espace public",
+        "destination": "Place",
+        "lieux": [
+          "recdqD43kpp1pOv3x",
+          "recM6PpcEu5bvmzwd",
+          "recQh9bPlaf7FDpmG"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recmXxP7S1u94yfQp",
+        "maitre_oeuvre": [
+          "recM6PpcEu5bvmzwd"
+        ],
+        "nom": "Charles Dard Paysage"
+      },
+      {
+        "id": "recxbSsoxnApY8i6C",
+        "maitre_oeuvre": [
+          "recM6PpcEu5bvmzwd"
+        ],
+        "nom": "Guillaume Belus Architecte"
+      },
+      {
+        "id": "recSuEGau43qiMjre",
+        "maitre_oeuvre": [
+          "recM6PpcEu5bvmzwd"
+        ],
+        "nom": "Adrien Henocq Architecte"
+      },
+      {
+        "id": "recNklaa9ashZHOi4",
+        "maitre_oeuvre": [
+          "recM6PpcEu5bvmzwd"
+        ],
+        "nom": "Adèle Sarrailh Paysage"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recWI1zsiYjip0uaA",
+        "maitre_ouvrage": [
+          "recM6PpcEu5bvmzwd"
+        ],
+        "nom": "Le Mans Métropole"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Aménagement)\n",
+    "distinctions": [
+      {
+        "id": "recmk2YRhgfa5q8Dj",
+        "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+        "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+        "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.",
+        "lieux": [
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recq85i5LBfpWsp9R",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r"
+        ]
+      }
+    ],
+    "nom": "Place du Mail",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      47.97005865090112,
+      0.16015876538675414
+    ],
+    "département": "72 Sarthe",
+    "date": "2011",
+    "dernière modification": "2021-09-27T16:23:43.000Z"
+  },
+  {
+    "id": "recQh9bPlaf7FDpmG",
+    "adresse": "Place des Terrasses, 49430 durtal\n",
+    "type": [
+      {
+        "id": "recKz37RIU8kUf2cu",
+        "type_destination": "Espace public",
+        "destination": "Place",
+        "lieux": [
+          "recdqD43kpp1pOv3x",
+          "recM6PpcEu5bvmzwd",
+          "recQh9bPlaf7FDpmG"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recSTcBSeVMm2gaCD",
+        "maitre_oeuvre": [
+          "recQh9bPlaf7FDpmG"
+        ],
+        "site_web": "https://www.atelierhorizons.com/",
+        "nom": "Atelier Horizons Paysagistes"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recu7p9x6ZpDFKaTX",
+        "maitre_ouvrage": [
+          "recQh9bPlaf7FDpmG"
+        ],
+        "nom": "Ville de Durtal"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix Aperçus Maine et Loire en 2019 (Catégorie Aménagement - 1er prix)\n",
+    "distinctions": [
+      {
+        "id": "recZpmWI8aJAmlsmQ",
+        "site_web": "https://www.apercus49.fr/",
+        "nom": "Prix Aperçus Maine et Loire",
+        "description": "Le prix Aperçus 49 est remis tous les deux ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Maine et Loire.",
+        "lieux": [
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ]
+      }
+    ],
+    "nom": "Place des Terrasses",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      47.670354855241,
+      -0.2461768891609227
+    ],
+    "département": "49 Maine-et-Loire",
+    "date": "2018",
+    "dernière modification": "2021-09-28T07:04:18.000Z"
+  },
+  {
     "id": "recRlloApjtcScitR",
     "type": [
       {
@@ -43,8 +770,7 @@
     "présentation": "Comment (re)trouver du plaisir à habiter ensemble ? Comment permettre les rencontres sans les imposer ? Comment disposer d’espaces flexibles, polyvalents mais aussi généreux ? L’habitat participatif soulève plusieurs débats qui interrogent à la fois individuellement et collectivement.\n Qu’en est-il de notre capacité à interagir selon un modèle plus horizontal ?\n De quelle manière pouvons-nous inventer ensemble une autre manière d’habiter ? En effet «habiter» dépasse la simple cellule de vie et renvoie à une réalité économique, architecturale, sociale, urbaine, humaine ou encore quotidienne… Si chaque opération d’habitat participatif est unique car intimement liée à ses initiateurs et concepteurs, ce modèle a le mérite de reposer la question de «l’habiter» et cela nous intéresse d’autant plus dans le contexte actuel.\nLe Pré Commun est une opération de 12 logements à la Montagne réalisée par les architectes de l’agence Guinée\\*Potin.\n Accompagnés par Bruno Suner, habitant et également président de HEN (Habitats, Energies, Naturels), ainsi que par Hervé Potin, architecte de l’opération, nous découvrirons ensemble comment le projet du Pré Commun a été rendu possible, entre la constitution d’un groupe, le montage financier et la participation active du groupe au projet d’architecture…\n Découvrons ensemble comment le collectif rend plus fort !\n",
     "nom": "Le Pré Commun",
     "cover_media": {
-      "id": "recyE9GAQtMxFjjuo",
-      "titre": "titre",
+      "id": "recgTCGhnV7JPI85T",
       "cover_lieux": [
         "recRlloApjtcScitR"
       ]
@@ -66,7 +792,7 @@
     ],
     "département": "44 Loire-Atlantique",
     "date": "2021",
-    "dernière modification": "2021-09-23T10:24:39.000Z"
+    "dernière modification": "2021-09-28T06:37:54.000Z"
   },
   {
     "id": "recTr9BzAt1jG9yaJ",
@@ -80,23 +806,23 @@
         "invité": "Paul Girard",
         "lieux": [
           "recTr9BzAt1jG9yaJ",
-          "recLVrdGzklj7mmLE",
-          "recFcTJxRycqAdsQr",
-          "recl5KPgc3zjCrnjA"
+          "recLVrdGzklj7mmLE"
         ],
         "status": "Publié",
+        "introduction": "L'Ardepa a invité Paul Girard pour faire une sélection bla bla bal bal albalbalbalablablba",
         "en une": true,
         "édito": "Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-        "dernière modification": "2021-09-20T22:00:36.000Z"
+        "dernière modification": "2021-09-27T13:20:36.000Z"
       }
     ],
     "type": [
       {
         "id": "recrpFA9KQQobRh6X",
         "type_destination": "Logement",
-        "destination": "Maison",
+        "destination": "Logement individuel",
         "lieux": [
-          "recTr9BzAt1jG9yaJ"
+          "recTr9BzAt1jG9yaJ",
+          "recHVehEvNmwXAJIO"
         ]
       }
     ],
@@ -143,7 +869,7 @@
       }
     ],
     "status": "Publié",
-    "présentation": "Au **Bas** Chantenay, tout près du Chantier Naval de l’Esclain, et sur les bords de Loire, un nouveau lieu a ouver t ses portes fin d’année 2019. Une implantation dans un quartier historique . . .\nLittle Atlantique Brewery est une microbrasserie ar tisanale située dans un bâtiment historique du 19ème siècle. A l’origine de cette aventure deux entrepreneurs, Jérôme et Gregory, dont le pari était de réimplanter une brasserie au coeur du quartier du Bas Chantenay, où les Brasseries de la Meuse produisaient de la bière depuis le 18e siècle avant de fermer définitivement dans les années 1980.\n[google.com](https://www.google.com/)\nAu coeur de la cale Dubigeon La cale Dubigeon constitue le centre historique de la plaine industrielle du Bas- Chantenay. Un coeur bien vivant avec l’activité de plusieurs entreprises et associations, dont le chantier naval de l’Esclain créé il y a 25 ans. Le pôle d’activités Dubigeon va se renforcer avec la création des Docks de Chantenay, un nouveau lieu de vie ouver t à tous. Depuis janvier 2020, une navette fluviale part des Docks de Chantenay pour rejoindre l’île de Nantes.\n_Sources : Nantes Métropole Aménagement_\n_Les investisseurs comptent « renouer avec le passé brassicole » de la cité des ducs, installés dans une bâtisse datant de 1856, une ancienne huilerie devenue savonnerie. A quelques centaines de mètres se situaient en effet les Brasseries de la Meuse où des milliers de litres ont abreuvé les Nantais jusqu’au milieu des années 80. « C’est un lieu artisanal, qui a une âme. Et dans un quartier de Chantenay en pleine mutation, avec une vie ar tistique », se félicite Jérôme Pallier. Nous sommes fiers de redonner ici ses lettres de noblesse à la bière nantaise. Avec son associé australien, il a mis 3,3 millions d’euros sur la table pour réhabiliter le bâtiment de 3000 m². Lieu hybride La façade en pierres et briques a été conservée, le lieu peut désormais accueillir jusqu’à 650 personnes sur trois niveaux._\n_A l’étage supérieur, une salle de réception avec bar et espace traiteur est louée aux entreprises pour des séminaires. Cerise sur le gâteau : un balcon… avec vue sur la Loire. C’est d’ailleurs le concept. Ici, tout est ouvert. On boit de la bière mais on voit comment elle est fabriquée : derrière le comptoir trônent deux cuves de fermentation. Même chose en cuisine où des salariés en réinsertion ont été recrutés._\n_Sources : actu.fr/pays-de-la-loire_\n_Le bâtiment d’origine disposant de peu d’ouver tures, est prolongé vers le Sud, face à la Loire, par une extension en charpente bois visible et intégralement vitrée. Une porte coulissante monumentale permet d’ouvrir la moitié de la façade. Les espaces et leur organisation exploitent la composition originale des bâtiments. La conservation des ouvrages existants et sains a constitué un préalable à toute autre approche environnementale. Les poutres en pichepin originaires des Etats-Unis, ont ainsi été conservées, ainsi que les solives et planchers sains. Matériaux simples et bruts, bois massif, béton, acier et verre, conjuguent les différentes époques habillement mises en valeur par l’architecte._\n",
+    "présentation": "Au Bas Chantenay, tout près du Chantier Naval de l’Esclain, et sur les bords de Loire, un nouveau lieu a ouver t ses portes fin d’année 2019. Une implantation dans un quartier historique . . .\nLittle Atlantique Brewery est une microbrasserie ar tisanale située dans un bâtiment historique du 19ème siècle. A l’origine de cette aventure deux entrepreneurs, Jérôme et Gregory, dont le pari était de réimplanter une brasserie au coeur du quartier du Bas Chantenay, où les Brasseries de la Meuse produisaient de la bière depuis le 18e siècle avant de fermer définitivement dans les années 1980.\n[google.com](https://www.google.com/)\nAu coeur de la cale Dubigeon La cale Dubigeon constitue le centre historique de la plaine industrielle du Bas- Chantenay. Un coeur bien vivant avec l’activité de plusieurs entreprises et associations, dont le chantier naval de l’Esclain créé il y a 25 ans. Le pôle d’activités Dubigeon va se renforcer avec la création des Docks de Chantenay, un nouveau lieu de vie ouver t à tous. Depuis janvier 2020, une navette fluviale part des Docks de Chantenay pour rejoindre l’île de Nantes.\n_Sources : Nantes Métropole Aménagement_\n_Les investisseurs comptent « renouer avec le passé brassicole » de la cité des ducs, installés dans une bâtisse datant de 1856, une ancienne huilerie devenue savonnerie. A quelques centaines de mètres se situaient en effet les Brasseries de la Meuse où des milliers de litres ont abreuvé les Nantais jusqu’au milieu des années 80. « C’est un lieu artisanal, qui a une âme. Et dans un quartier de Chantenay en pleine mutation, avec une vie ar tistique », se félicite Jérôme Pallier. Nous sommes fiers de redonner ici ses lettres de noblesse à la bière nantaise. Avec son associé australien, il a mis 3,3 millions d’euros sur la table pour réhabiliter le bâtiment de 3000 m². Lieu hybride La façade en pierres et briques a été conservée, le lieu peut désormais accueillir jusqu’à 650 personnes sur trois niveaux._\n_A l’étage supérieur, une salle de réception avec bar et espace traiteur est louée aux entreprises pour des séminaires. Cerise sur le gâteau : un balcon… avec vue sur la Loire. C’est d’ailleurs le concept. Ici, tout est ouvert. On boit de la bière mais on voit comment elle est fabriquée : derrière le comptoir trônent deux cuves de fermentation. Même chose en cuisine où des salariés en réinsertion ont été recrutés._\n_Sources : actu.fr/pays-de-la-loire_\n_Le bâtiment d’origine disposant de peu d’ouver tures, est prolongé vers le Sud, face à la Loire, par une extension en charpente bois visible et intégralement vitrée. Une porte coulissante monumentale permet d’ouvrir la moitié de la façade. Les espaces et leur organisation exploitent la composition originale des bâtiments. La conservation des ouvrages existants et sains a constitué un préalable à toute autre approche environnementale. Les poutres en pichepin originaires des Etats-Unis, ont ainsi été conservées, ainsi que les solives et planchers sains. Matériaux simples et bruts, bois massif, béton, acier et verre, conjuguent les différentes époques habillement mises en valeur par l’architecte._\n",
     "distinctions": [
       {
         "id": "rectTOye18UHf0K0H",
@@ -255,10 +981,7 @@
         "lieux": [
           "recTr9BzAt1jG9yaJ"
         ],
-        "credits": "Philippe Orel",
-        "cover_lieux": [
-          "recFcTJxRycqAdsQr"
-        ]
+        "credits": "Philippe Orel"
       },
       {
         "id": "reciQiKc6ZjKoNX2E",
@@ -360,7 +1083,178 @@
         "credits": "L'ARDEPA"
       }
     ],
-    "dernière modification": "2021-09-20T14:40:25.000Z"
+    "dernière modification": "2021-09-28T06:49:05.000Z"
+  },
+  {
+    "id": "recXIe49AgTTO1AuY",
+    "adresse": "71 boulevard Alfred Nobel 44400 Rezé\n",
+    "type": [
+      {
+        "id": "recHac1PdI8DEyUie",
+        "type_destination": "Équipement",
+        "destination": "Marché",
+        "lieux": [
+          "recXIe49AgTTO1AuY"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recg7qYWVhERFbls6",
+        "maitre_oeuvre": [
+          "recXIe49AgTTO1AuY"
+        ],
+        "site_web": "https://erikgiudice.com/",
+        "nom": "Erik Giudice Architecture"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recXVXVP3gQIykC61",
+        "maitre_ouvrage": [
+          "recXIe49AgTTO1AuY"
+        ],
+        "site_web": "https://metropole.nantes.fr/",
+        "nom": "Nantes Métropole"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Le Marché d’Intérêt National (M.I.N.) : nourrir autrement le ventre de la ville\nL’histoire nous montre que le MIN à Nantes suit différentes installations en lien avec la croissance urbaine et la demande de plus en plus forte en produits alimentaires.\nLe premier marché de gros s’installa en 1903 dans le quartier du Champ de Mars aux portes du centre historique. Le quartier fourmille très vite d’entrepôts autour du ventre installé au rez-de- chaussée du Palais du Champ de Mars. Lieu d’échanges par excellence, il s’ancre sur l’ile de Nantes en 1969 près du faisceau ferroviaire de la gare de l’Etat.\nRécemment poussé hors la ville (le MIN est au sud de la porte de Rezé et inauguré en 2019), il s’arrime aux infrastructures de transport jugées aujourd’hui plus efficaces comme le périphérique métropolitain.\nToujours plus loin mais aussi toujours plus gros, le nouveau MIN (le 1 er régional et le 2 ème après Rungis) s’étend sur 19,4 ha dont 5 ha de surface de vente offrant tous les produits alimentaires, libre- service de gros, sociétés de courtage et de transport.\nA défaut de pouvoir organiser une visite du MIN, nous sommes allés à la rencontre des architectes du MIN, l’agence EGA, l’agence Franco-suédoise (Erik Giudice Architectes) qui a remporté le concours du MIN en 2015. Erik Giudice et Marcin Sikora ont pris le temps de nous expliquer la genèse de ce projet de plus de 19,4 hectares, comment s’organise-t-il, quels ont été leur concept, leur inspirations… Ce projet a mobilisé une dizaine de personnes au sein de l’agence, dont Marcin Sikora qui a déménagé sur Nantes afin de pouvoir suivre au mieux ce chantier titanesque !\nDistinction : le MIN de Nantes a reçu le prix \"Bâtiment Durable\" aux Trophées des Entreprises Publiques Locales (EPL) édition 2020.\n",
+    "distinctions": [
+      {
+        "id": "rece7QaC45wRnaFHF",
+        "site_web": "https://www.lesepl.fr/service/trophees-des-epl/",
+        "nom": "Trophée des EPL",
+        "description": "Les Trophées des EPL sont remis chaque année par la Fédération des Entreprises Publiques Locales.",
+        "lieux": [
+          "recXIe49AgTTO1AuY"
+        ]
+      }
+    ],
+    "nom": "Marché d'Intérêt National (MIN)",
+    "cover_media": {
+      "id": "recm5ZABxVNTdAnjg",
+      "cover_lieux": [
+        "recXIe49AgTTO1AuY"
+      ]
+    },
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      47.159383,
+      -1.553366
+    ],
+    "département": "44 Loire-Atlantique",
+    "date": "2019",
+    "dernière modification": "2021-09-28T08:00:19.000Z"
+  },
+  {
+    "id": "recXNuzkB4wj0g0H4",
+    "adresse": "Lieu dit l'Église, 72110 Saint Denis des Coudrais\n",
+    "type": [
+      {
+        "id": "recVInw9NjTvZ1X63",
+        "destination": "Église",
+        "lieux": [
+          "recXNuzkB4wj0g0H4"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recQb3mKINQqzB7iP",
+        "maitre_oeuvre": [
+          "recXNuzkB4wj0g0H4"
+        ],
+        "nom": "Alain Barbier Architecte du patrimoine"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recRin8OHDURkg4sX",
+        "maitre_ouvrage": [
+          "recXNuzkB4wj0g0H4"
+        ],
+        "nom": "Commune de Saint-Denis-des-Coudrais"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 (Catégorie Patrimoine Ancien)\n",
+    "distinctions": [
+      {
+        "id": "recmk2YRhgfa5q8Dj",
+        "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+        "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+        "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.",
+        "lieux": [
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recq85i5LBfpWsp9R",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r"
+        ]
+      }
+    ],
+    "nom": "Restauration de l'Église",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      48.149719,
+      0.506125
+    ],
+    "département": "72 Sarthe",
+    "date": "2014",
+    "dernière modification": "2021-09-27T16:12:36.000Z"
   },
   {
     "id": "recXrmOzavWvTwx9T",
@@ -369,9 +1263,12 @@
       {
         "id": "recutlOJwb5QQKd5c",
         "type_destination": "Logement",
-        "destination": "Collectif",
+        "destination": "Logements Collectifs",
         "lieux": [
-          "recXrmOzavWvTwx9T"
+          "recXrmOzavWvTwx9T",
+          "recdqD43kpp1pOv3x",
+          "rec72cuqtL80v3RYm",
+          "recjkXrXE0hZw6f4t"
         ]
       },
       {
@@ -387,7 +1284,8 @@
         "type_destination": "Équipement",
         "destination": "Bureaux",
         "lieux": [
-          "recXrmOzavWvTwx9T"
+          "recXrmOzavWvTwx9T",
+          "rec4neQMuPblp8tuX"
         ]
       }
     ],
@@ -422,35 +1320,7 @@
     "présentation": "Le quartier Euronantes, dont l’îlot 5B vient finaliser la frange Nord à proximité de la gare, participe au désenclavement du quartier Malakoff en le reliant au quartier Dalby, au quartier des Olivettes et par extension au centre historique et au développement Ouest de l’île de Nantes. Le projet s’intègre donc comme outil de connexion entre les usages proposés et le grand paysage, et se construit autour de 3 enjeux majeurs :\n\\- L’échelle humaine comme mesure de référence : cheminements et usages au cœur de l’identité du projet.\n\\- Une architecture qui par la qualité de sa matière et de ses volumes participe à la qualification pérenne du quartier.\n\\- La mise en place des conditions d’une mixité programmatique : dissocier clairement les entités afin de garantir leur modularité et de favoriser les échanges.\n1\\. Une architecture de chemins\nLa fabrique du paysage urbain à l’échelle de l’homme, significative dans la construction du quartier par le travail du « volume du piéton » est abordée dans le projet par un travail précis sur la porosité des rez-de chaussée et sur leur lisibilité. Cette démarche est poursuivie dans l’ensemble du projet en offrant un grand escalier qui non seulement garantit la potentialité publique des toitures en leur offrant un adressage sur rue, mais garantit aussi le caractère piéton des niveaux de parking.\n2\\. La matière de la ville\nLes matériaux utilisés s’intègrent comme première garantie d’un projet économe énergétiquement et financièrement :\n\\- La double peau en briques des bureaux SNCF permet de traiter efficacement les variations de porosité entre les locaux et l’extérieur\n\\- Le parking est construit selon des dispositifs structurels en béton rouge permettant sa transparence maximale et son éventuelle mutation future (éclairage naturel, hauteur sous dalle importante)\n\\- Les logements profitent d’une façade épaisse qui offrent sur toutes ses orientations un jeu subtil de nus extérieurs pour les espaces extérieurs protégés et de grand vitrage au nu intérieur des façades, en marquant la massivité du dispositif structurel.\n\n",
     "nom": "Viséo",
     "cover_media": {
-      "id": "recR0CyEHxK24Jg9r",
-      "fichiers": [
-        {
-          "id": "att5CWH0NN57OHoxF",
-          "width": 1950,
-          "height": 1161,
-          "url": "https://dl.airtable.com/.attachments/083f2cabf2e90bb4b0455441fa864018/4179cb3e/edna.jpg",
-          "filename": "edna.jpg",
-          "size": 315303,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/c1f2c153538c729b04ad3bf97b28d6d8/87c7b38d",
-              "width": 60,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/8f7ad8f49a360ff90c77157b6e0fec04/5c94d075",
-              "width": 860,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/8a55c18febc9acada08d22214f4c50aa/993be327",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
+      "id": "recgsgovOytQsNOoV",
       "cover_lieux": [
         "recXrmOzavWvTwx9T"
       ]
@@ -472,6 +1342,825 @@
     ],
     "département": "44 Loire-Atlantique",
     "date": "2021",
-    "dernière modification": "2021-09-23T10:25:56.000Z"
+    "dernière modification": "2021-09-28T07:51:41.000Z"
+  },
+  {
+    "id": "recYQXv9Df1Bn5fTu",
+    "adresse": "Rue du Colombier, 49000 Angers\n",
+    "type": [
+      {
+        "id": "recwrGyjSIcOPtP0A",
+        "type_destination": "Équipement",
+        "destination": "Stade",
+        "lieux": [
+          "recYQXv9Df1Bn5fTu"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recnlsgaTUOFgxUft",
+        "maitre_oeuvre": [
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "site_web": "http://www.sabh.fr/",
+        "nom": "SABH Studio d'Architecture Bruno Huet"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recQcA5r5FV4LQ8LC",
+        "maitre_ouvrage": [
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "Ville d'Angers"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix Aperçus Maine et Loire en 2019 (Catégorie Architecture - 3ème prix)\n",
+    "distinctions": [
+      {
+        "id": "recZpmWI8aJAmlsmQ",
+        "site_web": "https://www.apercus49.fr/",
+        "nom": "Prix Aperçus Maine et Loire",
+        "description": "Le prix Aperçus 49 est remis tous les deux ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Maine et Loire.",
+        "lieux": [
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ]
+      }
+    ],
+    "nom": "Tribune Colombier du Stade Raymond Kopa",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      47.46016289625379,
+      -0.5297945444305144
+    ],
+    "département": "49 Maine-et-Loire",
+    "date": "2018",
+    "dernière modification": "2021-09-28T07:47:28.000Z"
+  },
+  {
+    "id": "recdqD43kpp1pOv3x",
+    "adresse": "225 Avenue de Tours 53000 laval\n",
+    "type": [
+      {
+        "id": "recQIJ15w7Yc15eNf",
+        "type_destination": "Équipement",
+        "destination": "Médiathèque",
+        "lieux": [
+          "recdqD43kpp1pOv3x"
+        ]
+      },
+      {
+        "id": "recutlOJwb5QQKd5c",
+        "type_destination": "Logement",
+        "destination": "Logements Collectifs",
+        "lieux": [
+          "recXrmOzavWvTwx9T",
+          "recdqD43kpp1pOv3x",
+          "rec72cuqtL80v3RYm",
+          "recjkXrXE0hZw6f4t"
+        ]
+      },
+      {
+        "id": "recKz37RIU8kUf2cu",
+        "type_destination": "Espace public",
+        "destination": "Place",
+        "lieux": [
+          "recdqD43kpp1pOv3x",
+          "recM6PpcEu5bvmzwd",
+          "recQh9bPlaf7FDpmG"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recBFqrDBBJFEoekz",
+        "maitre_oeuvre": [
+          "recdqD43kpp1pOv3x"
+        ],
+        "site_web": "https://www.agence-rhizome.fr/",
+        "nom": "Agence Rhizome architecture et urbanisme"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "rec2LuCCdizqdbH4M",
+        "maitre_ouvrage": [
+          "reczXyoM7GigrsPit",
+          "recdqD43kpp1pOv3x"
+        ],
+        "nom": "Méduane Habitat"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne 2014 (Catégorie Paysage et Urbanisme)\n",
+    "distinctions": [
+      {
+        "id": "rec3Xe5U2PVARPF2u",
+        "site_web": "https://www.caue53.com/page-grand-prix-public/",
+        "nom": "Grand prix départemental du cadre de vie (53)",
+        "description": "Le Grand prix Départemental du cadre de vie de Mayenne est remis tous les quatre ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Mayenne",
+        "lieux": [
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R"
+        ]
+      }
+    ],
+    "nom": "Médiathèque et logements \"Les Lilas\"",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      48.054534,
+      -0.743165
+    ],
+    "département": "53 Mayenne",
+    "date": "2018",
+    "dernière modification": "2021-09-27T16:12:57.000Z"
+  },
+  {
+    "id": "rechtsQSNXyvtp75c",
+    "adresse": "23 Rue de Paris, 72190 Coulaines\n",
+    "type": [
+      {
+        "id": "recXibaj44X2ckGlM",
+        "type_destination": "Équipement",
+        "destination": "école",
+        "lieux": [
+          "rechtsQSNXyvtp75c"
+        ]
+      },
+      {
+        "id": "recgBvHbjDyN7yskz",
+        "type_destination": "Équipement",
+        "destination": "Crèche",
+        "lieux": [
+          "rechtsQSNXyvtp75c"
+        ]
+      },
+      {
+        "id": "recVSbbcBxY2ydzDN",
+        "type_destination": "Équipement",
+        "destination": "Gymnase",
+        "lieux": [
+          "rechtsQSNXyvtp75c"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recVkSOHmBeL4G9mV",
+        "maitre_oeuvre": [
+          "rechtsQSNXyvtp75c"
+        ],
+        "site_web": "https://www.feichtingerarchitectes.com/projekte.php/3",
+        "nom": "Dietmar Feichtinger Architectes"
+      },
+      {
+        "id": "recU9GUFDXK6m2xjj",
+        "maitre_oeuvre": [
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn"
+        ],
+        "site_web": "https://www.feuille-a-feuille.fr/",
+        "nom": "Feuille à Feuille - aménagement urbain et paysage"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "reclrlg5wctVfBRYh",
+        "maitre_ouvrage": [
+          "rechtsQSNXyvtp75c"
+        ],
+        "nom": "Commune de Coulaines"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 (Catégorie Architecture)\n",
+    "distinctions": [
+      {
+        "id": "recmk2YRhgfa5q8Dj",
+        "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+        "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+        "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.",
+        "lieux": [
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recq85i5LBfpWsp9R",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r"
+        ]
+      }
+    ],
+    "nom": "Pôle d'excellence éducative Albert Camus",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      48.023798,
+      0.207591
+    ],
+    "département": "72 Sarthe",
+    "date": "2013",
+    "dernière modification": "2021-09-27T16:12:49.000Z"
+  },
+  {
+    "id": "recjkXrXE0hZw6f4t",
+    "adresse": "Rue de la manufacture, 49353 Trélazé\n",
+    "type": [
+      {
+        "id": "recutlOJwb5QQKd5c",
+        "type_destination": "Logement",
+        "destination": "Logements Collectifs",
+        "lieux": [
+          "recXrmOzavWvTwx9T",
+          "recdqD43kpp1pOv3x",
+          "rec72cuqtL80v3RYm",
+          "recjkXrXE0hZw6f4t"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recaPIt2ICOPfTO0c",
+        "maitre_oeuvre": [
+          "recjkXrXE0hZw6f4t"
+        ],
+        "site_web": "http://www.latitude-archi.com/",
+        "nom": "Latitude architecture"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recv5WBhOVyri9b6c",
+        "maitre_ouvrage": [
+          "recjkXrXE0hZw6f4t"
+        ],
+        "nom": "Immobilière Podeliha"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Restructuration de deux halles industrielles de l’Ancienne Manufacture d’Allumettes à Trélazé pour la création de 52 logements locatifs sociaux.\n\nPrix Aperçus Maine et Loire en 2019 (Grand Prix)\n",
+    "distinctions": [
+      {
+        "id": "recZpmWI8aJAmlsmQ",
+        "site_web": "https://www.apercus49.fr/",
+        "nom": "Prix Aperçus Maine et Loire",
+        "description": "Le prix Aperçus 49 est remis tous les deux ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Maine et Loire.",
+        "lieux": [
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ]
+      }
+    ],
+    "nom": "Les Allumetières",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      47.44344289564926,
+      -0.5026777606473547
+    ],
+    "département": "49 Maine-et-Loire",
+    "date": "2018",
+    "dernière modification": "2021-09-28T06:47:46.000Z"
+  },
+  {
+    "id": "recmanFMpSvbjFW6r",
+    "adresse": "12 Place de l'Église, 72240 Neuvillalais\n",
+    "type": [
+      {
+        "id": "recAm0Xd8S6WS0mUU",
+        "type_destination": "Équipement",
+        "destination": "Hôtel de Ville",
+        "lieux": [
+          "recmanFMpSvbjFW6r"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "rec8xc1z26ogg2vT6",
+        "maitre_oeuvre": [
+          "recuIUUMuCMw2rrHn",
+          "recmanFMpSvbjFW6r"
+        ],
+        "site_web": "http://lorrainebapstarchitecture.viabloga.com/",
+        "nom": "Lorraine Bapst Architecture"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recLBtIyE7sVMbBwh",
+        "maitre_ouvrage": [
+          "recmanFMpSvbjFW6r"
+        ],
+        "nom": "Commune de Neuvillalais"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Patrimoine)\n",
+    "distinctions": [
+      {
+        "id": "recmk2YRhgfa5q8Dj",
+        "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+        "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+        "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.",
+        "lieux": [
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recq85i5LBfpWsp9R",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r"
+        ]
+      }
+    ],
+    "nom": "Mairie (Réhabilitation d'un Presbytère)",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      48.155478,
+      -0.00116
+    ],
+    "département": "72 Sarthe",
+    "date": "2011",
+    "dernière modification": "2021-09-27T16:25:43.000Z"
+  },
+  {
+    "id": "recq85i5LBfpWsp9R",
+    "adresse": "3 chemin du pressoir, 72119 Domfront-en-Champagne\n",
+    "type": [
+      {
+        "id": "recU0DF0Isnpt8rJ1",
+        "type_destination": "Équipement",
+        "destination": "Centre culturel",
+        "lieux": [
+          "recq85i5LBfpWsp9R"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "rec8r73AaBFcWgkdQ",
+        "maitre_oeuvre": [
+          "recq85i5LBfpWsp9R"
+        ],
+        "nom": "Xavier Ménard Architecte"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recTedn3N7A0RKkXU",
+        "maitre_ouvrage": [
+          "recq85i5LBfpWsp9R"
+        ],
+        "nom": "Commune de Domfront-en-Champagne"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Architecture)\n",
+    "distinctions": [
+      {
+        "id": "recmk2YRhgfa5q8Dj",
+        "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+        "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+        "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.",
+        "lieux": [
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recq85i5LBfpWsp9R",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r"
+        ]
+      }
+    ],
+    "nom": "Espace de diffusion culturelle",
+    "périodes": [
+      {
+        "id": "recAnX6ahvGJYvz0M",
+        "lieux": [
+          "recLVrdGzklj7mmLE",
+          "recq85i5LBfpWsp9R"
+        ],
+        "nom": "années 2000"
+      }
+    ],
+    "geolocalisation": [
+      48.106156,
+      0.026757
+    ],
+    "département": "72 Sarthe",
+    "date": "2009",
+    "dernière modification": "2021-09-27T16:20:04.000Z"
+  },
+  {
+    "id": "recsuUKLNrVXo8p8J",
+    "adresse": "2 rue de l'Hermitage 53000 Laval\n",
+    "type": [
+      {
+        "id": "recH814jY01CiGtUZ",
+        "type_destination": "Équipement",
+        "destination": "Restaurant d'entreprise",
+        "lieux": [
+          "recsuUKLNrVXo8p8J"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "reclfp6HLvEEmbP6e",
+        "maitre_oeuvre": [
+          "recsuUKLNrVXo8p8J"
+        ],
+        "site_web": "https://www.oreal.fr/",
+        "nom": "Béatrice Oréal Architecture"
+      },
+      {
+        "id": "recleUhLiIBLOEkyG",
+        "maitre_oeuvre": [
+          "recsuUKLNrVXo8p8J"
+        ],
+        "nom": "Nathalie Chardon Architecture"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recKgw2X4CLIXjXgU",
+        "maitre_ouvrage": [
+          "recsuUKLNrVXo8p8J"
+        ],
+        "nom": "Groupe Lactalis"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne 2014 (Catégorie Maîtrise d'Ouvrage Privée)\n",
+    "distinctions": [
+      {
+        "id": "rec3Xe5U2PVARPF2u",
+        "site_web": "https://www.caue53.com/page-grand-prix-public/",
+        "nom": "Grand prix départemental du cadre de vie (53)",
+        "description": "Le Grand prix Départemental du cadre de vie de Mayenne est remis tous les quatre ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Mayenne",
+        "lieux": [
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R"
+        ]
+      }
+    ],
+    "nom": "Restaurant d'entreprise \"Le Petit Lavallois\"",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      48.077381,
+      -0.771572
+    ],
+    "département": "53 Mayenne",
+    "date": "2016",
+    "dernière modification": "2021-09-27T16:13:00.000Z"
+  },
+  {
+    "id": "recuIUUMuCMw2rrHn",
+    "adresse": "Rue Charnacé, 72300 Auvers-le-Hamon\n",
+    "type": [
+      {
+        "id": "recwFLzRxncgHgTIt",
+        "type_destination": "Équipement",
+        "destination": "Cimetière",
+        "lieux": [
+          "recuIUUMuCMw2rrHn"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recU9GUFDXK6m2xjj",
+        "maitre_oeuvre": [
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn"
+        ],
+        "site_web": "https://www.feuille-a-feuille.fr/",
+        "nom": "Feuille à Feuille - aménagement urbain et paysage"
+      },
+      {
+        "id": "rec8xc1z26ogg2vT6",
+        "maitre_oeuvre": [
+          "recuIUUMuCMw2rrHn",
+          "recmanFMpSvbjFW6r"
+        ],
+        "site_web": "http://lorrainebapstarchitecture.viabloga.com/",
+        "nom": "Lorraine Bapst Architecture"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recQtnbWbIbEVFXwj",
+        "maitre_ouvrage": [
+          "recuIUUMuCMw2rrHn"
+        ],
+        "nom": "Commune d'Auvers-le-Hamon"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 (Catégorie Aménagement)\n",
+    "distinctions": [
+      {
+        "id": "recmk2YRhgfa5q8Dj",
+        "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+        "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+        "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.",
+        "lieux": [
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recq85i5LBfpWsp9R",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r"
+        ]
+      }
+    ],
+    "nom": "Extension de Cimetière",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      47.90477123647374,
+      -0.35441273973473375
+    ],
+    "département": "72 Sarthe",
+    "date": "2015",
+    "dernière modification": "2021-09-27T16:12:30.000Z"
+  },
+  {
+    "id": "reczXyoM7GigrsPit",
+    "adresse": "43 rue Avicenne 53130 Laval\n",
+    "type": [
+      {
+        "id": "recNYG3gOluc33BDh",
+        "type_destination": "Équipement",
+        "destination": "EHPAD",
+        "lieux": [
+          "reczXyoM7GigrsPit"
+        ]
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recTeODtzYRyzftnp",
+        "maitre_oeuvre": [
+          "reczXyoM7GigrsPit"
+        ],
+        "site_web": "http://www.gpaa.fr/",
+        "nom": "GPAA - Gaëlle Péneau Architectes et Associés"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "rec2LuCCdizqdbH4M",
+        "maitre_ouvrage": [
+          "reczXyoM7GigrsPit",
+          "recdqD43kpp1pOv3x"
+        ],
+        "nom": "Méduane Habitat"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne 2014 (Catégorie Architecture)\n",
+    "distinctions": [
+      {
+        "id": "rec3Xe5U2PVARPF2u",
+        "site_web": "https://www.caue53.com/page-grand-prix-public/",
+        "nom": "Grand prix départemental du cadre de vie (53)",
+        "description": "Le Grand prix Départemental du cadre de vie de Mayenne est remis tous les quatre ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Mayenne",
+        "lieux": [
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R"
+        ]
+      }
+    ],
+    "nom": "EHPAD Ferrié",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      48.07906,
+      -0.780728
+    ],
+    "département": "53 Mayenne",
+    "date": "2018",
+    "dernière modification": "2021-09-27T16:12:19.000Z"
   }
 ]

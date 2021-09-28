@@ -1,21 +1,164 @@
 {
-  "recFcTJxRycqAdsQr": {
-    "id": "recFcTJxRycqAdsQr",
-    "sélections": [
-      "recNOfjWkwIQ7wPig"
-    ],
+  "rec4neQMuPblp8tuX": {
+    "id": "rec4neQMuPblp8tuX",
+    "adresse": "106 avenue Pierre de Couvertin 53130 Laval\n",
     "type": [
-      "recgBvHbjDyN7yskz"
+      "recjX9ygJ9VA81LG6",
+      "recpmZv90qfrbo9DK"
     ],
-    "nom": "truc",
-    "cover_media": [
-      "rechw9M38kNeCsbK3"
+    "maitre_oeuvre": [
+      "recIlRRPhQlArn587"
     ],
-    "médias": [
-      "rec18MwuKXo0UlYF2",
-      "rec0LseZElWit1Xb7"
+    "maitre_ouvrage": [
+      "recYN1GObPbFyoxvj"
     ],
-    "dernière modification": "2021-09-20T22:00:34.000Z"
+    "status": "Publié",
+    "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne (Grand Prix)\n",
+    "distinctions": [
+      "rec3Xe5U2PVARPF2u"
+    ],
+    "nom": "Hôtel des entreprises innovantes \"La Licorne\"",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "48.081351,-0.757244",
+    "département": "53 Mayenne",
+    "date": "2016",
+    "dernière modification": "2021-09-24T14:48:10.000Z"
+  },
+  "rec72cuqtL80v3RYm": {
+    "id": "rec72cuqtL80v3RYm",
+    "adresse": "Rue de Suisse, 72000 Le Mans\n",
+    "type": [
+      "recutlOJwb5QQKd5c"
+    ],
+    "maitre_oeuvre": [
+      "recd9BTJF3mhwJ6rc"
+    ],
+    "maitre_ouvrage": [
+      "recC3M7YO4nSWNqIa"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 - (Catégorie Patrimoine Contemporain)\n",
+    "distinctions": [
+      "recmk2YRhgfa5q8Dj"
+    ],
+    "nom": "Réhabilitation des logements \"De l'or en barre\"",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.993715,0.227019",
+    "département": "72 Sarthe",
+    "date": "2015",
+    "dernière modification": "2021-09-27T16:12:42.000Z"
+  },
+  "rec7OkEzJNwlvELsf": {
+    "id": "rec7OkEzJNwlvELsf"
+  },
+  "recBxhZLsWO1HSu4R": {
+    "id": "recBxhZLsWO1HSu4R",
+    "adresse": "2 Rue de la Petite Vitesse,\n53185 Pré-en-Pail-Saint-Samson\n",
+    "type": [
+      "recVwThcYNMfnh2XW"
+    ],
+    "maitre_oeuvre": [
+      "reccAacRcHWkL3gaJ"
+    ],
+    "maitre_ouvrage": [
+      "rechOf0u0LDWCXnse"
+    ],
+    "status": "Publié",
+    "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne 2014 (Catégorie Développement Durable)\n",
+    "distinctions": [
+      "rec3Xe5U2PVARPF2u"
+    ],
+    "nom": "Pôle Santé",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "48.457773,-0.205491",
+    "département": "53 Mayenne",
+    "date": "2017",
+    "dernière modification": "2021-09-27T16:12:54.000Z"
+  },
+  "recGXesDW1kGxSoxQ": {
+    "id": "recGXesDW1kGxSoxQ",
+    "adresse": "Rue des planches, 49110 Corzé\n",
+    "type": [
+      "recsi8kyIdpmX1wtW"
+    ],
+    "maitre_oeuvre": [
+      "recwrlfHSJHJUojt2"
+    ],
+    "maitre_ouvrage": [
+      "rec3q31cWdpVBT2tG"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Aperçus Maine et Loire en 2019 (Catégorie Architecture - 1er prix)\n\nPrix PARI de la Maison de l'Architecture des Pays de la Loire (Grand Prix)\n",
+    "distinctions": [
+      "recZpmWI8aJAmlsmQ",
+      "recTs7PiTVMctPJpB"
+    ],
+    "nom": "Pavillon d'Accueil de la Scierie Dibon",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.55455818599004, -0.383542758845127",
+    "département": "49 Maine-et-Loire",
+    "date": "2017",
+    "dernière modification": "2021-09-28T07:22:29.000Z"
+  },
+  "recHVehEvNmwXAJIO": {
+    "id": "recHVehEvNmwXAJIO",
+    "adresse": "Rue du Port de l'Ancre 49000 Angers\n",
+    "type": [
+      "recrpFA9KQQobRh6X"
+    ],
+    "maitre_oeuvre": [
+      "recnlsgaTUOFgxUft"
+    ],
+    "maitre_ouvrage": [
+      "recXT4TItsP1IuLWU"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Aperçus Maine et Loire en 2019 (Catégorie Architecture - 2ème prix)\n",
+    "distinctions": [
+      "recZpmWI8aJAmlsmQ"
+    ],
+    "nom": "Maison du Port de l'Ancre",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.474912,-0.55145",
+    "département": "49 Maine-et-Loire",
+    "date": "2018",
+    "dernière modification": "2021-09-28T07:44:30.000Z"
+  },
+  "recJgalSFcQX7dLe6": {
+    "id": "recJgalSFcQX7dLe6",
+    "adresse": "ZAC des Hauts du Couzé, 49070 BEAUCOUZE\n",
+    "type": [
+      "recEWoJWizkQSrwEo"
+    ],
+    "maitre_oeuvre": [
+      "rec5Hv3G4xYoddlcE"
+    ],
+    "maitre_ouvrage": [
+      "recfN85rTPfKx2Ccs"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Aperçus Maine et Loire en 2019 (Catégorie Aménagement - 2nd prix)\n",
+    "distinctions": [
+      "recZpmWI8aJAmlsmQ"
+    ],
+    "nom": "Les Hauts du Couzé",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.47066154578797, -0.635834619365218",
+    "département": "49 Maine-et-Loire",
+    "date": "2018",
+    "dernière modification": "2021-09-28T07:22:35.000Z"
   },
   "recLVrdGzklj7mmLE": {
     "id": "recLVrdGzklj7mmLE",
@@ -53,6 +196,61 @@
     ],
     "dernière modification": "2021-09-20T09:28:55.000Z"
   },
+  "recM6PpcEu5bvmzwd": {
+    "id": "recM6PpcEu5bvmzwd",
+    "adresse": "place du mail, 72003 Allonnes\n",
+    "type": [
+      "recKz37RIU8kUf2cu"
+    ],
+    "maitre_oeuvre": [
+      "recmXxP7S1u94yfQp",
+      "recxbSsoxnApY8i6C",
+      "recSuEGau43qiMjre",
+      "recNklaa9ashZHOi4"
+    ],
+    "maitre_ouvrage": [
+      "recWI1zsiYjip0uaA"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Aménagement)\n",
+    "distinctions": [
+      "recmk2YRhgfa5q8Dj"
+    ],
+    "nom": "Place du Mail",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.97005865090112, 0.16015876538675414",
+    "département": "72 Sarthe",
+    "date": "2011",
+    "dernière modification": "2021-09-27T16:23:43.000Z"
+  },
+  "recQh9bPlaf7FDpmG": {
+    "id": "recQh9bPlaf7FDpmG",
+    "adresse": "Place des Terrasses, 49430 durtal\n",
+    "type": [
+      "recKz37RIU8kUf2cu"
+    ],
+    "maitre_oeuvre": [
+      "recSTcBSeVMm2gaCD"
+    ],
+    "maitre_ouvrage": [
+      "recu7p9x6ZpDFKaTX"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Aperçus Maine et Loire en 2019 (Catégorie Aménagement - 1er prix)\n",
+    "distinctions": [
+      "recZpmWI8aJAmlsmQ"
+    ],
+    "nom": "Place des Terrasses",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.670354855241, -0.2461768891609227",
+    "département": "49 Maine-et-Loire",
+    "date": "2018",
+    "dernière modification": "2021-09-28T07:04:18.000Z"
+  },
   "recRlloApjtcScitR": {
     "id": "recRlloApjtcScitR",
     "type": [
@@ -69,7 +267,7 @@
     "présentation": "Comment (re)trouver du plaisir à habiter ensemble ? Comment permettre les rencontres sans les imposer ? Comment disposer d’espaces flexibles, polyvalents mais aussi généreux ? L’habitat participatif soulève plusieurs débats qui interrogent à la fois individuellement et collectivement.\n Qu’en est-il de notre capacité à interagir selon un modèle plus horizontal ?\n De quelle manière pouvons-nous inventer ensemble une autre manière d’habiter ? En effet «habiter» dépasse la simple cellule de vie et renvoie à une réalité économique, architecturale, sociale, urbaine, humaine ou encore quotidienne… Si chaque opération d’habitat participatif est unique car intimement liée à ses initiateurs et concepteurs, ce modèle a le mérite de reposer la question de «l’habiter» et cela nous intéresse d’autant plus dans le contexte actuel.\nLe Pré Commun est une opération de 12 logements à la Montagne réalisée par les architectes de l’agence Guinée\\*Potin.\n Accompagnés par Bruno Suner, habitant et également président de HEN (Habitats, Energies, Naturels), ainsi que par Hervé Potin, architecte de l’opération, nous découvrirons ensemble comment le projet du Pré Commun a été rendu possible, entre la constitution d’un groupe, le montage financier et la participation active du groupe au projet d’architecture…\n Découvrons ensemble comment le collectif rend plus fort !\n",
     "nom": "Le Pré Commun",
     "cover_media": [
-      "recyE9GAQtMxFjjuo"
+      "recgTCGhnV7JPI85T"
     ],
     "périodes": [
       "recrOfcUS3a0toY0i"
@@ -77,7 +275,7 @@
     "geolocalisation": "47.180246,-1.67942",
     "département": "44 Loire-Atlantique",
     "date": "2021",
-    "dernière modification": "2021-09-23T10:24:39.000Z"
+    "dernière modification": "2021-09-28T06:37:54.000Z"
   },
   "recTr9BzAt1jG9yaJ": {
     "id": "recTr9BzAt1jG9yaJ",
@@ -98,7 +296,7 @@
       "recyxl64SW35uLcjC"
     ],
     "status": "Publié",
-    "présentation": "Au **Bas** Chantenay, tout près du Chantier Naval de l’Esclain, et sur les bords de Loire, un nouveau lieu a ouver t ses portes fin d’année 2019. Une implantation dans un quartier historique . . .\nLittle Atlantique Brewery est une microbrasserie ar tisanale située dans un bâtiment historique du 19ème siècle. A l’origine de cette aventure deux entrepreneurs, Jérôme et Gregory, dont le pari était de réimplanter une brasserie au coeur du quartier du Bas Chantenay, où les Brasseries de la Meuse produisaient de la bière depuis le 18e siècle avant de fermer définitivement dans les années 1980.\n[google.com](https://www.google.com/)\nAu coeur de la cale Dubigeon La cale Dubigeon constitue le centre historique de la plaine industrielle du Bas- Chantenay. Un coeur bien vivant avec l’activité de plusieurs entreprises et associations, dont le chantier naval de l’Esclain créé il y a 25 ans. Le pôle d’activités Dubigeon va se renforcer avec la création des Docks de Chantenay, un nouveau lieu de vie ouver t à tous. Depuis janvier 2020, une navette fluviale part des Docks de Chantenay pour rejoindre l’île de Nantes.\n_Sources : Nantes Métropole Aménagement_\n_Les investisseurs comptent « renouer avec le passé brassicole » de la cité des ducs, installés dans une bâtisse datant de 1856, une ancienne huilerie devenue savonnerie. A quelques centaines de mètres se situaient en effet les Brasseries de la Meuse où des milliers de litres ont abreuvé les Nantais jusqu’au milieu des années 80. « C’est un lieu artisanal, qui a une âme. Et dans un quartier de Chantenay en pleine mutation, avec une vie ar tistique », se félicite Jérôme Pallier. Nous sommes fiers de redonner ici ses lettres de noblesse à la bière nantaise. Avec son associé australien, il a mis 3,3 millions d’euros sur la table pour réhabiliter le bâtiment de 3000 m². Lieu hybride La façade en pierres et briques a été conservée, le lieu peut désormais accueillir jusqu’à 650 personnes sur trois niveaux._\n_A l’étage supérieur, une salle de réception avec bar et espace traiteur est louée aux entreprises pour des séminaires. Cerise sur le gâteau : un balcon… avec vue sur la Loire. C’est d’ailleurs le concept. Ici, tout est ouvert. On boit de la bière mais on voit comment elle est fabriquée : derrière le comptoir trônent deux cuves de fermentation. Même chose en cuisine où des salariés en réinsertion ont été recrutés._\n_Sources : actu.fr/pays-de-la-loire_\n_Le bâtiment d’origine disposant de peu d’ouver tures, est prolongé vers le Sud, face à la Loire, par une extension en charpente bois visible et intégralement vitrée. Une porte coulissante monumentale permet d’ouvrir la moitié de la façade. Les espaces et leur organisation exploitent la composition originale des bâtiments. La conservation des ouvrages existants et sains a constitué un préalable à toute autre approche environnementale. Les poutres en pichepin originaires des Etats-Unis, ont ainsi été conservées, ainsi que les solives et planchers sains. Matériaux simples et bruts, bois massif, béton, acier et verre, conjuguent les différentes époques habillement mises en valeur par l’architecte._\n",
+    "présentation": "Au Bas Chantenay, tout près du Chantier Naval de l’Esclain, et sur les bords de Loire, un nouveau lieu a ouver t ses portes fin d’année 2019. Une implantation dans un quartier historique . . .\nLittle Atlantique Brewery est une microbrasserie ar tisanale située dans un bâtiment historique du 19ème siècle. A l’origine de cette aventure deux entrepreneurs, Jérôme et Gregory, dont le pari était de réimplanter une brasserie au coeur du quartier du Bas Chantenay, où les Brasseries de la Meuse produisaient de la bière depuis le 18e siècle avant de fermer définitivement dans les années 1980.\n[google.com](https://www.google.com/)\nAu coeur de la cale Dubigeon La cale Dubigeon constitue le centre historique de la plaine industrielle du Bas- Chantenay. Un coeur bien vivant avec l’activité de plusieurs entreprises et associations, dont le chantier naval de l’Esclain créé il y a 25 ans. Le pôle d’activités Dubigeon va se renforcer avec la création des Docks de Chantenay, un nouveau lieu de vie ouver t à tous. Depuis janvier 2020, une navette fluviale part des Docks de Chantenay pour rejoindre l’île de Nantes.\n_Sources : Nantes Métropole Aménagement_\n_Les investisseurs comptent « renouer avec le passé brassicole » de la cité des ducs, installés dans une bâtisse datant de 1856, une ancienne huilerie devenue savonnerie. A quelques centaines de mètres se situaient en effet les Brasseries de la Meuse où des milliers de litres ont abreuvé les Nantais jusqu’au milieu des années 80. « C’est un lieu artisanal, qui a une âme. Et dans un quartier de Chantenay en pleine mutation, avec une vie ar tistique », se félicite Jérôme Pallier. Nous sommes fiers de redonner ici ses lettres de noblesse à la bière nantaise. Avec son associé australien, il a mis 3,3 millions d’euros sur la table pour réhabiliter le bâtiment de 3000 m². Lieu hybride La façade en pierres et briques a été conservée, le lieu peut désormais accueillir jusqu’à 650 personnes sur trois niveaux._\n_A l’étage supérieur, une salle de réception avec bar et espace traiteur est louée aux entreprises pour des séminaires. Cerise sur le gâteau : un balcon… avec vue sur la Loire. C’est d’ailleurs le concept. Ici, tout est ouvert. On boit de la bière mais on voit comment elle est fabriquée : derrière le comptoir trônent deux cuves de fermentation. Même chose en cuisine où des salariés en réinsertion ont été recrutés._\n_Sources : actu.fr/pays-de-la-loire_\n_Le bâtiment d’origine disposant de peu d’ouver tures, est prolongé vers le Sud, face à la Loire, par une extension en charpente bois visible et intégralement vitrée. Une porte coulissante monumentale permet d’ouvrir la moitié de la façade. Les espaces et leur organisation exploitent la composition originale des bâtiments. La conservation des ouvrages existants et sains a constitué un préalable à toute autre approche environnementale. Les poutres en pichepin originaires des Etats-Unis, ont ainsi été conservées, ainsi que les solives et planchers sains. Matériaux simples et bruts, bois massif, béton, acier et verre, conjuguent les différentes époques habillement mises en valeur par l’architecte._\n",
     "distinctions": [
       "rectTOye18UHf0K0H"
     ],
@@ -120,7 +318,62 @@
       "recjGz63Hv79VBMPA",
       "recF5As2SEQr2DHuF"
     ],
-    "dernière modification": "2021-09-20T14:40:25.000Z"
+    "dernière modification": "2021-09-28T06:49:05.000Z"
+  },
+  "recXIe49AgTTO1AuY": {
+    "id": "recXIe49AgTTO1AuY",
+    "adresse": "71 boulevard Alfred Nobel 44400 Rezé\n",
+    "type": [
+      "recHac1PdI8DEyUie"
+    ],
+    "maitre_oeuvre": [
+      "recg7qYWVhERFbls6"
+    ],
+    "maitre_ouvrage": [
+      "recXVXVP3gQIykC61"
+    ],
+    "status": "Publié",
+    "présentation": "Le Marché d’Intérêt National (M.I.N.) : nourrir autrement le ventre de la ville\nL’histoire nous montre que le MIN à Nantes suit différentes installations en lien avec la croissance urbaine et la demande de plus en plus forte en produits alimentaires.\nLe premier marché de gros s’installa en 1903 dans le quartier du Champ de Mars aux portes du centre historique. Le quartier fourmille très vite d’entrepôts autour du ventre installé au rez-de- chaussée du Palais du Champ de Mars. Lieu d’échanges par excellence, il s’ancre sur l’ile de Nantes en 1969 près du faisceau ferroviaire de la gare de l’Etat.\nRécemment poussé hors la ville (le MIN est au sud de la porte de Rezé et inauguré en 2019), il s’arrime aux infrastructures de transport jugées aujourd’hui plus efficaces comme le périphérique métropolitain.\nToujours plus loin mais aussi toujours plus gros, le nouveau MIN (le 1 er régional et le 2 ème après Rungis) s’étend sur 19,4 ha dont 5 ha de surface de vente offrant tous les produits alimentaires, libre- service de gros, sociétés de courtage et de transport.\nA défaut de pouvoir organiser une visite du MIN, nous sommes allés à la rencontre des architectes du MIN, l’agence EGA, l’agence Franco-suédoise (Erik Giudice Architectes) qui a remporté le concours du MIN en 2015. Erik Giudice et Marcin Sikora ont pris le temps de nous expliquer la genèse de ce projet de plus de 19,4 hectares, comment s’organise-t-il, quels ont été leur concept, leur inspirations… Ce projet a mobilisé une dizaine de personnes au sein de l’agence, dont Marcin Sikora qui a déménagé sur Nantes afin de pouvoir suivre au mieux ce chantier titanesque !\nDistinction : le MIN de Nantes a reçu le prix \"Bâtiment Durable\" aux Trophées des Entreprises Publiques Locales (EPL) édition 2020.\n",
+    "distinctions": [
+      "rece7QaC45wRnaFHF"
+    ],
+    "nom": "Marché d'Intérêt National (MIN)",
+    "cover_media": [
+      "recm5ZABxVNTdAnjg"
+    ],
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.159383,-1.553366",
+    "département": "44 Loire-Atlantique",
+    "date": "2019",
+    "dernière modification": "2021-09-28T08:00:19.000Z"
+  },
+  "recXNuzkB4wj0g0H4": {
+    "id": "recXNuzkB4wj0g0H4",
+    "adresse": "Lieu dit l'Église, 72110 Saint Denis des Coudrais\n",
+    "type": [
+      "recVInw9NjTvZ1X63"
+    ],
+    "maitre_oeuvre": [
+      "recQb3mKINQqzB7iP"
+    ],
+    "maitre_ouvrage": [
+      "recRin8OHDURkg4sX"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 (Catégorie Patrimoine Ancien)\n",
+    "distinctions": [
+      "recmk2YRhgfa5q8Dj"
+    ],
+    "nom": "Restauration de l'Église",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "48.149719,0.506125",
+    "département": "72 Sarthe",
+    "date": "2014",
+    "dernière modification": "2021-09-27T16:12:36.000Z"
   },
   "recXrmOzavWvTwx9T": {
     "id": "recXrmOzavWvTwx9T",
@@ -141,7 +394,7 @@
     "présentation": "Le quartier Euronantes, dont l’îlot 5B vient finaliser la frange Nord à proximité de la gare, participe au désenclavement du quartier Malakoff en le reliant au quartier Dalby, au quartier des Olivettes et par extension au centre historique et au développement Ouest de l’île de Nantes. Le projet s’intègre donc comme outil de connexion entre les usages proposés et le grand paysage, et se construit autour de 3 enjeux majeurs :\n\\- L’échelle humaine comme mesure de référence : cheminements et usages au cœur de l’identité du projet.\n\\- Une architecture qui par la qualité de sa matière et de ses volumes participe à la qualification pérenne du quartier.\n\\- La mise en place des conditions d’une mixité programmatique : dissocier clairement les entités afin de garantir leur modularité et de favoriser les échanges.\n1\\. Une architecture de chemins\nLa fabrique du paysage urbain à l’échelle de l’homme, significative dans la construction du quartier par le travail du « volume du piéton » est abordée dans le projet par un travail précis sur la porosité des rez-de chaussée et sur leur lisibilité. Cette démarche est poursuivie dans l’ensemble du projet en offrant un grand escalier qui non seulement garantit la potentialité publique des toitures en leur offrant un adressage sur rue, mais garantit aussi le caractère piéton des niveaux de parking.\n2\\. La matière de la ville\nLes matériaux utilisés s’intègrent comme première garantie d’un projet économe énergétiquement et financièrement :\n\\- La double peau en briques des bureaux SNCF permet de traiter efficacement les variations de porosité entre les locaux et l’extérieur\n\\- Le parking est construit selon des dispositifs structurels en béton rouge permettant sa transparence maximale et son éventuelle mutation future (éclairage naturel, hauteur sous dalle importante)\n\\- Les logements profitent d’une façade épaisse qui offrent sur toutes ses orientations un jeu subtil de nus extérieurs pour les espaces extérieurs protégés et de grand vitrage au nu intérieur des façades, en marquant la massivité du dispositif structurel.\n\n",
     "nom": "Viséo",
     "cover_media": [
-      "recR0CyEHxK24Jg9r"
+      "recgsgovOytQsNOoV"
     ],
     "périodes": [
       "recrOfcUS3a0toY0i"
@@ -149,20 +402,247 @@
     "geolocalisation": "47.216643,-1.536066",
     "département": "44 Loire-Atlantique",
     "date": "2021",
-    "dernière modification": "2021-09-23T10:25:56.000Z"
+    "dernière modification": "2021-09-28T07:51:41.000Z"
   },
-  "recl5KPgc3zjCrnjA": {
-    "id": "recl5KPgc3zjCrnjA",
-    "sélections": [
-      "recNOfjWkwIQ7wPig"
-    ],
+  "recYQXv9Df1Bn5fTu": {
+    "id": "recYQXv9Df1Bn5fTu",
+    "adresse": "Rue du Colombier, 49000 Angers\n",
     "type": [
+      "recwrGyjSIcOPtP0A"
+    ],
+    "maitre_oeuvre": [
+      "recnlsgaTUOFgxUft"
+    ],
+    "maitre_ouvrage": [
+      "recQcA5r5FV4LQ8LC"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Aperçus Maine et Loire en 2019 (Catégorie Architecture - 3ème prix)\n",
+    "distinctions": [
+      "recZpmWI8aJAmlsmQ"
+    ],
+    "nom": "Tribune Colombier du Stade Raymond Kopa",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.46016289625379, -0.5297945444305144",
+    "département": "49 Maine-et-Loire",
+    "date": "2018",
+    "dernière modification": "2021-09-28T07:47:28.000Z"
+  },
+  "recdqD43kpp1pOv3x": {
+    "id": "recdqD43kpp1pOv3x",
+    "adresse": "225 Avenue de Tours 53000 laval\n",
+    "type": [
+      "recQIJ15w7Yc15eNf",
+      "recutlOJwb5QQKd5c",
       "recKz37RIU8kUf2cu"
     ],
-    "nom": "bidule",
-    "cover_media": [
-      "rec09fZqSVXpUydK2"
+    "maitre_oeuvre": [
+      "recBFqrDBBJFEoekz"
     ],
-    "dernière modification": "2021-09-20T22:00:36.000Z"
+    "maitre_ouvrage": [
+      "rec2LuCCdizqdbH4M"
+    ],
+    "status": "Publié",
+    "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne 2014 (Catégorie Paysage et Urbanisme)\n",
+    "distinctions": [
+      "rec3Xe5U2PVARPF2u"
+    ],
+    "nom": "Médiathèque et logements \"Les Lilas\"",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "48.054534,-0.743165",
+    "département": "53 Mayenne",
+    "date": "2018",
+    "dernière modification": "2021-09-27T16:12:57.000Z"
+  },
+  "rechtsQSNXyvtp75c": {
+    "id": "rechtsQSNXyvtp75c",
+    "adresse": "23 Rue de Paris, 72190 Coulaines\n",
+    "type": [
+      "recXibaj44X2ckGlM",
+      "recgBvHbjDyN7yskz",
+      "recVSbbcBxY2ydzDN"
+    ],
+    "maitre_oeuvre": [
+      "recVkSOHmBeL4G9mV",
+      "recU9GUFDXK6m2xjj"
+    ],
+    "maitre_ouvrage": [
+      "reclrlg5wctVfBRYh"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 (Catégorie Architecture)\n",
+    "distinctions": [
+      "recmk2YRhgfa5q8Dj"
+    ],
+    "nom": "Pôle d'excellence éducative Albert Camus",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "48.023798,0.207591",
+    "département": "72 Sarthe",
+    "date": "2013",
+    "dernière modification": "2021-09-27T16:12:49.000Z"
+  },
+  "recjkXrXE0hZw6f4t": {
+    "id": "recjkXrXE0hZw6f4t",
+    "adresse": "Rue de la manufacture, 49353 Trélazé\n",
+    "type": [
+      "recutlOJwb5QQKd5c"
+    ],
+    "maitre_oeuvre": [
+      "recaPIt2ICOPfTO0c"
+    ],
+    "maitre_ouvrage": [
+      "recv5WBhOVyri9b6c"
+    ],
+    "status": "Publié",
+    "présentation": "Restructuration de deux halles industrielles de l’Ancienne Manufacture d’Allumettes à Trélazé pour la création de 52 logements locatifs sociaux.\n\nPrix Aperçus Maine et Loire en 2019 (Grand Prix)\n",
+    "distinctions": [
+      "recZpmWI8aJAmlsmQ"
+    ],
+    "nom": "Les Allumetières",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.44344289564926, -0.5026777606473547",
+    "département": "49 Maine-et-Loire",
+    "date": "2018",
+    "dernière modification": "2021-09-28T06:47:46.000Z"
+  },
+  "recmanFMpSvbjFW6r": {
+    "id": "recmanFMpSvbjFW6r",
+    "adresse": "12 Place de l'Église, 72240 Neuvillalais\n",
+    "type": [
+      "recAm0Xd8S6WS0mUU"
+    ],
+    "maitre_oeuvre": [
+      "rec8xc1z26ogg2vT6"
+    ],
+    "maitre_ouvrage": [
+      "recLBtIyE7sVMbBwh"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Patrimoine)\n",
+    "distinctions": [
+      "recmk2YRhgfa5q8Dj"
+    ],
+    "nom": "Mairie (Réhabilitation d'un Presbytère)",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "48.155478,-0.00116",
+    "département": "72 Sarthe",
+    "date": "2011",
+    "dernière modification": "2021-09-27T16:25:43.000Z"
+  },
+  "recq85i5LBfpWsp9R": {
+    "id": "recq85i5LBfpWsp9R",
+    "adresse": "3 chemin du pressoir, 72119 Domfront-en-Champagne\n",
+    "type": [
+      "recU0DF0Isnpt8rJ1"
+    ],
+    "maitre_oeuvre": [
+      "rec8r73AaBFcWgkdQ"
+    ],
+    "maitre_ouvrage": [
+      "recTedn3N7A0RKkXU"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Architecture)\n",
+    "distinctions": [
+      "recmk2YRhgfa5q8Dj"
+    ],
+    "nom": "Espace de diffusion culturelle",
+    "périodes": [
+      "recAnX6ahvGJYvz0M"
+    ],
+    "geolocalisation": "48.106156,0.026757",
+    "département": "72 Sarthe",
+    "date": "2009",
+    "dernière modification": "2021-09-27T16:20:04.000Z"
+  },
+  "recsuUKLNrVXo8p8J": {
+    "id": "recsuUKLNrVXo8p8J",
+    "adresse": "2 rue de l'Hermitage 53000 Laval\n",
+    "type": [
+      "recH814jY01CiGtUZ"
+    ],
+    "maitre_oeuvre": [
+      "reclfp6HLvEEmbP6e",
+      "recleUhLiIBLOEkyG"
+    ],
+    "maitre_ouvrage": [
+      "recKgw2X4CLIXjXgU"
+    ],
+    "status": "Publié",
+    "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne 2014 (Catégorie Maîtrise d'Ouvrage Privée)\n",
+    "distinctions": [
+      "rec3Xe5U2PVARPF2u"
+    ],
+    "nom": "Restaurant d'entreprise \"Le Petit Lavallois\"",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "48.077381,-0.771572",
+    "département": "53 Mayenne",
+    "date": "2016",
+    "dernière modification": "2021-09-27T16:13:00.000Z"
+  },
+  "recuIUUMuCMw2rrHn": {
+    "id": "recuIUUMuCMw2rrHn",
+    "adresse": "Rue Charnacé, 72300 Auvers-le-Hamon\n",
+    "type": [
+      "recwFLzRxncgHgTIt"
+    ],
+    "maitre_oeuvre": [
+      "recU9GUFDXK6m2xjj",
+      "rec8xc1z26ogg2vT6"
+    ],
+    "maitre_ouvrage": [
+      "recQtnbWbIbEVFXwj"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 (Catégorie Aménagement)\n",
+    "distinctions": [
+      "recmk2YRhgfa5q8Dj"
+    ],
+    "nom": "Extension de Cimetière",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.90477123647374, -0.35441273973473375",
+    "département": "72 Sarthe",
+    "date": "2015",
+    "dernière modification": "2021-09-27T16:12:30.000Z"
+  },
+  "reczXyoM7GigrsPit": {
+    "id": "reczXyoM7GigrsPit",
+    "adresse": "43 rue Avicenne 53130 Laval\n",
+    "type": [
+      "recNYG3gOluc33BDh"
+    ],
+    "maitre_oeuvre": [
+      "recTeODtzYRyzftnp"
+    ],
+    "maitre_ouvrage": [
+      "rec2LuCCdizqdbH4M"
+    ],
+    "status": "Publié",
+    "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne 2014 (Catégorie Architecture)\n",
+    "distinctions": [
+      "rec3Xe5U2PVARPF2u"
+    ],
+    "nom": "EHPAD Ferrié",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "48.07906,-0.780728",
+    "département": "53 Mayenne",
+    "date": "2018",
+    "dernière modification": "2021-09-27T16:12:19.000Z"
   }
 }
