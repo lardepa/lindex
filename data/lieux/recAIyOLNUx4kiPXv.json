@@ -1,14 +1,25 @@
 {
-  "id": "rec7OkEzJNwlvELsf",
-  "nom": "Hôtel des Communes des Herbiers",
-  "dernière modification": "2021-09-28T08:49:20.000Z",
-  "présentation": "Extension d’une mairie pour recevoir les services intercommunaux\n\nPrix Aperçus Vendée en 2019 (Grand Prix du Jury)\n",
-  "adresse": "6 rue du Tourniquet, 85500 Les Herbiers\n",
+  "id": "recAIyOLNUx4kiPXv",
+  "nom": "Maison-musée Clémenceau et pavillon d'accueil",
+  "dernière modification": "2021-09-28T08:56:35.000Z",
+  "présentation": "Réhabilitation d’une maison et son jardin pour accueillir le musée de Clemenceau\n\nPrix Aperçus Vendée en 2019 (Catégorie Équipement public - 1er Prix)\n",
+  "adresse": "18 rue du Temple, 85390 Mouilleron-Saint-Germain\n",
   "geolocalisation": [
-    46.869512,
-    -1.012996
+    46.676028,
+    -0.851067
   ],
-  "date": "2016",
+  "département": "85 Vendée",
+  "type": [
+    {
+      "id": "recpXtVGJnicjtjCe",
+      "lieux": [
+        "recAIyOLNUx4kiPXv"
+      ],
+      "destination": "Musée",
+      "type_destination": "Équipement"
+    }
+  ],
+  "date": "2018",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -40,28 +51,29 @@
   ],
   "maitre_oeuvre": [
     {
-      "id": "recpjOfOdGukiQ4gA",
+      "id": "rec2RkhYsVhUGbYCu",
       "maitre_oeuvre": [
-        "rec7OkEzJNwlvELsf"
+        "recAIyOLNUx4kiPXv"
       ],
-      "site_web": "https://www.atelierdupont.fr/",
-      "nom": "Atelier du Pont - agence d'architecture"
+      "nom": "TITAN architectes",
+      "site_web": "https://titan.archi/fr/"
     },
     {
-      "id": "rectsOJh5gJnn9tzO",
+      "id": "recMOWme8rLk9JYyO",
       "maitre_oeuvre": [
-        "rec7OkEzJNwlvELsf"
+        "recAIyOLNUx4kiPXv"
       ],
-      "nom": "Michel Joyau Architecte"
+      "site_web": "https://www.longenlarge.fr/",
+      "nom": "De Long en Large Paysagistes"
     }
   ],
   "maitre_ouvrage": [
     {
-      "id": "recmWIJhU0Lf0FnVW",
+      "id": "rechEulg4AgRz0pXz",
       "maitre_ouvrage": [
-        "rec7OkEzJNwlvELsf"
+        "recAIyOLNUx4kiPXv"
       ],
-      "nom": "Communauté de Communes du Pays des Herbiers"
+      "nom": "Ministère de la Culture"
     }
   ],
   "status": "Publié",
@@ -77,18 +89,5 @@
         "recDA3JohqEFwoBED"
       ]
     }
-  ],
-  "type": [
-    {
-      "id": "recAm0Xd8S6WS0mUU",
-      "type_destination": "Équipement",
-      "destination": "Hôtel de Ville",
-      "lieux": [
-        "recmanFMpSvbjFW6r",
-        "rec7OkEzJNwlvELsf",
-        "recDA3JohqEFwoBED"
-      ]
-    }
-  ],
-  "département": "85 Vendée"
+  ]
 }

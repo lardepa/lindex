@@ -1,14 +1,27 @@
 {
-  "id": "rec7OkEzJNwlvELsf",
-  "nom": "Hôtel des Communes des Herbiers",
-  "dernière modification": "2021-09-28T08:49:20.000Z",
-  "présentation": "Extension d’une mairie pour recevoir les services intercommunaux\n\nPrix Aperçus Vendée en 2019 (Grand Prix du Jury)\n",
-  "adresse": "6 rue du Tourniquet, 85500 Les Herbiers\n",
+  "id": "recDA3JohqEFwoBED",
+  "dernière modification": "2021-09-28T09:02:43.000Z",
+  "nom": "Mairie déléguée d'Aubigny",
+  "présentation": "Rénovation de la mairie d’Aubigny création d’une extension incluant la salle du conseil.\n\nPrix Aperçus Vendée en 2019 (Catégorie Équipement public - 2ème prix)\n",
+  "adresse": "18 Grand'rue, 85430 Aubigny les Clouzeaux\n",
   "geolocalisation": [
-    46.869512,
-    -1.012996
+    46.59736579443207,
+    -1.4526221184828525
   ],
-  "date": "2016",
+  "département": "85 Vendée",
+  "type": [
+    {
+      "id": "recAm0Xd8S6WS0mUU",
+      "type_destination": "Équipement",
+      "destination": "Hôtel de Ville",
+      "lieux": [
+        "recmanFMpSvbjFW6r",
+        "rec7OkEzJNwlvELsf",
+        "recDA3JohqEFwoBED"
+      ]
+    }
+  ],
+  "date": "2018",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -40,31 +53,23 @@
   ],
   "maitre_oeuvre": [
     {
-      "id": "recpjOfOdGukiQ4gA",
+      "id": "recPCJ3pXohRNtaEY",
       "maitre_oeuvre": [
-        "rec7OkEzJNwlvELsf"
+        "recDA3JohqEFwoBED"
       ],
-      "site_web": "https://www.atelierdupont.fr/",
-      "nom": "Atelier du Pont - agence d'architecture"
-    },
-    {
-      "id": "rectsOJh5gJnn9tzO",
-      "maitre_oeuvre": [
-        "rec7OkEzJNwlvELsf"
-      ],
-      "nom": "Michel Joyau Architecte"
+      "site_web": "http://www.architecturebmp.com/",
+      "nom": "Architecture Blanchard-Marsault-Pondevie"
     }
   ],
   "maitre_ouvrage": [
     {
-      "id": "recmWIJhU0Lf0FnVW",
+      "id": "recfLctdMIdhMbPr7",
       "maitre_ouvrage": [
-        "rec7OkEzJNwlvELsf"
+        "recDA3JohqEFwoBED"
       ],
-      "nom": "Communauté de Communes du Pays des Herbiers"
+      "nom": "Commune d'Aubigny-les-Clouzeaux"
     }
   ],
-  "status": "Publié",
   "distinctions": [
     {
       "id": "recF1om3Uugj8Zp0n",
@@ -77,18 +82,5 @@
         "recDA3JohqEFwoBED"
       ]
     }
-  ],
-  "type": [
-    {
-      "id": "recAm0Xd8S6WS0mUU",
-      "type_destination": "Équipement",
-      "destination": "Hôtel de Ville",
-      "lieux": [
-        "recmanFMpSvbjFW6r",
-        "rec7OkEzJNwlvELsf",
-        "recDA3JohqEFwoBED"
-      ]
-    }
-  ],
-  "département": "85 Vendée"
+  ]
 }

@@ -4,7 +4,9 @@
     "type_destination": "Équipement",
     "destination": "Hôtel de Ville",
     "lieux": [
-      "recmanFMpSvbjFW6r"
+      "recmanFMpSvbjFW6r",
+      "rec7OkEzJNwlvELsf",
+      "recDA3JohqEFwoBED"
     ]
   },
   "recEWoJWizkQSrwEo": {
@@ -128,6 +130,14 @@
     "lieux": [
       "recXrmOzavWvTwx9T"
     ]
+  },
+  "recpXtVGJnicjtjCe": {
+    "id": "recpXtVGJnicjtjCe",
+    "lieux": [
+      "recAIyOLNUx4kiPXv"
+    ],
+    "destination": "Musée",
+    "type_destination": "Équipement"
   },
   "recpmZv90qfrbo9DK": {
     "id": "recpmZv90qfrbo9DK",

@@ -53,7 +53,58 @@
     "dernière modification": "2021-09-27T16:12:42.000Z"
   },
   "rec7OkEzJNwlvELsf": {
-    "id": "rec7OkEzJNwlvELsf"
+    "id": "rec7OkEzJNwlvELsf",
+    "nom": "Hôtel des Communes des Herbiers",
+    "dernière modification": "2021-09-28T08:49:20.000Z",
+    "présentation": "Extension d’une mairie pour recevoir les services intercommunaux\n\nPrix Aperçus Vendée en 2019 (Grand Prix du Jury)\n",
+    "adresse": "6 rue du Tourniquet, 85500 Les Herbiers\n",
+    "geolocalisation": "46.869512,-1.012996",
+    "date": "2016",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "maitre_oeuvre": [
+      "recpjOfOdGukiQ4gA",
+      "rectsOJh5gJnn9tzO"
+    ],
+    "maitre_ouvrage": [
+      "recmWIJhU0Lf0FnVW"
+    ],
+    "status": "Publié",
+    "distinctions": [
+      "recF1om3Uugj8Zp0n"
+    ],
+    "type": [
+      "recAm0Xd8S6WS0mUU"
+    ],
+    "département": "85 Vendée"
+  },
+  "recAIyOLNUx4kiPXv": {
+    "id": "recAIyOLNUx4kiPXv",
+    "nom": "Maison-musée Clémenceau et pavillon d'accueil",
+    "dernière modification": "2021-09-28T08:56:35.000Z",
+    "présentation": "Réhabilitation d’une maison et son jardin pour accueillir le musée de Clemenceau\n\nPrix Aperçus Vendée en 2019 (Catégorie Équipement public - 1er Prix)\n",
+    "adresse": "18 rue du Temple, 85390 Mouilleron-Saint-Germain\n",
+    "geolocalisation": "46.676028,-0.851067",
+    "département": "85 Vendée",
+    "type": [
+      "recpXtVGJnicjtjCe"
+    ],
+    "date": "2018",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "maitre_oeuvre": [
+      "rec2RkhYsVhUGbYCu",
+      "recMOWme8rLk9JYyO"
+    ],
+    "maitre_ouvrage": [
+      "rechEulg4AgRz0pXz"
+    ],
+    "status": "Publié",
+    "distinctions": [
+      "recF1om3Uugj8Zp0n"
+    ]
   },
   "recBxhZLsWO1HSu4R": {
     "id": "recBxhZLsWO1HSu4R",
@@ -80,6 +131,31 @@
     "département": "53 Mayenne",
     "date": "2017",
     "dernière modification": "2021-09-27T16:12:54.000Z"
+  },
+  "recDA3JohqEFwoBED": {
+    "id": "recDA3JohqEFwoBED",
+    "dernière modification": "2021-09-28T09:02:43.000Z",
+    "nom": "Mairie déléguée d'Aubigny",
+    "présentation": "Rénovation de la mairie d’Aubigny création d’une extension incluant la salle du conseil.\n\nPrix Aperçus Vendée en 2019 (Catégorie Équipement public - 2ème prix)\n",
+    "adresse": "18 Grand'rue, 85430 Aubigny les Clouzeaux\n",
+    "geolocalisation": "46.59736579443207, -1.4526221184828525",
+    "département": "85 Vendée",
+    "type": [
+      "recAm0Xd8S6WS0mUU"
+    ],
+    "date": "2018",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "maitre_oeuvre": [
+      "recPCJ3pXohRNtaEY"
+    ],
+    "maitre_ouvrage": [
+      "recfLctdMIdhMbPr7"
+    ],
+    "distinctions": [
+      "recF1om3Uugj8Zp0n"
+    ]
   },
   "recGXesDW1kGxSoxQ": {
     "id": "recGXesDW1kGxSoxQ",
