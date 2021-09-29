@@ -1,25 +1,60 @@
 {
   "id": "recAIyOLNUx4kiPXv",
-  "nom": "Maison-musée Clémenceau et pavillon d'accueil",
-  "dernière modification": "2021-09-28T08:56:35.000Z",
-  "présentation": "Réhabilitation d’une maison et son jardin pour accueillir le musée de Clemenceau\n\nPrix Aperçus Vendée en 2019 (Catégorie Équipement public - 1er Prix)\n",
   "adresse": "18 rue du Temple, 85390 Mouilleron-Saint-Germain\n",
-  "geolocalisation": [
-    46.676028,
-    -0.851067
-  ],
-  "département": "85 Vendée",
   "type": [
     {
       "id": "recpXtVGJnicjtjCe",
+      "type_destination": "Équipement",
+      "destination": "Musée",
       "lieux": [
         "recAIyOLNUx4kiPXv"
-      ],
-      "destination": "Musée",
-      "type_destination": "Équipement"
+      ]
     }
   ],
-  "date": "2018",
+  "maitre_oeuvre": [
+    {
+      "id": "rec2RkhYsVhUGbYCu",
+      "maitre_oeuvre": [
+        "recAIyOLNUx4kiPXv"
+      ],
+      "site_web": "https://titan.archi/fr/",
+      "nom": "TITAN architectes"
+    },
+    {
+      "id": "recMOWme8rLk9JYyO",
+      "maitre_oeuvre": [
+        "recAIyOLNUx4kiPXv"
+      ],
+      "site_web": "https://www.longenlarge.fr/",
+      "nom": "De Long en Large Paysagistes"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "rechEulg4AgRz0pXz",
+      "maitre_ouvrage": [
+        "recAIyOLNUx4kiPXv"
+      ],
+      "nom": "Ministère de la Culture"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Réhabilitation d’une maison et son jardin pour accueillir le musée de Clemenceau\n\nPrix Aperçus Vendée en 2019 (Catégorie Équipement public - 1er Prix)\n",
+  "distinctions": [
+    {
+      "id": "recF1om3Uugj8Zp0n",
+      "site_web": "https://www.caue85.com/prix-departemental-darchitecture/",
+      "nom": "Prix Aperçus Vendée",
+      "description": "Le prix Aperçus 85 est remis tous les deux ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée",
+      "lieux": [
+        "rec7OkEzJNwlvELsf",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb"
+      ]
+    }
+  ],
+  "nom": "Maison-musée Clémenceau et pavillon d'accueil",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -44,50 +79,17 @@
         "recYQXv9Df1Bn5fTu",
         "rec7OkEzJNwlvELsf",
         "recAIyOLNUx4kiPXv",
-        "recDA3JohqEFwoBED"
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb"
       ],
       "nom": "années 2010"
     }
   ],
-  "maitre_oeuvre": [
-    {
-      "id": "rec2RkhYsVhUGbYCu",
-      "maitre_oeuvre": [
-        "recAIyOLNUx4kiPXv"
-      ],
-      "nom": "TITAN architectes",
-      "site_web": "https://titan.archi/fr/"
-    },
-    {
-      "id": "recMOWme8rLk9JYyO",
-      "maitre_oeuvre": [
-        "recAIyOLNUx4kiPXv"
-      ],
-      "site_web": "https://www.longenlarge.fr/",
-      "nom": "De Long en Large Paysagistes"
-    }
+  "geolocalisation": [
+    46.676028,
+    -0.851067
   ],
-  "maitre_ouvrage": [
-    {
-      "id": "rechEulg4AgRz0pXz",
-      "maitre_ouvrage": [
-        "recAIyOLNUx4kiPXv"
-      ],
-      "nom": "Ministère de la Culture"
-    }
-  ],
-  "status": "Publié",
-  "distinctions": [
-    {
-      "id": "recF1om3Uugj8Zp0n",
-      "nom": "Prix Aperçus Vendée",
-      "description": "Le prix Aperçus 85 est remis tous les deux ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée",
-      "site_web": "https://www.caue85.com/prix-departemental-darchitecture/",
-      "lieux": [
-        "rec7OkEzJNwlvELsf",
-        "recAIyOLNUx4kiPXv",
-        "recDA3JohqEFwoBED"
-      ]
-    }
-  ]
+  "département": "85 Vendée",
+  "date": "2018",
+  "dernière modification": "2021-09-28T08:56:35.000Z"
 }

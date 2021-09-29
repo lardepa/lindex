@@ -54,14 +54,9 @@
   },
   "rec7OkEzJNwlvELsf": {
     "id": "rec7OkEzJNwlvELsf",
-    "nom": "Hôtel des Communes des Herbiers",
-    "dernière modification": "2021-09-28T08:49:20.000Z",
-    "présentation": "Extension d’une mairie pour recevoir les services intercommunaux\n\nPrix Aperçus Vendée en 2019 (Grand Prix du Jury)\n",
     "adresse": "6 rue du Tourniquet, 85500 Les Herbiers\n",
-    "geolocalisation": "46.869512,-1.012996",
-    "date": "2016",
-    "périodes": [
-      "rec0D9TkCH83ItF6j"
+    "type": [
+      "recAm0Xd8S6WS0mUU"
     ],
     "maitre_oeuvre": [
       "recpjOfOdGukiQ4gA",
@@ -71,28 +66,24 @@
       "recmWIJhU0Lf0FnVW"
     ],
     "status": "Publié",
+    "présentation": "Extension d’une mairie pour recevoir les services intercommunaux\n\nPrix Aperçus Vendée en 2019 (Grand Prix du Jury)\n",
     "distinctions": [
       "recF1om3Uugj8Zp0n"
     ],
-    "type": [
-      "recAm0Xd8S6WS0mUU"
+    "nom": "Hôtel des Communes des Herbiers",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
     ],
-    "département": "85 Vendée"
+    "geolocalisation": "46.869512,-1.012996",
+    "département": "85 Vendée",
+    "date": "2016",
+    "dernière modification": "2021-09-28T08:49:20.000Z"
   },
   "recAIyOLNUx4kiPXv": {
     "id": "recAIyOLNUx4kiPXv",
-    "nom": "Maison-musée Clémenceau et pavillon d'accueil",
-    "dernière modification": "2021-09-28T08:56:35.000Z",
-    "présentation": "Réhabilitation d’une maison et son jardin pour accueillir le musée de Clemenceau\n\nPrix Aperçus Vendée en 2019 (Catégorie Équipement public - 1er Prix)\n",
     "adresse": "18 rue du Temple, 85390 Mouilleron-Saint-Germain\n",
-    "geolocalisation": "46.676028,-0.851067",
-    "département": "85 Vendée",
     "type": [
       "recpXtVGJnicjtjCe"
-    ],
-    "date": "2018",
-    "périodes": [
-      "rec0D9TkCH83ItF6j"
     ],
     "maitre_oeuvre": [
       "rec2RkhYsVhUGbYCu",
@@ -102,9 +93,18 @@
       "rechEulg4AgRz0pXz"
     ],
     "status": "Publié",
+    "présentation": "Réhabilitation d’une maison et son jardin pour accueillir le musée de Clemenceau\n\nPrix Aperçus Vendée en 2019 (Catégorie Équipement public - 1er Prix)\n",
     "distinctions": [
       "recF1om3Uugj8Zp0n"
-    ]
+    ],
+    "nom": "Maison-musée Clémenceau et pavillon d'accueil",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "46.676028,-0.851067",
+    "département": "85 Vendée",
+    "date": "2018",
+    "dernière modification": "2021-09-28T08:56:35.000Z"
   },
   "recBxhZLsWO1HSu4R": {
     "id": "recBxhZLsWO1HSu4R",
@@ -134,18 +134,9 @@
   },
   "recDA3JohqEFwoBED": {
     "id": "recDA3JohqEFwoBED",
-    "dernière modification": "2021-09-28T09:06:14.000Z",
-    "nom": "Mairie déléguée d'Aubigny",
-    "présentation": "Rénovation de la mairie d’Aubigny création d’une extension incluant la salle du conseil.\n\nPrix Aperçus Vendée en 2019 (Catégorie Équipement public - 2ème prix)\n",
     "adresse": "18 Grand'rue, 85430 Aubigny les Clouzeaux\n",
-    "geolocalisation": "46.597365, -1.452622",
-    "département": "85 Vendée",
     "type": [
       "recAm0Xd8S6WS0mUU"
-    ],
-    "date": "2018",
-    "périodes": [
-      "rec0D9TkCH83ItF6j"
     ],
     "maitre_oeuvre": [
       "recPCJ3pXohRNtaEY"
@@ -153,10 +144,19 @@
     "maitre_ouvrage": [
       "recfLctdMIdhMbPr7"
     ],
+    "status": "Publié",
+    "présentation": "Rénovation de la mairie d’Aubigny création d’une extension incluant la salle du conseil.\n\nPrix Aperçus Vendée en 2019 (Catégorie Équipement public - 2ème prix)\n",
     "distinctions": [
       "recF1om3Uugj8Zp0n"
     ],
-    "status": "Publié"
+    "nom": "Mairie déléguée d'Aubigny",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "46.597365, -1.452622",
+    "département": "85 Vendée",
+    "date": "2018",
+    "dernière modification": "2021-09-28T09:06:14.000Z"
   },
   "recGXesDW1kGxSoxQ": {
     "id": "recGXesDW1kGxSoxQ",
@@ -342,6 +342,7 @@
     ],
     "status": "Publié",
     "présentation": "Comment (re)trouver du plaisir à habiter ensemble ? Comment permettre les rencontres sans les imposer ? Comment disposer d’espaces flexibles, polyvalents mais aussi généreux ? L’habitat participatif soulève plusieurs débats qui interrogent à la fois individuellement et collectivement.\n Qu’en est-il de notre capacité à interagir selon un modèle plus horizontal ?\n De quelle manière pouvons-nous inventer ensemble une autre manière d’habiter ? En effet «habiter» dépasse la simple cellule de vie et renvoie à une réalité économique, architecturale, sociale, urbaine, humaine ou encore quotidienne… Si chaque opération d’habitat participatif est unique car intimement liée à ses initiateurs et concepteurs, ce modèle a le mérite de reposer la question de «l’habiter» et cela nous intéresse d’autant plus dans le contexte actuel.\nLe Pré Commun est une opération de 12 logements à la Montagne réalisée par les architectes de l’agence Guinée\\*Potin.\n Accompagnés par Bruno Suner, habitant et également président de HEN (Habitats, Energies, Naturels), ainsi que par Hervé Potin, architecte de l’opération, nous découvrirons ensemble comment le projet du Pré Commun a été rendu possible, entre la constitution d’un groupe, le montage financier et la participation active du groupe au projet d’architecture…\n Découvrons ensemble comment le collectif rend plus fort !\n",
+    "en une": true,
     "nom": "Le Pré Commun",
     "cover_media": [
       "recgTCGhnV7JPI85T"
@@ -352,7 +353,11 @@
     "geolocalisation": "47.180246,-1.67942",
     "département": "44 Loire-Atlantique",
     "date": "2021",
-    "dernière modification": "2021-09-28T06:37:54.000Z"
+    "médias": [
+      "recTi1UryVHsdCMWP",
+      "recgpuQRm4fkqYmhF"
+    ],
+    "dernière modification": "2021-09-29T06:40:50.000Z"
   },
   "recTr9BzAt1jG9yaJ": {
     "id": "recTr9BzAt1jG9yaJ",
@@ -377,7 +382,6 @@
     "distinctions": [
       "rectTOye18UHf0K0H"
     ],
-    "en une": true,
     "nom": "Little Atlantique Brewery",
     "cover_media": [
       "recTm9l1b9USK625B"
@@ -395,7 +399,7 @@
       "recjGz63Hv79VBMPA",
       "recF5As2SEQr2DHuF"
     ],
-    "dernière modification": "2021-09-28T06:49:05.000Z"
+    "dernière modification": "2021-09-29T06:37:31.000Z"
   },
   "recXIe49AgTTO1AuY": {
     "id": "recXIe49AgTTO1AuY",
@@ -424,7 +428,7 @@
     "geolocalisation": "47.159383,-1.553366",
     "département": "44 Loire-Atlantique",
     "date": "2019",
-    "dernière modification": "2021-09-28T08:00:19.000Z"
+    "dernière modification": "2021-09-29T06:41:09.000Z"
   },
   "recXNuzkB4wj0g0H4": {
     "id": "recXNuzkB4wj0g0H4",
@@ -469,6 +473,7 @@
     ],
     "status": "Publié",
     "présentation": "Le quartier Euronantes, dont l’îlot 5B vient finaliser la frange Nord à proximité de la gare, participe au désenclavement du quartier Malakoff en le reliant au quartier Dalby, au quartier des Olivettes et par extension au centre historique et au développement Ouest de l’île de Nantes. Le projet s’intègre donc comme outil de connexion entre les usages proposés et le grand paysage, et se construit autour de 3 enjeux majeurs :\n\\- L’échelle humaine comme mesure de référence : cheminements et usages au cœur de l’identité du projet.\n\\- Une architecture qui par la qualité de sa matière et de ses volumes participe à la qualification pérenne du quartier.\n\\- La mise en place des conditions d’une mixité programmatique : dissocier clairement les entités afin de garantir leur modularité et de favoriser les échanges.\n1\\. Une architecture de chemins\nLa fabrique du paysage urbain à l’échelle de l’homme, significative dans la construction du quartier par le travail du « volume du piéton » est abordée dans le projet par un travail précis sur la porosité des rez-de chaussée et sur leur lisibilité. Cette démarche est poursuivie dans l’ensemble du projet en offrant un grand escalier qui non seulement garantit la potentialité publique des toitures en leur offrant un adressage sur rue, mais garantit aussi le caractère piéton des niveaux de parking.\n2\\. La matière de la ville\nLes matériaux utilisés s’intègrent comme première garantie d’un projet économe énergétiquement et financièrement :\n\\- La double peau en briques des bureaux SNCF permet de traiter efficacement les variations de porosité entre les locaux et l’extérieur\n\\- Le parking est construit selon des dispositifs structurels en béton rouge permettant sa transparence maximale et son éventuelle mutation future (éclairage naturel, hauteur sous dalle importante)\n\\- Les logements profitent d’une façade épaisse qui offrent sur toutes ses orientations un jeu subtil de nus extérieurs pour les espaces extérieurs protégés et de grand vitrage au nu intérieur des façades, en marquant la massivité du dispositif structurel.\n\n",
+    "en une": true,
     "nom": "Viséo",
     "cover_media": [
       "recgsgovOytQsNOoV"
@@ -479,13 +484,17 @@
     "geolocalisation": "47.216643,-1.536066",
     "département": "44 Loire-Atlantique",
     "date": "2021",
-    "dernière modification": "2021-09-28T07:51:41.000Z"
+    "médias": [
+      "rec08aeXrbCpBd1e9",
+      "recuNktTmZtpBugOG"
+    ],
+    "dernière modification": "2021-09-29T06:42:20.000Z"
   },
   "recYQXv9Df1Bn5fTu": {
     "id": "recYQXv9Df1Bn5fTu",
     "adresse": "Rue du Colombier, 49000 Angers\n",
     "type": [
-      "recwrGyjSIcOPtP0A"
+      "recVSbbcBxY2ydzDN"
     ],
     "maitre_oeuvre": [
       "recnlsgaTUOFgxUft"
@@ -505,7 +514,40 @@
     "geolocalisation": "47.46016289625379, -0.5297945444305144",
     "département": "49 Maine-et-Loire",
     "date": "2018",
-    "dernière modification": "2021-09-28T07:47:28.000Z"
+    "dernière modification": "2021-09-28T09:39:40.000Z"
+  },
+  "recahyhau12Ghaztg": {
+    "id": "recahyhau12Ghaztg",
+    "adresse": "Impasse Audran, 44000 Nantes\n",
+    "type": [
+      "recYSw9aAndSU9UZ7",
+      "recjX9ygJ9VA81LG6"
+    ],
+    "maitre_oeuvre": [
+      "reci7nejW0v42laGT"
+    ],
+    "maitre_ouvrage": [
+      "recWg3kFRSoRDlday",
+      "recXT4TItsP1IuLWU"
+    ],
+    "status": "Publié",
+    "présentation": "Ce projet se situe à Nantes, à proximité de la Cathédrale. Cette parcelle se situe en second rideau, donnant à l’Ouest au fond de l’impasse Audran et au Nord sur une cour intérieure accessible par l’impasse Vignolle. La cour est entourée de plusieurs habitations individuelles basses, avec aménagement de terrasses et jardinières donnant sur la cour. La cour comprend de nombreuses bordures plantées d’arbustes bas et de plantes grimpantes. La parcelle concernée par le projet est presque intégralement couverte par une série de hangars bardés en bois et couvert de tôles ondulées. L’ensemble est en mauvais état de façade et de structure. Les hangars coupent toute liaison entre l’impasse Audran et l’impasse Vignolle. \nLe projet comprend la démolition des hangars et la construction de 3 habitations individuelles de typologies et volumétries équivalentes aux constructions sur cour (prolongement des hauteurs d’égouts et faitage lorsque les bâtiments sont adossés ou proches). Sur l’impasse Audran, le projet prévoit la construction de notre atelier reconstituant une façade au fond de l’impasse Audran tout en libérant un passage piéton et un porche entre les impasses Vignolle et Audran. Les constructions basses et implantées de manière relativement denses, sont séparées par de petits espaces verts ou cours minérales dans l’esprit des courettes visibles depuis l’impasse Vignolle. \nCes volumétries et implantation de constructions de tailles modestes mais relativement denses s’articulent autour de courettes, terrasses et jardinets, s’intègrent dans un tissu urbain traditionnel d’intérieur d’îlot. L’implantation des maisons permet de libérer la vue sur la façade ordonnancée de la limite Est et de couvrir le pignon aveugle de la cour. L’atelier reprend les héberges d’une construction plus ancienne en venant s’adosser sur le pignon et la façade aveugle de l’immeuble adjacent. Il n’est pas prévu de clôture en limite de parcelle. \nLes maisons et notre atelier sont couverts en ardoise naturelle. Les terrasses accessibles sont traitées en bois naturel. Les terrasses accessibles sont bardées verticalement en bois naturel. Le bardage de notre atelier est réalisé en bois brulé de couleur noire posée verticalement. L’ensemble des menuiseries du projet sont en aluminium. \nLe terrain sera composé d’espaces verts, ainsi que de cheminements doux en sable et de bordures plantées dans l’esprit des petits massifs présent dans l’environnement proche. Quelques petits arbres ou arbustes seront plantés dans ces jardinets. La cour ainsi agrandie conserve son caractère minéral. Au centre de cette dernière, un arbre haut sera planté. \n",
+    "en une": true,
+    "nom": "Relier les Impasses",
+    "cover_media": [
+      "recb4mJElb1F79mLX"
+    ],
+    "périodes": [
+      "recrOfcUS3a0toY0i"
+    ],
+    "geolocalisation": "47.22072308491577, -1.5497541027019928",
+    "département": "44 Loire-Atlantique",
+    "date": "2021",
+    "médias": [
+      "recBKSSgfhS6nSZ5z",
+      "rec6wMJAx7ZiOhcle"
+    ],
+    "dernière modification": "2021-09-29T06:37:30.000Z"
   },
   "recdqD43kpp1pOv3x": {
     "id": "recdqD43kpp1pOv3x",
@@ -534,6 +576,30 @@
     "département": "53 Mayenne",
     "date": "2018",
     "dernière modification": "2021-09-27T16:12:57.000Z"
+  },
+  "rechFw6KIHy4PVSUb": {
+    "id": "rechFw6KIHy4PVSUb",
+    "type": [
+      "recrpFA9KQQobRh6X"
+    ],
+    "maitre_oeuvre": [
+      "recGI7VXfsBEic9si"
+    ],
+    "maitre_ouvrage": [
+      "recXT4TItsP1IuLWU"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Aperçus Vendée en 2019 (Catégorie Habitat - 1er Prix)\n",
+    "distinctions": [
+      "recF1om3Uugj8Zp0n"
+    ],
+    "nom": "Maison Laplace",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "département": "85 Vendée",
+    "date": "2018",
+    "dernière modification": "2021-09-28T09:40:48.000Z"
   },
   "rechtsQSNXyvtp75c": {
     "id": "rechtsQSNXyvtp75c",

@@ -1,14 +1,6 @@
 {
   "id": "recDA3JohqEFwoBED",
-  "dernière modification": "2021-09-28T09:06:14.000Z",
-  "nom": "Mairie déléguée d'Aubigny",
-  "présentation": "Rénovation de la mairie d’Aubigny création d’une extension incluant la salle du conseil.\n\nPrix Aperçus Vendée en 2019 (Catégorie Équipement public - 2ème prix)\n",
   "adresse": "18 Grand'rue, 85430 Aubigny les Clouzeaux\n",
-  "geolocalisation": [
-    46.597365,
-    -1.452622
-  ],
-  "département": "85 Vendée",
   "type": [
     {
       "id": "recAm0Xd8S6WS0mUU",
@@ -21,7 +13,42 @@
       ]
     }
   ],
-  "date": "2018",
+  "maitre_oeuvre": [
+    {
+      "id": "recPCJ3pXohRNtaEY",
+      "maitre_oeuvre": [
+        "recDA3JohqEFwoBED"
+      ],
+      "site_web": "http://www.architecturebmp.com/",
+      "nom": "Architecture Blanchard-Marsault-Pondevie"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recfLctdMIdhMbPr7",
+      "maitre_ouvrage": [
+        "recDA3JohqEFwoBED"
+      ],
+      "nom": "Commune d'Aubigny-les-Clouzeaux"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Rénovation de la mairie d’Aubigny création d’une extension incluant la salle du conseil.\n\nPrix Aperçus Vendée en 2019 (Catégorie Équipement public - 2ème prix)\n",
+  "distinctions": [
+    {
+      "id": "recF1om3Uugj8Zp0n",
+      "site_web": "https://www.caue85.com/prix-departemental-darchitecture/",
+      "nom": "Prix Aperçus Vendée",
+      "description": "Le prix Aperçus 85 est remis tous les deux ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée",
+      "lieux": [
+        "rec7OkEzJNwlvELsf",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb"
+      ]
+    }
+  ],
+  "nom": "Mairie déléguée d'Aubigny",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -46,42 +73,17 @@
         "recYQXv9Df1Bn5fTu",
         "rec7OkEzJNwlvELsf",
         "recAIyOLNUx4kiPXv",
-        "recDA3JohqEFwoBED"
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb"
       ],
       "nom": "années 2010"
     }
   ],
-  "maitre_oeuvre": [
-    {
-      "id": "recPCJ3pXohRNtaEY",
-      "maitre_oeuvre": [
-        "recDA3JohqEFwoBED"
-      ],
-      "site_web": "http://www.architecturebmp.com/",
-      "nom": "Architecture Blanchard-Marsault-Pondevie"
-    }
+  "geolocalisation": [
+    46.597365,
+    -1.452622
   ],
-  "maitre_ouvrage": [
-    {
-      "id": "recfLctdMIdhMbPr7",
-      "maitre_ouvrage": [
-        "recDA3JohqEFwoBED"
-      ],
-      "nom": "Commune d'Aubigny-les-Clouzeaux"
-    }
-  ],
-  "distinctions": [
-    {
-      "id": "recF1om3Uugj8Zp0n",
-      "nom": "Prix Aperçus Vendée",
-      "description": "Le prix Aperçus 85 est remis tous les deux ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée",
-      "site_web": "https://www.caue85.com/prix-departemental-darchitecture/",
-      "lieux": [
-        "rec7OkEzJNwlvELsf",
-        "recAIyOLNUx4kiPXv",
-        "recDA3JohqEFwoBED"
-      ]
-    }
-  ],
-  "status": "Publié"
+  "département": "85 Vendée",
+  "date": "2018",
+  "dernière modification": "2021-09-28T09:06:14.000Z"
 }

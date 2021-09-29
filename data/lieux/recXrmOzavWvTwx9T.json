@@ -27,7 +27,8 @@
       "destination": "Bureaux",
       "lieux": [
         "recXrmOzavWvTwx9T",
-        "rec4neQMuPblp8tuX"
+        "rec4neQMuPblp8tuX",
+        "recahyhau12Ghaztg"
       ]
     }
   ],
@@ -60,9 +61,40 @@
   ],
   "status": "Publié",
   "présentation": "Le quartier Euronantes, dont l’îlot 5B vient finaliser la frange Nord à proximité de la gare, participe au désenclavement du quartier Malakoff en le reliant au quartier Dalby, au quartier des Olivettes et par extension au centre historique et au développement Ouest de l’île de Nantes. Le projet s’intègre donc comme outil de connexion entre les usages proposés et le grand paysage, et se construit autour de 3 enjeux majeurs :\n\\- L’échelle humaine comme mesure de référence : cheminements et usages au cœur de l’identité du projet.\n\\- Une architecture qui par la qualité de sa matière et de ses volumes participe à la qualification pérenne du quartier.\n\\- La mise en place des conditions d’une mixité programmatique : dissocier clairement les entités afin de garantir leur modularité et de favoriser les échanges.\n1\\. Une architecture de chemins\nLa fabrique du paysage urbain à l’échelle de l’homme, significative dans la construction du quartier par le travail du « volume du piéton » est abordée dans le projet par un travail précis sur la porosité des rez-de chaussée et sur leur lisibilité. Cette démarche est poursuivie dans l’ensemble du projet en offrant un grand escalier qui non seulement garantit la potentialité publique des toitures en leur offrant un adressage sur rue, mais garantit aussi le caractère piéton des niveaux de parking.\n2\\. La matière de la ville\nLes matériaux utilisés s’intègrent comme première garantie d’un projet économe énergétiquement et financièrement :\n\\- La double peau en briques des bureaux SNCF permet de traiter efficacement les variations de porosité entre les locaux et l’extérieur\n\\- Le parking est construit selon des dispositifs structurels en béton rouge permettant sa transparence maximale et son éventuelle mutation future (éclairage naturel, hauteur sous dalle importante)\n\\- Les logements profitent d’une façade épaisse qui offrent sur toutes ses orientations un jeu subtil de nus extérieurs pour les espaces extérieurs protégés et de grand vitrage au nu intérieur des façades, en marquant la massivité du dispositif structurel.\n\n",
+  "en une": true,
   "nom": "Viséo",
   "cover_media": {
     "id": "recgsgovOytQsNOoV",
+    "fichiers": [
+      {
+        "id": "attSkmVXTYh8LPbK5",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/2cf14083293b17eaddb6a93ea4295c1d/4adba372/viseo1.jpg",
+        "filename": "viseo 1.jpg",
+        "size": 2321695,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0129b75113da7ad138bc4b2b364b7d65/3d1a6aa6",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cf1f1afd7d839f0b5a2e8f45981d1eb9/a024edb5",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/62e388a92df30f94b25f592f2934e53f/c266e650",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "Viséo 1",
+    "credits": "RAUM",
     "cover_lieux": [
       "recXrmOzavWvTwx9T"
     ]
@@ -73,7 +105,8 @@
       "lieux": [
         "recTr9BzAt1jG9yaJ",
         "recRlloApjtcScitR",
-        "recXrmOzavWvTwx9T"
+        "recXrmOzavWvTwx9T",
+        "recahyhau12Ghaztg"
       ],
       "nom": "années 2020"
     }
@@ -84,5 +117,79 @@
   ],
   "département": "44 Loire-Atlantique",
   "date": "2021",
-  "dernière modification": "2021-09-28T07:51:41.000Z"
+  "médias": [
+    {
+      "id": "rec08aeXrbCpBd1e9",
+      "fichiers": [
+        {
+          "id": "att0778XAqR60m22j",
+          "width": 2000,
+          "height": 2500,
+          "url": "https://dl.airtable.com/.attachments/22937bd76840084adcb6ecee1cb4d7a5/86a961cd/viseo1.jpg",
+          "filename": "viseo (1).jpg",
+          "size": 1344972,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/485892ec7fbaf26d56ea71b41e6c0bfc/62a78917",
+              "width": 29,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fafa653f939c45666422cadaff1fd895/549427a1",
+              "width": 512,
+              "height": 640
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5256c878d3bb40f14363943fcb72c60f/bea6c6c3",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recXrmOzavWvTwx9T"
+      ],
+      "titre": "Viséo 2",
+      "credits": "RAUM"
+    },
+    {
+      "id": "recuNktTmZtpBugOG",
+      "fichiers": [
+        {
+          "id": "attprQyoNlMQSsSzr",
+          "width": 1500,
+          "height": 1875,
+          "url": "https://dl.airtable.com/.attachments/baed7ea57372f9d0bccfab210e2ff258/ed3e83e4/viseo1.tif",
+          "filename": "viseo (1).tif",
+          "size": 1030536,
+          "type": "image/tiff",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6155ccd7894578c661ce7a47e53f76ca/30afd3b1.png",
+              "width": 29,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3eebfe7d7a0a98c6f35068c9f840ff39/aa3b8ce7.png",
+              "width": 512,
+              "height": 640
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/41685875f027cb121c683c3ab538c694/14f1ff92.png",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recXrmOzavWvTwx9T"
+      ],
+      "titre": "Viséo 3",
+      "credits": "RAUM"
+    }
+  ],
+  "dernière modification": "2021-09-29T06:42:20.000Z"
 }

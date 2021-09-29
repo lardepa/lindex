@@ -40,9 +40,40 @@
   ],
   "status": "Publié",
   "présentation": "Comment (re)trouver du plaisir à habiter ensemble ? Comment permettre les rencontres sans les imposer ? Comment disposer d’espaces flexibles, polyvalents mais aussi généreux ? L’habitat participatif soulève plusieurs débats qui interrogent à la fois individuellement et collectivement.\n Qu’en est-il de notre capacité à interagir selon un modèle plus horizontal ?\n De quelle manière pouvons-nous inventer ensemble une autre manière d’habiter ? En effet «habiter» dépasse la simple cellule de vie et renvoie à une réalité économique, architecturale, sociale, urbaine, humaine ou encore quotidienne… Si chaque opération d’habitat participatif est unique car intimement liée à ses initiateurs et concepteurs, ce modèle a le mérite de reposer la question de «l’habiter» et cela nous intéresse d’autant plus dans le contexte actuel.\nLe Pré Commun est une opération de 12 logements à la Montagne réalisée par les architectes de l’agence Guinée\\*Potin.\n Accompagnés par Bruno Suner, habitant et également président de HEN (Habitats, Energies, Naturels), ainsi que par Hervé Potin, architecte de l’opération, nous découvrirons ensemble comment le projet du Pré Commun a été rendu possible, entre la constitution d’un groupe, le montage financier et la participation active du groupe au projet d’architecture…\n Découvrons ensemble comment le collectif rend plus fort !\n",
+  "en une": true,
   "nom": "Le Pré Commun",
   "cover_media": {
     "id": "recgTCGhnV7JPI85T",
+    "fichiers": [
+      {
+        "id": "attGqOKHpEMCVmmW3",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/d4eac17bfb492f5d170121fc55f83c8a/d469b185/prcommun1.jpg",
+        "filename": "pré commun 1.jpg",
+        "size": 1390224,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b1146c9e43a7613f2d386e672c8874a7/714f55e7",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e9f77e0f07b7ff4c225dceeeb524b4fb/7a7f05d2",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/363ece5e55f8a40de68d8c81e02a2ccf/0ffd24d5",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "Pré Commun",
+    "credits": "Arthur Doret",
     "cover_lieux": [
       "recRlloApjtcScitR"
     ]
@@ -53,7 +84,8 @@
       "lieux": [
         "recTr9BzAt1jG9yaJ",
         "recRlloApjtcScitR",
-        "recXrmOzavWvTwx9T"
+        "recXrmOzavWvTwx9T",
+        "recahyhau12Ghaztg"
       ],
       "nom": "années 2020"
     }
@@ -64,5 +96,79 @@
   ],
   "département": "44 Loire-Atlantique",
   "date": "2021",
-  "dernière modification": "2021-09-28T06:37:54.000Z"
+  "médias": [
+    {
+      "id": "recTi1UryVHsdCMWP",
+      "fichiers": [
+        {
+          "id": "attpUI0sYwCu7rvGj",
+          "width": 768,
+          "height": 1024,
+          "url": "https://dl.airtable.com/.attachments/5632a7321e01f0313e386030c7914d83/e22f08a1/prcommun2.jpg",
+          "filename": "pré commun 2.jpg",
+          "size": 242363,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/380990a8b610aec79c95adc2451df89b/07524363",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1711139e3bddf779c80c24f73061ff46/f1108696",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f1dbf4d4e6cbae2fc4454e0e636dd56e/6227b8bd",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recRlloApjtcScitR"
+      ],
+      "titre": "pré commun 2",
+      "credits": "Pré Commun"
+    },
+    {
+      "id": "recgpuQRm4fkqYmhF",
+      "fichiers": [
+        {
+          "id": "attrxzUYfyflWXz1Z",
+          "width": 1024,
+          "height": 768,
+          "url": "https://dl.airtable.com/.attachments/a37885ebcebd161b596c60bf6d74edad/83b38e38/prcommun3.jpg",
+          "filename": "pré commun 3.jpg",
+          "size": 252534,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1a32d9468b63f3b0336f797ce42eb536/05c3a8e3",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5f0fc5439466159ef11a69648933928f/d7056cbc",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6c34006d3f82d106b161da3a6caba428/82c071ec",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recRlloApjtcScitR"
+      ],
+      "titre": "Pré Commun 3",
+      "credits": "Pré Commun"
+    }
+  ],
+  "dernière modification": "2021-09-29T06:40:50.000Z"
 }

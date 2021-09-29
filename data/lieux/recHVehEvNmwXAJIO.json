@@ -5,10 +5,11 @@
     {
       "id": "recrpFA9KQQobRh6X",
       "type_destination": "Logement",
-      "destination": "Logement individuel",
+      "destination": "Maison",
       "lieux": [
         "recTr9BzAt1jG9yaJ",
-        "recHVehEvNmwXAJIO"
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb"
       ]
     }
   ],
@@ -27,7 +28,9 @@
     {
       "id": "recXT4TItsP1IuLWU",
       "maitre_ouvrage": [
-        "recHVehEvNmwXAJIO"
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recahyhau12Ghaztg"
       ],
       "nom": "Privé"
     }
@@ -75,7 +78,8 @@
         "recYQXv9Df1Bn5fTu",
         "rec7OkEzJNwlvELsf",
         "recAIyOLNUx4kiPXv",
-        "recDA3JohqEFwoBED"
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb"
       ],
       "nom": "années 2010"
     }

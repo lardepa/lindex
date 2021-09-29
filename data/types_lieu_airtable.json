@@ -85,9 +85,10 @@
   "recVSbbcBxY2ydzDN": {
     "id": "recVSbbcBxY2ydzDN",
     "type_destination": "Équipement",
-    "destination": "Gymnase",
+    "destination": "Équipement sportif",
     "lieux": [
-      "rechtsQSNXyvtp75c"
+      "rechtsQSNXyvtp75c",
+      "recYQXv9Df1Bn5fTu"
     ]
   },
   "recVwThcYNMfnh2XW": {
@@ -106,6 +107,14 @@
       "rechtsQSNXyvtp75c"
     ]
   },
+  "recYSw9aAndSU9UZ7": {
+    "id": "recYSw9aAndSU9UZ7",
+    "type_destination": "Logement",
+    "destination": "Logements individuels",
+    "lieux": [
+      "recahyhau12Ghaztg"
+    ]
+  },
   "recgBvHbjDyN7yskz": {
     "id": "recgBvHbjDyN7yskz",
     "type_destination": "Équipement",
@@ -120,7 +129,8 @@
     "destination": "Bureaux",
     "lieux": [
       "recXrmOzavWvTwx9T",
-      "rec4neQMuPblp8tuX"
+      "rec4neQMuPblp8tuX",
+      "recahyhau12Ghaztg"
     ]
   },
   "recmAxAQJjnH2ft4h": {
@@ -133,11 +143,11 @@
   },
   "recpXtVGJnicjtjCe": {
     "id": "recpXtVGJnicjtjCe",
+    "type_destination": "Équipement",
+    "destination": "Musée",
     "lieux": [
       "recAIyOLNUx4kiPXv"
-    ],
-    "destination": "Musée",
-    "type_destination": "Équipement"
+    ]
   },
   "recpmZv90qfrbo9DK": {
     "id": "recpmZv90qfrbo9DK",
@@ -150,16 +160,17 @@
   "recrpFA9KQQobRh6X": {
     "id": "recrpFA9KQQobRh6X",
     "type_destination": "Logement",
-    "destination": "Logement individuel",
+    "destination": "Maison",
     "lieux": [
       "recTr9BzAt1jG9yaJ",
-      "recHVehEvNmwXAJIO"
+      "recHVehEvNmwXAJIO",
+      "rechFw6KIHy4PVSUb"
     ]
   },
   "recsi8kyIdpmX1wtW": {
     "id": "recsi8kyIdpmX1wtW",
     "type_destination": "Équipement",
-    "destination": "Scierie",
+    "destination": "Industrie",
     "lieux": [
       "recGXesDW1kGxSoxQ"
     ]
@@ -189,14 +200,6 @@
     "destination": "Cimetière",
     "lieux": [
       "recuIUUMuCMw2rrHn"
-    ]
-  },
-  "recwrGyjSIcOPtP0A": {
-    "id": "recwrGyjSIcOPtP0A",
-    "type_destination": "Équipement",
-    "destination": "Stade",
-    "lieux": [
-      "recYQXv9Df1Bn5fTu"
     ]
   }
 }

@@ -12,8 +12,8 @@
     "maitre_oeuvre": [
       "recAIyOLNUx4kiPXv"
     ],
-    "nom": "TITAN architectes",
-    "site_web": "https://titan.archi/fr/"
+    "site_web": "https://titan.archi/fr/",
+    "nom": "TITAN architectes"
   },
   "rec3q31cWdpVBT2tG": {
     "id": "rec3q31cWdpVBT2tG",
@@ -75,6 +75,14 @@
       "rec72cuqtL80v3RYm"
     ],
     "nom": "Le Mans Habitat"
+  },
+  "recGI7VXfsBEic9si": {
+    "id": "recGI7VXfsBEic9si",
+    "maitre_oeuvre": [
+      "rechFw6KIHy4PVSUb"
+    ],
+    "site_web": "http://serieysbarbotin.fr/",
+    "nom": "Serieys & Barbotin Aµrchitectes"
   },
   "recIlRRPhQlArn587": {
     "id": "recIlRRPhQlArn587",
@@ -226,10 +234,19 @@
     ],
     "nom": "Le Mans Métropole"
   },
+  "recWg3kFRSoRDlday": {
+    "id": "recWg3kFRSoRDlday",
+    "maitre_ouvrage": [
+      "recahyhau12Ghaztg"
+    ],
+    "nom": "SCI Bougres"
+  },
   "recXT4TItsP1IuLWU": {
     "id": "recXT4TItsP1IuLWU",
     "maitre_ouvrage": [
-      "recHVehEvNmwXAJIO"
+      "recHVehEvNmwXAJIO",
+      "rechFw6KIHy4PVSUb",
+      "recahyhau12Ghaztg"
     ],
     "nom": "Privé"
   },
@@ -330,6 +347,14 @@
     ],
     "site_web": "https://little-atlantique-brewery.fr/",
     "nom": "SAS Les Brasseries de l’Atlantique"
+  },
+  "reci7nejW0v42laGT": {
+    "id": "reci7nejW0v42laGT",
+    "maitre_oeuvre": [
+      "recahyhau12Ghaztg"
+    ],
+    "site_web": "https://www.bigre.archi/",
+    "nom": "Bigre ! Architecture"
   },
   "reciNctuIqiIP1F3N": {
     "id": "reciNctuIqiIP1F3N",

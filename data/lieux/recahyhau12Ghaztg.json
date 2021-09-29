@@ -1,0 +1,185 @@
+{
+  "id": "recahyhau12Ghaztg",
+  "adresse": "Impasse Audran, 44000 Nantes\n",
+  "type": [
+    {
+      "id": "recYSw9aAndSU9UZ7",
+      "type_destination": "Logement",
+      "destination": "Logements individuels",
+      "lieux": [
+        "recahyhau12Ghaztg"
+      ]
+    },
+    {
+      "id": "recjX9ygJ9VA81LG6",
+      "type_destination": "Équipement",
+      "destination": "Bureaux",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "rec4neQMuPblp8tuX",
+        "recahyhau12Ghaztg"
+      ]
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "reci7nejW0v42laGT",
+      "maitre_oeuvre": [
+        "recahyhau12Ghaztg"
+      ],
+      "site_web": "https://www.bigre.archi/",
+      "nom": "Bigre ! Architecture"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recWg3kFRSoRDlday",
+      "maitre_ouvrage": [
+        "recahyhau12Ghaztg"
+      ],
+      "nom": "SCI Bougres"
+    },
+    {
+      "id": "recXT4TItsP1IuLWU",
+      "maitre_ouvrage": [
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recahyhau12Ghaztg"
+      ],
+      "nom": "Privé"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Ce projet se situe à Nantes, à proximité de la Cathédrale. Cette parcelle se situe en second rideau, donnant à l’Ouest au fond de l’impasse Audran et au Nord sur une cour intérieure accessible par l’impasse Vignolle. La cour est entourée de plusieurs habitations individuelles basses, avec aménagement de terrasses et jardinières donnant sur la cour. La cour comprend de nombreuses bordures plantées d’arbustes bas et de plantes grimpantes. La parcelle concernée par le projet est presque intégralement couverte par une série de hangars bardés en bois et couvert de tôles ondulées. L’ensemble est en mauvais état de façade et de structure. Les hangars coupent toute liaison entre l’impasse Audran et l’impasse Vignolle. \nLe projet comprend la démolition des hangars et la construction de 3 habitations individuelles de typologies et volumétries équivalentes aux constructions sur cour (prolongement des hauteurs d’égouts et faitage lorsque les bâtiments sont adossés ou proches). Sur l’impasse Audran, le projet prévoit la construction de notre atelier reconstituant une façade au fond de l’impasse Audran tout en libérant un passage piéton et un porche entre les impasses Vignolle et Audran. Les constructions basses et implantées de manière relativement denses, sont séparées par de petits espaces verts ou cours minérales dans l’esprit des courettes visibles depuis l’impasse Vignolle. \nCes volumétries et implantation de constructions de tailles modestes mais relativement denses s’articulent autour de courettes, terrasses et jardinets, s’intègrent dans un tissu urbain traditionnel d’intérieur d’îlot. L’implantation des maisons permet de libérer la vue sur la façade ordonnancée de la limite Est et de couvrir le pignon aveugle de la cour. L’atelier reprend les héberges d’une construction plus ancienne en venant s’adosser sur le pignon et la façade aveugle de l’immeuble adjacent. Il n’est pas prévu de clôture en limite de parcelle. \nLes maisons et notre atelier sont couverts en ardoise naturelle. Les terrasses accessibles sont traitées en bois naturel. Les terrasses accessibles sont bardées verticalement en bois naturel. Le bardage de notre atelier est réalisé en bois brulé de couleur noire posée verticalement. L’ensemble des menuiseries du projet sont en aluminium. \nLe terrain sera composé d’espaces verts, ainsi que de cheminements doux en sable et de bordures plantées dans l’esprit des petits massifs présent dans l’environnement proche. Quelques petits arbres ou arbustes seront plantés dans ces jardinets. La cour ainsi agrandie conserve son caractère minéral. Au centre de cette dernière, un arbre haut sera planté. \n",
+  "en une": true,
+  "nom": "Relier les Impasses",
+  "cover_media": {
+    "id": "recb4mJElb1F79mLX",
+    "fichiers": [
+      {
+        "id": "att2fJ5Me4NAYQqEv",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/0ec7a08154fa055b4b998eee7f381ce6/35409e96/bigre1.jpg",
+        "filename": "bigre 1.jpg",
+        "size": 659503,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/fd4cf9a102e5d93fc78a9655ff279439/38189f2d",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/191a2fc536b90c3783a9d41bb6ccbe00/6dfa7d72",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/00c5862cea72366515e7452986cadb76/4857a280",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "Relier les impasses",
+    "credits": "ardepa",
+    "cover_lieux": [
+      "recahyhau12Ghaztg"
+    ]
+  },
+  "périodes": [
+    {
+      "id": "recrOfcUS3a0toY0i",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recRlloApjtcScitR",
+        "recXrmOzavWvTwx9T",
+        "recahyhau12Ghaztg"
+      ],
+      "nom": "années 2020"
+    }
+  ],
+  "geolocalisation": [
+    47.22072308491577,
+    -1.5497541027019928
+  ],
+  "département": "44 Loire-Atlantique",
+  "date": "2021",
+  "médias": [
+    {
+      "id": "recBKSSgfhS6nSZ5z",
+      "fichiers": [
+        {
+          "id": "attSY6RQ7BJpQ1jfn",
+          "width": 4608,
+          "height": 2592,
+          "url": "https://dl.airtable.com/.attachments/9ee98040206e44d36bfc50b2398d7ffb/d8bbf3f7/relierlesimpasses3.jpg",
+          "filename": "relier les impasses (3).jpg",
+          "size": 3362176,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c0f5e2e6ecc69302162a80624261d754/e21343b7",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/281bad33f894c5e52957b6f24f54257c/dd638ee6",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/39010ec69d180ec63a4e494ee6728373/2552a674",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recahyhau12Ghaztg"
+      ],
+      "titre": "Relier les impasses 2",
+      "credits": "ardepa"
+    },
+    {
+      "id": "rec6wMJAx7ZiOhcle",
+      "fichiers": [
+        {
+          "id": "attqsmebYFbW2O8Te",
+          "width": 4032,
+          "height": 2268,
+          "url": "https://dl.airtable.com/.attachments/010f6e66924d9ae9b10b94bf3d8e45b8/0a499b6d/relierlesimpasses1.jpg",
+          "filename": "relier les impasses (1).jpg",
+          "size": 3253682,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/04580638487d50e1ab6fad5728b1f516/1f135370",
+              "width": 20,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/58613c9d77b6289acb9f11829ca508f7/f00dc20a",
+              "width": 512,
+              "height": 910
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cf60d9033de718dd63d90da09b2b9a30/a5d29830",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recahyhau12Ghaztg"
+      ],
+      "titre": "Relier les impasses 3",
+      "credits": "ardepa"
+    }
+  ],
+  "dernière modification": "2021-09-29T06:37:30.000Z"
+}
