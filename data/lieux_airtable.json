@@ -1,4 +1,28 @@
 {
+  "rec0tsNbxoh48H20l": {
+    "id": "rec0tsNbxoh48H20l",
+    "type": [
+      "recEWoJWizkQSrwEo"
+    ],
+    "maitre_oeuvre": [
+      "recKYqn48UFxvvzGL"
+    ],
+    "maitre_ouvrage": [
+      "recUtvfGNtKrxRMdb"
+    ],
+    "status": "En rédaction",
+    "présentation": "Prix Aperçus Vendée en 2019 (Catégorie Aménagement)\n",
+    "distinctions": [
+      "recF1om3Uugj8Zp0n"
+    ],
+    "nom": "Vallée des Elfes de la Margerie",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "département": "85 Vendée",
+    "date": "2018",
+    "dernière modification": "2021-09-29T14:50:31.000Z"
+  },
   "rec4neQMuPblp8tuX": {
     "id": "rec4neQMuPblp8tuX",
     "adresse": "106 avenue Pierre de Couvertin 53130 Laval\n",
@@ -237,6 +261,32 @@
     "date": "2018",
     "dernière modification": "2021-09-28T07:22:35.000Z"
   },
+  "recL8sEqdH9C2gWvd": {
+    "id": "recL8sEqdH9C2gWvd",
+    "nom": "Salle de Spectacle Ostardéria",
+    "dernière modification": "2021-09-29T15:52:20.000Z",
+    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
+    "département": "85 Vendée",
+    "geolocalisation": "46.66416160311084, -0.7284382078463064",
+    "adresse": "Salle Ostarderia, 85120 La Tardière\n",
+    "type": [
+      "recx3yGNANTqlUfBu"
+    ],
+    "date": "2014",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "maitre_oeuvre": [
+      "recbVGlqRwikX2mfq"
+    ],
+    "maitre_ouvrage": [
+      "recSYHYpCSVPeGszY"
+    ],
+    "status": "Publié",
+    "distinctions": [
+      "recWC2OSlyx1EQjFm"
+    ]
+  },
   "recLVrdGzklj7mmLE": {
     "id": "recLVrdGzklj7mmLE",
     "adresse": "21 quai des antilles 44000 nantes\n",
@@ -401,6 +451,31 @@
     ],
     "dernière modification": "2021-09-29T06:37:31.000Z"
   },
+  "recX0Kj4p2adp8f8U": {
+    "id": "recX0Kj4p2adp8f8U",
+    "adresse": "43 rue Michele Cassegrain, 85700 Pouzauges\n",
+    "type": [
+      "recsi8kyIdpmX1wtW"
+    ],
+    "maitre_oeuvre": [
+      "recgFsKmz2fCRbuTt"
+    ],
+    "maitre_ouvrage": [
+      "rec8GtplG9QmCaQAJ"
+    ],
+    "status": "Publié",
+    "présentation": "Prix Aperçus Vendée en 2019 (Prix du public)\n",
+    "distinctions": [
+      "recF1om3Uugj8Zp0n"
+    ],
+    "nom": "Atelier Longchamp",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "46.767708,-0.84251",
+    "département": "85 Vendée",
+    "dernière modification": "2021-09-29T14:55:41.000Z"
+  },
   "recXIe49AgTTO1AuY": {
     "id": "recXIe49AgTTO1AuY",
     "adresse": "71 boulevard Alfred Nobel 44400 Rezé\n",
@@ -490,6 +565,33 @@
     ],
     "dernière modification": "2021-09-29T12:25:28.000Z"
   },
+  "recY5jgLHC0792Lr0": {
+    "id": "recY5jgLHC0792Lr0",
+    "adresse": "5 rue des Sables, 85300 Challans\n",
+    "type": [
+      "recpmZv90qfrbo9DK"
+    ],
+    "maitre_oeuvre": [
+      "recwBb21wVZC6vplC"
+    ],
+    "maitre_ouvrage": [
+      "recXT4TItsP1IuLWU"
+    ],
+    "status": "Publié",
+    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 1er prix)\n\nSélectionné dans l'album des JAPL 2020\n",
+    "distinctions": [
+      "recWC2OSlyx1EQjFm",
+      "recIh45osGM5xvbVE"
+    ],
+    "nom": "Magasin et atelier de Cycles",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "46.843289,-1.874746",
+    "département": "85 Vendée",
+    "date": "2014",
+    "dernière modification": "2021-09-29T15:43:21.000Z"
+  },
   "recYQXv9Df1Bn5fTu": {
     "id": "recYQXv9Df1Bn5fTu",
     "adresse": "Rue du Colombier, 49000 Angers\n",
@@ -577,6 +679,32 @@
     "date": "2018",
     "dernière modification": "2021-09-27T16:12:57.000Z"
   },
+  "recelyrNTkM7l50Jd": {
+    "id": "recelyrNTkM7l50Jd",
+    "nom": "Lycée Général et Technologique Agricole Nature",
+    "dernière modification": "2021-09-29T15:49:16.000Z",
+    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
+    "adresse": "Allée des druides, 85000 La Roche sur Yon\n",
+    "département": "85 Vendée",
+    "geolocalisation": "46.66494619522824, -1.3800621975826315",
+    "type": [
+      "recs5EEjFEqR1pMAv"
+    ],
+    "date": "2015",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "maitre_oeuvre": [
+      "rec3PromkKzrrBM83"
+    ],
+    "maitre_ouvrage": [
+      "rec2Idw8ioulj1RGI"
+    ],
+    "status": "Publié",
+    "distinctions": [
+      "recWC2OSlyx1EQjFm"
+    ]
+  },
   "rechFw6KIHy4PVSUb": {
     "id": "rechFw6KIHy4PVSUb",
     "type": [
@@ -588,8 +716,8 @@
     "maitre_ouvrage": [
       "recXT4TItsP1IuLWU"
     ],
-    "status": "Publié",
-    "présentation": "Prix Aperçus Vendée en 2019 (Catégorie Habitat - 1er Prix)\n",
+    "status": "En rédaction",
+    "présentation": "Prix Aperçus Vendée en 2019 (Catégorie Habitat)\n",
     "distinctions": [
       "recF1om3Uugj8Zp0n"
     ],
@@ -599,7 +727,7 @@
     ],
     "département": "85 Vendée",
     "date": "2018",
-    "dernière modification": "2021-09-28T09:40:48.000Z"
+    "dernière modification": "2021-09-29T14:50:26.000Z"
   },
   "rechtsQSNXyvtp75c": {
     "id": "rechtsQSNXyvtp75c",
@@ -655,6 +783,32 @@
     "département": "49 Maine-et-Loire",
     "date": "2018",
     "dernière modification": "2021-09-28T06:47:46.000Z"
+  },
+  "recloEgKAuO4WjR2r": {
+    "id": "recloEgKAuO4WjR2r",
+    "nom": "Centre Beautour de découverte, de culture scientifique et de recherche sur l'environnement et la biodiversité",
+    "dernière modification": "2021-09-29T15:43:25.000Z",
+    "présentation": "Rénovation d’une maison de maître, création d’une extension et aménagement d’un parc, regroupant salles d’expositions, ateliers pédagogiques, laboratoires, accueil, bureaux, serre pédagogique, jardins et parcours pédagogiques.\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 2eme prix)\n",
+    "date": "2014",
+    "adresse": "Rond-point de Beautour, 85000 La Roche-sur-Yon\n",
+    "département": "85 Vendée",
+    "geolocalisation": "46.662995597968134, -1.3578095378216828",
+    "type": [
+      "recU0DF0Isnpt8rJ1"
+    ],
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "maitre_oeuvre": [
+      "recOl6lYjNOuOGchX"
+    ],
+    "maitre_ouvrage": [
+      "rec2Idw8ioulj1RGI"
+    ],
+    "status": "Publié",
+    "distinctions": [
+      "recWC2OSlyx1EQjFm"
+    ]
   },
   "recmanFMpSvbjFW6r": {
     "id": "recmanFMpSvbjFW6r",

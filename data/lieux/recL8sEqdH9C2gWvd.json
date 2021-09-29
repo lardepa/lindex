@@ -1,0 +1,92 @@
+{
+  "id": "recL8sEqdH9C2gWvd",
+  "nom": "Salle de Spectacle Ostardéria",
+  "dernière modification": "2021-09-29T15:52:20.000Z",
+  "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
+  "département": "85 Vendée",
+  "geolocalisation": [
+    46.66416160311084,
+    -0.7284382078463064
+  ],
+  "adresse": "Salle Ostarderia, 85120 La Tardière\n",
+  "type": [
+    {
+      "id": "recx3yGNANTqlUfBu",
+      "lieux": [
+        "recL8sEqdH9C2gWvd"
+      ],
+      "destination": "Salle de Spectacle",
+      "type_destination": "Équipement"
+    }
+  ],
+  "date": "2014",
+  "périodes": [
+    {
+      "id": "rec0D9TkCH83ItF6j",
+      "lieux": [
+        "recXIe49AgTTO1AuY",
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R",
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r",
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
+        "recYQXv9Df1Bn5fTu",
+        "rec7OkEzJNwlvELsf",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb",
+        "rec0tsNbxoh48H20l",
+        "recX0Kj4p2adp8f8U",
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd"
+      ],
+      "nom": "années 2010"
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "recbVGlqRwikX2mfq",
+      "maitre_oeuvre": [
+        "recL8sEqdH9C2gWvd"
+      ],
+      "nom": "GLV architectes",
+      "site_web": "http://www.glvarchitectes.com/"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recSYHYpCSVPeGszY",
+      "maitre_ouvrage": [
+        "recL8sEqdH9C2gWvd"
+      ],
+      "nom": "Commune de la Tardière (85)"
+    }
+  ],
+  "status": "Publié",
+  "distinctions": [
+    {
+      "id": "recWC2OSlyx1EQjFm",
+      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
+      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
+      "lieux": [
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd"
+      ]
+    }
+  ]
+}

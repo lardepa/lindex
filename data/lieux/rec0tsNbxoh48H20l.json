@@ -1,46 +1,37 @@
 {
-  "id": "rec7OkEzJNwlvELsf",
-  "adresse": "6 rue du Tourniquet, 85500 Les Herbiers\n",
+  "id": "rec0tsNbxoh48H20l",
   "type": [
     {
-      "id": "recAm0Xd8S6WS0mUU",
-      "type_destination": "Équipement",
-      "destination": "Hôtel de Ville",
+      "id": "recEWoJWizkQSrwEo",
+      "type_destination": "Espace public",
+      "destination": "Aménagement paysager",
       "lieux": [
-        "recmanFMpSvbjFW6r",
-        "rec7OkEzJNwlvELsf",
-        "recDA3JohqEFwoBED"
+        "recJgalSFcQX7dLe6",
+        "rec0tsNbxoh48H20l"
       ]
     }
   ],
   "maitre_oeuvre": [
     {
-      "id": "recpjOfOdGukiQ4gA",
+      "id": "recKYqn48UFxvvzGL",
       "maitre_oeuvre": [
-        "rec7OkEzJNwlvELsf"
+        "rec0tsNbxoh48H20l"
       ],
-      "site_web": "https://www.atelierdupont.fr/",
-      "nom": "Atelier du Pont - agence d'architecture"
-    },
-    {
-      "id": "rectsOJh5gJnn9tzO",
-      "maitre_oeuvre": [
-        "rec7OkEzJNwlvELsf"
-      ],
-      "nom": "Michel Joyau Architecte"
+      "site_web": "https://www.agencetalpa.com/",
+      "nom": "Agence Talpa Paysage"
     }
   ],
   "maitre_ouvrage": [
     {
-      "id": "recmWIJhU0Lf0FnVW",
+      "id": "recUtvfGNtKrxRMdb",
       "maitre_ouvrage": [
-        "rec7OkEzJNwlvELsf"
+        "rec0tsNbxoh48H20l"
       ],
-      "nom": "Communauté de Communes du Pays des Herbiers (85)"
+      "nom": "Commune de Dompierre sur Yon (85)"
     }
   ],
-  "status": "Publié",
-  "présentation": "Extension d’une mairie pour recevoir les services intercommunaux\n\nPrix Aperçus Vendée en 2019 (Grand Prix du Jury)\n",
+  "status": "En rédaction",
+  "présentation": "Prix Aperçus Vendée en 2019 (Catégorie Aménagement)\n",
   "distinctions": [
     {
       "id": "recF1om3Uugj8Zp0n",
@@ -57,7 +48,7 @@
       ]
     }
   ],
-  "nom": "Hôtel des Communes des Herbiers",
+  "nom": "Vallée des Elfes de la Margerie",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -94,11 +85,8 @@
       "nom": "années 2010"
     }
   ],
-  "geolocalisation": [
-    46.869512,
-    -1.012996
-  ],
   "département": "85 Vendée",
-  "date": "2016",
-  "dernière modification": "2021-09-28T08:49:20.000Z"
+  "date": "2018",
+  "dernière modification": "2021-09-29T14:50:31.000Z",
+  "geolocalisation": null
 }

@@ -19,7 +19,7 @@
         "rechFw6KIHy4PVSUb"
       ],
       "site_web": "http://serieysbarbotin.fr/",
-      "nom": "Serieys & Barbotin Aµrchitectes"
+      "nom": "Serieys & Barbotin Architectes"
     }
   ],
   "maitre_ouvrage": [
@@ -28,13 +28,14 @@
       "maitre_ouvrage": [
         "recHVehEvNmwXAJIO",
         "rechFw6KIHy4PVSUb",
-        "recahyhau12Ghaztg"
+        "recahyhau12Ghaztg",
+        "recY5jgLHC0792Lr0"
       ],
       "nom": "Privé"
     }
   ],
-  "status": "Publié",
-  "présentation": "Prix Aperçus Vendée en 2019 (Catégorie Habitat - 1er Prix)\n",
+  "status": "En rédaction",
+  "présentation": "Prix Aperçus Vendée en 2019 (Catégorie Habitat)\n",
   "distinctions": [
     {
       "id": "recF1om3Uugj8Zp0n",
@@ -45,7 +46,9 @@
         "rec7OkEzJNwlvELsf",
         "recAIyOLNUx4kiPXv",
         "recDA3JohqEFwoBED",
-        "rechFw6KIHy4PVSUb"
+        "rechFw6KIHy4PVSUb",
+        "rec0tsNbxoh48H20l",
+        "recX0Kj4p2adp8f8U"
       ]
     }
   ],
@@ -75,13 +78,19 @@
         "rec7OkEzJNwlvELsf",
         "recAIyOLNUx4kiPXv",
         "recDA3JohqEFwoBED",
-        "rechFw6KIHy4PVSUb"
+        "rechFw6KIHy4PVSUb",
+        "rec0tsNbxoh48H20l",
+        "recX0Kj4p2adp8f8U",
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd"
       ],
       "nom": "années 2010"
     }
   ],
   "département": "85 Vendée",
   "date": "2018",
-  "dernière modification": "2021-09-28T09:40:48.000Z",
+  "dernière modification": "2021-09-29T14:50:26.000Z",
   "geolocalisation": null
 }

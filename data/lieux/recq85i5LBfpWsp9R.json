@@ -5,9 +5,10 @@
     {
       "id": "recU0DF0Isnpt8rJ1",
       "type_destination": "Équipement",
-      "destination": "Centre culturel",
+      "destination": "Centre culturel et/ou scientifique",
       "lieux": [
-        "recq85i5LBfpWsp9R"
+        "recq85i5LBfpWsp9R",
+        "recloEgKAuO4WjR2r"
       ]
     }
   ],
@@ -26,7 +27,7 @@
       "maitre_ouvrage": [
         "recq85i5LBfpWsp9R"
       ],
-      "nom": "Commune de Domfront-en-Champagne"
+      "nom": "Commune de Domfront-en-Champagne (72)"
     }
   ],
   "status": "Publié",
@@ -36,7 +37,7 @@
       "id": "recmk2YRhgfa5q8Dj",
       "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
       "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
-      "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.",
+      "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.\nIl a été remplacé en 2021 par le prix \"Aperçus Sarthe\"",
       "lieux": [
         "rechtsQSNXyvtp75c",
         "recuIUUMuCMw2rrHn",

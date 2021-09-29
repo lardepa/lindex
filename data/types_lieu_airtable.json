@@ -14,7 +14,8 @@
     "type_destination": "Espace public",
     "destination": "Aménagement paysager",
     "lieux": [
-      "recJgalSFcQX7dLe6"
+      "recJgalSFcQX7dLe6",
+      "rec0tsNbxoh48H20l"
     ]
   },
   "recH814jY01CiGtUZ": {
@@ -70,9 +71,10 @@
   "recU0DF0Isnpt8rJ1": {
     "id": "recU0DF0Isnpt8rJ1",
     "type_destination": "Équipement",
-    "destination": "Centre culturel",
+    "destination": "Centre culturel et/ou scientifique",
     "lieux": [
-      "recq85i5LBfpWsp9R"
+      "recq85i5LBfpWsp9R",
+      "recloEgKAuO4WjR2r"
     ]
   },
   "recVInw9NjTvZ1X63": {
@@ -152,9 +154,10 @@
   "recpmZv90qfrbo9DK": {
     "id": "recpmZv90qfrbo9DK",
     "type_destination": "Équipement",
-    "destination": "Commerces",
+    "destination": "Commerce",
     "lieux": [
-      "rec4neQMuPblp8tuX"
+      "rec4neQMuPblp8tuX",
+      "recY5jgLHC0792Lr0"
     ]
   },
   "recrpFA9KQQobRh6X": {
@@ -167,12 +170,21 @@
       "rechFw6KIHy4PVSUb"
     ]
   },
+  "recs5EEjFEqR1pMAv": {
+    "id": "recs5EEjFEqR1pMAv",
+    "lieux": [
+      "recelyrNTkM7l50Jd"
+    ],
+    "destination": "Lycée",
+    "type_destination": "Équipement"
+  },
   "recsi8kyIdpmX1wtW": {
     "id": "recsi8kyIdpmX1wtW",
     "type_destination": "Équipement",
     "destination": "Industrie",
     "lieux": [
-      "recGXesDW1kGxSoxQ"
+      "recGXesDW1kGxSoxQ",
+      "recX0Kj4p2adp8f8U"
     ]
   },
   "recutlOJwb5QQKd5c": {
@@ -201,5 +213,13 @@
     "lieux": [
       "recuIUUMuCMw2rrHn"
     ]
+  },
+  "recx3yGNANTqlUfBu": {
+    "id": "recx3yGNANTqlUfBu",
+    "lieux": [
+      "recL8sEqdH9C2gWvd"
+    ],
+    "destination": "Salle de Spectacle",
+    "type_destination": "Équipement"
   }
 }
