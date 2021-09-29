@@ -129,49 +129,6 @@
     "lastModification": "2021-09-29T06:42:20.000Z"
   },
   {
-    "id": "recNOfjWkwIQ7wPig",
-    "type": "selections",
-    "status": "Publié",
-    "cover_media": {
-      "id": "rec09fZqSVXpUydK2",
-      "fichiers": [
-        {
-          "id": "att7oVIjK1NXQSnBi",
-          "width": 1787,
-          "height": 1787,
-          "url": "https://dl.airtable.com/.attachments/28a955a0b9938f3efdb0fa6bd0d212c3/708874b3/photo_anomalie.jpeg",
-          "filename": "photo_anomalie.jpeg",
-          "size": 1742587,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/3ffa7a804f3afa5febc0d64b9bd94e92/bc466b57",
-              "width": 36,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/41ba6634ae7b523d98c5cfee5123471f/a2728e35",
-              "width": 512,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/a386e0b0c613272eeaaf09c4e8ae7c71/e33d07fd",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "sélections": [
-        "recNOfjWkwIQ7wPig"
-      ],
-      "titre": "Paul Anomalie",
-      "credits": "Alexis Jacomy"
-    },
-    "title": "Paul Girard",
-    "lastModification": "2021-09-29T12:07:46.000Z"
-  },
-  {
     "id": "recyxl64SW35uLcjC",
     "type": "parcours",
     "status": "en cours de rédaction",
