@@ -11,6 +11,18 @@
         "rec7OkEzJNwlvELsf",
         "recDA3JohqEFwoBED"
       ]
+    },
+    {
+      "id": "recfGpEUDEbAd40us",
+      "lieux": [
+        "recMsOSrCEl9x1F2V",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recmanFMpSvbjFW6r",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED"
+      ],
+      "destination": "Réhabilitation"
     }
   ],
   "maitre_oeuvre": [
@@ -34,7 +46,7 @@
     }
   ],
   "status": "Publié",
-  "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Patrimoine)\n",
+  "présentation": "Réhabilitation d'un ancien presbytère en Mairie\n\nPrix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Patrimoine)\n",
   "distinctions": [
     {
       "id": "recmk2YRhgfa5q8Dj",
@@ -52,7 +64,7 @@
       ]
     }
   ],
-  "nom": "Mairie (Réhabilitation d'un Presbytère)",
+  "nom": "Mairie de Neuvillalais",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -84,7 +96,9 @@
         "recY5jgLHC0792Lr0",
         "recloEgKAuO4WjR2r",
         "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd"
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt"
       ],
       "nom": "années 2010"
     }
@@ -95,5 +109,5 @@
   ],
   "département": "72 Sarthe",
   "date": "2011",
-  "dernière modification": "2021-09-27T16:25:43.000Z"
+  "dernière modification": "2021-09-30T07:38:59.000Z"
 }

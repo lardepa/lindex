@@ -8,6 +8,18 @@
       "lieux": [
         "recXNuzkB4wj0g0H4"
       ]
+    },
+    {
+      "id": "recfGpEUDEbAd40us",
+      "lieux": [
+        "recMsOSrCEl9x1F2V",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recmanFMpSvbjFW6r",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED"
+      ],
+      "destination": "Réhabilitation"
     }
   ],
   "maitre_oeuvre": [
@@ -47,7 +59,7 @@
       ]
     }
   ],
-  "nom": "Restauration de l'Église",
+  "nom": "Église de Saint Denis des Coudrais",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -79,7 +91,9 @@
         "recY5jgLHC0792Lr0",
         "recloEgKAuO4WjR2r",
         "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd"
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt"
       ],
       "nom": "années 2010"
     }
@@ -90,5 +104,5 @@
   ],
   "département": "72 Sarthe",
   "date": "2014",
-  "dernière modification": "2021-09-27T16:12:36.000Z"
+  "dernière modification": "2021-09-30T07:38:29.000Z"
 }

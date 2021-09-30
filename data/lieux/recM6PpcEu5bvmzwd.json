@@ -71,7 +71,7 @@
       ]
     }
   ],
-  "nom": "Place du Mail",
+  "nom": "Place du Mail à Allonnes",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -103,7 +103,9 @@
         "recY5jgLHC0792Lr0",
         "recloEgKAuO4WjR2r",
         "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd"
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt"
       ],
       "nom": "années 2010"
     }
@@ -114,5 +116,5 @@
   ],
   "département": "72 Sarthe",
   "date": "2011",
-  "dernière modification": "2021-09-27T16:23:43.000Z"
+  "dernière modification": "2021-09-30T07:30:22.000Z"
 }

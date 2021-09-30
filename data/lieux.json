@@ -91,7 +91,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -116,8 +118,21 @@
           "recXrmOzavWvTwx9T",
           "recdqD43kpp1pOv3x",
           "rec72cuqtL80v3RYm",
-          "recjkXrXE0hZw6f4t"
+          "recjkXrXE0hZw6f4t",
+          "recP6LOBOUBRRlLnt"
         ]
+      },
+      {
+        "id": "recfGpEUDEbAd40us",
+        "lieux": [
+          "recMsOSrCEl9x1F2V",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recmanFMpSvbjFW6r",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED"
+        ],
+        "destination": "Réhabilitation"
       }
     ],
     "maitre_oeuvre": [
@@ -190,7 +205,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -201,7 +218,7 @@
     ],
     "département": "72 Sarthe",
     "date": "2015",
-    "dernière modification": "2021-09-27T16:12:42.000Z"
+    "dernière modification": "2021-09-30T07:37:08.000Z"
   },
   {
     "id": "rec7OkEzJNwlvELsf",
@@ -294,7 +311,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -318,6 +337,18 @@
         "lieux": [
           "recAIyOLNUx4kiPXv"
         ]
+      },
+      {
+        "id": "recfGpEUDEbAd40us",
+        "lieux": [
+          "recMsOSrCEl9x1F2V",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recmanFMpSvbjFW6r",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED"
+        ],
+        "destination": "Réhabilitation"
       }
     ],
     "maitre_oeuvre": [
@@ -397,7 +428,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -408,7 +441,7 @@
     ],
     "département": "85 Vendée",
     "date": "2018",
-    "dernière modification": "2021-09-28T08:56:35.000Z"
+    "dernière modification": "2021-09-30T07:39:19.000Z"
   },
   {
     "id": "recBxhZLsWO1HSu4R",
@@ -459,7 +492,7 @@
         ]
       }
     ],
-    "nom": "Pôle Santé",
+    "nom": "Pôle Santé à Pré-en-Pail-Saint-Samson",
     "périodes": [
       {
         "id": "rec0D9TkCH83ItF6j",
@@ -491,7 +524,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -502,7 +537,7 @@
     ],
     "département": "53 Mayenne",
     "date": "2017",
-    "dernière modification": "2021-09-27T16:12:54.000Z"
+    "dernière modification": "2021-09-30T07:30:56.000Z"
   },
   {
     "id": "recDA3JohqEFwoBED",
@@ -517,6 +552,18 @@
           "rec7OkEzJNwlvELsf",
           "recDA3JohqEFwoBED"
         ]
+      },
+      {
+        "id": "recfGpEUDEbAd40us",
+        "lieux": [
+          "recMsOSrCEl9x1F2V",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recmanFMpSvbjFW6r",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED"
+        ],
+        "destination": "Réhabilitation"
       }
     ],
     "maitre_oeuvre": [
@@ -588,7 +635,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -599,7 +648,7 @@
     ],
     "département": "85 Vendée",
     "date": "2018",
-    "dernière modification": "2021-09-28T09:06:14.000Z"
+    "dernière modification": "2021-09-30T07:39:25.000Z"
   },
   {
     "id": "recGXesDW1kGxSoxQ",
@@ -693,7 +742,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -794,7 +845,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -817,7 +870,8 @@
         "destination": "Aménagement paysager",
         "lieux": [
           "recJgalSFcQX7dLe6",
-          "rec0tsNbxoh48H20l"
+          "rec0tsNbxoh48H20l",
+          "recP6LOBOUBRRlLnt"
         ]
       }
     ],
@@ -858,7 +912,7 @@
         ]
       }
     ],
-    "nom": "Les Hauts du Couzé",
+    "nom": "ZAC Les Hauts du Couzé",
     "périodes": [
       {
         "id": "rec0D9TkCH83ItF6j",
@@ -890,7 +944,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -901,64 +957,19 @@
     ],
     "département": "49 Maine-et-Loire",
     "date": "2018",
-    "dernière modification": "2021-09-28T07:22:35.000Z"
+    "dernière modification": "2021-09-30T07:29:49.000Z"
   },
   {
     "id": "recL8sEqdH9C2gWvd",
-    "nom": "Salle de Spectacle Ostardéria",
-    "dernière modification": "2021-09-29T15:52:20.000Z",
-    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
-    "département": "85 Vendée",
-    "geolocalisation": [
-      46.66416160311084,
-      -0.7284382078463064
-    ],
     "adresse": "Salle Ostarderia, 85120 La Tardière\n",
     "type": [
       {
         "id": "recx3yGNANTqlUfBu",
-        "lieux": [
-          "recL8sEqdH9C2gWvd"
-        ],
+        "type_destination": "Équipement",
         "destination": "Salle de Spectacle",
-        "type_destination": "Équipement"
-      }
-    ],
-    "date": "2014",
-    "périodes": [
-      {
-        "id": "rec0D9TkCH83ItF6j",
         "lieux": [
-          "recXIe49AgTTO1AuY",
-          "rec4neQMuPblp8tuX",
-          "reczXyoM7GigrsPit",
-          "recsuUKLNrVXo8p8J",
-          "recdqD43kpp1pOv3x",
-          "recBxhZLsWO1HSu4R",
-          "rechtsQSNXyvtp75c",
-          "recuIUUMuCMw2rrHn",
-          "rec72cuqtL80v3RYm",
-          "recXNuzkB4wj0g0H4",
-          "recM6PpcEu5bvmzwd",
-          "recmanFMpSvbjFW6r",
-          "recjkXrXE0hZw6f4t",
-          "recQh9bPlaf7FDpmG",
-          "recGXesDW1kGxSoxQ",
-          "recJgalSFcQX7dLe6",
-          "recHVehEvNmwXAJIO",
-          "recYQXv9Df1Bn5fTu",
-          "rec7OkEzJNwlvELsf",
-          "recAIyOLNUx4kiPXv",
-          "recDA3JohqEFwoBED",
-          "rechFw6KIHy4PVSUb",
-          "rec0tsNbxoh48H20l",
-          "recX0Kj4p2adp8f8U",
-          "recY5jgLHC0792Lr0",
-          "recloEgKAuO4WjR2r",
-          "recelyrNTkM7l50Jd",
           "recL8sEqdH9C2gWvd"
-        ],
-        "nom": "années 2010"
+        ]
       }
     ],
     "maitre_oeuvre": [
@@ -967,8 +978,8 @@
         "maitre_oeuvre": [
           "recL8sEqdH9C2gWvd"
         ],
-        "nom": "GLV architectes",
-        "site_web": "http://www.glvarchitectes.com/"
+        "site_web": "http://www.glvarchitectes.com/",
+        "nom": "GLV architectes"
       }
     ],
     "maitre_ouvrage": [
@@ -981,6 +992,7 @@
       }
     ],
     "status": "Publié",
+    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
     "distinctions": [
       {
         "id": "recWC2OSlyx1EQjFm",
@@ -990,10 +1002,58 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ]
       }
-    ]
+    ],
+    "nom": "Salle de Spectacle Ostardéria",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu",
+          "rec7OkEzJNwlvELsf",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED",
+          "rechFw6KIHy4PVSUb",
+          "rec0tsNbxoh48H20l",
+          "recX0Kj4p2adp8f8U",
+          "recY5jgLHC0792Lr0",
+          "recloEgKAuO4WjR2r",
+          "recelyrNTkM7l50Jd",
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      46.66416160311084,
+      -0.7284382078463064
+    ],
+    "département": "85 Vendée",
+    "date": "2014",
+    "dernière modification": "2021-09-29T15:52:20.000Z"
   },
   {
     "id": "recM6PpcEu5bvmzwd",
@@ -1068,7 +1128,7 @@
         ]
       }
     ],
-    "nom": "Place du Mail",
+    "nom": "Place du Mail à Allonnes",
     "périodes": [
       {
         "id": "rec0D9TkCH83ItF6j",
@@ -1100,7 +1160,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -1111,7 +1173,124 @@
     ],
     "département": "72 Sarthe",
     "date": "2011",
-    "dernière modification": "2021-09-27T16:23:43.000Z"
+    "dernière modification": "2021-09-30T07:30:22.000Z"
+  },
+  {
+    "id": "recMsOSrCEl9x1F2V",
+    "dernière modification": "2021-09-30T07:42:05.000Z",
+    "nom": "Médiathèque de Saint-Gervais",
+    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Réhabilitation)\n",
+    "geolocalisation": [
+      46.902531,
+      -2.00279
+    ],
+    "adresse": "16 rue du Haras, 85230 Saint Gervais\n",
+    "département": "85 Vendée",
+    "date": "2015",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu",
+          "rec7OkEzJNwlvELsf",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED",
+          "rechFw6KIHy4PVSUb",
+          "rec0tsNbxoh48H20l",
+          "recX0Kj4p2adp8f8U",
+          "recY5jgLHC0792Lr0",
+          "recloEgKAuO4WjR2r",
+          "recelyrNTkM7l50Jd",
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "type": [
+      {
+        "id": "recQIJ15w7Yc15eNf",
+        "type_destination": "Équipement",
+        "destination": "Médiathèque",
+        "lieux": [
+          "recdqD43kpp1pOv3x",
+          "recMsOSrCEl9x1F2V"
+        ]
+      },
+      {
+        "id": "recfGpEUDEbAd40us",
+        "lieux": [
+          "recMsOSrCEl9x1F2V",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recmanFMpSvbjFW6r",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED"
+        ],
+        "destination": "Réhabilitation"
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recg1jdkQ2cgpAezl",
+        "maitre_oeuvre": [
+          "recMsOSrCEl9x1F2V"
+        ],
+        "nom": "AM Architecture",
+        "site_web": "http://www.amarchitecture.fr/accueil/index.php"
+      },
+      {
+        "id": "recpuainVapKKywrU",
+        "maitre_oeuvre": [
+          "recMsOSrCEl9x1F2V"
+        ],
+        "nom": "Martial Architecte Urbaniste",
+        "site_web": "http://www.martial-architecte.com/agence/"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recVWtsKFTH0WdpdU",
+        "nom": "Commune de Saint-Gervais (85)",
+        "maitre_ouvrage": [
+          "recMsOSrCEl9x1F2V"
+        ]
+      }
+    ],
+    "status": "Publié",
+    "distinctions": [
+      {
+        "id": "recWC2OSlyx1EQjFm",
+        "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
+        "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
+        "lieux": [
+          "recY5jgLHC0792Lr0",
+          "recloEgKAuO4WjR2r",
+          "recelyrNTkM7l50Jd",
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
+        ]
+      }
+    ]
   },
   {
     "id": "recQh9bPlaf7FDpmG",
@@ -1165,7 +1344,7 @@
         ]
       }
     ],
-    "nom": "Place des Terrasses",
+    "nom": "Place des Terrasses à Durtal",
     "périodes": [
       {
         "id": "rec0D9TkCH83ItF6j",
@@ -1197,7 +1376,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -1208,7 +1389,7 @@
     ],
     "département": "49 Maine-et-Loire",
     "date": "2018",
-    "dernière modification": "2021-09-28T07:04:18.000Z"
+    "dernière modification": "2021-09-30T07:29:38.000Z"
   },
   {
     "id": "recRlloApjtcScitR",
@@ -1759,7 +1940,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -1855,7 +2038,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -1878,6 +2063,18 @@
         "lieux": [
           "recXNuzkB4wj0g0H4"
         ]
+      },
+      {
+        "id": "recfGpEUDEbAd40us",
+        "lieux": [
+          "recMsOSrCEl9x1F2V",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recmanFMpSvbjFW6r",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED"
+        ],
+        "destination": "Réhabilitation"
       }
     ],
     "maitre_oeuvre": [
@@ -1917,7 +2114,7 @@
         ]
       }
     ],
-    "nom": "Restauration de l'Église",
+    "nom": "Église de Saint Denis des Coudrais",
     "périodes": [
       {
         "id": "rec0D9TkCH83ItF6j",
@@ -1949,7 +2146,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -1960,7 +2159,7 @@
     ],
     "département": "72 Sarthe",
     "date": "2014",
-    "dernière modification": "2021-09-27T16:12:36.000Z"
+    "dernière modification": "2021-09-30T07:38:29.000Z"
   },
   {
     "id": "recXrmOzavWvTwx9T",
@@ -1974,7 +2173,8 @@
           "recXrmOzavWvTwx9T",
           "recdqD43kpp1pOv3x",
           "rec72cuqtL80v3RYm",
-          "recjkXrXE0hZw6f4t"
+          "recjkXrXE0hZw6f4t",
+          "recP6LOBOUBRRlLnt"
         ]
       },
       {
@@ -2204,14 +2404,16 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ]
       },
       {
         "id": "recIh45osGM5xvbVE",
+        "site_web": "https://www.japl.fr/",
         "nom": "JAPL - albums des Jeunes architectes et Paysagistes Ligériens",
         "description": "L'album des Jeunes Architectes et Paysagistes Ligériens (JAPL) est une sélection d'architectes et de paysagistes de moins de 40 ans, opérée tous les quatre ans par l'association ARDEPA, l'école d'Architecture de Nantes (ensa Nantes) et l'Union régionale des CAUE (URCAUE) des Pays de la Loire.",
-        "site_web": "https://www.japl.fr/",
         "lieux": [
           "recY5jgLHC0792Lr0"
         ]
@@ -2249,7 +2451,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -2346,7 +2550,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -2368,7 +2574,8 @@
         "type_destination": "Logement",
         "destination": "Logements individuels",
         "lieux": [
-          "recahyhau12Ghaztg"
+          "recahyhau12Ghaztg",
+          "recP6LOBOUBRRlLnt"
         ]
       },
       {
@@ -2554,7 +2761,8 @@
         "type_destination": "Équipement",
         "destination": "Médiathèque",
         "lieux": [
-          "recdqD43kpp1pOv3x"
+          "recdqD43kpp1pOv3x",
+          "recMsOSrCEl9x1F2V"
         ]
       },
       {
@@ -2565,7 +2773,8 @@
           "recXrmOzavWvTwx9T",
           "recdqD43kpp1pOv3x",
           "rec72cuqtL80v3RYm",
-          "recjkXrXE0hZw6f4t"
+          "recjkXrXE0hZw6f4t",
+          "recP6LOBOUBRRlLnt"
         ]
       },
       {
@@ -2648,7 +2857,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -2659,30 +2870,59 @@
     ],
     "département": "53 Mayenne",
     "date": "2018",
-    "dernière modification": "2021-09-27T16:12:57.000Z"
+    "dernière modification": "2021-09-30T07:31:02.000Z"
   },
   {
     "id": "recelyrNTkM7l50Jd",
-    "nom": "Lycée Général et Technologique Agricole Nature",
-    "dernière modification": "2021-09-29T15:49:16.000Z",
-    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
     "adresse": "Allée des druides, 85000 La Roche sur Yon\n",
-    "département": "85 Vendée",
-    "geolocalisation": [
-      46.66494619522824,
-      -1.3800621975826315
-    ],
     "type": [
       {
         "id": "recs5EEjFEqR1pMAv",
+        "type_destination": "Équipement",
+        "destination": "Lycée",
         "lieux": [
           "recelyrNTkM7l50Jd"
-        ],
-        "destination": "Lycée",
-        "type_destination": "Équipement"
+        ]
       }
     ],
-    "date": "2015",
+    "maitre_oeuvre": [
+      {
+        "id": "rec3PromkKzrrBM83",
+        "maitre_oeuvre": [
+          "recelyrNTkM7l50Jd"
+        ],
+        "site_web": "http://www.dlw-architectes.fr/",
+        "nom": "DLW architectes"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "rec2Idw8ioulj1RGI",
+        "maitre_ouvrage": [
+          "recloEgKAuO4WjR2r",
+          "recelyrNTkM7l50Jd"
+        ],
+        "nom": "Conseil Régional des Pays de la Loire"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
+    "distinctions": [
+      {
+        "id": "recWC2OSlyx1EQjFm",
+        "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
+        "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
+        "lieux": [
+          "recY5jgLHC0792Lr0",
+          "recloEgKAuO4WjR2r",
+          "recelyrNTkM7l50Jd",
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
+        ]
+      }
+    ],
+    "nom": "Lycée Général et Technologique Agricole Nature",
     "périodes": [
       {
         "id": "rec0D9TkCH83ItF6j",
@@ -2714,45 +2954,20 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
     ],
-    "maitre_oeuvre": [
-      {
-        "id": "rec3PromkKzrrBM83",
-        "maitre_oeuvre": [
-          "recelyrNTkM7l50Jd"
-        ],
-        "nom": "DLW architectes",
-        "site_web": "http://www.dlw-architectes.fr/"
-      }
+    "geolocalisation": [
+      46.66494619522824,
+      -1.3800621975826315
     ],
-    "maitre_ouvrage": [
-      {
-        "id": "rec2Idw8ioulj1RGI",
-        "maitre_ouvrage": [
-          "recloEgKAuO4WjR2r",
-          "recelyrNTkM7l50Jd"
-        ],
-        "nom": "Conseil Régional des Pays de la Loire"
-      }
-    ],
-    "status": "Publié",
-    "distinctions": [
-      {
-        "id": "recWC2OSlyx1EQjFm",
-        "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
-        "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
-        "lieux": [
-          "recY5jgLHC0792Lr0",
-          "recloEgKAuO4WjR2r",
-          "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
-        ]
-      }
-    ]
+    "département": "85 Vendée",
+    "date": "2015",
+    "dernière modification": "2021-09-29T15:49:16.000Z"
   },
   {
     "id": "rechtsQSNXyvtp75c",
@@ -2863,7 +3078,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -2888,7 +3105,8 @@
           "recXrmOzavWvTwx9T",
           "recdqD43kpp1pOv3x",
           "rec72cuqtL80v3RYm",
-          "recjkXrXE0hZw6f4t"
+          "recjkXrXE0hZw6f4t",
+          "recP6LOBOUBRRlLnt"
         ]
       }
     ],
@@ -2961,7 +3179,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -2976,16 +3196,7 @@
   },
   {
     "id": "recloEgKAuO4WjR2r",
-    "nom": "Centre Beautour de découverte, de culture scientifique et de recherche sur l'environnement et la biodiversité",
-    "dernière modification": "2021-09-29T15:43:25.000Z",
-    "présentation": "Rénovation d’une maison de maître, création d’une extension et aménagement d’un parc, regroupant salles d’expositions, ateliers pédagogiques, laboratoires, accueil, bureaux, serre pédagogique, jardins et parcours pédagogiques.\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 2eme prix)\n",
-    "date": "2014",
     "adresse": "Rond-point de Beautour, 85000 La Roche-sur-Yon\n",
-    "département": "85 Vendée",
-    "geolocalisation": [
-      46.662995597968134,
-      -1.3578095378216828
-    ],
     "type": [
       {
         "id": "recU0DF0Isnpt8rJ1",
@@ -2995,42 +3206,6 @@
           "recq85i5LBfpWsp9R",
           "recloEgKAuO4WjR2r"
         ]
-      }
-    ],
-    "périodes": [
-      {
-        "id": "rec0D9TkCH83ItF6j",
-        "lieux": [
-          "recXIe49AgTTO1AuY",
-          "rec4neQMuPblp8tuX",
-          "reczXyoM7GigrsPit",
-          "recsuUKLNrVXo8p8J",
-          "recdqD43kpp1pOv3x",
-          "recBxhZLsWO1HSu4R",
-          "rechtsQSNXyvtp75c",
-          "recuIUUMuCMw2rrHn",
-          "rec72cuqtL80v3RYm",
-          "recXNuzkB4wj0g0H4",
-          "recM6PpcEu5bvmzwd",
-          "recmanFMpSvbjFW6r",
-          "recjkXrXE0hZw6f4t",
-          "recQh9bPlaf7FDpmG",
-          "recGXesDW1kGxSoxQ",
-          "recJgalSFcQX7dLe6",
-          "recHVehEvNmwXAJIO",
-          "recYQXv9Df1Bn5fTu",
-          "rec7OkEzJNwlvELsf",
-          "recAIyOLNUx4kiPXv",
-          "recDA3JohqEFwoBED",
-          "rechFw6KIHy4PVSUb",
-          "rec0tsNbxoh48H20l",
-          "recX0Kj4p2adp8f8U",
-          "recY5jgLHC0792Lr0",
-          "recloEgKAuO4WjR2r",
-          "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
-        ],
-        "nom": "années 2010"
       }
     ],
     "maitre_oeuvre": [
@@ -3055,6 +3230,7 @@
       }
     ],
     "status": "Publié",
+    "présentation": "Rénovation d’une maison de maître, création d’une extension et aménagement d’un parc, regroupant salles d’expositions, ateliers pédagogiques, laboratoires, accueil, bureaux, serre pédagogique, jardins et parcours pédagogiques.\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 2eme prix)\n",
     "distinctions": [
       {
         "id": "recWC2OSlyx1EQjFm",
@@ -3064,66 +3240,13 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "recmanFMpSvbjFW6r",
-    "adresse": "12 Place de l'Église, 72240 Neuvillalais\n",
-    "type": [
-      {
-        "id": "recAm0Xd8S6WS0mUU",
-        "type_destination": "Équipement",
-        "destination": "Hôtel de Ville",
-        "lieux": [
-          "recmanFMpSvbjFW6r",
-          "rec7OkEzJNwlvELsf",
-          "recDA3JohqEFwoBED"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ]
       }
     ],
-    "maitre_oeuvre": [
-      {
-        "id": "rec8xc1z26ogg2vT6",
-        "maitre_oeuvre": [
-          "recuIUUMuCMw2rrHn",
-          "recmanFMpSvbjFW6r"
-        ],
-        "site_web": "http://lorrainebapstarchitecture.viabloga.com/",
-        "nom": "Lorraine Bapst Architecture"
-      }
-    ],
-    "maitre_ouvrage": [
-      {
-        "id": "recLBtIyE7sVMbBwh",
-        "maitre_ouvrage": [
-          "recmanFMpSvbjFW6r"
-        ],
-        "nom": "Commune de Neuvillalais (72)"
-      }
-    ],
-    "status": "Publié",
-    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Patrimoine)\n",
-    "distinctions": [
-      {
-        "id": "recmk2YRhgfa5q8Dj",
-        "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
-        "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
-        "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.\nIl a été remplacé en 2021 par le prix \"Aperçus Sarthe\"",
-        "lieux": [
-          "rechtsQSNXyvtp75c",
-          "recuIUUMuCMw2rrHn",
-          "rec72cuqtL80v3RYm",
-          "recXNuzkB4wj0g0H4",
-          "recq85i5LBfpWsp9R",
-          "recM6PpcEu5bvmzwd",
-          "recmanFMpSvbjFW6r"
-        ]
-      }
-    ],
-    "nom": "Mairie (Réhabilitation d'un Presbytère)",
+    "nom": "Centre Beautour de découverte, de culture scientifique et de recherche sur l'environnement et la biodiversité",
     "périodes": [
       {
         "id": "rec0D9TkCH83ItF6j",
@@ -3155,7 +3278,122 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "geolocalisation": [
+      46.662995597968134,
+      -1.3578095378216828
+    ],
+    "département": "85 Vendée",
+    "date": "2014",
+    "dernière modification": "2021-09-29T15:43:25.000Z"
+  },
+  {
+    "id": "recmanFMpSvbjFW6r",
+    "adresse": "12 Place de l'Église, 72240 Neuvillalais\n",
+    "type": [
+      {
+        "id": "recAm0Xd8S6WS0mUU",
+        "type_destination": "Équipement",
+        "destination": "Hôtel de Ville",
+        "lieux": [
+          "recmanFMpSvbjFW6r",
+          "rec7OkEzJNwlvELsf",
+          "recDA3JohqEFwoBED"
+        ]
+      },
+      {
+        "id": "recfGpEUDEbAd40us",
+        "lieux": [
+          "recMsOSrCEl9x1F2V",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recmanFMpSvbjFW6r",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED"
+        ],
+        "destination": "Réhabilitation"
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "rec8xc1z26ogg2vT6",
+        "maitre_oeuvre": [
+          "recuIUUMuCMw2rrHn",
+          "recmanFMpSvbjFW6r"
+        ],
+        "site_web": "http://lorrainebapstarchitecture.viabloga.com/",
+        "nom": "Lorraine Bapst Architecture"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recLBtIyE7sVMbBwh",
+        "maitre_ouvrage": [
+          "recmanFMpSvbjFW6r"
+        ],
+        "nom": "Commune de Neuvillalais (72)"
+      }
+    ],
+    "status": "Publié",
+    "présentation": "Réhabilitation d'un ancien presbytère en Mairie\n\nPrix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Patrimoine)\n",
+    "distinctions": [
+      {
+        "id": "recmk2YRhgfa5q8Dj",
+        "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+        "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+        "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.\nIl a été remplacé en 2021 par le prix \"Aperçus Sarthe\"",
+        "lieux": [
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recq85i5LBfpWsp9R",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r"
+        ]
+      }
+    ],
+    "nom": "Mairie de Neuvillalais",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu",
+          "rec7OkEzJNwlvELsf",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED",
+          "rechFw6KIHy4PVSUb",
+          "rec0tsNbxoh48H20l",
+          "recX0Kj4p2adp8f8U",
+          "recY5jgLHC0792Lr0",
+          "recloEgKAuO4WjR2r",
+          "recelyrNTkM7l50Jd",
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -3166,7 +3404,7 @@
     ],
     "département": "72 Sarthe",
     "date": "2011",
-    "dernière modification": "2021-09-27T16:25:43.000Z"
+    "dernière modification": "2021-09-30T07:38:59.000Z"
   },
   {
     "id": "recq85i5LBfpWsp9R",
@@ -3219,7 +3457,7 @@
         ]
       }
     ],
-    "nom": "Espace de diffusion culturelle",
+    "nom": "Espace de diffusion culturelle à Domfront-en-Champagne",
     "périodes": [
       {
         "id": "recAnX6ahvGJYvz0M",
@@ -3236,7 +3474,7 @@
     ],
     "département": "72 Sarthe",
     "date": "2009",
-    "dernière modification": "2021-09-27T16:20:04.000Z"
+    "dernière modification": "2021-09-30T07:30:33.000Z"
   },
   {
     "id": "recsuUKLNrVXo8p8J",
@@ -3326,7 +3564,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -3400,7 +3640,7 @@
         ]
       }
     ],
-    "nom": "Extension de Cimetière",
+    "nom": "Extension de Cimetière à Auvers-le-Hamon",
     "périodes": [
       {
         "id": "rec0D9TkCH83ItF6j",
@@ -3432,7 +3672,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }
@@ -3443,7 +3685,7 @@
     ],
     "département": "72 Sarthe",
     "date": "2015",
-    "dernière modification": "2021-09-27T16:12:30.000Z"
+    "dernière modification": "2021-09-30T07:30:49.000Z"
   },
   {
     "id": "reczXyoM7GigrsPit",
@@ -3527,7 +3769,9 @@
           "recY5jgLHC0792Lr0",
           "recloEgKAuO4WjR2r",
           "recelyrNTkM7l50Jd",
-          "recL8sEqdH9C2gWvd"
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt"
         ],
         "nom": "années 2010"
       }

@@ -1,15 +1,6 @@
 {
   "id": "recloEgKAuO4WjR2r",
-  "nom": "Centre Beautour de découverte, de culture scientifique et de recherche sur l'environnement et la biodiversité",
-  "dernière modification": "2021-09-29T15:43:25.000Z",
-  "présentation": "Rénovation d’une maison de maître, création d’une extension et aménagement d’un parc, regroupant salles d’expositions, ateliers pédagogiques, laboratoires, accueil, bureaux, serre pédagogique, jardins et parcours pédagogiques.\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 2eme prix)\n",
-  "date": "2014",
   "adresse": "Rond-point de Beautour, 85000 La Roche-sur-Yon\n",
-  "département": "85 Vendée",
-  "geolocalisation": [
-    46.662995597968134,
-    -1.3578095378216828
-  ],
   "type": [
     {
       "id": "recU0DF0Isnpt8rJ1",
@@ -21,6 +12,45 @@
       ]
     }
   ],
+  "maitre_oeuvre": [
+    {
+      "id": "recOl6lYjNOuOGchX",
+      "maitre_oeuvre": [
+        "recRlloApjtcScitR",
+        "recloEgKAuO4WjR2r"
+      ],
+      "site_web": "http://www.guineepotin.fr/",
+      "nom": "Guinée*Potin Architecture"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "rec2Idw8ioulj1RGI",
+      "maitre_ouvrage": [
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd"
+      ],
+      "nom": "Conseil Régional des Pays de la Loire"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Rénovation d’une maison de maître, création d’une extension et aménagement d’un parc, regroupant salles d’expositions, ateliers pédagogiques, laboratoires, accueil, bureaux, serre pédagogique, jardins et parcours pédagogiques.\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 2eme prix)\n",
+  "distinctions": [
+    {
+      "id": "recWC2OSlyx1EQjFm",
+      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
+      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
+      "lieux": [
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt"
+      ]
+    }
+  ],
+  "nom": "Centre Beautour de découverte, de culture scientifique et de recherche sur l'environnement et la biodiversité",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -52,44 +82,18 @@
         "recY5jgLHC0792Lr0",
         "recloEgKAuO4WjR2r",
         "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd"
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt"
       ],
       "nom": "années 2010"
     }
   ],
-  "maitre_oeuvre": [
-    {
-      "id": "recOl6lYjNOuOGchX",
-      "maitre_oeuvre": [
-        "recRlloApjtcScitR",
-        "recloEgKAuO4WjR2r"
-      ],
-      "site_web": "http://www.guineepotin.fr/",
-      "nom": "Guinée*Potin Architecture"
-    }
+  "geolocalisation": [
+    46.662995597968134,
+    -1.3578095378216828
   ],
-  "maitre_ouvrage": [
-    {
-      "id": "rec2Idw8ioulj1RGI",
-      "maitre_ouvrage": [
-        "recloEgKAuO4WjR2r",
-        "recelyrNTkM7l50Jd"
-      ],
-      "nom": "Conseil Régional des Pays de la Loire"
-    }
-  ],
-  "status": "Publié",
-  "distinctions": [
-    {
-      "id": "recWC2OSlyx1EQjFm",
-      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
-      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
-      "lieux": [
-        "recY5jgLHC0792Lr0",
-        "recloEgKAuO4WjR2r",
-        "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd"
-      ]
-    }
-  ]
+  "département": "85 Vendée",
+  "date": "2014",
+  "dernière modification": "2021-09-29T15:43:25.000Z"
 }

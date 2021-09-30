@@ -59,7 +59,7 @@
       ]
     }
   ],
-  "nom": "Extension de Cimetière",
+  "nom": "Extension de Cimetière à Auvers-le-Hamon",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -91,7 +91,9 @@
         "recY5jgLHC0792Lr0",
         "recloEgKAuO4WjR2r",
         "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd"
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt"
       ],
       "nom": "années 2010"
     }
@@ -102,5 +104,5 @@
   ],
   "département": "72 Sarthe",
   "date": "2015",
-  "dernière modification": "2021-09-27T16:12:30.000Z"
+  "dernière modification": "2021-09-30T07:30:49.000Z"
 }

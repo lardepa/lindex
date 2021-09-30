@@ -7,7 +7,8 @@
       "type_destination": "Équipement",
       "destination": "Médiathèque",
       "lieux": [
-        "recdqD43kpp1pOv3x"
+        "recdqD43kpp1pOv3x",
+        "recMsOSrCEl9x1F2V"
       ]
     },
     {
@@ -18,7 +19,8 @@
         "recXrmOzavWvTwx9T",
         "recdqD43kpp1pOv3x",
         "rec72cuqtL80v3RYm",
-        "recjkXrXE0hZw6f4t"
+        "recjkXrXE0hZw6f4t",
+        "recP6LOBOUBRRlLnt"
       ]
     },
     {
@@ -101,7 +103,9 @@
         "recY5jgLHC0792Lr0",
         "recloEgKAuO4WjR2r",
         "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd"
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt"
       ],
       "nom": "années 2010"
     }
@@ -112,5 +116,5 @@
   ],
   "département": "53 Mayenne",
   "date": "2018",
-  "dernière modification": "2021-09-27T16:12:57.000Z"
+  "dernière modification": "2021-09-30T07:31:02.000Z"
 }

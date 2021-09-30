@@ -54,7 +54,8 @@
     "id": "rec72cuqtL80v3RYm",
     "adresse": "Rue de Suisse, 72000 Le Mans\n",
     "type": [
-      "recutlOJwb5QQKd5c"
+      "recutlOJwb5QQKd5c",
+      "recfGpEUDEbAd40us"
     ],
     "maitre_oeuvre": [
       "recd9BTJF3mhwJ6rc"
@@ -74,7 +75,7 @@
     "geolocalisation": "47.993715,0.227019",
     "département": "72 Sarthe",
     "date": "2015",
-    "dernière modification": "2021-09-27T16:12:42.000Z"
+    "dernière modification": "2021-09-30T07:37:08.000Z"
   },
   "rec7OkEzJNwlvELsf": {
     "id": "rec7OkEzJNwlvELsf",
@@ -107,7 +108,8 @@
     "id": "recAIyOLNUx4kiPXv",
     "adresse": "18 rue du Temple, 85390 Mouilleron-Saint-Germain\n",
     "type": [
-      "recpXtVGJnicjtjCe"
+      "recpXtVGJnicjtjCe",
+      "recfGpEUDEbAd40us"
     ],
     "maitre_oeuvre": [
       "rec2RkhYsVhUGbYCu",
@@ -128,7 +130,7 @@
     "geolocalisation": "46.676028,-0.851067",
     "département": "85 Vendée",
     "date": "2018",
-    "dernière modification": "2021-09-28T08:56:35.000Z"
+    "dernière modification": "2021-09-30T07:39:19.000Z"
   },
   "recBxhZLsWO1HSu4R": {
     "id": "recBxhZLsWO1HSu4R",
@@ -147,20 +149,21 @@
     "distinctions": [
       "rec3Xe5U2PVARPF2u"
     ],
-    "nom": "Pôle Santé",
+    "nom": "Pôle Santé à Pré-en-Pail-Saint-Samson",
     "périodes": [
       "rec0D9TkCH83ItF6j"
     ],
     "geolocalisation": "48.457773,-0.205491",
     "département": "53 Mayenne",
     "date": "2017",
-    "dernière modification": "2021-09-27T16:12:54.000Z"
+    "dernière modification": "2021-09-30T07:30:56.000Z"
   },
   "recDA3JohqEFwoBED": {
     "id": "recDA3JohqEFwoBED",
     "adresse": "18 Grand'rue, 85430 Aubigny les Clouzeaux\n",
     "type": [
-      "recAm0Xd8S6WS0mUU"
+      "recAm0Xd8S6WS0mUU",
+      "recfGpEUDEbAd40us"
     ],
     "maitre_oeuvre": [
       "recPCJ3pXohRNtaEY"
@@ -180,7 +183,7 @@
     "geolocalisation": "46.597365, -1.452622",
     "département": "85 Vendée",
     "date": "2018",
-    "dernière modification": "2021-09-28T09:06:14.000Z"
+    "dernière modification": "2021-09-30T07:39:25.000Z"
   },
   "recGXesDW1kGxSoxQ": {
     "id": "recGXesDW1kGxSoxQ",
@@ -252,29 +255,20 @@
     "distinctions": [
       "recZpmWI8aJAmlsmQ"
     ],
-    "nom": "Les Hauts du Couzé",
+    "nom": "ZAC Les Hauts du Couzé",
     "périodes": [
       "rec0D9TkCH83ItF6j"
     ],
     "geolocalisation": "47.47066154578797, -0.635834619365218",
     "département": "49 Maine-et-Loire",
     "date": "2018",
-    "dernière modification": "2021-09-28T07:22:35.000Z"
+    "dernière modification": "2021-09-30T07:29:49.000Z"
   },
   "recL8sEqdH9C2gWvd": {
     "id": "recL8sEqdH9C2gWvd",
-    "nom": "Salle de Spectacle Ostardéria",
-    "dernière modification": "2021-09-29T15:52:20.000Z",
-    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
-    "département": "85 Vendée",
-    "geolocalisation": "46.66416160311084, -0.7284382078463064",
     "adresse": "Salle Ostarderia, 85120 La Tardière\n",
     "type": [
       "recx3yGNANTqlUfBu"
-    ],
-    "date": "2014",
-    "périodes": [
-      "rec0D9TkCH83ItF6j"
     ],
     "maitre_oeuvre": [
       "recbVGlqRwikX2mfq"
@@ -283,9 +277,18 @@
       "recSYHYpCSVPeGszY"
     ],
     "status": "Publié",
+    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
     "distinctions": [
       "recWC2OSlyx1EQjFm"
-    ]
+    ],
+    "nom": "Salle de Spectacle Ostardéria",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "46.66416160311084, -0.7284382078463064",
+    "département": "85 Vendée",
+    "date": "2014",
+    "dernière modification": "2021-09-29T15:52:20.000Z"
   },
   "recLVrdGzklj7mmLE": {
     "id": "recLVrdGzklj7mmLE",
@@ -343,14 +346,69 @@
     "distinctions": [
       "recmk2YRhgfa5q8Dj"
     ],
-    "nom": "Place du Mail",
+    "nom": "Place du Mail à Allonnes",
     "périodes": [
       "rec0D9TkCH83ItF6j"
     ],
     "geolocalisation": "47.97005865090112, 0.16015876538675414",
     "département": "72 Sarthe",
     "date": "2011",
-    "dernière modification": "2021-09-27T16:23:43.000Z"
+    "dernière modification": "2021-09-30T07:30:22.000Z"
+  },
+  "recMsOSrCEl9x1F2V": {
+    "id": "recMsOSrCEl9x1F2V",
+    "dernière modification": "2021-09-30T07:42:05.000Z",
+    "nom": "Médiathèque de Saint-Gervais",
+    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Réhabilitation)\n",
+    "geolocalisation": "46.902531,-2.00279",
+    "adresse": "16 rue du Haras, 85230 Saint Gervais\n",
+    "département": "85 Vendée",
+    "date": "2015",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "type": [
+      "recQIJ15w7Yc15eNf",
+      "recfGpEUDEbAd40us"
+    ],
+    "maitre_oeuvre": [
+      "recg1jdkQ2cgpAezl",
+      "recpuainVapKKywrU"
+    ],
+    "maitre_ouvrage": [
+      "recVWtsKFTH0WdpdU"
+    ],
+    "status": "Publié",
+    "distinctions": [
+      "recWC2OSlyx1EQjFm"
+    ]
+  },
+  "recP6LOBOUBRRlLnt": {
+    "id": "recP6LOBOUBRRlLnt",
+    "présentation": "Renouvellement urbain avec 31 logements (23 maisons de bourg (dont 2 en réhabilitation) et 8 logements intermédiaires)\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Aménagement et Urbanisme)\n",
+    "dernière modification": "2021-09-30T07:51:28.000Z",
+    "nom": "Quartier de la Grande Fosse à Saint-Georges-de-Montaigu",
+    "status": "En rédaction",
+    "département": "85 Vendée",
+    "type": [
+      "recEWoJWizkQSrwEo",
+      "recutlOJwb5QQKd5c",
+      "recYSw9aAndSU9UZ7"
+    ],
+    "date": "2016",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "maitre_oeuvre": [
+      "rectllGdDxxzxQ7Yn",
+      "recHLFIPmSHRXkUfj"
+    ],
+    "maitre_ouvrage": [
+      "recZwurvY5RuxsRyi"
+    ],
+    "distinctions": [
+      "recWC2OSlyx1EQjFm"
+    ]
   },
   "recQh9bPlaf7FDpmG": {
     "id": "recQh9bPlaf7FDpmG",
@@ -369,14 +427,14 @@
     "distinctions": [
       "recZpmWI8aJAmlsmQ"
     ],
-    "nom": "Place des Terrasses",
+    "nom": "Place des Terrasses à Durtal",
     "périodes": [
       "rec0D9TkCH83ItF6j"
     ],
     "geolocalisation": "47.670354855241, -0.2461768891609227",
     "département": "49 Maine-et-Loire",
     "date": "2018",
-    "dernière modification": "2021-09-28T07:04:18.000Z"
+    "dernière modification": "2021-09-30T07:29:38.000Z"
   },
   "recRlloApjtcScitR": {
     "id": "recRlloApjtcScitR",
@@ -509,7 +567,8 @@
     "id": "recXNuzkB4wj0g0H4",
     "adresse": "Lieu dit l'Église, 72110 Saint Denis des Coudrais\n",
     "type": [
-      "recVInw9NjTvZ1X63"
+      "recVInw9NjTvZ1X63",
+      "recfGpEUDEbAd40us"
     ],
     "maitre_oeuvre": [
       "recQb3mKINQqzB7iP"
@@ -522,14 +581,14 @@
     "distinctions": [
       "recmk2YRhgfa5q8Dj"
     ],
-    "nom": "Restauration de l'Église",
+    "nom": "Église de Saint Denis des Coudrais",
     "périodes": [
       "rec0D9TkCH83ItF6j"
     ],
     "geolocalisation": "48.149719,0.506125",
     "département": "72 Sarthe",
     "date": "2014",
-    "dernière modification": "2021-09-27T16:12:36.000Z"
+    "dernière modification": "2021-09-30T07:38:29.000Z"
   },
   "recXrmOzavWvTwx9T": {
     "id": "recXrmOzavWvTwx9T",
@@ -677,22 +736,13 @@
     "geolocalisation": "48.054534,-0.743165",
     "département": "53 Mayenne",
     "date": "2018",
-    "dernière modification": "2021-09-27T16:12:57.000Z"
+    "dernière modification": "2021-09-30T07:31:02.000Z"
   },
   "recelyrNTkM7l50Jd": {
     "id": "recelyrNTkM7l50Jd",
-    "nom": "Lycée Général et Technologique Agricole Nature",
-    "dernière modification": "2021-09-29T15:49:16.000Z",
-    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
     "adresse": "Allée des druides, 85000 La Roche sur Yon\n",
-    "département": "85 Vendée",
-    "geolocalisation": "46.66494619522824, -1.3800621975826315",
     "type": [
       "recs5EEjFEqR1pMAv"
-    ],
-    "date": "2015",
-    "périodes": [
-      "rec0D9TkCH83ItF6j"
     ],
     "maitre_oeuvre": [
       "rec3PromkKzrrBM83"
@@ -701,9 +751,18 @@
       "rec2Idw8ioulj1RGI"
     ],
     "status": "Publié",
+    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
     "distinctions": [
       "recWC2OSlyx1EQjFm"
-    ]
+    ],
+    "nom": "Lycée Général et Technologique Agricole Nature",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "46.66494619522824, -1.3800621975826315",
+    "département": "85 Vendée",
+    "date": "2015",
+    "dernière modification": "2021-09-29T15:49:16.000Z"
   },
   "rechFw6KIHy4PVSUb": {
     "id": "rechFw6KIHy4PVSUb",
@@ -786,18 +845,9 @@
   },
   "recloEgKAuO4WjR2r": {
     "id": "recloEgKAuO4WjR2r",
-    "nom": "Centre Beautour de découverte, de culture scientifique et de recherche sur l'environnement et la biodiversité",
-    "dernière modification": "2021-09-29T15:43:25.000Z",
-    "présentation": "Rénovation d’une maison de maître, création d’une extension et aménagement d’un parc, regroupant salles d’expositions, ateliers pédagogiques, laboratoires, accueil, bureaux, serre pédagogique, jardins et parcours pédagogiques.\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 2eme prix)\n",
-    "date": "2014",
     "adresse": "Rond-point de Beautour, 85000 La Roche-sur-Yon\n",
-    "département": "85 Vendée",
-    "geolocalisation": "46.662995597968134, -1.3578095378216828",
     "type": [
       "recU0DF0Isnpt8rJ1"
-    ],
-    "périodes": [
-      "rec0D9TkCH83ItF6j"
     ],
     "maitre_oeuvre": [
       "recOl6lYjNOuOGchX"
@@ -806,15 +856,25 @@
       "rec2Idw8ioulj1RGI"
     ],
     "status": "Publié",
+    "présentation": "Rénovation d’une maison de maître, création d’une extension et aménagement d’un parc, regroupant salles d’expositions, ateliers pédagogiques, laboratoires, accueil, bureaux, serre pédagogique, jardins et parcours pédagogiques.\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 2eme prix)\n",
     "distinctions": [
       "recWC2OSlyx1EQjFm"
-    ]
+    ],
+    "nom": "Centre Beautour de découverte, de culture scientifique et de recherche sur l'environnement et la biodiversité",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "46.662995597968134, -1.3578095378216828",
+    "département": "85 Vendée",
+    "date": "2014",
+    "dernière modification": "2021-09-29T15:43:25.000Z"
   },
   "recmanFMpSvbjFW6r": {
     "id": "recmanFMpSvbjFW6r",
     "adresse": "12 Place de l'Église, 72240 Neuvillalais\n",
     "type": [
-      "recAm0Xd8S6WS0mUU"
+      "recAm0Xd8S6WS0mUU",
+      "recfGpEUDEbAd40us"
     ],
     "maitre_oeuvre": [
       "rec8xc1z26ogg2vT6"
@@ -823,18 +883,18 @@
       "recLBtIyE7sVMbBwh"
     ],
     "status": "Publié",
-    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Patrimoine)\n",
+    "présentation": "Réhabilitation d'un ancien presbytère en Mairie\n\nPrix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Patrimoine)\n",
     "distinctions": [
       "recmk2YRhgfa5q8Dj"
     ],
-    "nom": "Mairie (Réhabilitation d'un Presbytère)",
+    "nom": "Mairie de Neuvillalais",
     "périodes": [
       "rec0D9TkCH83ItF6j"
     ],
     "geolocalisation": "48.155478,-0.00116",
     "département": "72 Sarthe",
     "date": "2011",
-    "dernière modification": "2021-09-27T16:25:43.000Z"
+    "dernière modification": "2021-09-30T07:38:59.000Z"
   },
   "recq85i5LBfpWsp9R": {
     "id": "recq85i5LBfpWsp9R",
@@ -853,14 +913,14 @@
     "distinctions": [
       "recmk2YRhgfa5q8Dj"
     ],
-    "nom": "Espace de diffusion culturelle",
+    "nom": "Espace de diffusion culturelle à Domfront-en-Champagne",
     "périodes": [
       "recAnX6ahvGJYvz0M"
     ],
     "geolocalisation": "48.106156,0.026757",
     "département": "72 Sarthe",
     "date": "2009",
-    "dernière modification": "2021-09-27T16:20:04.000Z"
+    "dernière modification": "2021-09-30T07:30:33.000Z"
   },
   "recsuUKLNrVXo8p8J": {
     "id": "recsuUKLNrVXo8p8J",
@@ -907,14 +967,14 @@
     "distinctions": [
       "recmk2YRhgfa5q8Dj"
     ],
-    "nom": "Extension de Cimetière",
+    "nom": "Extension de Cimetière à Auvers-le-Hamon",
     "périodes": [
       "rec0D9TkCH83ItF6j"
     ],
     "geolocalisation": "47.90477123647374, -0.35441273973473375",
     "département": "72 Sarthe",
     "date": "2015",
-    "dernière modification": "2021-09-27T16:12:30.000Z"
+    "dernière modification": "2021-09-30T07:30:49.000Z"
   },
   "reczXyoM7GigrsPit": {
     "id": "reczXyoM7GigrsPit",
