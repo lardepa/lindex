@@ -1,10 +1,5 @@
 {
   "id": "recP6LOBOUBRRlLnt",
-  "présentation": "Renouvellement urbain avec 31 logements (23 maisons de bourg (dont 2 en réhabilitation) et 8 logements intermédiaires)\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Aménagement et Urbanisme)\n",
-  "dernière modification": "2021-09-30T07:51:28.000Z",
-  "nom": "Quartier de la Grande Fosse à Saint-Georges-de-Montaigu",
-  "status": "En rédaction",
-  "département": "85 Vendée",
   "type": [
     {
       "id": "recEWoJWizkQSrwEo",
@@ -38,7 +33,51 @@
       ]
     }
   ],
-  "date": "2016",
+  "maitre_oeuvre": [
+    {
+      "id": "rectllGdDxxzxQ7Yn",
+      "maitre_oeuvre": [
+        "recP6LOBOUBRRlLnt"
+      ],
+      "site_web": "http://sitesetprojets.fr/",
+      "nom": "Atelier Site et Projet - Architecture, Urbanisme, Paysage"
+    },
+    {
+      "id": "recHLFIPmSHRXkUfj",
+      "maitre_oeuvre": [
+        "recP6LOBOUBRRlLnt"
+      ],
+      "site_web": "http://www.pa-dw.fr/",
+      "nom": "PADW - Pellegrino Associés Design Workshop"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recZwurvY5RuxsRyi",
+      "maitre_ouvrage": [
+        "recP6LOBOUBRRlLnt"
+      ],
+      "nom": "Commune de Saint-Georges-de-Montaigu (85)"
+    }
+  ],
+  "status": "En rédaction",
+  "présentation": "Renouvellement urbain avec 31 logements (23 maisons de bourg (dont 2 en réhabilitation) et 8 logements intermédiaires)\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Aménagement et Urbanisme)\n",
+  "distinctions": [
+    {
+      "id": "recWC2OSlyx1EQjFm",
+      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
+      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
+      "lieux": [
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt"
+      ]
+    }
+  ],
+  "nom": "Quartier de la Grande Fosse à Saint-Georges-de-Montaigu",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -72,52 +111,15 @@
         "recelyrNTkM7l50Jd",
         "recL8sEqdH9C2gWvd",
         "recMsOSrCEl9x1F2V",
-        "recP6LOBOUBRRlLnt"
+        "recP6LOBOUBRRlLnt",
+        "recu65igj5DHRpC30",
+        "recRFuKGP2zlHup3A"
       ],
       "nom": "années 2010"
     }
   ],
-  "maitre_oeuvre": [
-    {
-      "id": "rectllGdDxxzxQ7Yn",
-      "maitre_oeuvre": [
-        "recP6LOBOUBRRlLnt"
-      ],
-      "nom": "Atelier Site et Projet - Architecture, Urbanisme, Paysage",
-      "site_web": "http://sitesetprojets.fr/"
-    },
-    {
-      "id": "recHLFIPmSHRXkUfj",
-      "maitre_oeuvre": [
-        "recP6LOBOUBRRlLnt"
-      ],
-      "nom": "PADW - Pellegrino Associés Design Workshop",
-      "site_web": "http://www.pa-dw.fr/"
-    }
-  ],
-  "maitre_ouvrage": [
-    {
-      "id": "recZwurvY5RuxsRyi",
-      "maitre_ouvrage": [
-        "recP6LOBOUBRRlLnt"
-      ],
-      "nom": "Commune de Saint-Georges-de-Montaigu (85)"
-    }
-  ],
-  "distinctions": [
-    {
-      "id": "recWC2OSlyx1EQjFm",
-      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
-      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
-      "lieux": [
-        "recY5jgLHC0792Lr0",
-        "recloEgKAuO4WjR2r",
-        "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd",
-        "recMsOSrCEl9x1F2V",
-        "recP6LOBOUBRRlLnt"
-      ]
-    }
-  ],
+  "département": "85 Vendée",
+  "date": "2016",
+  "dernière modification": "2021-09-30T07:51:28.000Z",
   "geolocalisation": null
 }

@@ -357,16 +357,7 @@
   },
   "recMsOSrCEl9x1F2V": {
     "id": "recMsOSrCEl9x1F2V",
-    "dernière modification": "2021-09-30T07:42:05.000Z",
-    "nom": "Médiathèque de Saint-Gervais",
-    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Réhabilitation)\n",
-    "geolocalisation": "46.902531,-2.00279",
     "adresse": "16 rue du Haras, 85230 Saint Gervais\n",
-    "département": "85 Vendée",
-    "date": "2015",
-    "périodes": [
-      "rec0D9TkCH83ItF6j"
-    ],
     "type": [
       "recQIJ15w7Yc15eNf",
       "recfGpEUDEbAd40us"
@@ -379,25 +370,25 @@
       "recVWtsKFTH0WdpdU"
     ],
     "status": "Publié",
+    "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Réhabilitation)\n",
     "distinctions": [
       "recWC2OSlyx1EQjFm"
-    ]
+    ],
+    "nom": "Médiathèque de Saint-Gervais",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "46.902531,-2.00279",
+    "département": "85 Vendée",
+    "date": "2015",
+    "dernière modification": "2021-09-30T07:42:05.000Z"
   },
   "recP6LOBOUBRRlLnt": {
     "id": "recP6LOBOUBRRlLnt",
-    "présentation": "Renouvellement urbain avec 31 logements (23 maisons de bourg (dont 2 en réhabilitation) et 8 logements intermédiaires)\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Aménagement et Urbanisme)\n",
-    "dernière modification": "2021-09-30T07:51:28.000Z",
-    "nom": "Quartier de la Grande Fosse à Saint-Georges-de-Montaigu",
-    "status": "En rédaction",
-    "département": "85 Vendée",
     "type": [
       "recEWoJWizkQSrwEo",
       "recutlOJwb5QQKd5c",
       "recYSw9aAndSU9UZ7"
-    ],
-    "date": "2016",
-    "périodes": [
-      "rec0D9TkCH83ItF6j"
     ],
     "maitre_oeuvre": [
       "rectllGdDxxzxQ7Yn",
@@ -406,9 +397,18 @@
     "maitre_ouvrage": [
       "recZwurvY5RuxsRyi"
     ],
+    "status": "En rédaction",
+    "présentation": "Renouvellement urbain avec 31 logements (23 maisons de bourg (dont 2 en réhabilitation) et 8 logements intermédiaires)\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Aménagement et Urbanisme)\n",
     "distinctions": [
       "recWC2OSlyx1EQjFm"
-    ]
+    ],
+    "nom": "Quartier de la Grande Fosse à Saint-Georges-de-Montaigu",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "département": "85 Vendée",
+    "date": "2016",
+    "dernière modification": "2021-09-30T07:51:28.000Z"
   },
   "recQh9bPlaf7FDpmG": {
     "id": "recQh9bPlaf7FDpmG",
@@ -436,8 +436,46 @@
     "date": "2018",
     "dernière modification": "2021-09-30T07:29:38.000Z"
   },
+  "recRFuKGP2zlHup3A": {
+    "id": "recRFuKGP2zlHup3A",
+    "adresse": "6 rue Molac, 44000 Nantes\n",
+    "type": [
+      "recrpFA9KQQobRh6X"
+    ],
+    "maitre_oeuvre": [
+      "rec5Hv3G4xYoddlcE"
+    ],
+    "maitre_ouvrage": [
+      "recXT4TItsP1IuLWU"
+    ],
+    "status": "Publié",
+    "présentation": "Dans le centre-ville de Nantes, la maison\nexistante sur deux étages est de la fin\ndu XIXème siècle mais sans grand intérêt\narchitectural. En alignement sur la rue qu’elle\ndomine, elle est de plain-pied sur un jardin\npaysagé à l’arrière dont elle ne profite pas.\nSes particularités sont la base de la\nconception de l’extension :\n\\- Discontinuité et multiplicité de\nniveaux : au niveau de la rue et encaissé par\nrapport au jardin, un garage en mitoyenneté\net en rez-de-chaussée crée une discontinuité\ndans l’épannelage et l’alignement urbain.\n\\- Volumétrie et fragmentation : Au\nniveau du jardin, le volume à une pente de\nla cuisine se greffe en appentis sur la maison\nexistante peu profonde.\nLe projet d’extension :\nLe par ti-pris du projet est l’enroulement.\nL’extension à rez-de-chaussée sur jardin\nvient s’aligner sur la cuisine en appentis en\ndoublant l’épaisseur de la maison existante,\nse retourne sur le garage puis s’élève côté rue\npour recoudre l’épannelage, aller chercher le\nsoleil et se protéger des vis à vis.\nLa réalisation de l’extension en structure bois\npréfabriquée prend son sens dans l’étroitesse\nde la rue de centre-ville, dans la complexité\nvolumétrique du projet et dans la volonté de\nconstruire durable et biosourcé.\nLa dichotomie entre rue étroite et jardin\nluxuriant et entre existant sévère et neuf en\nmouvement s’affirme dans le traitement des\nfaçades. La maison existante est seulement\npeinte alors que l’extension, immergée dans\nle jardin, reçoit un bardage en fascines de\nchâtaignier non écorcées lui donnant un\nesprit végétal.\nEn plan, à la multiplicité des volumes et des\nniveaux existants répond une multiplicité\nde niveaux en extension afin d’adoucir\nle passage de l’un à l’autre et d’offrir une\npluralité de points de vue et d’ouver tures\nvers l’extérieur.\nTexte de Catherine Malleret.\n",
+    "nom": "Maison MB",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.225484,-1.560287",
+    "département": "44 Loire-Atlantique",
+    "date": "XIXème siècle / 2018",
+    "dernière modification": "2021-09-30T13:28:05.000Z",
+    "cover_media": [
+      "recyprUwCGW4mOuSA"
+    ],
+    "médias": [
+      "recidnY0zHa7KYsc0",
+      "recYWBvYrV83gjwGi"
+    ],
+    "sélections": [
+      "recKLeXsRwBMLlMUR",
+      "recy2MjKNYdzWUD4A"
+    ]
+  },
   "recRlloApjtcScitR": {
     "id": "recRlloApjtcScitR",
+    "sélections": [
+      "recKLeXsRwBMLlMUR",
+      "recy2MjKNYdzWUD4A"
+    ],
     "type": [
       "recNke3kjEMK03uS4"
     ],
@@ -465,7 +503,7 @@
       "recTi1UryVHsdCMWP",
       "recgpuQRm4fkqYmhF"
     ],
-    "dernière modification": "2021-09-29T06:40:50.000Z"
+    "dernière modification": "2021-09-30T13:27:46.000Z"
   },
   "recTr9BzAt1jG9yaJ": {
     "id": "recTr9BzAt1jG9yaJ",
@@ -561,7 +599,14 @@
     "geolocalisation": "47.159383,-1.553366",
     "département": "44 Loire-Atlantique",
     "date": "2019",
-    "dernière modification": "2021-09-29T06:41:09.000Z"
+    "dernière modification": "2021-09-30T13:28:24.000Z",
+    "médias": [
+      "rec4FazOIJEyakelL"
+    ],
+    "sélections": [
+      "recBb6NHdfNisYSjI",
+      "recKLeXsRwBMLlMUR"
+    ]
   },
   "recXNuzkB4wj0g0H4": {
     "id": "recXNuzkB4wj0g0H4",
@@ -593,6 +638,10 @@
   "recXrmOzavWvTwx9T": {
     "id": "recXrmOzavWvTwx9T",
     "adresse": "16 boulevard de berlin 4000 nantes\n",
+    "sélections": [
+      "recBb6NHdfNisYSjI",
+      "recKLeXsRwBMLlMUR"
+    ],
     "type": [
       "recutlOJwb5QQKd5c",
       "recmAxAQJjnH2ft4h",
@@ -622,7 +671,7 @@
       "rec08aeXrbCpBd1e9",
       "recuNktTmZtpBugOG"
     ],
-    "dernière modification": "2021-09-29T12:25:28.000Z"
+    "dernière modification": "2021-09-30T13:27:49.000Z"
   },
   "recY5jgLHC0792Lr0": {
     "id": "recY5jgLHC0792Lr0",
@@ -680,6 +729,10 @@
   "recahyhau12Ghaztg": {
     "id": "recahyhau12Ghaztg",
     "adresse": "Impasse Audran, 44000 Nantes\n",
+    "sélections": [
+      "recBb6NHdfNisYSjI",
+      "recy2MjKNYdzWUD4A"
+    ],
     "type": [
       "recYSw9aAndSU9UZ7",
       "recjX9ygJ9VA81LG6"
@@ -708,7 +761,7 @@
       "recBKSSgfhS6nSZ5z",
       "rec6wMJAx7ZiOhcle"
     ],
-    "dernière modification": "2021-09-29T12:28:45.000Z"
+    "dernière modification": "2021-09-30T13:27:51.000Z"
   },
   "recdqD43kpp1pOv3x": {
     "id": "recdqD43kpp1pOv3x",
@@ -896,6 +949,9 @@
     "date": "2011",
     "dernière modification": "2021-09-30T07:38:59.000Z"
   },
+  "recpN2hW8eG6SnkLe": {
+    "id": "recpN2hW8eG6SnkLe"
+  },
   "recq85i5LBfpWsp9R": {
     "id": "recq85i5LBfpWsp9R",
     "adresse": "3 chemin du pressoir, 72119 Domfront-en-Champagne\n",
@@ -948,6 +1004,45 @@
     "département": "53 Mayenne",
     "date": "2016",
     "dernière modification": "2021-09-27T16:13:00.000Z"
+  },
+  "recu65igj5DHRpC30": {
+    "id": "recu65igj5DHRpC30",
+    "adresse": "Rue des Pierres Blanches, 44640 Saint-Jean-de-Boiseau\n",
+    "type": [
+      "recKP6wfnZHFsOOtJ",
+      "recafJDVUkElwmi2Y"
+    ],
+    "maitre_oeuvre": [
+      "recAzaWtKKkvowDI3"
+    ],
+    "maitre_ouvrage": [
+      "rechhS8irFNqoOKVH"
+    ],
+    "status": "Publié",
+    "présentation": "Une intégration paysagère douce qui accompagne le développement de la commune.\nNi au centre de la commune, ni véritablement en périphérie au regard de l’extension urbaine en cours au nord de la rue des pierres blanches, la situation du projet d’espace festif et culturel offre l’opportunité de conforter le développement de la ville par l’affirmation du caractère public des aménagements et des équipements.\nLa contemporanéité d’une écriture architecturale sobre et événementielle.\nAu delà de la nouvelle offre publique offerte par la nouvelle salle, sa forme et sa volumétrie doivent offrir une insertion douce dans son environnement tout en proposant une identité au caractère événementiel affirmé.\nL’usage de matériaux bruts et durables (terre cuite, béton, bois) permet de réduire au maximum les coûts d’entretien et de maintenance mais s’intègrent surtout comme outil de proposition d’une architecture contemporaine sobre et intemporelle.\nLa qualité de ces matériaux est au centre des ambiances proposées, tant à l’intérieur qu’à l’extérieur et participe pleinement à singulariser le projet et son «atmosphère» : la sobriété des matières nobles utilisées confère aux espaces le caractère solennel que nécessite certains des usages et permet de mettre en avant la qualité des dispositifs spatiaux.\nAinsi les espaces de réception majeurs (salle, hall d’accueil, salle de réunion, salle de musique) profitent de hauteurs sous plafond très importantes ainsi que de cadrages particuliers sur le paysage, en offrant la lecture de grandes porosités et d’espaces extérieurs aux qualité d’usage différenciées. \nCes deux dispositifs, jeux de volumes et de matières, participent pleinement à la proposition d’une hétérogénéité volumétrique cohérente, qui offre dans un volume très compact une lecture géographique des fonctions et des usages.\nTexte extrait du dossier de presse, RAUM\n\nRetrouvez l'article et la plaquette de cette visite sur le **[site web de l'ardepa !](https://www.lardepa.com/genese-2020-1-espace-culturel-des-pierres-blanches/)**\n\nL'Espace culturel des Pierres Blanches a été lauréat dans la catégorie Culture, Jeunesse et Sport lors du prix Équerre d'Argent 2019.\n",
+    "distinctions": [
+      "recp0W1AeapKvzlxk"
+    ],
+    "nom": "Espace culturel des Pierres Blanches",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.1884727571585, -1.7108406692787714",
+    "département": "44 Loire-Atlantique",
+    "date": "2019",
+    "dernière modification": "2021-09-30T13:28:34.000Z",
+    "cover_media": [
+      "rec0bZiqOCsirkfJJ"
+    ],
+    "médias": [
+      "recUO74Vf8JIvjxXU",
+      "rec3mIzOYnShpQiG9",
+      "recViOqaMsCxLG3Q5"
+    ],
+    "sélections": [
+      "recBb6NHdfNisYSjI",
+      "recy2MjKNYdzWUD4A"
+    ]
   },
   "recuIUUMuCMw2rrHn": {
     "id": "recuIUUMuCMw2rrHn",

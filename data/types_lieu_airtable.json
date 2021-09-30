@@ -35,6 +35,14 @@
       "recXIe49AgTTO1AuY"
     ]
   },
+  "recKP6wfnZHFsOOtJ": {
+    "id": "recKP6wfnZHFsOOtJ",
+    "type_destination": "Équipement",
+    "destination": "Salle Polyvalente",
+    "lieux": [
+      "recu65igj5DHRpC30"
+    ]
+  },
   "recKz37RIU8kUf2cu": {
     "id": "recKz37RIU8kUf2cu",
     "type_destination": "Espace public",
@@ -120,8 +128,17 @@
       "recP6LOBOUBRRlLnt"
     ]
   },
+  "recafJDVUkElwmi2Y": {
+    "id": "recafJDVUkElwmi2Y",
+    "type_destination": "Équipement",
+    "destination": "Espace associatif",
+    "lieux": [
+      "recu65igj5DHRpC30"
+    ]
+  },
   "recfGpEUDEbAd40us": {
     "id": "recfGpEUDEbAd40us",
+    "destination": "Réhabilitation",
     "lieux": [
       "recMsOSrCEl9x1F2V",
       "rec72cuqtL80v3RYm",
@@ -129,8 +146,7 @@
       "recmanFMpSvbjFW6r",
       "recAIyOLNUx4kiPXv",
       "recDA3JohqEFwoBED"
-    ],
-    "destination": "Réhabilitation"
+    ]
   },
   "recgBvHbjDyN7yskz": {
     "id": "recgBvHbjDyN7yskz",
@@ -182,7 +198,8 @@
     "lieux": [
       "recTr9BzAt1jG9yaJ",
       "recHVehEvNmwXAJIO",
-      "rechFw6KIHy4PVSUb"
+      "rechFw6KIHy4PVSUb",
+      "recRFuKGP2zlHup3A"
     ]
   },
   "recs5EEjFEqR1pMAv": {

@@ -11,6 +11,7 @@
     },
     {
       "id": "recfGpEUDEbAd40us",
+      "destination": "Réhabilitation",
       "lieux": [
         "recMsOSrCEl9x1F2V",
         "rec72cuqtL80v3RYm",
@@ -18,8 +19,7 @@
         "recmanFMpSvbjFW6r",
         "recAIyOLNUx4kiPXv",
         "recDA3JohqEFwoBED"
-      ],
-      "destination": "Réhabilitation"
+      ]
     }
   ],
   "maitre_oeuvre": [
@@ -93,7 +93,9 @@
         "recelyrNTkM7l50Jd",
         "recL8sEqdH9C2gWvd",
         "recMsOSrCEl9x1F2V",
-        "recP6LOBOUBRRlLnt"
+        "recP6LOBOUBRRlLnt",
+        "recu65igj5DHRpC30",
+        "recRFuKGP2zlHup3A"
       ],
       "nom": "années 2010"
     }
