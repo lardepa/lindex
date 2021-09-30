@@ -37,14 +37,74 @@
     {
       "id": "rec6zwotXGCBOq5C8",
       "maitre_ouvrage": [
-        "recpN2hW8eG6SnkLe"
+        "recpN2hW8eG6SnkLe",
+        "recT5ti90aD2NTdCN"
       ],
       "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique"
+    }
+  ],
+  "parcours": [
+    {
+      "id": "recnSvIT9dWMKZF8x",
+      "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
+      "status": "Publié",
+      "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n",
+      "médias": [
+        "recaTHLX6YXDUfkh2"
+      ],
+      "en une": true,
+      "date": "2019-11-16",
+      "cover_media": [
+        "recikqDR8r22npdW9"
+      ],
+      "sous-titre": "Expédition urbaine 2019#5",
+      "type parcours": "Expédition",
+      "lieux": [
+        "recpN2hW8eG6SnkLe",
+        "recVoRhrrPKCDBNwW",
+        "recT5ti90aD2NTdCN"
+      ]
     }
   ],
   "status": "Publié",
   "présentation": "L’ancien Karting situé à la pointe ouest de l’île de Nantes a été réhabilité par la Samoa pour accueillir une quarantaine d’entreprises créatives. \nCet hôtel d’entreprise créatives est aujourd’hui géré par la Creative Factory, l’agence de développement économique de la Samoa.\nDans la perspective du démarrage du chantier de transformation des halles Alstom, plusieurs sites vacants ont été identifiés par la Samoa pour accueillir des acteurs des industries créatives et culturelles. \nL’objectif : constituer un pôle économique autour du réseau de la Creative Factory et du Quartier de la création. Le Karting accueille aujourd’hui une quarantaine d’entreprises du secteur des industries culturelles et créatives, ce qui représente environ 150 emplois.\nLe Karting accueille 1200 m² réparties en 12 surfaces modulables allant de 12 m² à 96 m², en fonction du besoin des occupants. Le développement durable et le prix de sortie maîtrisé ont été les idées forces du projet.\nLe Karting, un éco-concept pour les startups créatives\nDans sa conception globale, le projet NOW – pour New Office Workshop – s’appuie sur l’idée d’un “design minimal”. Il s’attache à produire un dessin préalable le plus précis possible pour limiter le gâchis et toutes formes d’interventions supplémentaires sur les matériaux.\nL’équipe de conception, particulièrement attentive à la réduction des contraintes économiques et écologiques liées aux transports, a permis que les locaux modulables soient transportables et déplaçables dans leur totalité sur un unique semi-remorque.\nEn parallèle, la construction des bureaux modulaires s’appuie sur la promotion d’un circuit économique “court”, faisant jouer les avantages de la proximité en mettant en activité des acteurs de la région : la filière bois locale à travers Atlanbois et l’exploitation du bois des forêts de la région.\n\n**_Ecossolies, Chapidock, ateliers d’artistes…_**\nA proximité, d’autres sites connaissent des aménagements provisoires profitant d’une période de transition : le site du Solilab accueille Les Ecossolies, qui regroupe des entreprises et associations issues de l’économie sociale et solidaire, l’école du cirque Chapidock sous un chapiteau dans le même secteur, certains hangars du quai des Antilles (propriété du Grand port de Nantes Saint-Nazaire), etc.\n\nTextes : Samoa\n",
   "nom": "Le Karting",
+  "cover_media": {
+    "id": "recVa6K1jeeI7r71h",
+    "fichiers": [
+      {
+        "id": "attbN556OZbSjL7cp",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/2e5166a091d22ba276d0476988415ea0/7cdbb421/karting0.jpg",
+        "filename": "karting 0.jpg",
+        "size": 518670,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/29ff9fda3ce974c59055c924d268c0ef/c97e6d94",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4d340c7af77a799e4bbf087fd9e5d1b0/1daaaa47",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/27eef8097794b343375cbb72e52540e8/b533c2d2",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "karting nantes cover",
+    "credits": "Jean Dominique Billaud / SAMOA",
+    "cover_lieux": [
+      "recpN2hW8eG6SnkLe"
+    ]
+  },
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -92,51 +152,9 @@
   ],
   "département": "44 Loire-Atlantique",
   "date": "2012",
-  "dernière modification": "2021-09-30T14:30:26.000Z",
-  "cover_media": {
-    "id": "recVa6K1jeeI7r71h",
-    "cover_lieux": [
-      "recpN2hW8eG6SnkLe"
-    ],
-    "fichiers": [
-      {
-        "id": "attbN556OZbSjL7cp",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/2e5166a091d22ba276d0476988415ea0/7cdbb421/karting0.jpg",
-        "filename": "karting 0.jpg",
-        "size": 518670,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/29ff9fda3ce974c59055c924d268c0ef/c97e6d94",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4d340c7af77a799e4bbf087fd9e5d1b0/1daaaa47",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/27eef8097794b343375cbb72e52540e8/b533c2d2",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "titre": "karting nantes cover",
-    "credits": "Jean Dominique Billaud / SAMOA"
-  },
   "médias": [
     {
       "id": "receByTmmPjR8MqOe",
-      "lieux": [
-        "recpN2hW8eG6SnkLe"
-      ],
-      "titre": "karting nantes photos",
-      "credits": "Jean Dominique Billaud / SAMOA",
       "fichiers": [
         {
           "id": "attgpXg3lorHlODqu",
@@ -242,29 +260,13 @@
             }
           }
         }
-      ]
+      ],
+      "lieux": [
+        "recpN2hW8eG6SnkLe"
+      ],
+      "titre": "karting nantes photos",
+      "credits": "Jean Dominique Billaud / SAMOA"
     }
   ],
-  "parcours": [
-    {
-      "id": "recnSvIT9dWMKZF8x",
-      "lieux": [
-        "recpN2hW8eG6SnkLe",
-        "recVoRhrrPKCDBNwW"
-      ],
-      "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
-      "type parcours": "Expédition",
-      "status": "Publié",
-      "date": "2019-11-16",
-      "sous-titre": "Expédition urbaine 2019#5",
-      "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n",
-      "cover_media": [
-        "recikqDR8r22npdW9"
-      ],
-      "médias": [
-        "recaTHLX6YXDUfkh2"
-      ],
-      "en une": true
-    }
-  ]
+  "dernière modification": "2021-09-30T14:30:26.000Z"
 }

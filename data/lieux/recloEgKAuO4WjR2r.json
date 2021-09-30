@@ -5,11 +5,20 @@
     {
       "id": "recU0DF0Isnpt8rJ1",
       "type_destination": "Équipement",
-      "destination": "Centre culturel et/ou scientifique",
+      "destination": "Culture",
       "lieux": [
         "recq85i5LBfpWsp9R",
-        "recloEgKAuO4WjR2r"
+        "recloEgKAuO4WjR2r",
+        "recT5ti90aD2NTdCN"
       ]
+    },
+    {
+      "id": "recOWK3c1cbm06Vqy",
+      "lieux": [
+        "recloEgKAuO4WjR2r"
+      ],
+      "destination": "Sciences",
+      "type_destination": "Équipement"
     }
   ],
   "maitre_oeuvre": [
@@ -98,5 +107,5 @@
   ],
   "département": "85 Vendée",
   "date": "2014",
-  "dernière modification": "2021-09-29T15:43:25.000Z"
+  "dernière modification": "2021-09-30T15:52:12.000Z"
 }

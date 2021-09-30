@@ -554,43 +554,7 @@
     ],
     "département": "53 Mayenne",
     "date": "2017",
-    "dernière modification": "2021-09-30T14:48:05.000Z",
-    "médias": [
-      {
-        "id": "recTU11OnaAoIpkWK",
-        "lieux": [
-          "recBxhZLsWO1HSu4R"
-        ],
-        "fichiers": [
-          {
-            "id": "attCO6aXp1tUktnhR",
-            "width": 3120,
-            "height": 4160,
-            "url": "https://dl.airtable.com/.attachments/7d548f9a14b1b5d88e28b590c88d2d56/57227f5a/IMG_20170915_124747.jpg",
-            "filename": "IMG_20170915_124747.jpg",
-            "size": 2803169,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/ef0493159aa30af4a24b68b1605075a1/5bda5e92",
-                "width": 27,
-                "height": 36
-              },
-              "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/f723bf1116ff9f068b4b08a8134caa1a/da5f5296",
-                "width": 512,
-                "height": 683
-              },
-              "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/3baf53e4ba631267865648c8fdc04b92/26325130",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ]
-      }
-    ]
+    "dernière modification": "2021-09-30T15:46:40.000Z"
   },
   {
     "id": "recDA3JohqEFwoBED",
@@ -1487,10 +1451,11 @@
           "recRFuKGP2zlHup3A",
           "recXIe49AgTTO1AuY"
         ],
+        "status": "Publié",
         "introduction": "On a fait appel à Perso 2 parceque :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
         "en une": true,
         "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\ncommodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-        "dernière modification": "2021-09-30T14:58:39.000Z"
+        "dernière modification": "2021-09-30T15:11:29.000Z"
       },
       {
         "id": "recy2MjKNYdzWUD4A",
@@ -1504,10 +1469,11 @@
           "recRFuKGP2zlHup3A",
           "recu65igj5DHRpC30"
         ],
+        "status": "Publié",
         "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
         "en une": true,
         "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-        "dernière modification": "2021-09-30T14:58:28.000Z"
+        "dernière modification": "2021-09-30T15:11:31.000Z"
       }
     ],
     "type": [
@@ -1873,10 +1839,11 @@
           "recRFuKGP2zlHup3A",
           "recXIe49AgTTO1AuY"
         ],
+        "status": "Publié",
         "introduction": "On a fait appel à Perso 2 parceque :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
         "en une": true,
         "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\ncommodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-        "dernière modification": "2021-09-30T14:58:39.000Z"
+        "dernière modification": "2021-09-30T15:11:29.000Z"
       },
       {
         "id": "recy2MjKNYdzWUD4A",
@@ -1890,10 +1857,11 @@
           "recRFuKGP2zlHup3A",
           "recu65igj5DHRpC30"
         ],
+        "status": "Publié",
         "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
         "en une": true,
         "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-        "dernière modification": "2021-09-30T14:58:28.000Z"
+        "dernière modification": "2021-09-30T15:11:31.000Z"
       }
     ],
     "type": [
@@ -1982,7 +1950,8 @@
           "recTr9BzAt1jG9yaJ",
           "recRlloApjtcScitR",
           "recXrmOzavWvTwx9T",
-          "recahyhau12Ghaztg"
+          "recahyhau12Ghaztg",
+          "recT5ti90aD2NTdCN"
         ],
         "nom": "années 2020"
       }
@@ -2068,6 +2037,310 @@
       }
     ],
     "dernière modification": "2021-09-30T13:27:46.000Z"
+  },
+  {
+    "id": "recT5ti90aD2NTdCN",
+    "nom": "Labo Diva",
+    "dernière modification": "2021-09-30T15:59:03.000Z",
+    "présentation": "L’ancien magasin de matériel de cuisine doit être transformé en espace d’exposition et de communication ouvert au public. \nLa rénovation doit mettre le bâtiment aux normes avec ses nouveaux usages.\nUn travail en équipe avec les scénographes et l’exploitant du restaurant doit permettre de donner une nouvelle identité à ce lieu atypique et idéalement situé au coeur de la rénovation urbaine de l’île de Nantes.\n_Texte : 0101 Architectes_\n",
+    "adresse": "51 Bd Gustave Roch, 44200 Nantes\n",
+    "département": "44 Loire-Atlantique",
+    "geolocalisation": [
+      47.201941,
+      -1.553842
+    ],
+    "type": [
+      {
+        "id": "reccvYGuIVsYicPss",
+        "type_destination": "Équipement",
+        "destination": "Urbanisme transitoire",
+        "lieux": [
+          "recVoRhrrPKCDBNwW",
+          "recT5ti90aD2NTdCN"
+        ]
+      },
+      {
+        "id": "recvYQkJNzMNb10UF",
+        "type_destination": "Équipement",
+        "destination": "Restauration",
+        "lieux": [
+          "recLVrdGzklj7mmLE",
+          "recT5ti90aD2NTdCN"
+        ]
+      },
+      {
+        "id": "recU0DF0Isnpt8rJ1",
+        "type_destination": "Équipement",
+        "destination": "Culture",
+        "lieux": [
+          "recq85i5LBfpWsp9R",
+          "recloEgKAuO4WjR2r",
+          "recT5ti90aD2NTdCN"
+        ]
+      }
+    ],
+    "date": "2021",
+    "périodes": [
+      {
+        "id": "recrOfcUS3a0toY0i",
+        "lieux": [
+          "recTr9BzAt1jG9yaJ",
+          "recRlloApjtcScitR",
+          "recXrmOzavWvTwx9T",
+          "recahyhau12Ghaztg",
+          "recT5ti90aD2NTdCN"
+        ],
+        "nom": "années 2020"
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "rec11l6RyBToGd7kz",
+        "maitre_oeuvre": [
+          "recT5ti90aD2NTdCN"
+        ],
+        "nom": "0101 Architectes",
+        "site_web": "https://0101.archi/"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "rec6zwotXGCBOq5C8",
+        "maitre_ouvrage": [
+          "recpN2hW8eG6SnkLe",
+          "recT5ti90aD2NTdCN"
+        ],
+        "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique"
+      }
+    ],
+    "status": "Publié",
+    "cover_media": {
+      "id": "recdeHjCwMxrdDcAk",
+      "cover_lieux": [
+        "recT5ti90aD2NTdCN"
+      ],
+      "titre": "labo diva cover",
+      "fichiers": [
+        {
+          "id": "attcdMBMIWzB0vsOX",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/29583ce1c5cf633d6f1d01fdb637a5d0/6da34b44/labodiva0.jpg",
+          "filename": "labo diva 0.jpg",
+          "size": 330945,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1cca84b939f15d75927110cf4f045583/dce8b2c7",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1c9f7bdc8a3265b3b848b8bd2b0261cc/36aefb8a",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d830efdd2a10426184abcca7bc6bd4f0/719310c3",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "0101 Architectes"
+    },
+    "médias": [
+      {
+        "id": "rec09sEvadCPUSVlq",
+        "lieux": [
+          "recT5ti90aD2NTdCN"
+        ],
+        "titre": "labo diva photos",
+        "fichiers": [
+          {
+            "id": "attbigSwuzt3BfMsO",
+            "width": 1200,
+            "height": 800,
+            "url": "https://dl.airtable.com/.attachments/f1491c2f68cfdbe10340b2d4e39b9ee8/4009e569/labodiva0101-1.jpg",
+            "filename": "labo diva 0101 - 1.jpg",
+            "size": 306678,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8078c3b2ab43eccfb05ce931fe630e1d/6a37a882",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ce3ec07b279c16c97073876766aae99d/44db720f",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e4f293d76716f54126aa51709f10a00d/442dd48d",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attOZBFbXlKRvASen",
+            "width": 1200,
+            "height": 800,
+            "url": "https://dl.airtable.com/.attachments/184d75f21cae1816de661a1f6b50d729/66721dc7/labodiva0101-2.jpg",
+            "filename": "labo diva 0101 - 2.jpg",
+            "size": 305214,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/75da121c65ee1abd6dee640d0bb6b685/cd5859bc",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6a5b1c013de936cecab0e165a1ca477e/be45547e",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c0130dc91150002cc9e3d5c3d207816e/c068ac58",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attGDFEIGmFuisGBd",
+            "width": 1200,
+            "height": 800,
+            "url": "https://dl.airtable.com/.attachments/c8e4f24ef8251ec9605e421719860dbb/0c2e0ca9/labodiva0101-3.jpg",
+            "filename": "labo diva 0101 - 3.jpg",
+            "size": 339439,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4139c2202f3408964a33748436d5e61c/3cb66738",
+                "width": 54,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/49df25962a3a4c045988946a9458de1c/d0aa54cb",
+                "width": 768,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/07e6bde7086197723d8b6c34c299e20a/c85d0451",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "att9ZauFD8bT0WJj6",
+            "width": 2480,
+            "height": 741,
+            "url": "https://dl.airtable.com/.attachments/697af1ddb7181ea88dac0c0c130323f4/f48e389f/labodiva0101-4.jpg",
+            "filename": "labo diva 0101 - 4.jpg",
+            "size": 232596,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/43c255282a65c2f169a538ef240400fa/69d72601",
+                "width": 120,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d0572dfded6f22bd987e8b33e2b14a9d/c0eb96c1",
+                "width": 1714,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a25647fc3dd4f2e422099379d1767b9d/4347b535",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attc7K2BEqRrStmOX",
+            "width": 2480,
+            "height": 1529,
+            "url": "https://dl.airtable.com/.attachments/b86dcb36952f799180ab473584f6153f/f5ef5d9c/labodiva0101-5.jpg",
+            "filename": "labo diva 0101 - 5.jpg",
+            "size": 453665,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fb1f71a3bdd7a0b9640e043046a47196/2eba3140",
+                "width": 58,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4ca0d514d191da8165d74d81da63755d/b6704771",
+                "width": 830,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8f1d59b0b125424baaa6f10224283ec6/32961b04",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attSjKgF7B7a4lVaF",
+            "width": 2480,
+            "height": 741,
+            "url": "https://dl.airtable.com/.attachments/ec6be8cf80a5c5340d49362afcdb8c7d/70480a96/labodiva0101-6.jpg",
+            "filename": "labo diva 0101 - 6.jpg",
+            "size": 222706,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/575c61999e1bdff30f6b0b4d8030d1be/5711da15",
+                "width": 120,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a1272422800418b81980b023125f2512/b78a9df8",
+                "width": 1714,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/31b430c78cdfbf92081a7faf98312a4d/885fc33b",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "credits": "0101 Architectes"
+      }
+    ],
+    "parcours": [
+      {
+        "id": "recnSvIT9dWMKZF8x",
+        "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
+        "status": "Publié",
+        "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n",
+        "médias": [
+          "recaTHLX6YXDUfkh2"
+        ],
+        "en une": true,
+        "date": "2019-11-16",
+        "cover_media": [
+          "recikqDR8r22npdW9"
+        ],
+        "sous-titre": "Expédition urbaine 2019#5",
+        "type parcours": "Expédition",
+        "lieux": [
+          "recpN2hW8eG6SnkLe",
+          "recVoRhrrPKCDBNwW",
+          "recT5ti90aD2NTdCN"
+        ]
+      }
+    ]
   },
   {
     "id": "recTr9BzAt1jG9yaJ",
@@ -2199,7 +2472,8 @@
           "recTr9BzAt1jG9yaJ",
           "recRlloApjtcScitR",
           "recXrmOzavWvTwx9T",
-          "recahyhau12Ghaztg"
+          "recahyhau12Ghaztg",
+          "recT5ti90aD2NTdCN"
         ],
         "nom": "années 2020"
       }
@@ -2381,35 +2655,39 @@
         "type_destination": "Équipement",
         "destination": "Urbanisme transitoire",
         "lieux": [
-          "recVoRhrrPKCDBNwW"
+          "recVoRhrrPKCDBNwW",
+          "recT5ti90aD2NTdCN"
+        ]
+      }
+    ],
+    "parcours": [
+      {
+        "id": "recnSvIT9dWMKZF8x",
+        "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
+        "status": "Publié",
+        "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n",
+        "médias": [
+          "recaTHLX6YXDUfkh2"
+        ],
+        "en une": true,
+        "date": "2019-11-16",
+        "cover_media": [
+          "recikqDR8r22npdW9"
+        ],
+        "sous-titre": "Expédition urbaine 2019#5",
+        "type parcours": "Expédition",
+        "lieux": [
+          "recpN2hW8eG6SnkLe",
+          "recVoRhrrPKCDBNwW",
+          "recT5ti90aD2NTdCN"
         ]
       }
     ],
     "status": "Publié",
     "présentation": "Ce bunker est un vestige de la Seconde Guerre mondiale dont la construction a été mise en chantier après les premiers bombardements de 1941 sur la ville ou ceux des 16 et 23 septembre 1943, qui marquent une intensification et une généralisation des destructions sur la ville. \nLe nom de « DY10 » sont les références cadastrales du terrain sur lequel il a été construit, et qui appartenait en partie au diocèse de Nantes (l’autre partie dépendait d’une propriété privée).\nL’ouvrage, composée de deux parties jumelles divisées en plusieurs pièces, sert à abriter les troupes allemandes et les ouvriers travaillant sur les Chantiers Dubigeon tout proches.\n\nDans les années 1950 et 1960, les marches d’accès au blockhaus deviennent un lieu de rassemblement du mouvement ouvrier.\nEn 1996, il fut occupé, en toute illégalité, par un collectif d’élèves de l’école d’architecture, qui le firent connaître pour son implication dans la vie culturelle alternative nantaise.\nLe groupe de punk-hardcore Die Hölle y a enregistré son premier album le 11 septembre 2005.\nDes concerts y étaient ponctuellement organisés.\n",
     "nom": "DY10",
-    "périodes": [
-      {
-        "id": "rec49ra2Jb8NhV3cl",
-        "lieux": [
-          "recVoRhrrPKCDBNwW"
-        ],
-        "nom": "années 90"
-      }
-    ],
-    "geolocalisation": [
-      47.206824,
-      -1.5644
-    ],
-    "département": "44 Loire-Atlantique",
-    "date": "1993",
-    "dernière modification": "2021-09-30T14:32:58.000Z",
     "cover_media": {
       "id": "rec9afvuhJDhSDt0e",
-      "cover_lieux": [
-        "recVoRhrrPKCDBNwW"
-      ],
-      "titre": "DY10 cover",
       "fichiers": [
         {
           "id": "atttehrZnOqKc9QKC",
@@ -2438,16 +2716,30 @@
           }
         }
       ],
-      "credits": "Ardepa"
+      "titre": "DY10 cover",
+      "credits": "Ardepa",
+      "cover_lieux": [
+        "recVoRhrrPKCDBNwW"
+      ]
     },
-    "médias": [
+    "périodes": [
       {
-        "id": "recgkJCaf3IklFdpO",
+        "id": "rec49ra2Jb8NhV3cl",
         "lieux": [
           "recVoRhrrPKCDBNwW"
         ],
-        "titre": "DY10 photos",
-        "credits": "Association DY10",
+        "nom": "années 90"
+      }
+    ],
+    "geolocalisation": [
+      47.206824,
+      -1.5644
+    ],
+    "département": "44 Loire-Atlantique",
+    "date": "1993",
+    "médias": [
+      {
+        "id": "recgkJCaf3IklFdpO",
         "fichiers": [
           {
             "id": "attBMJEgIBZRXu0rT",
@@ -2527,31 +2819,15 @@
               }
             }
           }
-        ]
-      }
-    ],
-    "parcours": [
-      {
-        "id": "recnSvIT9dWMKZF8x",
+        ],
         "lieux": [
-          "recpN2hW8eG6SnkLe",
           "recVoRhrrPKCDBNwW"
         ],
-        "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
-        "type parcours": "Expédition",
-        "status": "Publié",
-        "date": "2019-11-16",
-        "sous-titre": "Expédition urbaine 2019#5",
-        "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n",
-        "cover_media": [
-          "recikqDR8r22npdW9"
-        ],
-        "médias": [
-          "recaTHLX6YXDUfkh2"
-        ],
-        "en une": true
+        "titre": "DY10 photos",
+        "credits": "Association DY10"
       }
-    ]
+    ],
+    "dernière modification": "2021-09-30T14:32:58.000Z"
   },
   {
     "id": "recX0Kj4p2adp8f8U",
@@ -2669,10 +2945,11 @@
           "recXIe49AgTTO1AuY",
           "recu65igj5DHRpC30"
         ],
+        "status": "Publié",
         "introduction": "Perso 1 est un célèbre TEXTE texte texte texte texte v TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte",
         "en une": true,
         "édito": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam \n",
-        "dernière modification": "2021-09-30T14:58:45.000Z"
+        "dernière modification": "2021-09-30T15:11:28.000Z"
       },
       {
         "id": "recKLeXsRwBMLlMUR",
@@ -2686,10 +2963,11 @@
           "recRFuKGP2zlHup3A",
           "recXIe49AgTTO1AuY"
         ],
+        "status": "Publié",
         "introduction": "On a fait appel à Perso 2 parceque :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
         "en une": true,
         "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\ncommodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-        "dernière modification": "2021-09-30T14:58:39.000Z"
+        "dernière modification": "2021-09-30T15:11:29.000Z"
       }
     ],
     "type": [
@@ -3012,10 +3290,11 @@
           "recXIe49AgTTO1AuY",
           "recu65igj5DHRpC30"
         ],
+        "status": "Publié",
         "introduction": "Perso 1 est un célèbre TEXTE texte texte texte texte v TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte",
         "en une": true,
         "édito": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam \n",
-        "dernière modification": "2021-09-30T14:58:45.000Z"
+        "dernière modification": "2021-09-30T15:11:28.000Z"
       },
       {
         "id": "recKLeXsRwBMLlMUR",
@@ -3029,10 +3308,11 @@
           "recRFuKGP2zlHup3A",
           "recXIe49AgTTO1AuY"
         ],
+        "status": "Publié",
         "introduction": "On a fait appel à Perso 2 parceque :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
         "en une": true,
         "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\ncommodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-        "dernière modification": "2021-09-30T14:58:39.000Z"
+        "dernière modification": "2021-09-30T15:11:29.000Z"
       }
     ],
     "type": [
@@ -3144,7 +3424,8 @@
           "recTr9BzAt1jG9yaJ",
           "recRlloApjtcScitR",
           "recXrmOzavWvTwx9T",
-          "recahyhau12Ghaztg"
+          "recahyhau12Ghaztg",
+          "recT5ti90aD2NTdCN"
         ],
         "nom": "années 2020"
       }
@@ -3462,10 +3743,11 @@
           "recXIe49AgTTO1AuY",
           "recu65igj5DHRpC30"
         ],
+        "status": "Publié",
         "introduction": "Perso 1 est un célèbre TEXTE texte texte texte texte v TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte",
         "en une": true,
         "édito": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam \n",
-        "dernière modification": "2021-09-30T14:58:45.000Z"
+        "dernière modification": "2021-09-30T15:11:28.000Z"
       },
       {
         "id": "recy2MjKNYdzWUD4A",
@@ -3479,10 +3761,11 @@
           "recRFuKGP2zlHup3A",
           "recu65igj5DHRpC30"
         ],
+        "status": "Publié",
         "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
         "en une": true,
         "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-        "dernière modification": "2021-09-30T14:58:28.000Z"
+        "dernière modification": "2021-09-30T15:11:31.000Z"
       }
     ],
     "type": [
@@ -3585,7 +3868,8 @@
           "recTr9BzAt1jG9yaJ",
           "recRlloApjtcScitR",
           "recXrmOzavWvTwx9T",
-          "recahyhau12Ghaztg"
+          "recahyhau12Ghaztg",
+          "recT5ti90aD2NTdCN"
         ],
         "nom": "années 2020"
       }
@@ -4133,11 +4417,20 @@
       {
         "id": "recU0DF0Isnpt8rJ1",
         "type_destination": "Équipement",
-        "destination": "Centre culturel et/ou scientifique",
+        "destination": "Culture",
         "lieux": [
           "recq85i5LBfpWsp9R",
-          "recloEgKAuO4WjR2r"
+          "recloEgKAuO4WjR2r",
+          "recT5ti90aD2NTdCN"
         ]
+      },
+      {
+        "id": "recOWK3c1cbm06Vqy",
+        "lieux": [
+          "recloEgKAuO4WjR2r"
+        ],
+        "destination": "Sciences",
+        "type_destination": "Équipement"
       }
     ],
     "maitre_oeuvre": [
@@ -4226,7 +4519,7 @@
     ],
     "département": "85 Vendée",
     "date": "2014",
-    "dernière modification": "2021-09-29T15:43:25.000Z"
+    "dernière modification": "2021-09-30T15:52:12.000Z"
   },
   {
     "id": "recmanFMpSvbjFW6r",
@@ -4383,14 +4676,74 @@
       {
         "id": "rec6zwotXGCBOq5C8",
         "maitre_ouvrage": [
-          "recpN2hW8eG6SnkLe"
+          "recpN2hW8eG6SnkLe",
+          "recT5ti90aD2NTdCN"
         ],
         "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique"
+      }
+    ],
+    "parcours": [
+      {
+        "id": "recnSvIT9dWMKZF8x",
+        "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
+        "status": "Publié",
+        "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n",
+        "médias": [
+          "recaTHLX6YXDUfkh2"
+        ],
+        "en une": true,
+        "date": "2019-11-16",
+        "cover_media": [
+          "recikqDR8r22npdW9"
+        ],
+        "sous-titre": "Expédition urbaine 2019#5",
+        "type parcours": "Expédition",
+        "lieux": [
+          "recpN2hW8eG6SnkLe",
+          "recVoRhrrPKCDBNwW",
+          "recT5ti90aD2NTdCN"
+        ]
       }
     ],
     "status": "Publié",
     "présentation": "L’ancien Karting situé à la pointe ouest de l’île de Nantes a été réhabilité par la Samoa pour accueillir une quarantaine d’entreprises créatives. \nCet hôtel d’entreprise créatives est aujourd’hui géré par la Creative Factory, l’agence de développement économique de la Samoa.\nDans la perspective du démarrage du chantier de transformation des halles Alstom, plusieurs sites vacants ont été identifiés par la Samoa pour accueillir des acteurs des industries créatives et culturelles. \nL’objectif : constituer un pôle économique autour du réseau de la Creative Factory et du Quartier de la création. Le Karting accueille aujourd’hui une quarantaine d’entreprises du secteur des industries culturelles et créatives, ce qui représente environ 150 emplois.\nLe Karting accueille 1200 m² réparties en 12 surfaces modulables allant de 12 m² à 96 m², en fonction du besoin des occupants. Le développement durable et le prix de sortie maîtrisé ont été les idées forces du projet.\nLe Karting, un éco-concept pour les startups créatives\nDans sa conception globale, le projet NOW – pour New Office Workshop – s’appuie sur l’idée d’un “design minimal”. Il s’attache à produire un dessin préalable le plus précis possible pour limiter le gâchis et toutes formes d’interventions supplémentaires sur les matériaux.\nL’équipe de conception, particulièrement attentive à la réduction des contraintes économiques et écologiques liées aux transports, a permis que les locaux modulables soient transportables et déplaçables dans leur totalité sur un unique semi-remorque.\nEn parallèle, la construction des bureaux modulaires s’appuie sur la promotion d’un circuit économique “court”, faisant jouer les avantages de la proximité en mettant en activité des acteurs de la région : la filière bois locale à travers Atlanbois et l’exploitation du bois des forêts de la région.\n\n**_Ecossolies, Chapidock, ateliers d’artistes…_**\nA proximité, d’autres sites connaissent des aménagements provisoires profitant d’une période de transition : le site du Solilab accueille Les Ecossolies, qui regroupe des entreprises et associations issues de l’économie sociale et solidaire, l’école du cirque Chapidock sous un chapiteau dans le même secteur, certains hangars du quai des Antilles (propriété du Grand port de Nantes Saint-Nazaire), etc.\n\nTextes : Samoa\n",
     "nom": "Le Karting",
+    "cover_media": {
+      "id": "recVa6K1jeeI7r71h",
+      "fichiers": [
+        {
+          "id": "attbN556OZbSjL7cp",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/2e5166a091d22ba276d0476988415ea0/7cdbb421/karting0.jpg",
+          "filename": "karting 0.jpg",
+          "size": 518670,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/29ff9fda3ce974c59055c924d268c0ef/c97e6d94",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4d340c7af77a799e4bbf087fd9e5d1b0/1daaaa47",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/27eef8097794b343375cbb72e52540e8/b533c2d2",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "titre": "karting nantes cover",
+      "credits": "Jean Dominique Billaud / SAMOA",
+      "cover_lieux": [
+        "recpN2hW8eG6SnkLe"
+      ]
+    },
     "périodes": [
       {
         "id": "rec0D9TkCH83ItF6j",
@@ -4438,51 +4791,9 @@
     ],
     "département": "44 Loire-Atlantique",
     "date": "2012",
-    "dernière modification": "2021-09-30T14:30:26.000Z",
-    "cover_media": {
-      "id": "recVa6K1jeeI7r71h",
-      "cover_lieux": [
-        "recpN2hW8eG6SnkLe"
-      ],
-      "fichiers": [
-        {
-          "id": "attbN556OZbSjL7cp",
-          "width": 1920,
-          "height": 1080,
-          "url": "https://dl.airtable.com/.attachments/2e5166a091d22ba276d0476988415ea0/7cdbb421/karting0.jpg",
-          "filename": "karting 0.jpg",
-          "size": 518670,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/29ff9fda3ce974c59055c924d268c0ef/c97e6d94",
-              "width": 64,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/4d340c7af77a799e4bbf087fd9e5d1b0/1daaaa47",
-              "width": 910,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/27eef8097794b343375cbb72e52540e8/b533c2d2",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "titre": "karting nantes cover",
-      "credits": "Jean Dominique Billaud / SAMOA"
-    },
     "médias": [
       {
         "id": "receByTmmPjR8MqOe",
-        "lieux": [
-          "recpN2hW8eG6SnkLe"
-        ],
-        "titre": "karting nantes photos",
-        "credits": "Jean Dominique Billaud / SAMOA",
         "fichiers": [
           {
             "id": "attgpXg3lorHlODqu",
@@ -4588,31 +4899,15 @@
               }
             }
           }
-        ]
+        ],
+        "lieux": [
+          "recpN2hW8eG6SnkLe"
+        ],
+        "titre": "karting nantes photos",
+        "credits": "Jean Dominique Billaud / SAMOA"
       }
     ],
-    "parcours": [
-      {
-        "id": "recnSvIT9dWMKZF8x",
-        "lieux": [
-          "recpN2hW8eG6SnkLe",
-          "recVoRhrrPKCDBNwW"
-        ],
-        "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
-        "type parcours": "Expédition",
-        "status": "Publié",
-        "date": "2019-11-16",
-        "sous-titre": "Expédition urbaine 2019#5",
-        "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n",
-        "cover_media": [
-          "recikqDR8r22npdW9"
-        ],
-        "médias": [
-          "recaTHLX6YXDUfkh2"
-        ],
-        "en une": true
-      }
-    ]
+    "dernière modification": "2021-09-30T14:30:26.000Z"
   },
   {
     "id": "recq85i5LBfpWsp9R",
@@ -4621,10 +4916,11 @@
       {
         "id": "recU0DF0Isnpt8rJ1",
         "type_destination": "Équipement",
-        "destination": "Centre culturel et/ou scientifique",
+        "destination": "Culture",
         "lieux": [
           "recq85i5LBfpWsp9R",
-          "recloEgKAuO4WjR2r"
+          "recloEgKAuO4WjR2r",
+          "recT5ti90aD2NTdCN"
         ]
       }
     ],
@@ -4806,10 +5102,11 @@
           "recXIe49AgTTO1AuY",
           "recu65igj5DHRpC30"
         ],
+        "status": "Publié",
         "introduction": "Perso 1 est un célèbre TEXTE texte texte texte texte v TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte",
         "en une": true,
         "édito": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam \n",
-        "dernière modification": "2021-09-30T14:58:45.000Z"
+        "dernière modification": "2021-09-30T15:11:28.000Z"
       },
       {
         "id": "recy2MjKNYdzWUD4A",
@@ -4823,10 +5120,11 @@
           "recRFuKGP2zlHup3A",
           "recu65igj5DHRpC30"
         ],
+        "status": "Publié",
         "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
         "en une": true,
         "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-        "dernière modification": "2021-09-30T14:58:28.000Z"
+        "dernière modification": "2021-09-30T15:11:31.000Z"
       }
     ],
     "type": [

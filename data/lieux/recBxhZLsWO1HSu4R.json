@@ -95,41 +95,5 @@
   ],
   "département": "53 Mayenne",
   "date": "2017",
-  "dernière modification": "2021-09-30T14:48:05.000Z",
-  "médias": [
-    {
-      "id": "recTU11OnaAoIpkWK",
-      "lieux": [
-        "recBxhZLsWO1HSu4R"
-      ],
-      "fichiers": [
-        {
-          "id": "attCO6aXp1tUktnhR",
-          "width": 3120,
-          "height": 4160,
-          "url": "https://dl.airtable.com/.attachments/7d548f9a14b1b5d88e28b590c88d2d56/57227f5a/IMG_20170915_124747.jpg",
-          "filename": "IMG_20170915_124747.jpg",
-          "size": 2803169,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/ef0493159aa30af4a24b68b1605075a1/5bda5e92",
-              "width": 27,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/f723bf1116ff9f068b4b08a8134caa1a/da5f5296",
-              "width": 512,
-              "height": 683
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/3baf53e4ba631267865648c8fdc04b92/26325130",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ]
-    }
-  ]
+  "dernière modification": "2021-09-30T15:46:40.000Z"
 }

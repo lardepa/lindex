@@ -69,6 +69,14 @@
       "recRlloApjtcScitR"
     ]
   },
+  "recOWK3c1cbm06Vqy": {
+    "id": "recOWK3c1cbm06Vqy",
+    "lieux": [
+      "recloEgKAuO4WjR2r"
+    ],
+    "destination": "Sciences",
+    "type_destination": "Équipement"
+  },
   "recQIJ15w7Yc15eNf": {
     "id": "recQIJ15w7Yc15eNf",
     "type_destination": "Équipement",
@@ -81,10 +89,11 @@
   "recU0DF0Isnpt8rJ1": {
     "id": "recU0DF0Isnpt8rJ1",
     "type_destination": "Équipement",
-    "destination": "Centre culturel et/ou scientifique",
+    "destination": "Culture",
     "lieux": [
       "recq85i5LBfpWsp9R",
-      "recloEgKAuO4WjR2r"
+      "recloEgKAuO4WjR2r",
+      "recT5ti90aD2NTdCN"
     ]
   },
   "recVInw9NjTvZ1X63": {
@@ -141,7 +150,8 @@
     "type_destination": "Équipement",
     "destination": "Urbanisme transitoire",
     "lieux": [
-      "recVoRhrrPKCDBNwW"
+      "recVoRhrrPKCDBNwW",
+      "recT5ti90aD2NTdCN"
     ]
   },
   "recfGpEUDEbAd40us": {
@@ -246,7 +256,8 @@
     "type_destination": "Équipement",
     "destination": "Restauration",
     "lieux": [
-      "recLVrdGzklj7mmLE"
+      "recLVrdGzklj7mmLE",
+      "recT5ti90aD2NTdCN"
     ]
   },
   "recwFLzRxncgHgTIt": {
