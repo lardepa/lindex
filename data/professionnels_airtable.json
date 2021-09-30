@@ -54,6 +54,13 @@
     "site_web": "http://www.forma6.net/",
     "nom": "Forma6"
   },
+  "rec6zwotXGCBOq5C8": {
+    "id": "rec6zwotXGCBOq5C8",
+    "maitre_ouvrage": [
+      "recpN2hW8eG6SnkLe"
+    ],
+    "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique"
+  },
   "rec8GtplG9QmCaQAJ": {
     "id": "rec8GtplG9QmCaQAJ",
     "maitre_ouvrage": [
@@ -323,6 +330,14 @@
     "site_web": "https://metropole.nantes.fr/",
     "nom": "Nantes Métropole (44)"
   },
+  "recY1VMNmbKdEqskI": {
+    "id": "recY1VMNmbKdEqskI",
+    "maitre_oeuvre": [
+      "recpN2hW8eG6SnkLe"
+    ],
+    "site_web": "https://www.essentiel.archi/",
+    "nom": "Essentiel Architectes"
+  },
   "recYN1GObPbFyoxvj": {
     "id": "recYN1GObPbFyoxvj",
     "maitre_ouvrage": [
@@ -534,6 +549,14 @@
     ],
     "site_web": "http://www.martial-architecte.com/agence/",
     "nom": "Martial Architecte Urbaniste"
+  },
+  "recsLoAkSoJyc6yCl": {
+    "id": "recsLoAkSoJyc6yCl",
+    "maitre_oeuvre": [
+      "recpN2hW8eG6SnkLe"
+    ],
+    "site_web": "https://oandj.fr/",
+    "nom": "O&J Design & Architecture"
   },
   "rectllGdDxxzxQ7Yn": {
     "id": "rectllGdDxxzxQ7Yn",

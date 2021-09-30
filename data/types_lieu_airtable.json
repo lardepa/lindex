@@ -136,6 +136,14 @@
       "recu65igj5DHRpC30"
     ]
   },
+  "reccvYGuIVsYicPss": {
+    "id": "reccvYGuIVsYicPss",
+    "type_destination": "Équipement",
+    "destination": "Urbanisme transitoire",
+    "lieux": [
+      "recVoRhrrPKCDBNwW"
+    ]
+  },
   "recfGpEUDEbAd40us": {
     "id": "recfGpEUDEbAd40us",
     "destination": "Réhabilitation",
@@ -163,7 +171,9 @@
     "lieux": [
       "recXrmOzavWvTwx9T",
       "rec4neQMuPblp8tuX",
-      "recahyhau12Ghaztg"
+      "recahyhau12Ghaztg",
+      "recpN2hW8eG6SnkLe",
+      "recVoRhrrPKCDBNwW"
     ]
   },
   "recmAxAQJjnH2ft4h": {

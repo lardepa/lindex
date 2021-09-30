@@ -156,7 +156,10 @@
     "geolocalisation": "48.457773,-0.205491",
     "département": "53 Mayenne",
     "date": "2017",
-    "dernière modification": "2021-09-30T07:30:56.000Z"
+    "dernière modification": "2021-09-30T14:48:05.000Z",
+    "médias": [
+      "recTU11OnaAoIpkWK"
+    ]
   },
   "recDA3JohqEFwoBED": {
     "id": "recDA3JohqEFwoBED",
@@ -546,6 +549,33 @@
       "recF5As2SEQr2DHuF"
     ],
     "dernière modification": "2021-09-29T06:37:31.000Z"
+  },
+  "recVoRhrrPKCDBNwW": {
+    "id": "recVoRhrrPKCDBNwW",
+    "adresse": "5bis Boulevard Léon Bureau, 44200 Nantes\n",
+    "type": [
+      "recjX9ygJ9VA81LG6",
+      "reccvYGuIVsYicPss"
+    ],
+    "status": "Publié",
+    "présentation": "Ce bunker est un vestige de la Seconde Guerre mondiale dont la construction a été mise en chantier après les premiers bombardements de 1941 sur la ville ou ceux des 16 et 23 septembre 1943, qui marquent une intensification et une généralisation des destructions sur la ville. \nLe nom de « DY10 » sont les références cadastrales du terrain sur lequel il a été construit, et qui appartenait en partie au diocèse de Nantes (l’autre partie dépendait d’une propriété privée).\nL’ouvrage, composée de deux parties jumelles divisées en plusieurs pièces, sert à abriter les troupes allemandes et les ouvriers travaillant sur les Chantiers Dubigeon tout proches.\n\nDans les années 1950 et 1960, les marches d’accès au blockhaus deviennent un lieu de rassemblement du mouvement ouvrier.\nEn 1996, il fut occupé, en toute illégalité, par un collectif d’élèves de l’école d’architecture, qui le firent connaître pour son implication dans la vie culturelle alternative nantaise.\nLe groupe de punk-hardcore Die Hölle y a enregistré son premier album le 11 septembre 2005.\nDes concerts y étaient ponctuellement organisés.\n",
+    "nom": "DY10",
+    "périodes": [
+      "rec49ra2Jb8NhV3cl"
+    ],
+    "geolocalisation": "47.206824,-1.5644",
+    "département": "44 Loire-Atlantique",
+    "date": "1993",
+    "dernière modification": "2021-09-30T14:32:58.000Z",
+    "cover_media": [
+      "rec9afvuhJDhSDt0e"
+    ],
+    "médias": [
+      "recgkJCaf3IklFdpO"
+    ],
+    "parcours": [
+      "recnSvIT9dWMKZF8x"
+    ]
   },
   "recX0Kj4p2adp8f8U": {
     "id": "recX0Kj4p2adp8f8U",
@@ -950,7 +980,37 @@
     "dernière modification": "2021-09-30T07:38:59.000Z"
   },
   "recpN2hW8eG6SnkLe": {
-    "id": "recpN2hW8eG6SnkLe"
+    "id": "recpN2hW8eG6SnkLe",
+    "adresse": "6 Rue St Domingue, 44200 Nantes\n",
+    "type": [
+      "recjX9ygJ9VA81LG6"
+    ],
+    "maitre_oeuvre": [
+      "recY1VMNmbKdEqskI",
+      "recsLoAkSoJyc6yCl"
+    ],
+    "maitre_ouvrage": [
+      "rec6zwotXGCBOq5C8"
+    ],
+    "status": "Publié",
+    "présentation": "L’ancien Karting situé à la pointe ouest de l’île de Nantes a été réhabilité par la Samoa pour accueillir une quarantaine d’entreprises créatives. \nCet hôtel d’entreprise créatives est aujourd’hui géré par la Creative Factory, l’agence de développement économique de la Samoa.\nDans la perspective du démarrage du chantier de transformation des halles Alstom, plusieurs sites vacants ont été identifiés par la Samoa pour accueillir des acteurs des industries créatives et culturelles. \nL’objectif : constituer un pôle économique autour du réseau de la Creative Factory et du Quartier de la création. Le Karting accueille aujourd’hui une quarantaine d’entreprises du secteur des industries culturelles et créatives, ce qui représente environ 150 emplois.\nLe Karting accueille 1200 m² réparties en 12 surfaces modulables allant de 12 m² à 96 m², en fonction du besoin des occupants. Le développement durable et le prix de sortie maîtrisé ont été les idées forces du projet.\nLe Karting, un éco-concept pour les startups créatives\nDans sa conception globale, le projet NOW – pour New Office Workshop – s’appuie sur l’idée d’un “design minimal”. Il s’attache à produire un dessin préalable le plus précis possible pour limiter le gâchis et toutes formes d’interventions supplémentaires sur les matériaux.\nL’équipe de conception, particulièrement attentive à la réduction des contraintes économiques et écologiques liées aux transports, a permis que les locaux modulables soient transportables et déplaçables dans leur totalité sur un unique semi-remorque.\nEn parallèle, la construction des bureaux modulaires s’appuie sur la promotion d’un circuit économique “court”, faisant jouer les avantages de la proximité en mettant en activité des acteurs de la région : la filière bois locale à travers Atlanbois et l’exploitation du bois des forêts de la région.\n\n**_Ecossolies, Chapidock, ateliers d’artistes…_**\nA proximité, d’autres sites connaissent des aménagements provisoires profitant d’une période de transition : le site du Solilab accueille Les Ecossolies, qui regroupe des entreprises et associations issues de l’économie sociale et solidaire, l’école du cirque Chapidock sous un chapiteau dans le même secteur, certains hangars du quai des Antilles (propriété du Grand port de Nantes Saint-Nazaire), etc.\n\nTextes : Samoa\n",
+    "nom": "Le Karting",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "geolocalisation": "47.200728,-1.571643",
+    "département": "44 Loire-Atlantique",
+    "date": "2012",
+    "dernière modification": "2021-09-30T14:30:26.000Z",
+    "cover_media": [
+      "recVa6K1jeeI7r71h"
+    ],
+    "médias": [
+      "receByTmmPjR8MqOe"
+    ],
+    "parcours": [
+      "recnSvIT9dWMKZF8x"
+    ]
   },
   "recq85i5LBfpWsp9R": {
     "id": "recq85i5LBfpWsp9R",
@@ -1095,6 +1155,6 @@
     "geolocalisation": "48.07906,-0.780728",
     "département": "53 Mayenne",
     "date": "2018",
-    "dernière modification": "2021-09-27T16:12:19.000Z"
+    "dernière modification": "2021-09-30T14:55:11.000Z"
   }
 }
