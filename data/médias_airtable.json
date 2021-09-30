@@ -833,6 +833,35 @@
     "titre": "Maison MB plans et coupes",
     "credits": "Forma 6"
   },
+  "recaTHLX6YXDUfkh2": {
+    "id": "recaTHLX6YXDUfkh2",
+    "parcours": [
+      "recnSvIT9dWMKZF8x"
+    ],
+    "titre": "expédition urbaine 2019-2 plaquette",
+    "fichiers": [
+      {
+        "id": "att4RHX5nwnPiHkWU",
+        "url": "https://dl.airtable.com/.attachments/7f27868128b15a76e7203461b0ecba43/ee1a8687/plaquetteA5.pdf",
+        "filename": "plaquetteA5.pdf",
+        "size": 3896398,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3c00e5b2ff052643c91ca8282fda4fa8/d13a3966",
+            "width": 26,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c4fe4a1f66a8040ed1bc994ea1649206/9c5319ef",
+            "width": 368,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "credits": "Ardepa"
+  },
   "recb4mJElb1F79mLX": {
     "id": "recb4mJElb1F79mLX",
     "fichiers": [
@@ -1433,6 +1462,42 @@
       "recRFuKGP2zlHup3A"
     ],
     "titre": "Maison MB photos",
+    "credits": "Ardepa"
+  },
+  "recikqDR8r22npdW9": {
+    "id": "recikqDR8r22npdW9",
+    "cover_parcours": [
+      "recnSvIT9dWMKZF8x"
+    ],
+    "titre": "expédition urbaine 2019-2 cover",
+    "fichiers": [
+      {
+        "id": "atthpU41nJNCK9nxN",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/08b6e41fb6a2ff65ea9a00b79ffe14d9/7469e20b/expe2019-5cover.jpg",
+        "filename": "expe 2019-5 cover.jpg",
+        "size": 328596,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/83bb0500e22bf9f8e90136fc03bc6289/f83e4d0d",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/90e433f137937165971357116c78c09e/5062bbfa",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/34062a4da03b5beea01a6427294f7f1c/268c526a",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
     "credits": "Ardepa"
   },
   "recjGz63Hv79VBMPA": {

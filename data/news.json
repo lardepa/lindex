@@ -127,5 +127,47 @@
     },
     "title": "Relier les Impasses",
     "lastModification": "2021-09-30T13:27:51.000Z"
+  },
+  {
+    "id": "recnSvIT9dWMKZF8x",
+    "type": "parcours",
+    "status": "Publié",
+    "cover_media": {
+      "id": "recikqDR8r22npdW9",
+      "cover_parcours": [
+        "recnSvIT9dWMKZF8x"
+      ],
+      "titre": "expédition urbaine 2019-2 cover",
+      "fichiers": [
+        {
+          "id": "atthpU41nJNCK9nxN",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/08b6e41fb6a2ff65ea9a00b79ffe14d9/7469e20b/expe2019-5cover.jpg",
+          "filename": "expe 2019-5 cover.jpg",
+          "size": 328596,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/83bb0500e22bf9f8e90136fc03bc6289/f83e4d0d",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/90e433f137937165971357116c78c09e/5062bbfa",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/34062a4da03b5beea01a6427294f7f1c/268c526a",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Ardepa"
+    },
+    "title": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes"
   }
 ]
