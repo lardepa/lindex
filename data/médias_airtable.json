@@ -81,9 +81,6 @@
   },
   "rec0bZiqOCsirkfJJ": {
     "id": "rec0bZiqOCsirkfJJ",
-    "cover_lieux": [
-      "recu65igj5DHRpC30"
-    ],
     "fichiers": [
       {
         "id": "att5KgPl11prTK9CN",
@@ -113,7 +110,10 @@
       }
     ],
     "titre": "Espace culturel des pierres blanches couv",
-    "credits": "Ardepa"
+    "credits": "Ardepa",
+    "cover_lieux": [
+      "recu65igj5DHRpC30"
+    ]
   },
   "rec18MwuKXo0UlYF2": {
     "id": "rec18MwuKXo0UlYF2",
@@ -145,11 +145,6 @@
   },
   "rec3mIzOYnShpQiG9": {
     "id": "rec3mIzOYnShpQiG9",
-    "lieux": [
-      "recu65igj5DHRpC30"
-    ],
-    "titre": "Espace culturel des pierres blanches - plan",
-    "credits": "RAUM",
     "fichiers": [
       {
         "id": "attMvAqRGDA4VDrtR",
@@ -170,14 +165,15 @@
           }
         }
       }
-    ]
+    ],
+    "lieux": [
+      "recu65igj5DHRpC30"
+    ],
+    "titre": "Espace culturel des pierres blanches - plan",
+    "credits": "RAUM"
   },
   "rec4FazOIJEyakelL": {
     "id": "rec4FazOIJEyakelL",
-    "lieux": [
-      "recXIe49AgTTO1AuY"
-    ],
-    "titre": "MIN photos",
     "fichiers": [
       {
         "id": "attJAdA9Zsvp1Fk9h",
@@ -232,6 +228,10 @@
         }
       }
     ],
+    "lieux": [
+      "recXIe49AgTTO1AuY"
+    ],
+    "titre": "MIN photos",
     "credits": "EGA Architectes"
   },
   "rec6wMJAx7ZiOhcle": {
@@ -387,10 +387,10 @@
         }
       }
     ],
-    "titre": "perso 2",
     "sélections": [
       "recKLeXsRwBMLlMUR"
-    ]
+    ],
+    "titre": "perso 2"
   },
   "recR0CyEHxK24Jg9r": {
     "id": "recR0CyEHxK24Jg9r",
@@ -453,10 +453,10 @@
         }
       }
     ],
-    "titre": "perso 3",
     "sélections": [
       "recy2MjKNYdzWUD4A"
-    ]
+    ],
+    "titre": "perso 3"
   },
   "recTi1UryVHsdCMWP": {
     "id": "recTi1UryVHsdCMWP",
@@ -531,9 +531,6 @@
   },
   "recUO74Vf8JIvjxXU": {
     "id": "recUO74Vf8JIvjxXU",
-    "lieux": [
-      "recu65igj5DHRpC30"
-    ],
     "fichiers": [
       {
         "id": "att3zBcu9jpyvrUOz",
@@ -666,14 +663,14 @@
         }
       }
     ],
+    "lieux": [
+      "recu65igj5DHRpC30"
+    ],
     "titre": "Espace culturel des pierres blanches - photos",
     "credits": "ardepa"
   },
   "recViOqaMsCxLG3Q5": {
     "id": "recViOqaMsCxLG3Q5",
-    "lieux": [
-      "recu65igj5DHRpC30"
-    ],
     "fichiers": [
       {
         "id": "attlhSep8COwjnsYB",
@@ -695,16 +692,14 @@
         }
       }
     ],
+    "lieux": [
+      "recu65igj5DHRpC30"
+    ],
     "titre": "Espace culturel des pierres blanches - dossier de presse",
     "credits": "RAUM"
   },
   "recYWBvYrV83gjwGi": {
     "id": "recYWBvYrV83gjwGi",
-    "lieux": [
-      "recRFuKGP2zlHup3A"
-    ],
-    "titre": "Maison MB plans et coupes",
-    "credits": "Forma 6",
     "fichiers": [
       {
         "id": "attID39olu67dRpyQ",
@@ -725,7 +720,12 @@
           }
         }
       }
-    ]
+    ],
+    "lieux": [
+      "recRFuKGP2zlHup3A"
+    ],
+    "titre": "Maison MB plans et coupes",
+    "credits": "Forma 6"
   },
   "recb4mJElb1F79mLX": {
     "id": "recb4mJElb1F79mLX",
@@ -937,11 +937,6 @@
   },
   "recidnY0zHa7KYsc0": {
     "id": "recidnY0zHa7KYsc0",
-    "lieux": [
-      "recRFuKGP2zlHup3A"
-    ],
-    "titre": "Maison MB photos",
-    "credits": "Ardepa",
     "fichiers": [
       {
         "id": "attN8qOhpTf2xrVlE",
@@ -1125,7 +1120,12 @@
           }
         }
       }
-    ]
+    ],
+    "lieux": [
+      "recRFuKGP2zlHup3A"
+    ],
+    "titre": "Maison MB photos",
+    "credits": "Ardepa"
   },
   "recjGz63Hv79VBMPA": {
     "id": "recjGz63Hv79VBMPA",
@@ -1160,10 +1160,6 @@
   },
   "recm5ZABxVNTdAnjg": {
     "id": "recm5ZABxVNTdAnjg",
-    "cover_lieux": [
-      "recXIe49AgTTO1AuY"
-    ],
-    "titre": "MIN cover",
     "fichiers": [
       {
         "id": "attegMiPXmz7fXmWC",
@@ -1192,7 +1188,11 @@
         }
       }
     ],
-    "credits": "EGA Architectes"
+    "titre": "MIN cover",
+    "credits": "EGA Architectes",
+    "cover_lieux": [
+      "recXIe49AgTTO1AuY"
+    ]
   },
   "recuNktTmZtpBugOG": {
     "id": "recuNktTmZtpBugOG",
@@ -1271,10 +1271,6 @@
   },
   "recyprUwCGW4mOuSA": {
     "id": "recyprUwCGW4mOuSA",
-    "cover_lieux": [
-      "recRFuKGP2zlHup3A"
-    ],
-    "titre": "Maison MB cover",
     "fichiers": [
       {
         "id": "attap20pAiWDT35dR",
@@ -1303,6 +1299,10 @@
         }
       }
     ],
-    "credits": "Ardepa"
+    "titre": "Maison MB cover",
+    "credits": "Ardepa",
+    "cover_lieux": [
+      "recRFuKGP2zlHup3A"
+    ]
   }
 }

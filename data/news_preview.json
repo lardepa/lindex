@@ -161,10 +161,10 @@
           }
         }
       ],
-      "titre": "perso 2",
       "sélections": [
         "recKLeXsRwBMLlMUR"
-      ]
+      ],
+      "titre": "perso 2"
     },
     "title": "Personnalité 2",
     "lastModification": "2021-09-30T13:34:29.000Z"
@@ -243,57 +243,12 @@
           }
         }
       ],
-      "titre": "perso 3",
       "sélections": [
         "recy2MjKNYdzWUD4A"
-      ]
+      ],
+      "titre": "perso 3"
     },
     "title": "Personnalité 3",
     "lastModification": "2021-09-30T13:34:32.000Z"
-  },
-  {
-    "id": "recyxl64SW35uLcjC",
-    "type": "parcours",
-    "status": "en cours de rédaction",
-    "cover_media": {
-      "id": "recF5As2SEQr2DHuF",
-      "fichiers": [
-        {
-          "id": "att1oYvXYxpMGP5Nv",
-          "width": 1920,
-          "height": 2560,
-          "url": "https://dl.airtable.com/.attachments/7bd451036000fe08c1fb0c4e5d02e9e7/dd7560a6/20201017_115010-1-scaled.jpg",
-          "filename": "20201017_115010-1-scaled.jpg",
-          "size": 1076824,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/7eaf44bed4e5fc072f1f6624e949d4c8/51cada3b",
-              "width": 27,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/f4a4972423c5a3a695b5b839a5e6febb/54de3803",
-              "width": 512,
-              "height": 683
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/4c87dfdab25c1aca1008f839897433a4/50ba5f95",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "cover_parcours": [
-        "recyxl64SW35uLcjC"
-      ],
-      "lieux": [
-        "recTr9BzAt1jG9yaJ"
-      ],
-      "titre": "Visite du chantier LAB",
-      "credits": "L'ARDEPA"
-    },
-    "title": "Du hangar à Banane à la Brasserie Little Atlantique Brewery"
   }
 ]
