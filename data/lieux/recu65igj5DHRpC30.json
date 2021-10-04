@@ -51,9 +51,10 @@
     {
       "id": "recafJDVUkElwmi2Y",
       "type_destination": "Équipement",
-      "destination": "Espace associatif",
+      "destination": "Pôle associatif",
       "lieux": [
-        "recu65igj5DHRpC30"
+        "recu65igj5DHRpC30",
+        "recMKYgGVASf6j8rE"
       ]
     }
   ],
@@ -167,7 +168,10 @@
         "rec5EHfAartf4PUHm",
         "recATsZWxsng7iDNK",
         "rec0Rwewbk2MMTQAD",
-        "reccVHejspOWs8dm2"
+        "reccVHejspOWs8dm2",
+        "recTaYdefmJUHsBOi",
+        "recIsRYGFH3wqqTYC",
+        "recMKYgGVASf6j8rE"
       ],
       "nom": "années 2010"
     }

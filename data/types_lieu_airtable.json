@@ -1,4 +1,10 @@
 {
+  "rec7mJ0bcTDfKGfnd": {
+    "id": "rec7mJ0bcTDfKGfnd",
+    "lieux": [
+      "recTaYdefmJUHsBOi"
+    ]
+  },
   "recAm0Xd8S6WS0mUU": {
     "id": "recAm0Xd8S6WS0mUU",
     "type_destination": "Équipement",
@@ -141,9 +147,10 @@
   "recafJDVUkElwmi2Y": {
     "id": "recafJDVUkElwmi2Y",
     "type_destination": "Équipement",
-    "destination": "Espace associatif",
+    "destination": "Pôle associatif",
     "lieux": [
-      "recu65igj5DHRpC30"
+      "recu65igj5DHRpC30",
+      "recMKYgGVASf6j8rE"
     ]
   },
   "reccvYGuIVsYicPss": {
@@ -172,7 +179,8 @@
     "type_destination": "Équipement",
     "destination": "Crèche",
     "lieux": [
-      "rechtsQSNXyvtp75c"
+      "rechtsQSNXyvtp75c",
+      "recMKYgGVASf6j8rE"
     ]
   },
   "recjX9ygJ9VA81LG6": {
@@ -184,7 +192,9 @@
       "rec4neQMuPblp8tuX",
       "recahyhau12Ghaztg",
       "recpN2hW8eG6SnkLe",
-      "recVoRhrrPKCDBNwW"
+      "recVoRhrrPKCDBNwW",
+      "recIsRYGFH3wqqTYC",
+      "recTaYdefmJUHsBOi"
     ]
   },
   "recmAxAQJjnH2ft4h": {
@@ -252,7 +262,8 @@
       "rec72cuqtL80v3RYm",
       "recjkXrXE0hZw6f4t",
       "recP6LOBOUBRRlLnt",
-      "rec0Rwewbk2MMTQAD"
+      "rec0Rwewbk2MMTQAD",
+      "recMKYgGVASf6j8rE"
     ]
   },
   "recvYQkJNzMNb10UF": {
@@ -261,7 +272,8 @@
     "destination": "Restauration",
     "lieux": [
       "recLVrdGzklj7mmLE",
-      "recT5ti90aD2NTdCN"
+      "recT5ti90aD2NTdCN",
+      "recTaYdefmJUHsBOi"
     ]
   },
   "recwFLzRxncgHgTIt": {

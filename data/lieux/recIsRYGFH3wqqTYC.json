@@ -1,0 +1,319 @@
+{
+  "id": "recIsRYGFH3wqqTYC",
+  "nom": "Metronomy",
+  "dernière modification": "2021-10-04T09:32:01.000Z",
+  "présentation": "L’aménagement de l’îlot 1 s’inscrit dans une démarche urbaine globale, celle de la ZAC Armor, qui prend le pari du parc urbain. Notre intervention prolonge les principes d’un quartier nouveau auquel l’omniprésence du végétal donne un caractère remarquable.\nIl conforte le lien avec ce patrimoine naturel – parc de la Chézine, réseau des voies de structures ver tes du quartier, et offre de nouveaux atouts : s’ouvrir sur le quartier dans un objectif de communication, s’inscrire dans une démarche environnementale afin de construire des bâtiments pérennes, confortables et faciles à vivre, et enfin assurer un fonctionnement efficient et adaptable à chaque structure.\nLe projet est composé de 6 bâtiments de même forme « chromosomique » implantés dans un parc urbain. L’unicité de chaque bâtiment se manifeste par une intervention spécifique dans chaque hall, espace de jonction entre les deux ailes du projet.\n_Texte : Forma6_\n_• L'ardepa a visité ce lieu le 20 avril 2018_\n",
+  "adresse": "2 Rue Jacques Brel, 44800 Saint-Herblain\n",
+  "département": "44 Loire-Atlantique",
+  "geolocalisation": [
+    47.233284,
+    -1.62925
+  ],
+  "type": [
+    {
+      "id": "recjX9ygJ9VA81LG6",
+      "type_destination": "Équipement",
+      "destination": "Bureaux",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "rec4neQMuPblp8tuX",
+        "recahyhau12Ghaztg",
+        "recpN2hW8eG6SnkLe",
+        "recVoRhrrPKCDBNwW",
+        "recIsRYGFH3wqqTYC",
+        "recTaYdefmJUHsBOi"
+      ]
+    }
+  ],
+  "date": "2018 - 2022",
+  "maitre_oeuvre": [
+    {
+      "id": "rec5Hv3G4xYoddlcE",
+      "maitre_oeuvre": [
+        "recJgalSFcQX7dLe6",
+        "recRFuKGP2zlHup3A",
+        "recIsRYGFH3wqqTYC"
+      ],
+      "site_web": "http://www.forma6.net/",
+      "nom": "Forma6"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "reca40IADfU5oCN5h",
+      "maitre_ouvrage": [
+        "recIsRYGFH3wqqTYC"
+      ],
+      "nom": "Tolefi promotion"
+    }
+  ],
+  "status": "Publié",
+  "cover_media": {
+    "id": "recsZMfYccxpblrgV",
+    "cover_lieux": [
+      "recIsRYGFH3wqqTYC"
+    ],
+    "titre": "Metronomy cover",
+    "fichiers": [
+      {
+        "id": "attUKgjpgtBfokZoQ",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/5eb201fac6e4e64244256a638600684d/6d37e633/metronomycover.jpg",
+        "filename": "metronomy cover.jpg",
+        "size": 368983,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/215867e82f36d074dc42116474505e16/b40d6c56",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/58089f113bd9705476e4f589fecba951/71a711de",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/03c66656d56cd93a5adb8eb237368390/1b3a7f51",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Forma6"
+  },
+  "médias": [
+    {
+      "id": "rec5VUVD0LOD7LVeo",
+      "lieux": [
+        "recIsRYGFH3wqqTYC"
+      ],
+      "titre": "Metronomy photos",
+      "fichiers": [
+        {
+          "id": "attds7OJRpAPh5fpR",
+          "width": 2000,
+          "height": 1600,
+          "url": "https://dl.airtable.com/.attachments/2052c21eb5aafa5c8afe017f31bf20c9/ce6a3946/f6_immeubledebureaux_stherblain_3.jpg",
+          "filename": "f6_immeubledebureaux_stherblain_3.jpg",
+          "size": 444953,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cdc9c39b16cd190c189c5de94acafd2c/8528a218",
+              "width": 45,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f9d13701ff12bdc7d4e1f98af4587e2d/9031cfb9",
+              "width": 640,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cbedb3034f32d3d390f4e7b10ca7a00c/ada30868",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attEJAiYwcJ6fnNcZ",
+          "width": 1680,
+          "height": 1158,
+          "url": "https://dl.airtable.com/.attachments/941acb76257fd85a501067f5d9364cfb/b6941785/f6_immeubledebureaux_stherblain_vignette.jpg",
+          "filename": "f6_immeubledebureaux_stherblain_vignette.jpg",
+          "size": 167201,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4551f70473e1b6323ae63467a843ed73/86118ddc",
+              "width": 52,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d24946fea1894bbeb62a6c5c72c8f6d7/dd863ac1",
+              "width": 743,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/14e5c736bb0e60033db6cf2867db599a/ed6a2ab0",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Forma6"
+    },
+    {
+      "id": "recUdyVjdIuiIgjNC",
+      "lieux": [
+        "recIsRYGFH3wqqTYC"
+      ],
+      "titre": "Metronomy documents",
+      "fichiers": [
+        {
+          "id": "attFa2EcXDt9eOV9M",
+          "url": "https://dl.airtable.com/.attachments/93d63c3669a97cc060fbc546d0737960/3f94be34/170728_f6_TOL_DP_FR_BD.pdf",
+          "filename": "170728_f6_TOL_DP_FR_BD.pdf",
+          "size": 2726163,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cd93e958aec9b8184eb1ad15007ac0bc/3d006771",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d0b43a84e56690207ae084d855e7c037/89c0d43f",
+              "width": 362,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "credits": "Forma6"
+    },
+    {
+      "id": "recJDU4Fn4VcV2qkO",
+      "lieux": [
+        "recIsRYGFH3wqqTYC"
+      ],
+      "titre": "Metronomy photos 2",
+      "fichiers": [
+        {
+          "id": "attCLdZARFXYoQU4T",
+          "width": 1100,
+          "height": 688,
+          "url": "https://dl.airtable.com/.attachments/d863e2a43d2e5eca3e7742cd0cce4f9f/4f0dea93/metalobil.jpg",
+          "filename": "metalobil.jpg",
+          "size": 138935,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6639e7b20c4f5509eb80bba76bf91faa/ddcad963",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e244c224d84a6f75904ef7cbe01d199c/31411835",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b88c387a7975b1f2e66247f1cc633ee9/1736e15f",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attE069CEIsyFb4pF",
+          "width": 1100,
+          "height": 688,
+          "url": "https://dl.airtable.com/.attachments/e1b600df3f8ec6a889d36d4becac7ff2/e0b57a6f/metalobil2.jpg",
+          "filename": "metalobil2.jpg",
+          "size": 170914,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/eb04fafd8f4181974f8d851825c26ffa/46adc362",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6b7d6ad39f45d985a3267d106e6e5de4/67b71d60",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3ccab7caee2febc26a29a3ecc05b96f2/5fc04660",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Forma6 / Metalobil"
+    },
+    {
+      "id": "recFXU6aBFB38kyty",
+      "lieux": [
+        "recIsRYGFH3wqqTYC"
+      ],
+      "titre": "Metronomy  plaquette de visite",
+      "fichiers": [
+        {
+          "id": "attSL3AZAUI1Dk4ta",
+          "url": "https://dl.airtable.com/.attachments/561717b370332ac60e8568d9d06c6854/dae1f00b/livretmetronomya5.pdf",
+          "filename": "livret metronomy a5.pdf",
+          "size": 1888656,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4302fd736c3905ec5b580b989678135c/f90ccbda",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a3959d5a86ada50bf147b51da154b66b/d76d8822",
+              "width": 361,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "credits": "Forma 6 / Ardepa"
+    }
+  ],
+  "périodes": [
+    {
+      "id": "rec0D9TkCH83ItF6j",
+      "lieux": [
+        "recXIe49AgTTO1AuY",
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R",
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r",
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
+        "recYQXv9Df1Bn5fTu",
+        "rec7OkEzJNwlvELsf",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb",
+        "rec0tsNbxoh48H20l",
+        "recX0Kj4p2adp8f8U",
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt",
+        "recu65igj5DHRpC30",
+        "recRFuKGP2zlHup3A",
+        "recpN2hW8eG6SnkLe",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "rec0Rwewbk2MMTQAD",
+        "reccVHejspOWs8dm2",
+        "recTaYdefmJUHsBOi",
+        "recIsRYGFH3wqqTYC",
+        "recMKYgGVASf6j8rE"
+      ],
+      "nom": "années 2010"
+    }
+  ]
+}
