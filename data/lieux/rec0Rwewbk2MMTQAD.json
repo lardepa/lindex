@@ -1,0 +1,337 @@
+{
+  "id": "rec0Rwewbk2MMTQAD",
+  "nom": "La promenade des Nefs ",
+  "dernière modification": "2021-10-04T08:56:48.000Z",
+  "adresse": "43 rue du Bois Hercé 44100 Nantes\n",
+  "département": "44 Loire-Atlantique",
+  "geolocalisation": [
+    47.208040856736005,
+    -1.591524224806077
+  ],
+  "type": [
+    {
+      "id": "recutlOJwb5QQKd5c",
+      "type_destination": "Logement",
+      "destination": "Logements Collectifs",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "recdqD43kpp1pOv3x",
+        "rec72cuqtL80v3RYm",
+        "recjkXrXE0hZw6f4t",
+        "recP6LOBOUBRRlLnt",
+        "rec0Rwewbk2MMTQAD"
+      ]
+    }
+  ],
+  "présentation": "S’inscrivant dans l’existant, le projet s’est construit autour de la volonté d’ouvrir le cœur d’îlot, de privilégier les chemins piétons et de construire un programme à échelle humaine. L’implantation des bâtiments et les aménagements paysagers s’organisent autour d’une nouvelle voie de desserte. Au nord, en limite de parcelle, un bâtiment collectif est destiné au bailleur social Nantes Habitat. En cœur d’îlot, sont installés deux petits collectifs. Au sud, le projet met en scène la structure métallique existante des nefs.\nAprès dépose du bardage et de la couverture, quatre plots de logements intermédiaires et individuels s’inscrivent entre ses trames. Longés par la voie d’opportunité, deux bâtiments en R+2+attique émergent de la structure ; deux autres plots en RdC et R+1+attique s’y insèrent. Une partie de la nef est couverte, offrant ainsi des espaces de circulation abrités reliant les différents bâtiments. Afin de faire écho à l’ancienne volumétrie des nefs, des toitures à double pente viennent s’intercaler entre les différentes toitures terrasses.\nL’ensemble des logements a été conçu de façon à posséder une double orientation et avoir une vue sur un espace vert. Toutes les toitures terrasses des bâtiments en RdC et R+1 sont ainsi végétalisées. Le site de la Marseillaise offre aujourd’hui un cadre de vie verdoyant en cœur de ville, source de bien-être, d’échange et de partage.\nL’organisation générale des bâtiments s’appuie sur l’ambition de répondre aux enjeux de la qualité de vie des logements. En effet, pour profiter au maximum de l’orientation sud et/ou d’une ouverture sur des espaces paysagés, le projet propose des espaces extérieurs qui prolongent les logements (balcons, terrasses, à tous niveaux).\nL’aménagement paysager se structure autour de trois espaces singuliers. Sous les nefs, un jardin exotique constitue un cocon pour les maisons et petits collectifs logés sous la structure. Dans l’axe central, une colonne piétonne donne accès au site ; c’est également une voie d’opportunité traitée en chemin bordé de massifs et de pavés engazonnés mais permettant le passage de certains véhicules (déménagement, entretien,…). Enserré entre les collectifs, le jardin ouest est un cœur d’îlot à part entière, propice aux jeux et à la flânerie. \nEn limite d’un parking de supermarché, une grande fresque a été réalisée par le collectif 100 Pression reprenant l’histoire du site sur le thème du monde ouvrier.\n_Texte des architectes_\n_• L'ardepa a visité ce lieu le 12 janvier 2018_\n",
+  "date": "2015",
+  "périodes": [
+    {
+      "id": "rec0D9TkCH83ItF6j",
+      "lieux": [
+        "recXIe49AgTTO1AuY",
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R",
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r",
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
+        "recYQXv9Df1Bn5fTu",
+        "rec7OkEzJNwlvELsf",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb",
+        "rec0tsNbxoh48H20l",
+        "recX0Kj4p2adp8f8U",
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt",
+        "recu65igj5DHRpC30",
+        "recRFuKGP2zlHup3A",
+        "recpN2hW8eG6SnkLe",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "rec0Rwewbk2MMTQAD",
+        "reccVHejspOWs8dm2"
+      ],
+      "nom": "années 2010"
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "recHLFIPmSHRXkUfj",
+      "maitre_oeuvre": [
+        "recP6LOBOUBRRlLnt",
+        "rec0Rwewbk2MMTQAD"
+      ],
+      "site_web": "http://www.pa-dw.fr/",
+      "nom": "PADW - Pellegrino Associés Design Workshop"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recX1nhf5TDMAY0rr",
+      "maitre_ouvrage": [
+        "rec0Rwewbk2MMTQAD"
+      ],
+      "nom": "Ataraxia Promotion"
+    }
+  ],
+  "status": "Publié",
+  "cover_media": {
+    "id": "recyG56HK7rSIt4rz",
+    "cover_lieux": [
+      "rec0Rwewbk2MMTQAD"
+    ],
+    "titre": "promenade des nefs cover",
+    "fichiers": [
+      {
+        "id": "attOsK30r7BMUZFLm",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/da2e17c9b3bb78a9795570ad440bdd8a/3ec66130/promenadenefscover.jpg",
+        "filename": "promenade nefs cover.jpg",
+        "size": 507350,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1a5d4bc18a3b10951523210f742393da/0bb45f8b",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/72c070147e78d3511e19c66d68a6c582/861f654b",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cafc7be865965c5e21f4daf2ce404a5c/73efbc64",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "PADW / Ardepa"
+  },
+  "médias": [
+    {
+      "id": "recTYB3iSebxFYDGg",
+      "lieux": [
+        "rec0Rwewbk2MMTQAD"
+      ],
+      "titre": "promenade des nefs photos",
+      "credits": "PADW",
+      "fichiers": [
+        {
+          "id": "attlo7H1n9WJJjCxY",
+          "width": 2000,
+          "height": 800,
+          "url": "https://dl.airtable.com/.attachments/3d862b4e91eac48d195ee9ecf4040ef7/47d18577/_ICS4836.jpg",
+          "filename": "_ICS4836.jpg",
+          "size": 350728,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b7dda373f049e8d67108ec0a013591d3/76a51552",
+              "width": 90,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1e048a655eed4fb2a91735ad20be874b/9e1b0643",
+              "width": 1280,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/67550968e1d63496b007ab3516eef5c1/08ed3365",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attqG23azCNlXRjMv",
+          "width": 1315,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/aa4b052f2364a7c1eb92ab115e947510/f1cc9035/_ICS4943.jpg",
+          "filename": "_ICS4943.jpg",
+          "size": 412891,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/66e313a55be39337fd6b2f49ba8bc43d/d15186d5",
+              "width": 44,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7d758bb8916ab0c759993f777855d6ee/9b6cd6c9",
+              "width": 623,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9deb349c981ca2ec0b894e8938fc07bd/ef1cd7ec",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attEAPc19NyE4ep9P",
+          "width": 1290,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/3db7c1dad503ec2c681b3ae722dcf8f0/fb4fc05b/_ICS5426.jpg",
+          "filename": "_ICS5426.jpg",
+          "size": 420927,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2eba35256960dd3a2bc4977612d9099a/d3f017bc",
+              "width": 43,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8053bcb3ddd993fd89ebe12cffae92d4/71550391",
+              "width": 612,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c60c89eab4269d40a649c477956e53a5/b5f3514c",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "att3SaF7GGylZfvbI",
+          "width": 1215,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/f506939676825b63665cf9e2c4784f67/6d6ba9ee/_ICS5679.jpg",
+          "filename": "_ICS5679.jpg",
+          "size": 595050,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f4c9b0e4ae6d4deabab88886053200f2/2abce494",
+              "width": 41,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c2e7f0060efeb2baa6e6c75e8d83b004/02ad53c2",
+              "width": 576,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a4a200165f7a62420ab0ecd9360b48f6/fbc3342d",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attbS01OGQjh1LFpL",
+          "width": 1160,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/d03675de805bd20d2c818b4e59927bf3/50ec8f7c/_ICS5883.jpg",
+          "filename": "_ICS5883.jpg",
+          "size": 421491,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/50946cd6c32d64d9640fd01e62b4fda2/8c1b9e24",
+              "width": 39,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9b25e6d6f42b43dd372dc9ad768b049a/56e931db",
+              "width": 550,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7733a5f41ed211e887309b5b6aeb4956/03f09b54",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "reco6DHT6T2CGeNcp",
+      "lieux": [
+        "rec0Rwewbk2MMTQAD"
+      ],
+      "titre": "promenade des nefs "
+    },
+    {
+      "id": "rec8UaHaRpQZCzUr7",
+      "lieux": [
+        "rec0Rwewbk2MMTQAD"
+      ],
+      "titre": "promenade des nefs documents",
+      "fichiers": [
+        {
+          "id": "att95HgWf9ckpdlJC",
+          "url": "https://dl.airtable.com/.attachments/d956ca01dcc320d5bb2e68e13d1d5b02/29c3ddef/promenadedesnefsdocuments.pdf",
+          "filename": "promenade des nefs documents.pdf",
+          "size": 4792237,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/16b742ed843a253851cf3fed700cacdc/9777cb5f",
+              "width": 51,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/34d555be6547e0297815b2177d7081c4/eb1e723d",
+              "width": 512,
+              "height": 362
+            }
+          }
+        }
+      ],
+      "credits": "PADW"
+    },
+    {
+      "id": "reczTNvWG1E0nZ7dP",
+      "lieux": [
+        "rec0Rwewbk2MMTQAD"
+      ],
+      "titre": "promenade des nefs plaquette visite",
+      "credits": "PADW / Ardepa",
+      "fichiers": [
+        {
+          "id": "attXffagvUOcbiXrh",
+          "url": "https://dl.airtable.com/.attachments/a78821ccefd514476539a1a6a14a6199/c37b94f0/LivretGense1-PromenadedesnefsA5.pdf",
+          "filename": "Livret Genèse1 - Promenade des nefs A5.pdf",
+          "size": 3888750,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0ccf56c140cfbc4b262376f57fbd659d/d9867667",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1baac8f5bddd0d1dc66cef6a1937771b/2efaca11",
+              "width": 361,
+              "height": 512
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -225,7 +225,36 @@
       ],
       "titre": "Relier les impasses 3",
       "credits": "ardepa"
+    },
+    {
+      "id": "rec1PuVHGZWNHh7Eq",
+      "lieux": [
+        "recahyhau12Ghaztg"
+      ],
+      "titre": "relier les impasses plaquette de visite",
+      "fichiers": [
+        {
+          "id": "attK30PLc1yf63wQk",
+          "url": "https://dl.airtable.com/.attachments/8b643a392b3379ce1a463b93fcccac8e/ffc29c1e/ardepaplaquettebigreA5.pdf",
+          "filename": "ardepa plaquette bigre A5.pdf",
+          "size": 548689,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7a6acf32f364b5197ada0b29ae7c60f3/2fd92d51",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ae3a66991ee5af519bd8486dbd8c4040/8d56f7fa",
+              "width": 361,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "credits": "Bigre ! / Ardepa"
     }
   ],
-  "dernière modification": "2021-09-30T13:27:51.000Z"
+  "dernière modification": "2021-10-04T08:13:45.000Z"
 }

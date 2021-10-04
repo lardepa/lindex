@@ -302,7 +302,8 @@
             "recdqD43kpp1pOv3x",
             "rec72cuqtL80v3RYm",
             "recjkXrXE0hZw6f4t",
-            "recP6LOBOUBRRlLnt"
+            "recP6LOBOUBRRlLnt",
+            "rec0Rwewbk2MMTQAD"
           ]
         },
         {
@@ -485,9 +486,38 @@
           ],
           "titre": "Viséo 3",
           "credits": "RAUM"
+        },
+        {
+          "id": "recqg0TJwOko8Ui8W",
+          "lieux": [
+            "recXrmOzavWvTwx9T"
+          ],
+          "titre": "Viseo plaquette visite",
+          "fichiers": [
+            {
+              "id": "attYSxmmfLlUtGipI",
+              "url": "https://dl.airtable.com/.attachments/fb3e7b99d8edabba8212f25dedb008fd/2ae9a02b/plaquetteViseoa5.pdf",
+              "filename": "plaquette Viseo a5.pdf",
+              "size": 4345098,
+              "type": "application/pdf",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/69d2acfcebbe25c53da9e8e50a0a0fdf/137eedc5",
+                  "width": 25,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/dabe55c93dd15e5abd0b4af244813b79/72312c35",
+                  "width": 361,
+                  "height": 512
+                }
+              }
+            }
+          ],
+          "credits": "RAUM / Ardepa"
         }
       ],
-      "dernière modification": "2021-09-30T13:27:49.000Z"
+      "dernière modification": "2021-10-04T08:13:14.000Z"
     },
     {
       "id": "recRFuKGP2zlHup3A",
@@ -572,7 +602,7 @@
         }
       ],
       "status": "Publié",
-      "présentation": "Dans le centre-ville de Nantes, la maison\nexistante sur deux étages est de la fin\ndu XIXème siècle mais sans grand intérêt\narchitectural. En alignement sur la rue qu’elle\ndomine, elle est de plain-pied sur un jardin\npaysagé à l’arrière dont elle ne profite pas.\nSes particularités sont la base de la\nconception de l’extension :\n\\- Discontinuité et multiplicité de\nniveaux : au niveau de la rue et encaissé par\nrapport au jardin, un garage en mitoyenneté\net en rez-de-chaussée crée une discontinuité\ndans l’épannelage et l’alignement urbain.\n\\- Volumétrie et fragmentation : Au\nniveau du jardin, le volume à une pente de\nla cuisine se greffe en appentis sur la maison\nexistante peu profonde.\nLe projet d’extension :\nLe par ti-pris du projet est l’enroulement.\nL’extension à rez-de-chaussée sur jardin\nvient s’aligner sur la cuisine en appentis en\ndoublant l’épaisseur de la maison existante,\nse retourne sur le garage puis s’élève côté rue\npour recoudre l’épannelage, aller chercher le\nsoleil et se protéger des vis à vis.\nLa réalisation de l’extension en structure bois\npréfabriquée prend son sens dans l’étroitesse\nde la rue de centre-ville, dans la complexité\nvolumétrique du projet et dans la volonté de\nconstruire durable et biosourcé.\nLa dichotomie entre rue étroite et jardin\nluxuriant et entre existant sévère et neuf en\nmouvement s’affirme dans le traitement des\nfaçades. La maison existante est seulement\npeinte alors que l’extension, immergée dans\nle jardin, reçoit un bardage en fascines de\nchâtaignier non écorcées lui donnant un\nesprit végétal.\nEn plan, à la multiplicité des volumes et des\nniveaux existants répond une multiplicité\nde niveaux en extension afin d’adoucir\nle passage de l’un à l’autre et d’offrir une\npluralité de points de vue et d’ouver tures\nvers l’extérieur.\nTexte de Catherine Malleret.\n",
+      "présentation": "Dans le centre-ville de Nantes, la maison\nexistante sur deux étages est de la fin\ndu XIXème siècle mais sans grand intérêt\narchitectural. En alignement sur la rue qu’elle\ndomine, elle est de plain-pied sur un jardin\npaysagé à l’arrière dont elle ne profite pas.\nSes particularités sont la base de la\nconception de l’extension :\n\\- Discontinuité et multiplicité de\nniveaux : au niveau de la rue et encaissé par\nrapport au jardin, un garage en mitoyenneté\net en rez-de-chaussée crée une discontinuité\ndans l’épannelage et l’alignement urbain.\n\\- Volumétrie et fragmentation : Au\nniveau du jardin, le volume à une pente de\nla cuisine se greffe en appentis sur la maison\nexistante peu profonde.\nLe projet d’extension :\nLe par ti-pris du projet est l’enroulement.\nL’extension à rez-de-chaussée sur jardin\nvient s’aligner sur la cuisine en appentis en\ndoublant l’épaisseur de la maison existante,\nse retourne sur le garage puis s’élève côté rue\npour recoudre l’épannelage, aller chercher le\nsoleil et se protéger des vis à vis.\nLa réalisation de l’extension en structure bois\npréfabriquée prend son sens dans l’étroitesse\nde la rue de centre-ville, dans la complexité\nvolumétrique du projet et dans la volonté de\nconstruire durable et biosourcé.\nLa dichotomie entre rue étroite et jardin\nluxuriant et entre existant sévère et neuf en\nmouvement s’affirme dans le traitement des\nfaçades. La maison existante est seulement\npeinte alors que l’extension, immergée dans\nle jardin, reçoit un bardage en fascines de\nchâtaignier non écorcées lui donnant un\nesprit végétal.\nEn plan, à la multiplicité des volumes et des\nniveaux existants répond une multiplicité\nde niveaux en extension afin d’adoucir\nle passage de l’un à l’autre et d’offrir une\npluralité de points de vue et d’ouver tures\nvers l’extérieur.\nTexte de Catherine Malleret.\n_• L'ardepa a visité ce lieu le 16 octobre 2020_\n",
       "nom": "Maison MB",
       "cover_media": {
         "id": "recyprUwCGW4mOuSA",
@@ -648,7 +678,9 @@
             "recRFuKGP2zlHup3A",
             "recpN2hW8eG6SnkLe",
             "rec5EHfAartf4PUHm",
-            "recATsZWxsng7iDNK"
+            "recATsZWxsng7iDNK",
+            "rec0Rwewbk2MMTQAD",
+            "reccVHejspOWs8dm2"
           ],
           "nom": "années 2010"
         }
@@ -880,9 +912,38 @@
           ],
           "titre": "Maison MB plans et coupes",
           "credits": "Forma 6"
+        },
+        {
+          "id": "recPD9jckOKyynovA",
+          "lieux": [
+            "recRFuKGP2zlHup3A"
+          ],
+          "titre": "maison MB plaquette de visite",
+          "fichiers": [
+            {
+              "id": "attz8FEw4VR1dJST3",
+              "url": "https://dl.airtable.com/.attachments/412aca4a0d1a9d80fcfbafc09daf892a/042a50d5/plaquettemaisonMBa5.pdf",
+              "filename": "plaquette maison MB a5.pdf",
+              "size": 1637110,
+              "type": "application/pdf",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/13a03a3986f0d5964da60b679753f5f5/b4cf8cab",
+                  "width": 25,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/08f5f4be7f14e5145f1594e76e26efb7/f1cd73ca",
+                  "width": 361,
+                  "height": 512
+                }
+              }
+            }
+          ],
+          "credits": "Forma 6 / Ardepa"
         }
       ],
-      "dernière modification": "2021-09-30T13:28:05.000Z"
+      "dernière modification": "2021-10-04T09:00:57.000Z"
     },
     {
       "id": "recXIe49AgTTO1AuY",
@@ -1043,7 +1104,9 @@
             "recRFuKGP2zlHup3A",
             "recpN2hW8eG6SnkLe",
             "rec5EHfAartf4PUHm",
-            "recATsZWxsng7iDNK"
+            "recATsZWxsng7iDNK",
+            "rec0Rwewbk2MMTQAD",
+            "reccVHejspOWs8dm2"
           ],
           "nom": "années 2010"
         }

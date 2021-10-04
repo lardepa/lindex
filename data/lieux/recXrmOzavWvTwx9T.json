@@ -49,7 +49,8 @@
         "recdqD43kpp1pOv3x",
         "rec72cuqtL80v3RYm",
         "recjkXrXE0hZw6f4t",
-        "recP6LOBOUBRRlLnt"
+        "recP6LOBOUBRRlLnt",
+        "rec0Rwewbk2MMTQAD"
       ]
     },
     {
@@ -232,7 +233,36 @@
       ],
       "titre": "Viséo 3",
       "credits": "RAUM"
+    },
+    {
+      "id": "recqg0TJwOko8Ui8W",
+      "lieux": [
+        "recXrmOzavWvTwx9T"
+      ],
+      "titre": "Viseo plaquette visite",
+      "fichiers": [
+        {
+          "id": "attYSxmmfLlUtGipI",
+          "url": "https://dl.airtable.com/.attachments/fb3e7b99d8edabba8212f25dedb008fd/2ae9a02b/plaquetteViseoa5.pdf",
+          "filename": "plaquette Viseo a5.pdf",
+          "size": 4345098,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/69d2acfcebbe25c53da9e8e50a0a0fdf/137eedc5",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/dabe55c93dd15e5abd0b4af244813b79/72312c35",
+              "width": 361,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "credits": "RAUM / Ardepa"
     }
   ],
-  "dernière modification": "2021-09-30T13:27:49.000Z"
+  "dernière modification": "2021-10-04T08:13:14.000Z"
 }

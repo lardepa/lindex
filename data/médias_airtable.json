@@ -309,6 +309,35 @@
     ],
     "titre": "guide imuse"
   },
+  "rec1PuVHGZWNHh7Eq": {
+    "id": "rec1PuVHGZWNHh7Eq",
+    "lieux": [
+      "recahyhau12Ghaztg"
+    ],
+    "titre": "relier les impasses plaquette de visite",
+    "fichiers": [
+      {
+        "id": "attK30PLc1yf63wQk",
+        "url": "https://dl.airtable.com/.attachments/8b643a392b3379ce1a463b93fcccac8e/ffc29c1e/ardepaplaquettebigreA5.pdf",
+        "filename": "ardepa plaquette bigre A5.pdf",
+        "size": 548689,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7a6acf32f364b5197ada0b29ae7c60f3/2fd92d51",
+            "width": 25,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ae3a66991ee5af519bd8486dbd8c4040/8d56f7fa",
+            "width": 361,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "credits": "Bigre ! / Ardepa"
+  },
   "rec3mIzOYnShpQiG9": {
     "id": "rec3mIzOYnShpQiG9",
     "fichiers": [
@@ -498,6 +527,64 @@
     "titre": "Relier les impasses 3",
     "credits": "ardepa"
   },
+  "rec8UaHaRpQZCzUr7": {
+    "id": "rec8UaHaRpQZCzUr7",
+    "lieux": [
+      "rec0Rwewbk2MMTQAD"
+    ],
+    "titre": "promenade des nefs documents",
+    "fichiers": [
+      {
+        "id": "att95HgWf9ckpdlJC",
+        "url": "https://dl.airtable.com/.attachments/d956ca01dcc320d5bb2e68e13d1d5b02/29c3ddef/promenadedesnefsdocuments.pdf",
+        "filename": "promenade des nefs documents.pdf",
+        "size": 4792237,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/16b742ed843a253851cf3fed700cacdc/9777cb5f",
+            "width": 51,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/34d555be6547e0297815b2177d7081c4/eb1e723d",
+            "width": 512,
+            "height": 362
+          }
+        }
+      }
+    ],
+    "credits": "PADW"
+  },
+  "rec8YraVY0nhsW3R1": {
+    "id": "rec8YraVY0nhsW3R1",
+    "lieux": [
+      "rec5EHfAartf4PUHm"
+    ],
+    "titre": "limonier plaquette visite",
+    "fichiers": [
+      {
+        "id": "attyAXilRDGc6r8cj",
+        "url": "https://dl.airtable.com/.attachments/d1b88fac2f92a7f198d73d82f3ec63a8/6496bf24/plaquettemaisonlimoniera5.pdf",
+        "filename": "plaquette maison limonier a5.pdf",
+        "size": 909528,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/85400f8ac643b26ea70f254a76579592/b5f5b383",
+            "width": 25,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/754ccef0f5c6e9d43a74f1b2606ad725/b1498493",
+            "width": 361,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "credits": "0101 Architectes / Ardepa"
+  },
   "rec9afvuhJDhSDt0e": {
     "id": "rec9afvuhJDhSDt0e",
     "fichiers": [
@@ -533,6 +620,146 @@
     "cover_lieux": [
       "recVoRhrrPKCDBNwW"
     ]
+  },
+  "recAeobQ6cSZOcx7x": {
+    "id": "recAeobQ6cSZOcx7x",
+    "lieux": [
+      "reccVHejspOWs8dm2"
+    ],
+    "titre": "Église Magnum photos",
+    "fichiers": [
+      {
+        "id": "attFnLkCzINzWNofo",
+        "width": 1256,
+        "height": 600,
+        "url": "https://dl.airtable.com/.attachments/349a357f16143fcdf775868b48bd9778/e765e7ca/68-magnum-projets-architecture-57062fda5ac551.jpg",
+        "filename": "68-magnum-projets-architecture-57062fda5ac55 (1).jpg",
+        "size": 398130,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0d2a67bd06e6e7e02e76ac55d60732c7/e01b4ac7",
+            "width": 75,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/984830abba6ceee6ef41ef4201830da6/4b2bb7b4",
+            "width": 1072,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/43a721fc1eb63f3ab9eef911a5cb6826/5521a61b",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attZJi3lKQeDaMka2",
+        "width": 1170,
+        "height": 878,
+        "url": "https://dl.airtable.com/.attachments/5f83ccd98d74ec59cc848d9c0889a486/e247b6cc/68-magnum-projets-architecture-57063149cb1f9.jpg",
+        "filename": "68-magnum-projets-architecture-57063149cb1f9.jpg",
+        "size": 433392,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d0508ea18928e5ca5baef47d980dfeda/99a84504",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6f4501c87d7f9abeead913fe9429ea1b/5dd71e78",
+            "width": 682,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a05df53ae965a860fa954dfa7b2ea7c8/6abbf9ad",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attWD1Un7TnbB67wL",
+        "width": 1170,
+        "height": 826,
+        "url": "https://dl.airtable.com/.attachments/894ff9e8d6a54985b1b5b59811961c7e/b4b5e3f0/68-magnum-projets-architecture-5706315304a6a.jpg",
+        "filename": "68-magnum-projets-architecture-5706315304a6a.jpg",
+        "size": 374684,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0425fd276b4c61a4aa1dd64a58e312a0/428459c9",
+            "width": 51,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6335ac32a8c6ccd89d00640fa18d6206/779bbb7d",
+            "width": 725,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0775d1bd8d52716abc957488e9948477/e07a64d3",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attmASFbQYreHMcSj",
+        "width": 1170,
+        "height": 608,
+        "url": "https://dl.airtable.com/.attachments/4bad6eaba33e6b409734b57088fa3642/d5173505/68-magnum-projets-architecture-57062f9b93bec.jpg",
+        "filename": "68-magnum-projets-architecture-57062f9b93bec.jpg",
+        "size": 178950,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3b63af6cb3cfdd93d72a4465640e5263/13788277",
+            "width": 69,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5b5360e596fb114ea5b3dcdfd7a17c00/cd5d33cb",
+            "width": 985,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/14a89c898ee6a07d944040de7f049853/b601599f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attCO6ApVkrmd6xaH",
+        "width": 1170,
+        "height": 568,
+        "url": "https://dl.airtable.com/.attachments/6aaeb4e753ff5380c5f2a111a70fdff3/ddbc14e1/68-magnum-projets-architecture-570634774794b.jpg",
+        "filename": "68-magnum-projets-architecture-570634774794b.jpg",
+        "size": 399342,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e4abc7b8fc1b5247b032f1f3e63bf7b9/d70f2a33",
+            "width": 74,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ed26d2bf34d2a7bac2affe1948547a8f/50ab690e",
+            "width": 1055,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ec093e841dcdc6db8c1ea8c90174f7b8/473ce9c5",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Magnum Architectes"
   },
   "recBKSSgfhS6nSZ5z": {
     "id": "recBKSSgfhS6nSZ5z",
@@ -721,6 +948,64 @@
     ],
     "titre": "perso 2"
   },
+  "recOVH81y49dbw93D": {
+    "id": "recOVH81y49dbw93D",
+    "lieux": [
+      "recu65igj5DHRpC30"
+    ],
+    "titre": "pierres banches plaquette de visite",
+    "fichiers": [
+      {
+        "id": "att9EkA4dfAslo8xN",
+        "url": "https://dl.airtable.com/.attachments/da619a3e505c9d3a25be6916a30d3400/2a146017/sallefestiveraumplaquettea5.pdf",
+        "filename": "salle festive raum plaquette a5.pdf",
+        "size": 581886,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/51344d96fb5d45cda625bdccf78ead84/63aa2acb",
+            "width": 25,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/28d8ab469189f42a064a9b7ee260e517/f4ca522e",
+            "width": 361,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "credits": "RAUM / Ardepa"
+  },
+  "recPD9jckOKyynovA": {
+    "id": "recPD9jckOKyynovA",
+    "lieux": [
+      "recRFuKGP2zlHup3A"
+    ],
+    "titre": "maison MB plaquette de visite",
+    "fichiers": [
+      {
+        "id": "attz8FEw4VR1dJST3",
+        "url": "https://dl.airtable.com/.attachments/412aca4a0d1a9d80fcfbafc09daf892a/042a50d5/plaquettemaisonMBa5.pdf",
+        "filename": "plaquette maison MB a5.pdf",
+        "size": 1637110,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/13a03a3986f0d5964da60b679753f5f5/b4cf8cab",
+            "width": 25,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/08f5f4be7f14e5145f1594e76e26efb7/f1cd73ca",
+            "width": 361,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "credits": "Forma 6 / Ardepa"
+  },
   "recR0CyEHxK24Jg9r": {
     "id": "recR0CyEHxK24Jg9r",
     "fichiers": [
@@ -786,6 +1071,146 @@
       "recy2MjKNYdzWUD4A"
     ],
     "titre": "perso 3"
+  },
+  "recTYB3iSebxFYDGg": {
+    "id": "recTYB3iSebxFYDGg",
+    "lieux": [
+      "rec0Rwewbk2MMTQAD"
+    ],
+    "titre": "promenade des nefs photos",
+    "credits": "PADW",
+    "fichiers": [
+      {
+        "id": "attlo7H1n9WJJjCxY",
+        "width": 2000,
+        "height": 800,
+        "url": "https://dl.airtable.com/.attachments/3d862b4e91eac48d195ee9ecf4040ef7/47d18577/_ICS4836.jpg",
+        "filename": "_ICS4836.jpg",
+        "size": 350728,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b7dda373f049e8d67108ec0a013591d3/76a51552",
+            "width": 90,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1e048a655eed4fb2a91735ad20be874b/9e1b0643",
+            "width": 1280,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/67550968e1d63496b007ab3516eef5c1/08ed3365",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attqG23azCNlXRjMv",
+        "width": 1315,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/aa4b052f2364a7c1eb92ab115e947510/f1cc9035/_ICS4943.jpg",
+        "filename": "_ICS4943.jpg",
+        "size": 412891,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/66e313a55be39337fd6b2f49ba8bc43d/d15186d5",
+            "width": 44,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7d758bb8916ab0c759993f777855d6ee/9b6cd6c9",
+            "width": 623,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9deb349c981ca2ec0b894e8938fc07bd/ef1cd7ec",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attEAPc19NyE4ep9P",
+        "width": 1290,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/3db7c1dad503ec2c681b3ae722dcf8f0/fb4fc05b/_ICS5426.jpg",
+        "filename": "_ICS5426.jpg",
+        "size": 420927,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2eba35256960dd3a2bc4977612d9099a/d3f017bc",
+            "width": 43,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8053bcb3ddd993fd89ebe12cffae92d4/71550391",
+            "width": 612,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c60c89eab4269d40a649c477956e53a5/b5f3514c",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "att3SaF7GGylZfvbI",
+        "width": 1215,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/f506939676825b63665cf9e2c4784f67/6d6ba9ee/_ICS5679.jpg",
+        "filename": "_ICS5679.jpg",
+        "size": 595050,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f4c9b0e4ae6d4deabab88886053200f2/2abce494",
+            "width": 41,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c2e7f0060efeb2baa6e6c75e8d83b004/02ad53c2",
+            "width": 576,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a4a200165f7a62420ab0ecd9360b48f6/fbc3342d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attbS01OGQjh1LFpL",
+        "width": 1160,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/d03675de805bd20d2c818b4e59927bf3/50ec8f7c/_ICS5883.jpg",
+        "filename": "_ICS5883.jpg",
+        "size": 421491,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/50946cd6c32d64d9640fd01e62b4fda2/8c1b9e24",
+            "width": 39,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9b25e6d6f42b43dd372dc9ad768b049a/56e931db",
+            "width": 550,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7733a5f41ed211e887309b5b6aeb4956/03f09b54",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
   },
   "recTi1UryVHsdCMWP": {
     "id": "recTi1UryVHsdCMWP",
@@ -1062,6 +1487,42 @@
     ],
     "titre": "Espace culturel des pierres blanches - dossier de presse",
     "credits": "RAUM"
+  },
+  "recWjvquzg6rfDxU1": {
+    "id": "recWjvquzg6rfDxU1",
+    "cover_lieux": [
+      "reccVHejspOWs8dm2"
+    ],
+    "titre": "Église Magnum cover",
+    "fichiers": [
+      {
+        "id": "attA1HB7UgLJ57a0J",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/208e2208823be884ea7e6bb9dfd36ad4/06a1983e/eglisemagnumcover.jpg",
+        "filename": "eglise magnum cover.jpg",
+        "size": 212653,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3d858d698449061f6c635a3d83496fc8/5f39a387",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6768afee7287d727cfa27df113b80497/87561f41",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3a03e12a3c2294eb13914e1730651726/720fe149",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Magnum Architectes"
   },
   "recYWBvYrV83gjwGi": {
     "id": "recYWBvYrV83gjwGi",
@@ -2068,7 +2529,7 @@
         }
       }
     ],
-    "credits": "Ardepa"
+    "credits": "MIMA / Ardepa"
   },
   "recm5ZABxVNTdAnjg": {
     "id": "recm5ZABxVNTdAnjg",
@@ -2106,8 +2567,44 @@
       "recXIe49AgTTO1AuY"
     ]
   },
+  "reco6DHT6T2CGeNcp": {
+    "id": "reco6DHT6T2CGeNcp",
+    "lieux": [
+      "rec0Rwewbk2MMTQAD"
+    ],
+    "titre": "promenade des nefs "
+  },
   "recoNlnk4vPHMikzq": {
     "id": "recoNlnk4vPHMikzq"
+  },
+  "recqg0TJwOko8Ui8W": {
+    "id": "recqg0TJwOko8Ui8W",
+    "lieux": [
+      "recXrmOzavWvTwx9T"
+    ],
+    "titre": "Viseo plaquette visite",
+    "fichiers": [
+      {
+        "id": "attYSxmmfLlUtGipI",
+        "url": "https://dl.airtable.com/.attachments/fb3e7b99d8edabba8212f25dedb008fd/2ae9a02b/plaquetteViseoa5.pdf",
+        "filename": "plaquette Viseo a5.pdf",
+        "size": 4345098,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/69d2acfcebbe25c53da9e8e50a0a0fdf/137eedc5",
+            "width": 25,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/dabe55c93dd15e5abd0b4af244813b79/72312c35",
+            "width": 361,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "credits": "RAUM / Ardepa"
   },
   "recuNktTmZtpBugOG": {
     "id": "recuNktTmZtpBugOG",
@@ -2184,6 +2681,42 @@
     "id": "recyE9GAQtMxFjjuo",
     "titre": "titre"
   },
+  "recyG56HK7rSIt4rz": {
+    "id": "recyG56HK7rSIt4rz",
+    "cover_lieux": [
+      "rec0Rwewbk2MMTQAD"
+    ],
+    "titre": "promenade des nefs cover",
+    "fichiers": [
+      {
+        "id": "attOsK30r7BMUZFLm",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/da2e17c9b3bb78a9795570ad440bdd8a/3ec66130/promenadenefscover.jpg",
+        "filename": "promenade nefs cover.jpg",
+        "size": 507350,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1a5d4bc18a3b10951523210f742393da/0bb45f8b",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/72c070147e78d3511e19c66d68a6c582/861f654b",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cafc7be865965c5e21f4daf2ce404a5c/73efbc64",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "PADW / Ardepa"
+  },
   "recyprUwCGW4mOuSA": {
     "id": "recyprUwCGW4mOuSA",
     "fichiers": [
@@ -2218,6 +2751,64 @@
     "credits": "Ardepa",
     "cover_lieux": [
       "recRFuKGP2zlHup3A"
+    ]
+  },
+  "reczFTxazxgslLkL8": {
+    "id": "reczFTxazxgslLkL8",
+    "lieux": [
+      "reccVHejspOWs8dm2"
+    ],
+    "titre": "Église Magnum plaquette visite",
+    "fichiers": [
+      {
+        "id": "attKriJBNXSUhAURf",
+        "url": "https://dl.airtable.com/.attachments/5a4c9017af966730f5b361e9c8708b52/e6aac489/plaquettemagnuma5.pdf",
+        "filename": "plaquette magnum a5.pdf",
+        "size": 638089,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e94a21c6638fb907712e459bfaf9cd24/51f60a07",
+            "width": 25,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/13065d84bbc014269ad78dbab88661d1/f406466f",
+            "width": 361,
+            "height": 512
+          }
+        }
+      }
+    ],
+    "credits": "Magnum architectes"
+  },
+  "reczTNvWG1E0nZ7dP": {
+    "id": "reczTNvWG1E0nZ7dP",
+    "lieux": [
+      "rec0Rwewbk2MMTQAD"
+    ],
+    "titre": "promenade des nefs plaquette visite",
+    "credits": "PADW / Ardepa",
+    "fichiers": [
+      {
+        "id": "attXffagvUOcbiXrh",
+        "url": "https://dl.airtable.com/.attachments/a78821ccefd514476539a1a6a14a6199/c37b94f0/LivretGense1-PromenadedesnefsA5.pdf",
+        "filename": "Livret Genèse1 - Promenade des nefs A5.pdf",
+        "size": 3888750,
+        "type": "application/pdf",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0ccf56c140cfbc4b262376f57fbd659d/d9867667",
+            "width": 25,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1baac8f5bddd0d1dc66cef6a1937771b/2efaca11",
+            "width": 361,
+            "height": 512
+          }
+        }
+      }
     ]
   }
 }

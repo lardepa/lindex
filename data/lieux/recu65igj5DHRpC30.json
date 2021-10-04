@@ -78,7 +78,7 @@
     }
   ],
   "status": "Publié",
-  "présentation": "Une intégration paysagère douce qui accompagne le développement de la commune.\nNi au centre de la commune, ni véritablement en périphérie au regard de l’extension urbaine en cours au nord de la rue des pierres blanches, la situation du projet d’espace festif et culturel offre l’opportunité de conforter le développement de la ville par l’affirmation du caractère public des aménagements et des équipements.\nLa contemporanéité d’une écriture architecturale sobre et événementielle.\nAu delà de la nouvelle offre publique offerte par la nouvelle salle, sa forme et sa volumétrie doivent offrir une insertion douce dans son environnement tout en proposant une identité au caractère événementiel affirmé.\nL’usage de matériaux bruts et durables (terre cuite, béton, bois) permet de réduire au maximum les coûts d’entretien et de maintenance mais s’intègrent surtout comme outil de proposition d’une architecture contemporaine sobre et intemporelle.\nLa qualité de ces matériaux est au centre des ambiances proposées, tant à l’intérieur qu’à l’extérieur et participe pleinement à singulariser le projet et son «atmosphère» : la sobriété des matières nobles utilisées confère aux espaces le caractère solennel que nécessite certains des usages et permet de mettre en avant la qualité des dispositifs spatiaux.\nAinsi les espaces de réception majeurs (salle, hall d’accueil, salle de réunion, salle de musique) profitent de hauteurs sous plafond très importantes ainsi que de cadrages particuliers sur le paysage, en offrant la lecture de grandes porosités et d’espaces extérieurs aux qualité d’usage différenciées. \nCes deux dispositifs, jeux de volumes et de matières, participent pleinement à la proposition d’une hétérogénéité volumétrique cohérente, qui offre dans un volume très compact une lecture géographique des fonctions et des usages.\nTexte extrait du dossier de presse, RAUM\n\nRetrouvez l'article et la plaquette de cette visite sur le **[site web de l'ardepa !](https://www.lardepa.com/genese-2020-1-espace-culturel-des-pierres-blanches/)**\n\nL'Espace culturel des Pierres Blanches a été lauréat dans la catégorie Culture, Jeunesse et Sport lors du prix Équerre d'Argent 2019.\n",
+  "présentation": "Une intégration paysagère douce qui accompagne le développement de la commune.\nNi au centre de la commune, ni véritablement en périphérie au regard de l’extension urbaine en cours au nord de la rue des pierres blanches, la situation du projet d’espace festif et culturel offre l’opportunité de conforter le développement de la ville par l’affirmation du caractère public des aménagements et des équipements.\nLa contemporanéité d’une écriture architecturale sobre et événementielle.\nAu delà de la nouvelle offre publique offerte par la nouvelle salle, sa forme et sa volumétrie doivent offrir une insertion douce dans son environnement tout en proposant une identité au caractère événementiel affirmé.\nL’usage de matériaux bruts et durables (terre cuite, béton, bois) permet de réduire au maximum les coûts d’entretien et de maintenance mais s’intègrent surtout comme outil de proposition d’une architecture contemporaine sobre et intemporelle.\nLa qualité de ces matériaux est au centre des ambiances proposées, tant à l’intérieur qu’à l’extérieur et participe pleinement à singulariser le projet et son «atmosphère» : la sobriété des matières nobles utilisées confère aux espaces le caractère solennel que nécessite certains des usages et permet de mettre en avant la qualité des dispositifs spatiaux.\nAinsi les espaces de réception majeurs (salle, hall d’accueil, salle de réunion, salle de musique) profitent de hauteurs sous plafond très importantes ainsi que de cadrages particuliers sur le paysage, en offrant la lecture de grandes porosités et d’espaces extérieurs aux qualité d’usage différenciées. \nCes deux dispositifs, jeux de volumes et de matières, participent pleinement à la proposition d’une hétérogénéité volumétrique cohérente, qui offre dans un volume très compact une lecture géographique des fonctions et des usages.\nTexte extrait du dossier de presse, RAUM\n\nRetrouvez l'article et la plaquette de cette visite sur le **[site web de l'ardepa !](https://www.lardepa.com/genese-2020-1-espace-culturel-des-pierres-blanches/)**\n\nL'Espace culturel des Pierres Blanches a été lauréat dans la catégorie Culture, Jeunesse et Sport lors du prix Équerre d'Argent 2019.\n• L'ardepa a visité ce lieu le 16 mars 2020\n",
   "distinctions": [
     {
       "id": "recp0W1AeapKvzlxk",
@@ -165,7 +165,9 @@
         "recRFuKGP2zlHup3A",
         "recpN2hW8eG6SnkLe",
         "rec5EHfAartf4PUHm",
-        "recATsZWxsng7iDNK"
+        "recATsZWxsng7iDNK",
+        "rec0Rwewbk2MMTQAD",
+        "reccVHejspOWs8dm2"
       ],
       "nom": "années 2010"
     }
@@ -374,7 +376,36 @@
       ],
       "titre": "Espace culturel des pierres blanches - dossier de presse",
       "credits": "RAUM"
+    },
+    {
+      "id": "recOVH81y49dbw93D",
+      "lieux": [
+        "recu65igj5DHRpC30"
+      ],
+      "titre": "pierres banches plaquette de visite",
+      "fichiers": [
+        {
+          "id": "att9EkA4dfAslo8xN",
+          "url": "https://dl.airtable.com/.attachments/da619a3e505c9d3a25be6916a30d3400/2a146017/sallefestiveraumplaquettea5.pdf",
+          "filename": "salle festive raum plaquette a5.pdf",
+          "size": 581886,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/51344d96fb5d45cda625bdccf78ead84/63aa2acb",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/28d8ab469189f42a064a9b7ee260e517/f4ca522e",
+              "width": 361,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "credits": "RAUM / Ardepa"
     }
   ],
-  "dernière modification": "2021-09-30T13:28:34.000Z"
+  "dernière modification": "2021-10-04T08:38:53.000Z"
 }

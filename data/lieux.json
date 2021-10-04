@@ -1,5 +1,342 @@
 [
   {
+    "id": "rec0Rwewbk2MMTQAD",
+    "nom": "La promenade des Nefs ",
+    "dernière modification": "2021-10-04T08:56:48.000Z",
+    "adresse": "43 rue du Bois Hercé 44100 Nantes\n",
+    "département": "44 Loire-Atlantique",
+    "geolocalisation": [
+      47.208040856736005,
+      -1.591524224806077
+    ],
+    "type": [
+      {
+        "id": "recutlOJwb5QQKd5c",
+        "type_destination": "Logement",
+        "destination": "Logements Collectifs",
+        "lieux": [
+          "recXrmOzavWvTwx9T",
+          "recdqD43kpp1pOv3x",
+          "rec72cuqtL80v3RYm",
+          "recjkXrXE0hZw6f4t",
+          "recP6LOBOUBRRlLnt",
+          "rec0Rwewbk2MMTQAD"
+        ]
+      }
+    ],
+    "présentation": "S’inscrivant dans l’existant, le projet s’est construit autour de la volonté d’ouvrir le cœur d’îlot, de privilégier les chemins piétons et de construire un programme à échelle humaine. L’implantation des bâtiments et les aménagements paysagers s’organisent autour d’une nouvelle voie de desserte. Au nord, en limite de parcelle, un bâtiment collectif est destiné au bailleur social Nantes Habitat. En cœur d’îlot, sont installés deux petits collectifs. Au sud, le projet met en scène la structure métallique existante des nefs.\nAprès dépose du bardage et de la couverture, quatre plots de logements intermédiaires et individuels s’inscrivent entre ses trames. Longés par la voie d’opportunité, deux bâtiments en R+2+attique émergent de la structure ; deux autres plots en RdC et R+1+attique s’y insèrent. Une partie de la nef est couverte, offrant ainsi des espaces de circulation abrités reliant les différents bâtiments. Afin de faire écho à l’ancienne volumétrie des nefs, des toitures à double pente viennent s’intercaler entre les différentes toitures terrasses.\nL’ensemble des logements a été conçu de façon à posséder une double orientation et avoir une vue sur un espace vert. Toutes les toitures terrasses des bâtiments en RdC et R+1 sont ainsi végétalisées. Le site de la Marseillaise offre aujourd’hui un cadre de vie verdoyant en cœur de ville, source de bien-être, d’échange et de partage.\nL’organisation générale des bâtiments s’appuie sur l’ambition de répondre aux enjeux de la qualité de vie des logements. En effet, pour profiter au maximum de l’orientation sud et/ou d’une ouverture sur des espaces paysagés, le projet propose des espaces extérieurs qui prolongent les logements (balcons, terrasses, à tous niveaux).\nL’aménagement paysager se structure autour de trois espaces singuliers. Sous les nefs, un jardin exotique constitue un cocon pour les maisons et petits collectifs logés sous la structure. Dans l’axe central, une colonne piétonne donne accès au site ; c’est également une voie d’opportunité traitée en chemin bordé de massifs et de pavés engazonnés mais permettant le passage de certains véhicules (déménagement, entretien,…). Enserré entre les collectifs, le jardin ouest est un cœur d’îlot à part entière, propice aux jeux et à la flânerie. \nEn limite d’un parking de supermarché, une grande fresque a été réalisée par le collectif 100 Pression reprenant l’histoire du site sur le thème du monde ouvrier.\n_Texte des architectes_\n_• L'ardepa a visité ce lieu le 12 janvier 2018_\n",
+    "date": "2015",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu",
+          "rec7OkEzJNwlvELsf",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED",
+          "rechFw6KIHy4PVSUb",
+          "rec0tsNbxoh48H20l",
+          "recX0Kj4p2adp8f8U",
+          "recY5jgLHC0792Lr0",
+          "recloEgKAuO4WjR2r",
+          "recelyrNTkM7l50Jd",
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt",
+          "recu65igj5DHRpC30",
+          "recRFuKGP2zlHup3A",
+          "recpN2hW8eG6SnkLe",
+          "rec5EHfAartf4PUHm",
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "maitre_oeuvre": [
+      {
+        "id": "recHLFIPmSHRXkUfj",
+        "maitre_oeuvre": [
+          "recP6LOBOUBRRlLnt",
+          "rec0Rwewbk2MMTQAD"
+        ],
+        "site_web": "http://www.pa-dw.fr/",
+        "nom": "PADW - Pellegrino Associés Design Workshop"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recX1nhf5TDMAY0rr",
+        "maitre_ouvrage": [
+          "rec0Rwewbk2MMTQAD"
+        ],
+        "nom": "Ataraxia Promotion"
+      }
+    ],
+    "status": "Publié",
+    "cover_media": {
+      "id": "recyG56HK7rSIt4rz",
+      "cover_lieux": [
+        "rec0Rwewbk2MMTQAD"
+      ],
+      "titre": "promenade des nefs cover",
+      "fichiers": [
+        {
+          "id": "attOsK30r7BMUZFLm",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/da2e17c9b3bb78a9795570ad440bdd8a/3ec66130/promenadenefscover.jpg",
+          "filename": "promenade nefs cover.jpg",
+          "size": 507350,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1a5d4bc18a3b10951523210f742393da/0bb45f8b",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/72c070147e78d3511e19c66d68a6c582/861f654b",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cafc7be865965c5e21f4daf2ce404a5c/73efbc64",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "PADW / Ardepa"
+    },
+    "médias": [
+      {
+        "id": "recTYB3iSebxFYDGg",
+        "lieux": [
+          "rec0Rwewbk2MMTQAD"
+        ],
+        "titre": "promenade des nefs photos",
+        "credits": "PADW",
+        "fichiers": [
+          {
+            "id": "attlo7H1n9WJJjCxY",
+            "width": 2000,
+            "height": 800,
+            "url": "https://dl.airtable.com/.attachments/3d862b4e91eac48d195ee9ecf4040ef7/47d18577/_ICS4836.jpg",
+            "filename": "_ICS4836.jpg",
+            "size": 350728,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b7dda373f049e8d67108ec0a013591d3/76a51552",
+                "width": 90,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1e048a655eed4fb2a91735ad20be874b/9e1b0643",
+                "width": 1280,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/67550968e1d63496b007ab3516eef5c1/08ed3365",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attqG23azCNlXRjMv",
+            "width": 1315,
+            "height": 1080,
+            "url": "https://dl.airtable.com/.attachments/aa4b052f2364a7c1eb92ab115e947510/f1cc9035/_ICS4943.jpg",
+            "filename": "_ICS4943.jpg",
+            "size": 412891,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/66e313a55be39337fd6b2f49ba8bc43d/d15186d5",
+                "width": 44,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7d758bb8916ab0c759993f777855d6ee/9b6cd6c9",
+                "width": 623,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9deb349c981ca2ec0b894e8938fc07bd/ef1cd7ec",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attEAPc19NyE4ep9P",
+            "width": 1290,
+            "height": 1080,
+            "url": "https://dl.airtable.com/.attachments/3db7c1dad503ec2c681b3ae722dcf8f0/fb4fc05b/_ICS5426.jpg",
+            "filename": "_ICS5426.jpg",
+            "size": 420927,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2eba35256960dd3a2bc4977612d9099a/d3f017bc",
+                "width": 43,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8053bcb3ddd993fd89ebe12cffae92d4/71550391",
+                "width": 612,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c60c89eab4269d40a649c477956e53a5/b5f3514c",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "att3SaF7GGylZfvbI",
+            "width": 1215,
+            "height": 1080,
+            "url": "https://dl.airtable.com/.attachments/f506939676825b63665cf9e2c4784f67/6d6ba9ee/_ICS5679.jpg",
+            "filename": "_ICS5679.jpg",
+            "size": 595050,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f4c9b0e4ae6d4deabab88886053200f2/2abce494",
+                "width": 41,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c2e7f0060efeb2baa6e6c75e8d83b004/02ad53c2",
+                "width": 576,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a4a200165f7a62420ab0ecd9360b48f6/fbc3342d",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attbS01OGQjh1LFpL",
+            "width": 1160,
+            "height": 1080,
+            "url": "https://dl.airtable.com/.attachments/d03675de805bd20d2c818b4e59927bf3/50ec8f7c/_ICS5883.jpg",
+            "filename": "_ICS5883.jpg",
+            "size": 421491,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/50946cd6c32d64d9640fd01e62b4fda2/8c1b9e24",
+                "width": 39,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9b25e6d6f42b43dd372dc9ad768b049a/56e931db",
+                "width": 550,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7733a5f41ed211e887309b5b6aeb4956/03f09b54",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "reco6DHT6T2CGeNcp",
+        "lieux": [
+          "rec0Rwewbk2MMTQAD"
+        ],
+        "titre": "promenade des nefs "
+      },
+      {
+        "id": "rec8UaHaRpQZCzUr7",
+        "lieux": [
+          "rec0Rwewbk2MMTQAD"
+        ],
+        "titre": "promenade des nefs documents",
+        "fichiers": [
+          {
+            "id": "att95HgWf9ckpdlJC",
+            "url": "https://dl.airtable.com/.attachments/d956ca01dcc320d5bb2e68e13d1d5b02/29c3ddef/promenadedesnefsdocuments.pdf",
+            "filename": "promenade des nefs documents.pdf",
+            "size": 4792237,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/16b742ed843a253851cf3fed700cacdc/9777cb5f",
+                "width": 51,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/34d555be6547e0297815b2177d7081c4/eb1e723d",
+                "width": 512,
+                "height": 362
+              }
+            }
+          }
+        ],
+        "credits": "PADW"
+      },
+      {
+        "id": "reczTNvWG1E0nZ7dP",
+        "lieux": [
+          "rec0Rwewbk2MMTQAD"
+        ],
+        "titre": "promenade des nefs plaquette visite",
+        "credits": "PADW / Ardepa",
+        "fichiers": [
+          {
+            "id": "attXffagvUOcbiXrh",
+            "url": "https://dl.airtable.com/.attachments/a78821ccefd514476539a1a6a14a6199/c37b94f0/LivretGense1-PromenadedesnefsA5.pdf",
+            "filename": "Livret Genèse1 - Promenade des nefs A5.pdf",
+            "size": 3888750,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0ccf56c140cfbc4b262376f57fbd659d/d9867667",
+                "width": 25,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1baac8f5bddd0d1dc66cef6a1937771b/2efaca11",
+                "width": 361,
+                "height": 512
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "rec4neQMuPblp8tuX",
     "adresse": "106 avenue Pierre de Couvertin 53130 Laval\n",
     "type": [
@@ -100,7 +437,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -233,7 +572,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -397,9 +738,39 @@
         ],
         "titre": "limonier photos 2",
         "credits": "0101 Architectes"
+      },
+      {
+        "id": "rec8YraVY0nhsW3R1",
+        "lieux": [
+          "rec5EHfAartf4PUHm"
+        ],
+        "titre": "limonier plaquette visite",
+        "fichiers": [
+          {
+            "id": "attyAXilRDGc6r8cj",
+            "url": "https://dl.airtable.com/.attachments/d1b88fac2f92a7f198d73d82f3ec63a8/6496bf24/plaquettemaisonlimoniera5.pdf",
+            "filename": "plaquette maison limonier a5.pdf",
+            "size": 909528,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/85400f8ac643b26ea70f254a76579592/b5f5b383",
+                "width": 25,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/754ccef0f5c6e9d43a74f1b2606ad725/b1498493",
+                "width": 361,
+                "height": 512
+              }
+            }
+          }
+        ],
+        "credits": "0101 Architectes / Ardepa"
       }
     ],
-    "dernière modification": "2021-10-04T07:36:41.000Z"
+    "dernière modification": "2021-10-04T08:29:59.000Z",
+    "présentation": "Le Val de Chézine est un paysage nantais à part entière. Ce ruisseau connecte différents parcs de la métropole et compose une promenade de plusieurs kilomètres largement végétalisée, refuge de la biodiversité en ville. La situation du projet était une opportunité pour profiter de ce paysage original tout en bénéficiant des atouts du centre-ville. \nLa maison existante étant petite et structurellement inadaptée à une surélévation, le projet d’agrandissement s’est rapidement orienté vers une démolition-reconstruction. Le nouveau bâtiment en ossature bois conserve l’implantation d’origine en y intégrant ses extensions successives (appentis et véranda). Le principal objectif a été d’optimiser le rapport aux espaces extérieurs, malgré les dimensions réduites de la parcelle et tout en respectant le programme initial. Au rez-de-chaussée, le plan est réparti entre les espaces techniques au nord, accessibles par une large porte sectionnelle depuis l’impasse, et la pièce de vie au sud, entièrement vitrée sur le jardin. Au premier étage se trouvent les chambres et les salles de bains, tandis que le toit est aménagé en terrasse accessible. \nLe toit terrasse permet, avec le jardin, d’utiliser toute la surface de la parcelle comme un extérieur accessible, et crée un belvédère sur le sillage des grands arbres qui bordent le cours d’eau. \nDe l’extérieur la nouvelle maison se présente comme une accumulation de strates : les murs mitoyens en pierres conservés, la partie intermédiaire en bardage bois, et la carrosserie métallique de l’élément supérieur, sorte de cabriolet ouvert sur le ciel.\n_Texte : 0101 Architectes_\n_• L'ardepa a visité ce lieu le 18 octobre 2019_\n"
   },
   {
     "id": "rec72cuqtL80v3RYm",
@@ -414,7 +785,8 @@
           "recdqD43kpp1pOv3x",
           "rec72cuqtL80v3RYm",
           "recjkXrXE0hZw6f4t",
-          "recP6LOBOUBRRlLnt"
+          "recP6LOBOUBRRlLnt",
+          "rec0Rwewbk2MMTQAD"
         ]
       },
       {
@@ -507,7 +879,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -618,7 +992,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -740,7 +1116,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -836,7 +1214,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -847,7 +1227,7 @@
     ],
     "département": "44 Loire-Atlantique",
     "date": "2019",
-    "dernière modification": "2021-10-04T08:00:24.000Z",
+    "dernière modification": "2021-10-04T08:29:56.000Z",
     "cover_media": {
       "id": "recGHXDvmMZVZ8p6M",
       "cover_lieux": [
@@ -1029,9 +1409,10 @@
             }
           }
         ],
-        "credits": "Ardepa"
+        "credits": "MIMA / Ardepa"
       }
-    ]
+    ],
+    "présentation": "_• L'ardepa a visité ce lieu le 22 février 2019_\n"
   },
   {
     "id": "recBxhZLsWO1HSu4R",
@@ -1121,7 +1502,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -1237,7 +1620,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -1349,7 +1734,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -1463,7 +1850,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -1568,7 +1957,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -1669,7 +2060,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -1794,7 +2187,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -1916,7 +2311,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -2020,7 +2417,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -2116,7 +2515,7 @@
       }
     ],
     "status": "Publié",
-    "présentation": "Dans le centre-ville de Nantes, la maison\nexistante sur deux étages est de la fin\ndu XIXème siècle mais sans grand intérêt\narchitectural. En alignement sur la rue qu’elle\ndomine, elle est de plain-pied sur un jardin\npaysagé à l’arrière dont elle ne profite pas.\nSes particularités sont la base de la\nconception de l’extension :\n\\- Discontinuité et multiplicité de\nniveaux : au niveau de la rue et encaissé par\nrapport au jardin, un garage en mitoyenneté\net en rez-de-chaussée crée une discontinuité\ndans l’épannelage et l’alignement urbain.\n\\- Volumétrie et fragmentation : Au\nniveau du jardin, le volume à une pente de\nla cuisine se greffe en appentis sur la maison\nexistante peu profonde.\nLe projet d’extension :\nLe par ti-pris du projet est l’enroulement.\nL’extension à rez-de-chaussée sur jardin\nvient s’aligner sur la cuisine en appentis en\ndoublant l’épaisseur de la maison existante,\nse retourne sur le garage puis s’élève côté rue\npour recoudre l’épannelage, aller chercher le\nsoleil et se protéger des vis à vis.\nLa réalisation de l’extension en structure bois\npréfabriquée prend son sens dans l’étroitesse\nde la rue de centre-ville, dans la complexité\nvolumétrique du projet et dans la volonté de\nconstruire durable et biosourcé.\nLa dichotomie entre rue étroite et jardin\nluxuriant et entre existant sévère et neuf en\nmouvement s’affirme dans le traitement des\nfaçades. La maison existante est seulement\npeinte alors que l’extension, immergée dans\nle jardin, reçoit un bardage en fascines de\nchâtaignier non écorcées lui donnant un\nesprit végétal.\nEn plan, à la multiplicité des volumes et des\nniveaux existants répond une multiplicité\nde niveaux en extension afin d’adoucir\nle passage de l’un à l’autre et d’offrir une\npluralité de points de vue et d’ouver tures\nvers l’extérieur.\nTexte de Catherine Malleret.\n",
+    "présentation": "Dans le centre-ville de Nantes, la maison\nexistante sur deux étages est de la fin\ndu XIXème siècle mais sans grand intérêt\narchitectural. En alignement sur la rue qu’elle\ndomine, elle est de plain-pied sur un jardin\npaysagé à l’arrière dont elle ne profite pas.\nSes particularités sont la base de la\nconception de l’extension :\n\\- Discontinuité et multiplicité de\nniveaux : au niveau de la rue et encaissé par\nrapport au jardin, un garage en mitoyenneté\net en rez-de-chaussée crée une discontinuité\ndans l’épannelage et l’alignement urbain.\n\\- Volumétrie et fragmentation : Au\nniveau du jardin, le volume à une pente de\nla cuisine se greffe en appentis sur la maison\nexistante peu profonde.\nLe projet d’extension :\nLe par ti-pris du projet est l’enroulement.\nL’extension à rez-de-chaussée sur jardin\nvient s’aligner sur la cuisine en appentis en\ndoublant l’épaisseur de la maison existante,\nse retourne sur le garage puis s’élève côté rue\npour recoudre l’épannelage, aller chercher le\nsoleil et se protéger des vis à vis.\nLa réalisation de l’extension en structure bois\npréfabriquée prend son sens dans l’étroitesse\nde la rue de centre-ville, dans la complexité\nvolumétrique du projet et dans la volonté de\nconstruire durable et biosourcé.\nLa dichotomie entre rue étroite et jardin\nluxuriant et entre existant sévère et neuf en\nmouvement s’affirme dans le traitement des\nfaçades. La maison existante est seulement\npeinte alors que l’extension, immergée dans\nle jardin, reçoit un bardage en fascines de\nchâtaignier non écorcées lui donnant un\nesprit végétal.\nEn plan, à la multiplicité des volumes et des\nniveaux existants répond une multiplicité\nde niveaux en extension afin d’adoucir\nle passage de l’un à l’autre et d’offrir une\npluralité de points de vue et d’ouver tures\nvers l’extérieur.\nTexte de Catherine Malleret.\n_• L'ardepa a visité ce lieu le 16 octobre 2020_\n",
     "nom": "Maison MB",
     "cover_media": {
       "id": "recyprUwCGW4mOuSA",
@@ -2192,7 +2591,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -2424,9 +2825,38 @@
         ],
         "titre": "Maison MB plans et coupes",
         "credits": "Forma 6"
+      },
+      {
+        "id": "recPD9jckOKyynovA",
+        "lieux": [
+          "recRFuKGP2zlHup3A"
+        ],
+        "titre": "maison MB plaquette de visite",
+        "fichiers": [
+          {
+            "id": "attz8FEw4VR1dJST3",
+            "url": "https://dl.airtable.com/.attachments/412aca4a0d1a9d80fcfbafc09daf892a/042a50d5/plaquettemaisonMBa5.pdf",
+            "filename": "plaquette maison MB a5.pdf",
+            "size": 1637110,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/13a03a3986f0d5964da60b679753f5f5/b4cf8cab",
+                "width": 25,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/08f5f4be7f14e5145f1594e76e26efb7/f1cd73ca",
+                "width": 361,
+                "height": 512
+              }
+            }
+          }
+        ],
+        "credits": "Forma 6 / Ardepa"
       }
     ],
-    "dernière modification": "2021-09-30T13:28:05.000Z"
+    "dernière modification": "2021-10-04T09:00:57.000Z"
   },
   {
     "id": "recRlloApjtcScitR",
@@ -2720,7 +3150,7 @@
       }
     ],
     "status": "Publié",
-    "présentation": "L’ancien magasin de matériel de cuisine doit être transformé en espace d’exposition et de communication ouvert au public. \nLa rénovation doit mettre le bâtiment aux normes avec ses nouveaux usages.\nUn travail en équipe avec les scénographes et l’exploitant du restaurant doit permettre de donner une nouvelle identité à ce lieu atypique et idéalement situé au coeur de la rénovation urbaine de l’île de Nantes.\n_Texte : 0101 Architectes_\n",
+    "présentation": "L’ancien magasin de matériel de cuisine doit être transformé en espace d’exposition et de communication ouvert au public. \nLa rénovation doit mettre le bâtiment aux normes avec ses nouveaux usages.\nUn travail en équipe avec les scénographes et l’exploitant du restaurant doit permettre de donner une nouvelle identité à ce lieu atypique et idéalement situé au coeur de la rénovation urbaine de l’île de Nantes.\n_Texte : 0101 Architectes_\n_• L'ardepa a visité ce lieu le 16 novembre 2019, lors de l'Expédition urbaine \"La culture urbaine et l’urbanisme transitoire sur l’île de Nantes\"_\n",
     "nom": "Labo Diva",
     "cover_media": {
       "id": "recdeHjCwMxrdDcAk",
@@ -2945,7 +3375,7 @@
         "credits": "0101 Architectes"
       }
     ],
-    "dernière modification": "2021-09-30T15:59:03.000Z"
+    "dernière modification": "2021-10-04T08:31:34.000Z"
   },
   {
     "id": "recTr9BzAt1jG9yaJ",
@@ -3291,7 +3721,7 @@
       }
     ],
     "status": "Publié",
-    "présentation": "Ce bunker est un vestige de la Seconde Guerre mondiale dont la construction a été mise en chantier après les premiers bombardements de 1941 sur la ville ou ceux des 16 et 23 septembre 1943, qui marquent une intensification et une généralisation des destructions sur la ville. \nLe nom de « DY10 » sont les références cadastrales du terrain sur lequel il a été construit, et qui appartenait en partie au diocèse de Nantes (l’autre partie dépendait d’une propriété privée).\nL’ouvrage, composée de deux parties jumelles divisées en plusieurs pièces, sert à abriter les troupes allemandes et les ouvriers travaillant sur les Chantiers Dubigeon tout proches.\n\nDans les années 1950 et 1960, les marches d’accès au blockhaus deviennent un lieu de rassemblement du mouvement ouvrier.\nEn 1996, il fut occupé, en toute illégalité, par un collectif d’élèves de l’école d’architecture, qui le firent connaître pour son implication dans la vie culturelle alternative nantaise.\nLe groupe de punk-hardcore Die Hölle y a enregistré son premier album le 11 septembre 2005.\nDes concerts y étaient ponctuellement organisés.\n",
+    "présentation": "Ce bunker est un vestige de la Seconde Guerre mondiale dont la construction a été mise en chantier après les premiers bombardements de 1941 sur la ville ou ceux des 16 et 23 septembre 1943, qui marquent une intensification et une généralisation des destructions sur la ville. \nLe nom de « DY10 » sont les références cadastrales du terrain sur lequel il a été construit, et qui appartenait en partie au diocèse de Nantes (l’autre partie dépendait d’une propriété privée).\nL’ouvrage, composée de deux parties jumelles divisées en plusieurs pièces, sert à abriter les troupes allemandes et les ouvriers travaillant sur les Chantiers Dubigeon tout proches.\n\nDans les années 1950 et 1960, les marches d’accès au blockhaus deviennent un lieu de rassemblement du mouvement ouvrier.\nEn 1996, il fut occupé, en toute illégalité, par un collectif d’élèves de l’école d’architecture, qui le firent connaître pour son implication dans la vie culturelle alternative nantaise.\nLe groupe de punk-hardcore Die Hölle y a enregistré son premier album le 11 septembre 2005.\nDes concerts y étaient ponctuellement organisés.\n_• L'ardepa a visité ce lieu le 16 novembre 2019, lors de l'Expédition urbaine \"La culture urbaine et l’urbanisme transitoire sur l’île de Nantes\"_\n",
     "nom": "DY10",
     "cover_media": {
       "id": "rec9afvuhJDhSDt0e",
@@ -3434,7 +3864,7 @@
         "credits": "Association DY10"
       }
     ],
-    "dernière modification": "2021-09-30T14:32:58.000Z"
+    "dernière modification": "2021-10-04T08:31:10.000Z"
   },
   {
     "id": "recX0Kj4p2adp8f8U",
@@ -3526,7 +3956,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -3697,7 +4129,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -3782,7 +4216,8 @@
         "id": "recVInw9NjTvZ1X63",
         "destination": "Église",
         "lieux": [
-          "recXNuzkB4wj0g0H4"
+          "recXNuzkB4wj0g0H4",
+          "reccVHejspOWs8dm2"
         ]
       },
       {
@@ -3874,7 +4309,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -3938,7 +4375,8 @@
           "recdqD43kpp1pOv3x",
           "rec72cuqtL80v3RYm",
           "recjkXrXE0hZw6f4t",
-          "recP6LOBOUBRRlLnt"
+          "recP6LOBOUBRRlLnt",
+          "rec0Rwewbk2MMTQAD"
         ]
       },
       {
@@ -4121,9 +4559,38 @@
         ],
         "titre": "Viséo 3",
         "credits": "RAUM"
+      },
+      {
+        "id": "recqg0TJwOko8Ui8W",
+        "lieux": [
+          "recXrmOzavWvTwx9T"
+        ],
+        "titre": "Viseo plaquette visite",
+        "fichiers": [
+          {
+            "id": "attYSxmmfLlUtGipI",
+            "url": "https://dl.airtable.com/.attachments/fb3e7b99d8edabba8212f25dedb008fd/2ae9a02b/plaquetteViseoa5.pdf",
+            "filename": "plaquette Viseo a5.pdf",
+            "size": 4345098,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/69d2acfcebbe25c53da9e8e50a0a0fdf/137eedc5",
+                "width": 25,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dabe55c93dd15e5abd0b4af244813b79/72312c35",
+                "width": 361,
+                "height": 512
+              }
+            }
+          }
+        ],
+        "credits": "RAUM / Ardepa"
       }
     ],
-    "dernière modification": "2021-09-30T13:27:49.000Z"
+    "dernière modification": "2021-10-04T08:13:14.000Z"
   },
   {
     "id": "recY5jgLHC0792Lr0",
@@ -4229,7 +4696,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -4333,7 +4802,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -4573,9 +5044,333 @@
         ],
         "titre": "Relier les impasses 3",
         "credits": "ardepa"
+      },
+      {
+        "id": "rec1PuVHGZWNHh7Eq",
+        "lieux": [
+          "recahyhau12Ghaztg"
+        ],
+        "titre": "relier les impasses plaquette de visite",
+        "fichiers": [
+          {
+            "id": "attK30PLc1yf63wQk",
+            "url": "https://dl.airtable.com/.attachments/8b643a392b3379ce1a463b93fcccac8e/ffc29c1e/ardepaplaquettebigreA5.pdf",
+            "filename": "ardepa plaquette bigre A5.pdf",
+            "size": 548689,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7a6acf32f364b5197ada0b29ae7c60f3/2fd92d51",
+                "width": 25,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ae3a66991ee5af519bd8486dbd8c4040/8d56f7fa",
+                "width": 361,
+                "height": 512
+              }
+            }
+          }
+        ],
+        "credits": "Bigre ! / Ardepa"
       }
     ],
-    "dernière modification": "2021-09-30T13:27:51.000Z"
+    "dernière modification": "2021-10-04T08:13:45.000Z"
+  },
+  {
+    "id": "reccVHejspOWs8dm2",
+    "dernière modification": "2021-10-04T09:09:59.000Z",
+    "nom": "Église Saint-Vincent-de-Paul",
+    "présentation": "Comment moderniser, dans un quartier populaire, une église campée depuis 65 ans dans une ancienne fabrique de brouettes, à l’accessibilité confuse ?\nTrois fils rouge ont été proposés : sobriété, fonctionnalité et identité paroissiale.\nLa composition a été clarifiée : la maison paroissiale remise à sa place, l’accès au site se resserre sur une entrée unique, offrant, en retrait de l’emprise publique, un vaste parvis, un lieu de rencontres constituant un creux qui délimite un contour. La voie est alors ouverte à une construction nouvelle, baignée\nde lumière.\nBlanche, lumineuse, l’assemblée est couverte par un plafond en bois plissé, comme un drapé au dessus des fidèles.\n_Texte : Magnum Architectes_\n_• L'ardepa a visité ce lieu le 16 mars 2018_\n",
+    "adresse": "10 Rue Ernest Sauvestre, 44400 Rezé\n",
+    "département": "44 Loire-Atlantique",
+    "geolocalisation": [
+      47.167452,
+      -1.542924
+    ],
+    "type": [
+      {
+        "id": "recVInw9NjTvZ1X63",
+        "destination": "Église",
+        "lieux": [
+          "recXNuzkB4wj0g0H4",
+          "reccVHejspOWs8dm2"
+        ]
+      }
+    ],
+    "date": "2015",
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu",
+          "rec7OkEzJNwlvELsf",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED",
+          "rechFw6KIHy4PVSUb",
+          "rec0tsNbxoh48H20l",
+          "recX0Kj4p2adp8f8U",
+          "recY5jgLHC0792Lr0",
+          "recloEgKAuO4WjR2r",
+          "recelyrNTkM7l50Jd",
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt",
+          "recu65igj5DHRpC30",
+          "recRFuKGP2zlHup3A",
+          "recpN2hW8eG6SnkLe",
+          "rec5EHfAartf4PUHm",
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
+        ],
+        "nom": "années 2010"
+      }
+    ],
+    "status": "Publié",
+    "maitre_oeuvre": [
+      {
+        "id": "recDw2PcGxcwi2dF2",
+        "maitre_oeuvre": [
+          "reccVHejspOWs8dm2"
+        ],
+        "nom": "Magnum Architectes & Urbanistes",
+        "site_web": "http://www.agencemagnum.com/#1"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recZzRZbG9HPudGvw",
+        "maitre_ouvrage": [
+          "reccVHejspOWs8dm2"
+        ],
+        "nom": "Association Diocésaine de Nantes"
+      }
+    ],
+    "cover_media": {
+      "id": "recWjvquzg6rfDxU1",
+      "cover_lieux": [
+        "reccVHejspOWs8dm2"
+      ],
+      "titre": "Église Magnum cover",
+      "fichiers": [
+        {
+          "id": "attA1HB7UgLJ57a0J",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/208e2208823be884ea7e6bb9dfd36ad4/06a1983e/eglisemagnumcover.jpg",
+          "filename": "eglise magnum cover.jpg",
+          "size": 212653,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3d858d698449061f6c635a3d83496fc8/5f39a387",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6768afee7287d727cfa27df113b80497/87561f41",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3a03e12a3c2294eb13914e1730651726/720fe149",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Magnum Architectes"
+    },
+    "médias": [
+      {
+        "id": "recAeobQ6cSZOcx7x",
+        "lieux": [
+          "reccVHejspOWs8dm2"
+        ],
+        "titre": "Église Magnum photos",
+        "fichiers": [
+          {
+            "id": "attFnLkCzINzWNofo",
+            "width": 1256,
+            "height": 600,
+            "url": "https://dl.airtable.com/.attachments/349a357f16143fcdf775868b48bd9778/e765e7ca/68-magnum-projets-architecture-57062fda5ac551.jpg",
+            "filename": "68-magnum-projets-architecture-57062fda5ac55 (1).jpg",
+            "size": 398130,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0d2a67bd06e6e7e02e76ac55d60732c7/e01b4ac7",
+                "width": 75,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/984830abba6ceee6ef41ef4201830da6/4b2bb7b4",
+                "width": 1072,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/43a721fc1eb63f3ab9eef911a5cb6826/5521a61b",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attZJi3lKQeDaMka2",
+            "width": 1170,
+            "height": 878,
+            "url": "https://dl.airtable.com/.attachments/5f83ccd98d74ec59cc848d9c0889a486/e247b6cc/68-magnum-projets-architecture-57063149cb1f9.jpg",
+            "filename": "68-magnum-projets-architecture-57063149cb1f9.jpg",
+            "size": 433392,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d0508ea18928e5ca5baef47d980dfeda/99a84504",
+                "width": 48,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6f4501c87d7f9abeead913fe9429ea1b/5dd71e78",
+                "width": 682,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a05df53ae965a860fa954dfa7b2ea7c8/6abbf9ad",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attWD1Un7TnbB67wL",
+            "width": 1170,
+            "height": 826,
+            "url": "https://dl.airtable.com/.attachments/894ff9e8d6a54985b1b5b59811961c7e/b4b5e3f0/68-magnum-projets-architecture-5706315304a6a.jpg",
+            "filename": "68-magnum-projets-architecture-5706315304a6a.jpg",
+            "size": 374684,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0425fd276b4c61a4aa1dd64a58e312a0/428459c9",
+                "width": 51,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6335ac32a8c6ccd89d00640fa18d6206/779bbb7d",
+                "width": 725,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0775d1bd8d52716abc957488e9948477/e07a64d3",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attmASFbQYreHMcSj",
+            "width": 1170,
+            "height": 608,
+            "url": "https://dl.airtable.com/.attachments/4bad6eaba33e6b409734b57088fa3642/d5173505/68-magnum-projets-architecture-57062f9b93bec.jpg",
+            "filename": "68-magnum-projets-architecture-57062f9b93bec.jpg",
+            "size": 178950,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3b63af6cb3cfdd93d72a4465640e5263/13788277",
+                "width": 69,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5b5360e596fb114ea5b3dcdfd7a17c00/cd5d33cb",
+                "width": 985,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/14a89c898ee6a07d944040de7f049853/b601599f",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attCO6ApVkrmd6xaH",
+            "width": 1170,
+            "height": 568,
+            "url": "https://dl.airtable.com/.attachments/6aaeb4e753ff5380c5f2a111a70fdff3/ddbc14e1/68-magnum-projets-architecture-570634774794b.jpg",
+            "filename": "68-magnum-projets-architecture-570634774794b.jpg",
+            "size": 399342,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e4abc7b8fc1b5247b032f1f3e63bf7b9/d70f2a33",
+                "width": 74,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ed26d2bf34d2a7bac2affe1948547a8f/50ab690e",
+                "width": 1055,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ec093e841dcdc6db8c1ea8c90174f7b8/473ce9c5",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "credits": "Magnum Architectes"
+      },
+      {
+        "id": "reczFTxazxgslLkL8",
+        "lieux": [
+          "reccVHejspOWs8dm2"
+        ],
+        "titre": "Église Magnum plaquette visite",
+        "fichiers": [
+          {
+            "id": "attKriJBNXSUhAURf",
+            "url": "https://dl.airtable.com/.attachments/5a4c9017af966730f5b361e9c8708b52/e6aac489/plaquettemagnuma5.pdf",
+            "filename": "plaquette magnum a5.pdf",
+            "size": 638089,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e94a21c6638fb907712e459bfaf9cd24/51f60a07",
+                "width": 25,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/13065d84bbc014269ad78dbab88661d1/f406466f",
+                "width": 361,
+                "height": 512
+              }
+            }
+          }
+        ],
+        "credits": "Magnum architectes"
+      }
+    ]
   },
   {
     "id": "recdqD43kpp1pOv3x",
@@ -4599,7 +5394,8 @@
           "recdqD43kpp1pOv3x",
           "rec72cuqtL80v3RYm",
           "recjkXrXE0hZw6f4t",
-          "recP6LOBOUBRRlLnt"
+          "recP6LOBOUBRRlLnt",
+          "rec0Rwewbk2MMTQAD"
         ]
       },
       {
@@ -4689,7 +5485,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -4791,7 +5589,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -4920,7 +5720,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -4946,7 +5748,8 @@
           "recdqD43kpp1pOv3x",
           "rec72cuqtL80v3RYm",
           "recjkXrXE0hZw6f4t",
-          "recP6LOBOUBRRlLnt"
+          "recP6LOBOUBRRlLnt",
+          "rec0Rwewbk2MMTQAD"
         ]
       }
     ],
@@ -5026,7 +5829,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -5139,7 +5944,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -5257,7 +6064,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -5339,7 +6148,7 @@
       }
     ],
     "status": "Publié",
-    "présentation": "L’ancien Karting situé à la pointe ouest de l’île de Nantes a été réhabilité par la Samoa pour accueillir une quarantaine d’entreprises créatives. \nCet hôtel d’entreprise créatives est aujourd’hui géré par la Creative Factory, l’agence de développement économique de la Samoa.\nDans la perspective du démarrage du chantier de transformation des halles Alstom, plusieurs sites vacants ont été identifiés par la Samoa pour accueillir des acteurs des industries créatives et culturelles. \nL’objectif : constituer un pôle économique autour du réseau de la Creative Factory et du Quartier de la création. Le Karting accueille aujourd’hui une quarantaine d’entreprises du secteur des industries culturelles et créatives, ce qui représente environ 150 emplois.\nLe Karting accueille 1200 m² réparties en 12 surfaces modulables allant de 12 m² à 96 m², en fonction du besoin des occupants. Le développement durable et le prix de sortie maîtrisé ont été les idées forces du projet.\nLe Karting, un éco-concept pour les startups créatives\nDans sa conception globale, le projet NOW – pour New Office Workshop – s’appuie sur l’idée d’un “design minimal”. Il s’attache à produire un dessin préalable le plus précis possible pour limiter le gâchis et toutes formes d’interventions supplémentaires sur les matériaux.\nL’équipe de conception, particulièrement attentive à la réduction des contraintes économiques et écologiques liées aux transports, a permis que les locaux modulables soient transportables et déplaçables dans leur totalité sur un unique semi-remorque.\nEn parallèle, la construction des bureaux modulaires s’appuie sur la promotion d’un circuit économique “court”, faisant jouer les avantages de la proximité en mettant en activité des acteurs de la région : la filière bois locale à travers Atlanbois et l’exploitation du bois des forêts de la région.\n\n**_Ecossolies, Chapidock, ateliers d’artistes…_**\nA proximité, d’autres sites connaissent des aménagements provisoires profitant d’une période de transition : le site du Solilab accueille Les Ecossolies, qui regroupe des entreprises et associations issues de l’économie sociale et solidaire, l’école du cirque Chapidock sous un chapiteau dans le même secteur, certains hangars du quai des Antilles (propriété du Grand port de Nantes Saint-Nazaire), etc.\n\nTextes : Samoa\n",
+    "présentation": "L’ancien Karting situé à la pointe ouest de l’île de Nantes a été réhabilité par la Samoa pour accueillir une quarantaine d’entreprises créatives. \nCet hôtel d’entreprise créatives est aujourd’hui géré par la Creative Factory, l’agence de développement économique de la Samoa.\nDans la perspective du démarrage du chantier de transformation des halles Alstom, plusieurs sites vacants ont été identifiés par la Samoa pour accueillir des acteurs des industries créatives et culturelles. \nL’objectif : constituer un pôle économique autour du réseau de la Creative Factory et du Quartier de la création. Le Karting accueille aujourd’hui une quarantaine d’entreprises du secteur des industries culturelles et créatives, ce qui représente environ 150 emplois.\nLe Karting accueille 1200 m² réparties en 12 surfaces modulables allant de 12 m² à 96 m², en fonction du besoin des occupants. Le développement durable et le prix de sortie maîtrisé ont été les idées forces du projet.\nLe Karting, un éco-concept pour les startups créatives\nDans sa conception globale, le projet NOW – pour New Office Workshop – s’appuie sur l’idée d’un “design minimal”. Il s’attache à produire un dessin préalable le plus précis possible pour limiter le gâchis et toutes formes d’interventions supplémentaires sur les matériaux.\nL’équipe de conception, particulièrement attentive à la réduction des contraintes économiques et écologiques liées aux transports, a permis que les locaux modulables soient transportables et déplaçables dans leur totalité sur un unique semi-remorque.\nEn parallèle, la construction des bureaux modulaires s’appuie sur la promotion d’un circuit économique “court”, faisant jouer les avantages de la proximité en mettant en activité des acteurs de la région : la filière bois locale à travers Atlanbois et l’exploitation du bois des forêts de la région.\n\n**_Ecossolies, Chapidock, ateliers d’artistes…_**\nA proximité, d’autres sites connaissent des aménagements provisoires profitant d’une période de transition : le site du Solilab accueille Les Ecossolies, qui regroupe des entreprises et associations issues de l’économie sociale et solidaire, l’école du cirque Chapidock sous un chapiteau dans le même secteur, certains hangars du quai des Antilles (propriété du Grand port de Nantes Saint-Nazaire), etc.\n_Textes : Samoa_\n_• L'ardepa a visité ce lieu le 16 novembre 2019, lors de l'Expédition urbaine \"La culture urbaine et l’urbanisme transitoire sur l’île de Nantes\"_\n",
     "nom": "Le Karting",
     "cover_media": {
       "id": "recVa6K1jeeI7r71h",
@@ -5415,7 +6224,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -5542,7 +6353,7 @@
         "credits": "Jean Dominique Billaud / SAMOA"
       }
     ],
-    "dernière modification": "2021-09-30T14:30:26.000Z"
+    "dernière modification": "2021-10-04T08:31:44.000Z"
   },
   {
     "id": "recq85i5LBfpWsp9R",
@@ -5710,7 +6521,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -5803,7 +6616,7 @@
       }
     ],
     "status": "Publié",
-    "présentation": "Une intégration paysagère douce qui accompagne le développement de la commune.\nNi au centre de la commune, ni véritablement en périphérie au regard de l’extension urbaine en cours au nord de la rue des pierres blanches, la situation du projet d’espace festif et culturel offre l’opportunité de conforter le développement de la ville par l’affirmation du caractère public des aménagements et des équipements.\nLa contemporanéité d’une écriture architecturale sobre et événementielle.\nAu delà de la nouvelle offre publique offerte par la nouvelle salle, sa forme et sa volumétrie doivent offrir une insertion douce dans son environnement tout en proposant une identité au caractère événementiel affirmé.\nL’usage de matériaux bruts et durables (terre cuite, béton, bois) permet de réduire au maximum les coûts d’entretien et de maintenance mais s’intègrent surtout comme outil de proposition d’une architecture contemporaine sobre et intemporelle.\nLa qualité de ces matériaux est au centre des ambiances proposées, tant à l’intérieur qu’à l’extérieur et participe pleinement à singulariser le projet et son «atmosphère» : la sobriété des matières nobles utilisées confère aux espaces le caractère solennel que nécessite certains des usages et permet de mettre en avant la qualité des dispositifs spatiaux.\nAinsi les espaces de réception majeurs (salle, hall d’accueil, salle de réunion, salle de musique) profitent de hauteurs sous plafond très importantes ainsi que de cadrages particuliers sur le paysage, en offrant la lecture de grandes porosités et d’espaces extérieurs aux qualité d’usage différenciées. \nCes deux dispositifs, jeux de volumes et de matières, participent pleinement à la proposition d’une hétérogénéité volumétrique cohérente, qui offre dans un volume très compact une lecture géographique des fonctions et des usages.\nTexte extrait du dossier de presse, RAUM\n\nRetrouvez l'article et la plaquette de cette visite sur le **[site web de l'ardepa !](https://www.lardepa.com/genese-2020-1-espace-culturel-des-pierres-blanches/)**\n\nL'Espace culturel des Pierres Blanches a été lauréat dans la catégorie Culture, Jeunesse et Sport lors du prix Équerre d'Argent 2019.\n",
+    "présentation": "Une intégration paysagère douce qui accompagne le développement de la commune.\nNi au centre de la commune, ni véritablement en périphérie au regard de l’extension urbaine en cours au nord de la rue des pierres blanches, la situation du projet d’espace festif et culturel offre l’opportunité de conforter le développement de la ville par l’affirmation du caractère public des aménagements et des équipements.\nLa contemporanéité d’une écriture architecturale sobre et événementielle.\nAu delà de la nouvelle offre publique offerte par la nouvelle salle, sa forme et sa volumétrie doivent offrir une insertion douce dans son environnement tout en proposant une identité au caractère événementiel affirmé.\nL’usage de matériaux bruts et durables (terre cuite, béton, bois) permet de réduire au maximum les coûts d’entretien et de maintenance mais s’intègrent surtout comme outil de proposition d’une architecture contemporaine sobre et intemporelle.\nLa qualité de ces matériaux est au centre des ambiances proposées, tant à l’intérieur qu’à l’extérieur et participe pleinement à singulariser le projet et son «atmosphère» : la sobriété des matières nobles utilisées confère aux espaces le caractère solennel que nécessite certains des usages et permet de mettre en avant la qualité des dispositifs spatiaux.\nAinsi les espaces de réception majeurs (salle, hall d’accueil, salle de réunion, salle de musique) profitent de hauteurs sous plafond très importantes ainsi que de cadrages particuliers sur le paysage, en offrant la lecture de grandes porosités et d’espaces extérieurs aux qualité d’usage différenciées. \nCes deux dispositifs, jeux de volumes et de matières, participent pleinement à la proposition d’une hétérogénéité volumétrique cohérente, qui offre dans un volume très compact une lecture géographique des fonctions et des usages.\nTexte extrait du dossier de presse, RAUM\n\nRetrouvez l'article et la plaquette de cette visite sur le **[site web de l'ardepa !](https://www.lardepa.com/genese-2020-1-espace-culturel-des-pierres-blanches/)**\n\nL'Espace culturel des Pierres Blanches a été lauréat dans la catégorie Culture, Jeunesse et Sport lors du prix Équerre d'Argent 2019.\n• L'ardepa a visité ce lieu le 16 mars 2020\n",
     "distinctions": [
       {
         "id": "recp0W1AeapKvzlxk",
@@ -5890,7 +6703,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -6099,9 +6914,38 @@
         ],
         "titre": "Espace culturel des pierres blanches - dossier de presse",
         "credits": "RAUM"
+      },
+      {
+        "id": "recOVH81y49dbw93D",
+        "lieux": [
+          "recu65igj5DHRpC30"
+        ],
+        "titre": "pierres banches plaquette de visite",
+        "fichiers": [
+          {
+            "id": "att9EkA4dfAslo8xN",
+            "url": "https://dl.airtable.com/.attachments/da619a3e505c9d3a25be6916a30d3400/2a146017/sallefestiveraumplaquettea5.pdf",
+            "filename": "salle festive raum plaquette a5.pdf",
+            "size": 581886,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/51344d96fb5d45cda625bdccf78ead84/63aa2acb",
+                "width": 25,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/28d8ab469189f42a064a9b7ee260e517/f4ca522e",
+                "width": 361,
+                "height": 512
+              }
+            }
+          }
+        ],
+        "credits": "RAUM / Ardepa"
       }
     ],
-    "dernière modification": "2021-09-30T13:28:34.000Z"
+    "dernière modification": "2021-10-04T08:38:53.000Z"
   },
   {
     "id": "recuIUUMuCMw2rrHn",
@@ -6203,7 +7047,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }
@@ -6305,7 +7151,9 @@
           "recRFuKGP2zlHup3A",
           "recpN2hW8eG6SnkLe",
           "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK"
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2"
         ],
         "nom": "années 2010"
       }

@@ -118,7 +118,9 @@
         "recRFuKGP2zlHup3A",
         "recpN2hW8eG6SnkLe",
         "rec5EHfAartf4PUHm",
-        "recATsZWxsng7iDNK"
+        "recATsZWxsng7iDNK",
+        "rec0Rwewbk2MMTQAD",
+        "reccVHejspOWs8dm2"
       ],
       "nom": "années 2010"
     }
@@ -282,7 +284,37 @@
       ],
       "titre": "limonier photos 2",
       "credits": "0101 Architectes"
+    },
+    {
+      "id": "rec8YraVY0nhsW3R1",
+      "lieux": [
+        "rec5EHfAartf4PUHm"
+      ],
+      "titre": "limonier plaquette visite",
+      "fichiers": [
+        {
+          "id": "attyAXilRDGc6r8cj",
+          "url": "https://dl.airtable.com/.attachments/d1b88fac2f92a7f198d73d82f3ec63a8/6496bf24/plaquettemaisonlimoniera5.pdf",
+          "filename": "plaquette maison limonier a5.pdf",
+          "size": 909528,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/85400f8ac643b26ea70f254a76579592/b5f5b383",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/754ccef0f5c6e9d43a74f1b2606ad725/b1498493",
+              "width": 361,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "credits": "0101 Architectes / Ardepa"
     }
   ],
-  "dernière modification": "2021-10-04T07:36:41.000Z"
+  "dernière modification": "2021-10-04T08:29:59.000Z",
+  "présentation": "Le Val de Chézine est un paysage nantais à part entière. Ce ruisseau connecte différents parcs de la métropole et compose une promenade de plusieurs kilomètres largement végétalisée, refuge de la biodiversité en ville. La situation du projet était une opportunité pour profiter de ce paysage original tout en bénéficiant des atouts du centre-ville. \nLa maison existante étant petite et structurellement inadaptée à une surélévation, le projet d’agrandissement s’est rapidement orienté vers une démolition-reconstruction. Le nouveau bâtiment en ossature bois conserve l’implantation d’origine en y intégrant ses extensions successives (appentis et véranda). Le principal objectif a été d’optimiser le rapport aux espaces extérieurs, malgré les dimensions réduites de la parcelle et tout en respectant le programme initial. Au rez-de-chaussée, le plan est réparti entre les espaces techniques au nord, accessibles par une large porte sectionnelle depuis l’impasse, et la pièce de vie au sud, entièrement vitrée sur le jardin. Au premier étage se trouvent les chambres et les salles de bains, tandis que le toit est aménagé en terrasse accessible. \nLe toit terrasse permet, avec le jardin, d’utiliser toute la surface de la parcelle comme un extérieur accessible, et crée un belvédère sur le sillage des grands arbres qui bordent le cours d’eau. \nDe l’extérieur la nouvelle maison se présente comme une accumulation de strates : les murs mitoyens en pierres conservés, la partie intermédiaire en bardage bois, et la carrosserie métallique de l’élément supérieur, sorte de cabriolet ouvert sur le ciel.\n_Texte : 0101 Architectes_\n_• L'ardepa a visité ce lieu le 18 octobre 2019_\n"
 }

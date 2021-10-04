@@ -264,9 +264,38 @@
           ],
           "titre": "Relier les impasses 3",
           "credits": "ardepa"
+        },
+        {
+          "id": "rec1PuVHGZWNHh7Eq",
+          "lieux": [
+            "recahyhau12Ghaztg"
+          ],
+          "titre": "relier les impasses plaquette de visite",
+          "fichiers": [
+            {
+              "id": "attK30PLc1yf63wQk",
+              "url": "https://dl.airtable.com/.attachments/8b643a392b3379ce1a463b93fcccac8e/ffc29c1e/ardepaplaquettebigreA5.pdf",
+              "filename": "ardepa plaquette bigre A5.pdf",
+              "size": 548689,
+              "type": "application/pdf",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/7a6acf32f364b5197ada0b29ae7c60f3/2fd92d51",
+                  "width": 25,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ae3a66991ee5af519bd8486dbd8c4040/8d56f7fa",
+                  "width": 361,
+                  "height": 512
+                }
+              }
+            }
+          ],
+          "credits": "Bigre ! / Ardepa"
         }
       ],
-      "dernière modification": "2021-09-30T13:27:51.000Z"
+      "dernière modification": "2021-10-04T08:13:45.000Z"
     },
     {
       "id": "recRlloApjtcScitR",
@@ -565,7 +594,7 @@
         }
       ],
       "status": "Publié",
-      "présentation": "Dans le centre-ville de Nantes, la maison\nexistante sur deux étages est de la fin\ndu XIXème siècle mais sans grand intérêt\narchitectural. En alignement sur la rue qu’elle\ndomine, elle est de plain-pied sur un jardin\npaysagé à l’arrière dont elle ne profite pas.\nSes particularités sont la base de la\nconception de l’extension :\n\\- Discontinuité et multiplicité de\nniveaux : au niveau de la rue et encaissé par\nrapport au jardin, un garage en mitoyenneté\net en rez-de-chaussée crée une discontinuité\ndans l’épannelage et l’alignement urbain.\n\\- Volumétrie et fragmentation : Au\nniveau du jardin, le volume à une pente de\nla cuisine se greffe en appentis sur la maison\nexistante peu profonde.\nLe projet d’extension :\nLe par ti-pris du projet est l’enroulement.\nL’extension à rez-de-chaussée sur jardin\nvient s’aligner sur la cuisine en appentis en\ndoublant l’épaisseur de la maison existante,\nse retourne sur le garage puis s’élève côté rue\npour recoudre l’épannelage, aller chercher le\nsoleil et se protéger des vis à vis.\nLa réalisation de l’extension en structure bois\npréfabriquée prend son sens dans l’étroitesse\nde la rue de centre-ville, dans la complexité\nvolumétrique du projet et dans la volonté de\nconstruire durable et biosourcé.\nLa dichotomie entre rue étroite et jardin\nluxuriant et entre existant sévère et neuf en\nmouvement s’affirme dans le traitement des\nfaçades. La maison existante est seulement\npeinte alors que l’extension, immergée dans\nle jardin, reçoit un bardage en fascines de\nchâtaignier non écorcées lui donnant un\nesprit végétal.\nEn plan, à la multiplicité des volumes et des\nniveaux existants répond une multiplicité\nde niveaux en extension afin d’adoucir\nle passage de l’un à l’autre et d’offrir une\npluralité de points de vue et d’ouver tures\nvers l’extérieur.\nTexte de Catherine Malleret.\n",
+      "présentation": "Dans le centre-ville de Nantes, la maison\nexistante sur deux étages est de la fin\ndu XIXème siècle mais sans grand intérêt\narchitectural. En alignement sur la rue qu’elle\ndomine, elle est de plain-pied sur un jardin\npaysagé à l’arrière dont elle ne profite pas.\nSes particularités sont la base de la\nconception de l’extension :\n\\- Discontinuité et multiplicité de\nniveaux : au niveau de la rue et encaissé par\nrapport au jardin, un garage en mitoyenneté\net en rez-de-chaussée crée une discontinuité\ndans l’épannelage et l’alignement urbain.\n\\- Volumétrie et fragmentation : Au\nniveau du jardin, le volume à une pente de\nla cuisine se greffe en appentis sur la maison\nexistante peu profonde.\nLe projet d’extension :\nLe par ti-pris du projet est l’enroulement.\nL’extension à rez-de-chaussée sur jardin\nvient s’aligner sur la cuisine en appentis en\ndoublant l’épaisseur de la maison existante,\nse retourne sur le garage puis s’élève côté rue\npour recoudre l’épannelage, aller chercher le\nsoleil et se protéger des vis à vis.\nLa réalisation de l’extension en structure bois\npréfabriquée prend son sens dans l’étroitesse\nde la rue de centre-ville, dans la complexité\nvolumétrique du projet et dans la volonté de\nconstruire durable et biosourcé.\nLa dichotomie entre rue étroite et jardin\nluxuriant et entre existant sévère et neuf en\nmouvement s’affirme dans le traitement des\nfaçades. La maison existante est seulement\npeinte alors que l’extension, immergée dans\nle jardin, reçoit un bardage en fascines de\nchâtaignier non écorcées lui donnant un\nesprit végétal.\nEn plan, à la multiplicité des volumes et des\nniveaux existants répond une multiplicité\nde niveaux en extension afin d’adoucir\nle passage de l’un à l’autre et d’offrir une\npluralité de points de vue et d’ouver tures\nvers l’extérieur.\nTexte de Catherine Malleret.\n_• L'ardepa a visité ce lieu le 16 octobre 2020_\n",
       "nom": "Maison MB",
       "cover_media": {
         "id": "recyprUwCGW4mOuSA",
@@ -641,7 +670,9 @@
             "recRFuKGP2zlHup3A",
             "recpN2hW8eG6SnkLe",
             "rec5EHfAartf4PUHm",
-            "recATsZWxsng7iDNK"
+            "recATsZWxsng7iDNK",
+            "rec0Rwewbk2MMTQAD",
+            "reccVHejspOWs8dm2"
           ],
           "nom": "années 2010"
         }
@@ -873,9 +904,38 @@
           ],
           "titre": "Maison MB plans et coupes",
           "credits": "Forma 6"
+        },
+        {
+          "id": "recPD9jckOKyynovA",
+          "lieux": [
+            "recRFuKGP2zlHup3A"
+          ],
+          "titre": "maison MB plaquette de visite",
+          "fichiers": [
+            {
+              "id": "attz8FEw4VR1dJST3",
+              "url": "https://dl.airtable.com/.attachments/412aca4a0d1a9d80fcfbafc09daf892a/042a50d5/plaquettemaisonMBa5.pdf",
+              "filename": "plaquette maison MB a5.pdf",
+              "size": 1637110,
+              "type": "application/pdf",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/13a03a3986f0d5964da60b679753f5f5/b4cf8cab",
+                  "width": 25,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/08f5f4be7f14e5145f1594e76e26efb7/f1cd73ca",
+                  "width": 361,
+                  "height": 512
+                }
+              }
+            }
+          ],
+          "credits": "Forma 6 / Ardepa"
         }
       ],
-      "dernière modification": "2021-09-30T13:28:05.000Z"
+      "dernière modification": "2021-10-04T09:00:57.000Z"
     },
     {
       "id": "recu65igj5DHRpC30",
@@ -957,7 +1017,7 @@
         }
       ],
       "status": "Publié",
-      "présentation": "Une intégration paysagère douce qui accompagne le développement de la commune.\nNi au centre de la commune, ni véritablement en périphérie au regard de l’extension urbaine en cours au nord de la rue des pierres blanches, la situation du projet d’espace festif et culturel offre l’opportunité de conforter le développement de la ville par l’affirmation du caractère public des aménagements et des équipements.\nLa contemporanéité d’une écriture architecturale sobre et événementielle.\nAu delà de la nouvelle offre publique offerte par la nouvelle salle, sa forme et sa volumétrie doivent offrir une insertion douce dans son environnement tout en proposant une identité au caractère événementiel affirmé.\nL’usage de matériaux bruts et durables (terre cuite, béton, bois) permet de réduire au maximum les coûts d’entretien et de maintenance mais s’intègrent surtout comme outil de proposition d’une architecture contemporaine sobre et intemporelle.\nLa qualité de ces matériaux est au centre des ambiances proposées, tant à l’intérieur qu’à l’extérieur et participe pleinement à singulariser le projet et son «atmosphère» : la sobriété des matières nobles utilisées confère aux espaces le caractère solennel que nécessite certains des usages et permet de mettre en avant la qualité des dispositifs spatiaux.\nAinsi les espaces de réception majeurs (salle, hall d’accueil, salle de réunion, salle de musique) profitent de hauteurs sous plafond très importantes ainsi que de cadrages particuliers sur le paysage, en offrant la lecture de grandes porosités et d’espaces extérieurs aux qualité d’usage différenciées. \nCes deux dispositifs, jeux de volumes et de matières, participent pleinement à la proposition d’une hétérogénéité volumétrique cohérente, qui offre dans un volume très compact une lecture géographique des fonctions et des usages.\nTexte extrait du dossier de presse, RAUM\n\nRetrouvez l'article et la plaquette de cette visite sur le **[site web de l'ardepa !](https://www.lardepa.com/genese-2020-1-espace-culturel-des-pierres-blanches/)**\n\nL'Espace culturel des Pierres Blanches a été lauréat dans la catégorie Culture, Jeunesse et Sport lors du prix Équerre d'Argent 2019.\n",
+      "présentation": "Une intégration paysagère douce qui accompagne le développement de la commune.\nNi au centre de la commune, ni véritablement en périphérie au regard de l’extension urbaine en cours au nord de la rue des pierres blanches, la situation du projet d’espace festif et culturel offre l’opportunité de conforter le développement de la ville par l’affirmation du caractère public des aménagements et des équipements.\nLa contemporanéité d’une écriture architecturale sobre et événementielle.\nAu delà de la nouvelle offre publique offerte par la nouvelle salle, sa forme et sa volumétrie doivent offrir une insertion douce dans son environnement tout en proposant une identité au caractère événementiel affirmé.\nL’usage de matériaux bruts et durables (terre cuite, béton, bois) permet de réduire au maximum les coûts d’entretien et de maintenance mais s’intègrent surtout comme outil de proposition d’une architecture contemporaine sobre et intemporelle.\nLa qualité de ces matériaux est au centre des ambiances proposées, tant à l’intérieur qu’à l’extérieur et participe pleinement à singulariser le projet et son «atmosphère» : la sobriété des matières nobles utilisées confère aux espaces le caractère solennel que nécessite certains des usages et permet de mettre en avant la qualité des dispositifs spatiaux.\nAinsi les espaces de réception majeurs (salle, hall d’accueil, salle de réunion, salle de musique) profitent de hauteurs sous plafond très importantes ainsi que de cadrages particuliers sur le paysage, en offrant la lecture de grandes porosités et d’espaces extérieurs aux qualité d’usage différenciées. \nCes deux dispositifs, jeux de volumes et de matières, participent pleinement à la proposition d’une hétérogénéité volumétrique cohérente, qui offre dans un volume très compact une lecture géographique des fonctions et des usages.\nTexte extrait du dossier de presse, RAUM\n\nRetrouvez l'article et la plaquette de cette visite sur le **[site web de l'ardepa !](https://www.lardepa.com/genese-2020-1-espace-culturel-des-pierres-blanches/)**\n\nL'Espace culturel des Pierres Blanches a été lauréat dans la catégorie Culture, Jeunesse et Sport lors du prix Équerre d'Argent 2019.\n• L'ardepa a visité ce lieu le 16 mars 2020\n",
       "distinctions": [
         {
           "id": "recp0W1AeapKvzlxk",
@@ -1044,7 +1104,9 @@
             "recRFuKGP2zlHup3A",
             "recpN2hW8eG6SnkLe",
             "rec5EHfAartf4PUHm",
-            "recATsZWxsng7iDNK"
+            "recATsZWxsng7iDNK",
+            "rec0Rwewbk2MMTQAD",
+            "reccVHejspOWs8dm2"
           ],
           "nom": "années 2010"
         }
@@ -1253,9 +1315,38 @@
           ],
           "titre": "Espace culturel des pierres blanches - dossier de presse",
           "credits": "RAUM"
+        },
+        {
+          "id": "recOVH81y49dbw93D",
+          "lieux": [
+            "recu65igj5DHRpC30"
+          ],
+          "titre": "pierres banches plaquette de visite",
+          "fichiers": [
+            {
+              "id": "att9EkA4dfAslo8xN",
+              "url": "https://dl.airtable.com/.attachments/da619a3e505c9d3a25be6916a30d3400/2a146017/sallefestiveraumplaquettea5.pdf",
+              "filename": "salle festive raum plaquette a5.pdf",
+              "size": 581886,
+              "type": "application/pdf",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/51344d96fb5d45cda625bdccf78ead84/63aa2acb",
+                  "width": 25,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/28d8ab469189f42a064a9b7ee260e517/f4ca522e",
+                  "width": 361,
+                  "height": 512
+                }
+              }
+            }
+          ],
+          "credits": "RAUM / Ardepa"
         }
       ],
-      "dernière modification": "2021-09-30T13:28:34.000Z"
+      "dernière modification": "2021-10-04T08:38:53.000Z"
     }
   ],
   "status": "Publié",
