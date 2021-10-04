@@ -1,95 +1,85 @@
 {
   "id": "recIsRYGFH3wqqTYC",
   "nom": "Metronomy",
-  "dernière modification": "2021-10-04T09:32:01.000Z",
-  "présentation": "L’aménagement de l’îlot 1 s’inscrit dans une démarche urbaine globale, celle de la ZAC Armor, qui prend le pari du parc urbain. Notre intervention prolonge les principes d’un quartier nouveau auquel l’omniprésence du végétal donne un caractère remarquable.\nIl conforte le lien avec ce patrimoine naturel – parc de la Chézine, réseau des voies de structures ver tes du quartier, et offre de nouveaux atouts : s’ouvrir sur le quartier dans un objectif de communication, s’inscrire dans une démarche environnementale afin de construire des bâtiments pérennes, confortables et faciles à vivre, et enfin assurer un fonctionnement efficient et adaptable à chaque structure.\nLe projet est composé de 6 bâtiments de même forme « chromosomique » implantés dans un parc urbain. L’unicité de chaque bâtiment se manifeste par une intervention spécifique dans chaque hall, espace de jonction entre les deux ailes du projet.\n_Texte : Forma6_\n_• L'ardepa a visité ce lieu le 20 avril 2018_\n",
   "adresse": "2 Rue Jacques Brel, 44800 Saint-Herblain\n",
-  "département": "44 Loire-Atlantique",
+  "status": "Publié",
   "geolocalisation": [
     47.233284,
     -1.62925
-  ],
-  "type": [
-    {
-      "id": "recjX9ygJ9VA81LG6",
-      "type_destination": "Équipement",
-      "destination": "Bureaux",
-      "lieux": [
-        "recXrmOzavWvTwx9T",
-        "rec4neQMuPblp8tuX",
-        "recahyhau12Ghaztg",
-        "recpN2hW8eG6SnkLe",
-        "recVoRhrrPKCDBNwW",
-        "recIsRYGFH3wqqTYC",
-        "recTaYdefmJUHsBOi"
-      ]
-    }
   ],
   "date": "2018 - 2022",
   "maitre_oeuvre": [
     {
       "id": "rec5Hv3G4xYoddlcE",
+      "nom": "Forma6",
+      "site_web": "http://www.forma6.net/",
       "maitre_oeuvre": [
         "recJgalSFcQX7dLe6",
         "recRFuKGP2zlHup3A",
         "recIsRYGFH3wqqTYC"
-      ],
-      "site_web": "http://www.forma6.net/",
-      "nom": "Forma6"
+      ]
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "reca40IADfU5oCN5h",
+      "nom": "Tolefi promotion",
       "maitre_ouvrage": [
         "recIsRYGFH3wqqTYC"
-      ],
-      "nom": "Tolefi promotion"
+      ]
     }
   ],
-  "status": "Publié",
-  "cover_media": {
-    "id": "recsZMfYccxpblrgV",
-    "cover_lieux": [
-      "recIsRYGFH3wqqTYC"
-    ],
-    "titre": "Metronomy cover",
-    "fichiers": [
-      {
-        "id": "attUKgjpgtBfokZoQ",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/5eb201fac6e4e64244256a638600684d/6d37e633/metronomycover.jpg",
-        "filename": "metronomy cover.jpg",
-        "size": 368983,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/215867e82f36d074dc42116474505e16/b40d6c56",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/58089f113bd9705476e4f589fecba951/71a711de",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/03c66656d56cd93a5adb8eb237368390/1b3a7f51",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "Forma6"
-  },
+  "périodes": [
+    {
+      "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
+      "lieux": [
+        "recXIe49AgTTO1AuY",
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R",
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r",
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
+        "recYQXv9Df1Bn5fTu",
+        "rec7OkEzJNwlvELsf",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb",
+        "rec0tsNbxoh48H20l",
+        "recX0Kj4p2adp8f8U",
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt",
+        "recu65igj5DHRpC30",
+        "recRFuKGP2zlHup3A",
+        "recpN2hW8eG6SnkLe",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "rec0Rwewbk2MMTQAD",
+        "reccVHejspOWs8dm2",
+        "recTaYdefmJUHsBOi",
+        "recIsRYGFH3wqqTYC",
+        "recMKYgGVASf6j8rE"
+      ]
+    }
+  ],
   "médias": [
     {
       "id": "rec5VUVD0LOD7LVeo",
-      "lieux": [
-        "recIsRYGFH3wqqTYC"
-      ],
       "titre": "Metronomy photos",
       "fichiers": [
         {
@@ -145,13 +135,13 @@
           }
         }
       ],
-      "credits": "Forma6"
+      "credits": "Forma6",
+      "lieux": [
+        "recIsRYGFH3wqqTYC"
+      ]
     },
     {
       "id": "recUdyVjdIuiIgjNC",
-      "lieux": [
-        "recIsRYGFH3wqqTYC"
-      ],
       "titre": "Metronomy documents",
       "fichiers": [
         {
@@ -174,13 +164,13 @@
           }
         }
       ],
-      "credits": "Forma6"
+      "credits": "Forma6",
+      "lieux": [
+        "recIsRYGFH3wqqTYC"
+      ]
     },
     {
       "id": "recJDU4Fn4VcV2qkO",
-      "lieux": [
-        "recIsRYGFH3wqqTYC"
-      ],
       "titre": "Metronomy photos 2",
       "fichiers": [
         {
@@ -236,13 +226,13 @@
           }
         }
       ],
-      "credits": "Forma6 / Metalobil"
+      "credits": "Forma6 / Metalobil",
+      "lieux": [
+        "recIsRYGFH3wqqTYC"
+      ]
     },
     {
       "id": "recFXU6aBFB38kyty",
-      "lieux": [
-        "recIsRYGFH3wqqTYC"
-      ],
       "titre": "Metronomy  plaquette de visite",
       "fichiers": [
         {
@@ -265,55 +255,65 @@
           }
         }
       ],
-      "credits": "Forma 6 / Ardepa"
+      "credits": "Forma 6 / Ardepa",
+      "lieux": [
+        "recIsRYGFH3wqqTYC"
+      ]
     }
   ],
-  "périodes": [
+  "cover_media": {
+    "id": "recsZMfYccxpblrgV",
+    "titre": "Metronomy cover",
+    "fichiers": [
+      {
+        "id": "attUKgjpgtBfokZoQ",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/5eb201fac6e4e64244256a638600684d/6d37e633/metronomycover.jpg",
+        "filename": "metronomy cover.jpg",
+        "size": 368983,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/215867e82f36d074dc42116474505e16/b40d6c56",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/58089f113bd9705476e4f589fecba951/71a711de",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/03c66656d56cd93a5adb8eb237368390/1b3a7f51",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Forma6",
+    "cover_lieux": [
+      "recIsRYGFH3wqqTYC"
+    ]
+  },
+  "type": [
     {
-      "id": "rec0D9TkCH83ItF6j",
+      "id": "recjX9ygJ9VA81LG6",
+      "destination": "Bureaux",
+      "type_destination": "Équipement",
       "lieux": [
-        "recXIe49AgTTO1AuY",
+        "recXrmOzavWvTwx9T",
         "rec4neQMuPblp8tuX",
-        "reczXyoM7GigrsPit",
-        "recsuUKLNrVXo8p8J",
-        "recdqD43kpp1pOv3x",
-        "recBxhZLsWO1HSu4R",
-        "rechtsQSNXyvtp75c",
-        "recuIUUMuCMw2rrHn",
-        "rec72cuqtL80v3RYm",
-        "recXNuzkB4wj0g0H4",
-        "recM6PpcEu5bvmzwd",
-        "recmanFMpSvbjFW6r",
-        "recjkXrXE0hZw6f4t",
-        "recQh9bPlaf7FDpmG",
-        "recGXesDW1kGxSoxQ",
-        "recJgalSFcQX7dLe6",
-        "recHVehEvNmwXAJIO",
-        "recYQXv9Df1Bn5fTu",
-        "rec7OkEzJNwlvELsf",
-        "recAIyOLNUx4kiPXv",
-        "recDA3JohqEFwoBED",
-        "rechFw6KIHy4PVSUb",
-        "rec0tsNbxoh48H20l",
-        "recX0Kj4p2adp8f8U",
-        "recY5jgLHC0792Lr0",
-        "recloEgKAuO4WjR2r",
-        "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd",
-        "recMsOSrCEl9x1F2V",
-        "recP6LOBOUBRRlLnt",
-        "recu65igj5DHRpC30",
-        "recRFuKGP2zlHup3A",
+        "recahyhau12Ghaztg",
         "recpN2hW8eG6SnkLe",
-        "rec5EHfAartf4PUHm",
-        "recATsZWxsng7iDNK",
-        "rec0Rwewbk2MMTQAD",
-        "reccVHejspOWs8dm2",
-        "recTaYdefmJUHsBOi",
+        "recVoRhrrPKCDBNwW",
         "recIsRYGFH3wqqTYC",
-        "recMKYgGVASf6j8rE"
-      ],
-      "nom": "années 2010"
+        "recTaYdefmJUHsBOi"
+      ]
     }
-  ]
+  ],
+  "présentation": "L’aménagement de l’îlot 1 s’inscrit dans une démarche urbaine globale, celle de la ZAC Armor, qui prend le pari du parc urbain. Notre intervention prolonge les principes d’un quartier nouveau auquel l’omniprésence du végétal donne un caractère remarquable.\nIl conforte le lien avec ce patrimoine naturel – parc de la Chézine, réseau des voies de structures ver tes du quartier, et offre de nouveaux atouts : s’ouvrir sur le quartier dans un objectif de communication, s’inscrire dans une démarche environnementale afin de construire des bâtiments pérennes, confortables et faciles à vivre, et enfin assurer un fonctionnement efficient et adaptable à chaque structure.\nLe projet est composé de 6 bâtiments de même forme « chromosomique » implantés dans un parc urbain. L’unicité de chaque bâtiment se manifeste par une intervention spécifique dans chaque hall, espace de jonction entre les deux ailes du projet.\n_Texte : Forma6_\n_• L'ardepa a visité ce lieu le 20 avril 2018_\n",
+  "département": "44 Loire-Atlantique",
+  "dernière modification": "2021-10-04T09:32:01.000Z"
 }

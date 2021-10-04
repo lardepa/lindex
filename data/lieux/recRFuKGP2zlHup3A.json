@@ -1,74 +1,29 @@
 {
   "id": "recRFuKGP2zlHup3A",
+  "nom": "Maison MB",
   "adresse": "6 rue Molac, 44000 Nantes\n",
-  "sélections": [
-    {
-      "id": "recKLeXsRwBMLlMUR",
-      "portrait": [
-        "recIwd1dZ2nHUd5WG"
-      ],
-      "invité": "Personnalité 2",
-      "lieux": [
-        "recRlloApjtcScitR",
-        "recXrmOzavWvTwx9T",
-        "recRFuKGP2zlHup3A",
-        "recXIe49AgTTO1AuY"
-      ],
-      "status": "Publié",
-      "introduction": "On a fait appel à Perso 2 parceque :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
-      "en une": true,
-      "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\ncommodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-      "dernière modification": "2021-09-30T15:11:29.000Z"
-    },
-    {
-      "id": "recy2MjKNYdzWUD4A",
-      "portrait": [
-        "recRdC4relvqeUWdb"
-      ],
-      "invité": "Personnalité 3",
-      "lieux": [
-        "recahyhau12Ghaztg",
-        "recRlloApjtcScitR",
-        "recRFuKGP2zlHup3A",
-        "recu65igj5DHRpC30"
-      ],
-      "status": "Publié",
-      "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
-      "en une": true,
-      "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-      "dernière modification": "2021-09-30T15:11:31.000Z"
-    }
+  "status": "Publié",
+  "geolocalisation": [
+    47.225484,
+    -1.560287
   ],
-  "type": [
-    {
-      "id": "recrpFA9KQQobRh6X",
-      "type_destination": "Logement",
-      "destination": "Maison",
-      "lieux": [
-        "recTr9BzAt1jG9yaJ",
-        "recHVehEvNmwXAJIO",
-        "rechFw6KIHy4PVSUb",
-        "recRFuKGP2zlHup3A",
-        "rec5EHfAartf4PUHm",
-        "recATsZWxsng7iDNK"
-      ]
-    }
-  ],
+  "date": "XIXème siècle / 2018",
   "maitre_oeuvre": [
     {
       "id": "rec5Hv3G4xYoddlcE",
+      "nom": "Forma6",
+      "site_web": "http://www.forma6.net/",
       "maitre_oeuvre": [
         "recJgalSFcQX7dLe6",
         "recRFuKGP2zlHup3A",
         "recIsRYGFH3wqqTYC"
-      ],
-      "site_web": "http://www.forma6.net/",
-      "nom": "Forma6"
+      ]
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recXT4TItsP1IuLWU",
+      "nom": "Privé",
       "maitre_ouvrage": [
         "recHVehEvNmwXAJIO",
         "rechFw6KIHy4PVSUb",
@@ -77,52 +32,13 @@
         "recRFuKGP2zlHup3A",
         "rec5EHfAartf4PUHm",
         "recATsZWxsng7iDNK"
-      ],
-      "nom": "Privé"
+      ]
     }
   ],
-  "status": "Publié",
-  "présentation": "Dans le centre-ville de Nantes, la maison\nexistante sur deux étages est de la fin\ndu XIXème siècle mais sans grand intérêt\narchitectural. En alignement sur la rue qu’elle\ndomine, elle est de plain-pied sur un jardin\npaysagé à l’arrière dont elle ne profite pas.\nSes particularités sont la base de la\nconception de l’extension :\n\\- Discontinuité et multiplicité de\nniveaux : au niveau de la rue et encaissé par\nrapport au jardin, un garage en mitoyenneté\net en rez-de-chaussée crée une discontinuité\ndans l’épannelage et l’alignement urbain.\n\\- Volumétrie et fragmentation : Au\nniveau du jardin, le volume à une pente de\nla cuisine se greffe en appentis sur la maison\nexistante peu profonde.\nLe projet d’extension :\nLe par ti-pris du projet est l’enroulement.\nL’extension à rez-de-chaussée sur jardin\nvient s’aligner sur la cuisine en appentis en\ndoublant l’épaisseur de la maison existante,\nse retourne sur le garage puis s’élève côté rue\npour recoudre l’épannelage, aller chercher le\nsoleil et se protéger des vis à vis.\nLa réalisation de l’extension en structure bois\npréfabriquée prend son sens dans l’étroitesse\nde la rue de centre-ville, dans la complexité\nvolumétrique du projet et dans la volonté de\nconstruire durable et biosourcé.\nLa dichotomie entre rue étroite et jardin\nluxuriant et entre existant sévère et neuf en\nmouvement s’affirme dans le traitement des\nfaçades. La maison existante est seulement\npeinte alors que l’extension, immergée dans\nle jardin, reçoit un bardage en fascines de\nchâtaignier non écorcées lui donnant un\nesprit végétal.\nEn plan, à la multiplicité des volumes et des\nniveaux existants répond une multiplicité\nde niveaux en extension afin d’adoucir\nle passage de l’un à l’autre et d’offrir une\npluralité de points de vue et d’ouver tures\nvers l’extérieur.\nTexte de Catherine Malleret.\n_• L'ardepa a visité ce lieu le 16 octobre 2020_\n",
-  "nom": "Maison MB",
-  "cover_media": {
-    "id": "recyprUwCGW4mOuSA",
-    "fichiers": [
-      {
-        "id": "attap20pAiWDT35dR",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/66f9fa387a9d84527ba23f6be1ef5d3d/dd03e969/maisonMB0.jpg",
-        "filename": "maison MB 0.jpg",
-        "size": 268067,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4dfb3b54526fbbb9841cc54ec70d0e75/c1681ff9",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a8d4307e5f528b8f5355311d0ba74ee0/fa08a82a",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/86dcfd71854035bac9679df63b127552/a2343a06",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "titre": "Maison MB cover",
-    "credits": "Ardepa",
-    "cover_lieux": [
-      "recRFuKGP2zlHup3A"
-    ]
-  },
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -164,19 +80,13 @@
         "recTaYdefmJUHsBOi",
         "recIsRYGFH3wqqTYC",
         "recMKYgGVASf6j8rE"
-      ],
-      "nom": "années 2010"
+      ]
     }
   ],
-  "geolocalisation": [
-    47.225484,
-    -1.560287
-  ],
-  "département": "44 Loire-Atlantique",
-  "date": "XIXème siècle / 2018",
   "médias": [
     {
       "id": "recidnY0zHa7KYsc0",
+      "titre": "Maison MB photos",
       "fichiers": [
         {
           "id": "attN8qOhpTf2xrVlE",
@@ -361,14 +271,14 @@
           }
         }
       ],
+      "credits": "Ardepa",
       "lieux": [
         "recRFuKGP2zlHup3A"
-      ],
-      "titre": "Maison MB photos",
-      "credits": "Ardepa"
+      ]
     },
     {
       "id": "recYWBvYrV83gjwGi",
+      "titre": "Maison MB plans et coupes",
       "fichiers": [
         {
           "id": "attID39olu67dRpyQ",
@@ -390,17 +300,13 @@
           }
         }
       ],
+      "credits": "Forma 6",
       "lieux": [
         "recRFuKGP2zlHup3A"
-      ],
-      "titre": "Maison MB plans et coupes",
-      "credits": "Forma 6"
+      ]
     },
     {
       "id": "recPD9jckOKyynovA",
-      "lieux": [
-        "recRFuKGP2zlHup3A"
-      ],
       "titre": "maison MB plaquette de visite",
       "fichiers": [
         {
@@ -423,8 +329,102 @@
           }
         }
       ],
-      "credits": "Forma 6 / Ardepa"
+      "credits": "Forma 6 / Ardepa",
+      "lieux": [
+        "recRFuKGP2zlHup3A"
+      ]
     }
   ],
+  "cover_media": {
+    "id": "recyprUwCGW4mOuSA",
+    "titre": "Maison MB cover",
+    "fichiers": [
+      {
+        "id": "attap20pAiWDT35dR",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/66f9fa387a9d84527ba23f6be1ef5d3d/dd03e969/maisonMB0.jpg",
+        "filename": "maison MB 0.jpg",
+        "size": 268067,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4dfb3b54526fbbb9841cc54ec70d0e75/c1681ff9",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a8d4307e5f528b8f5355311d0ba74ee0/fa08a82a",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/86dcfd71854035bac9679df63b127552/a2343a06",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Ardepa",
+    "cover_lieux": [
+      "recRFuKGP2zlHup3A"
+    ]
+  },
+  "type": [
+    {
+      "id": "recrpFA9KQQobRh6X",
+      "destination": "Maison",
+      "type_destination": "Logement",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK"
+      ]
+    }
+  ],
+  "sélections": [
+    {
+      "id": "recKLeXsRwBMLlMUR",
+      "invité": "Personnalité 2",
+      "portrait": [
+        "recIwd1dZ2nHUd5WG"
+      ],
+      "status": "Publié",
+      "introduction": "On a fait appel à Perso 2 parceque :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
+      "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\ncommodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+      "lieux": [
+        "recRlloApjtcScitR",
+        "recXrmOzavWvTwx9T",
+        "recRFuKGP2zlHup3A",
+        "recXIe49AgTTO1AuY"
+      ],
+      "en une": true,
+      "dernière modification": "2021-09-30T15:11:29.000Z"
+    },
+    {
+      "id": "recy2MjKNYdzWUD4A",
+      "invité": "Personnalité 3",
+      "portrait": [
+        "recRdC4relvqeUWdb"
+      ],
+      "status": "Publié",
+      "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
+      "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+      "lieux": [
+        "recahyhau12Ghaztg",
+        "recRlloApjtcScitR",
+        "recRFuKGP2zlHup3A",
+        "recu65igj5DHRpC30"
+      ],
+      "en une": true,
+      "dernière modification": "2021-09-30T15:11:31.000Z"
+    }
+  ],
+  "présentation": "Dans le centre-ville de Nantes, la maison\nexistante sur deux étages est de la fin\ndu XIXème siècle mais sans grand intérêt\narchitectural. En alignement sur la rue qu’elle\ndomine, elle est de plain-pied sur un jardin\npaysagé à l’arrière dont elle ne profite pas.\nSes particularités sont la base de la\nconception de l’extension :\n\\- Discontinuité et multiplicité de\nniveaux : au niveau de la rue et encaissé par\nrapport au jardin, un garage en mitoyenneté\net en rez-de-chaussée crée une discontinuité\ndans l’épannelage et l’alignement urbain.\n\\- Volumétrie et fragmentation : Au\nniveau du jardin, le volume à une pente de\nla cuisine se greffe en appentis sur la maison\nexistante peu profonde.\nLe projet d’extension :\nLe par ti-pris du projet est l’enroulement.\nL’extension à rez-de-chaussée sur jardin\nvient s’aligner sur la cuisine en appentis en\ndoublant l’épaisseur de la maison existante,\nse retourne sur le garage puis s’élève côté rue\npour recoudre l’épannelage, aller chercher le\nsoleil et se protéger des vis à vis.\nLa réalisation de l’extension en structure bois\npréfabriquée prend son sens dans l’étroitesse\nde la rue de centre-ville, dans la complexité\nvolumétrique du projet et dans la volonté de\nconstruire durable et biosourcé.\nLa dichotomie entre rue étroite et jardin\nluxuriant et entre existant sévère et neuf en\nmouvement s’affirme dans le traitement des\nfaçades. La maison existante est seulement\npeinte alors que l’extension, immergée dans\nle jardin, reçoit un bardage en fascines de\nchâtaignier non écorcées lui donnant un\nesprit végétal.\nEn plan, à la multiplicité des volumes et des\nniveaux existants répond une multiplicité\nde niveaux en extension afin d’adoucir\nle passage de l’un à l’autre et d’offrir une\npluralité de points de vue et d’ouver tures\nvers l’extérieur.\nTexte de Catherine Malleret.\n_• L'ardepa a visité ce lieu le 16 octobre 2020_\n",
+  "département": "44 Loire-Atlantique",
   "dernière modification": "2021-10-04T09:00:57.000Z"
 }

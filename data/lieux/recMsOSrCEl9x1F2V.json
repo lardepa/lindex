@@ -1,77 +1,44 @@
 {
   "id": "recMsOSrCEl9x1F2V",
+  "nom": "Médiathèque de Saint-Gervais",
   "adresse": "16 rue du Haras, 85230 Saint Gervais\n",
-  "type": [
-    {
-      "id": "recQIJ15w7Yc15eNf",
-      "type_destination": "Équipement",
-      "destination": "Médiathèque",
-      "lieux": [
-        "recdqD43kpp1pOv3x",
-        "recMsOSrCEl9x1F2V"
-      ]
-    },
-    {
-      "id": "recfGpEUDEbAd40us",
-      "destination": "Réhabilitation",
-      "lieux": [
-        "recMsOSrCEl9x1F2V",
-        "rec72cuqtL80v3RYm",
-        "recXNuzkB4wj0g0H4",
-        "recmanFMpSvbjFW6r",
-        "recAIyOLNUx4kiPXv",
-        "recDA3JohqEFwoBED"
-      ]
-    }
+  "status": "Publié",
+  "geolocalisation": [
+    46.902531,
+    -2.00279
   ],
+  "date": "2015",
   "maitre_oeuvre": [
     {
       "id": "recg1jdkQ2cgpAezl",
+      "nom": "AM Architecture",
+      "site_web": "http://www.amarchitecture.fr/accueil/index.php",
       "maitre_oeuvre": [
         "recMsOSrCEl9x1F2V"
-      ],
-      "site_web": "http://www.amarchitecture.fr/accueil/index.php",
-      "nom": "AM Architecture"
+      ]
     },
     {
       "id": "recpuainVapKKywrU",
+      "nom": "Martial Architecte Urbaniste",
+      "site_web": "http://www.martial-architecte.com/agence/",
       "maitre_oeuvre": [
         "recMsOSrCEl9x1F2V"
-      ],
-      "site_web": "http://www.martial-architecte.com/agence/",
-      "nom": "Martial Architecte Urbaniste"
+      ]
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recVWtsKFTH0WdpdU",
+      "nom": "Commune de Saint-Gervais (85)",
       "maitre_ouvrage": [
         "recMsOSrCEl9x1F2V"
-      ],
-      "nom": "Commune de Saint-Gervais (85)"
-    }
-  ],
-  "status": "Publié",
-  "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Réhabilitation)\n",
-  "distinctions": [
-    {
-      "id": "recWC2OSlyx1EQjFm",
-      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
-      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
-      "lieux": [
-        "recY5jgLHC0792Lr0",
-        "recloEgKAuO4WjR2r",
-        "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd",
-        "recMsOSrCEl9x1F2V",
-        "recP6LOBOUBRRlLnt"
       ]
     }
   ],
-  "nom": "Médiathèque de Saint-Gervais",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -113,15 +80,48 @@
         "recTaYdefmJUHsBOi",
         "recIsRYGFH3wqqTYC",
         "recMKYgGVASf6j8rE"
-      ],
-      "nom": "années 2010"
+      ]
     }
   ],
-  "geolocalisation": [
-    46.902531,
-    -2.00279
+  "type": [
+    {
+      "id": "recQIJ15w7Yc15eNf",
+      "destination": "Médiathèque",
+      "type_destination": "Équipement",
+      "lieux": [
+        "recdqD43kpp1pOv3x",
+        "recMsOSrCEl9x1F2V"
+      ]
+    },
+    {
+      "id": "recfGpEUDEbAd40us",
+      "destination": "Réhabilitation",
+      "lieux": [
+        "recMsOSrCEl9x1F2V",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recmanFMpSvbjFW6r",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED"
+      ]
+    }
   ],
+  "distinctions": [
+    {
+      "id": "recWC2OSlyx1EQjFm",
+      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
+      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
+      "lieux": [
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt"
+      ]
+    }
+  ],
+  "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Réhabilitation)\n",
   "département": "85 Vendée",
-  "date": "2015",
   "dernière modification": "2021-09-30T07:42:05.000Z"
 }

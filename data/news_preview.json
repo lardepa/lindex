@@ -5,6 +5,7 @@
     "status": "Publié",
     "cover_media": {
       "id": "recgTCGhnV7JPI85T",
+      "titre": "Pré Commun",
       "fichiers": [
         {
           "id": "attGqOKHpEMCVmmW3",
@@ -33,7 +34,6 @@
           }
         }
       ],
-      "titre": "Pré Commun",
       "credits": "Arthur Doret",
       "cover_lieux": [
         "recRlloApjtcScitR"
@@ -48,6 +48,7 @@
     "status": "Publié",
     "cover_media": {
       "id": "recxCPsnbbOskIBtT",
+      "titre": "perso1",
       "fichiers": [
         {
           "id": "att3ZMStDlazy51d2",
@@ -78,8 +79,7 @@
       ],
       "sélections": [
         "recBb6NHdfNisYSjI"
-      ],
-      "titre": "perso1"
+      ]
     },
     "title": "Personnalité 1",
     "lastModification": "2021-09-30T15:11:28.000Z"
@@ -90,6 +90,7 @@
     "status": "Publié",
     "cover_media": {
       "id": "recIwd1dZ2nHUd5WG",
+      "titre": "perso 2",
       "fichiers": [
         {
           "id": "attnnmekPdmMs2vWh",
@@ -120,8 +121,7 @@
       ],
       "sélections": [
         "recKLeXsRwBMLlMUR"
-      ],
-      "titre": "perso 2"
+      ]
     },
     "title": "Personnalité 2",
     "lastModification": "2021-09-30T15:11:29.000Z"
@@ -132,6 +132,7 @@
     "status": "Publié",
     "cover_media": {
       "id": "recRdC4relvqeUWdb",
+      "titre": "perso 3",
       "fichiers": [
         {
           "id": "attrs2LZm9Y5XwCoB",
@@ -162,8 +163,7 @@
       ],
       "sélections": [
         "recy2MjKNYdzWUD4A"
-      ],
-      "titre": "perso 3"
+      ]
     },
     "title": "Personnalité 3",
     "lastModification": "2021-09-30T15:11:31.000Z"
@@ -174,6 +174,7 @@
     "status": "Publié",
     "cover_media": {
       "id": "recgsgovOytQsNOoV",
+      "titre": "Viséo 1",
       "fichiers": [
         {
           "id": "attSkmVXTYh8LPbK5",
@@ -202,7 +203,6 @@
           }
         }
       ],
-      "titre": "Viséo 1",
       "credits": "RAUM",
       "cover_lieux": [
         "recXrmOzavWvTwx9T"
@@ -217,6 +217,7 @@
     "status": "Publié",
     "cover_media": {
       "id": "recb4mJElb1F79mLX",
+      "titre": "Relier les impasses",
       "fichiers": [
         {
           "id": "att2fJ5Me4NAYQqEv",
@@ -245,7 +246,6 @@
           }
         }
       ],
-      "titre": "Relier les impasses",
       "credits": "ardepa",
       "cover_lieux": [
         "recahyhau12Ghaztg"
@@ -260,6 +260,7 @@
     "status": "Publié",
     "cover_media": {
       "id": "recikqDR8r22npdW9",
+      "titre": "expédition urbaine 2019-2 cover",
       "fichiers": [
         {
           "id": "atthpU41nJNCK9nxN",
@@ -288,11 +289,10 @@
           }
         }
       ],
+      "credits": "Ardepa",
       "cover_parcours": [
         "recnSvIT9dWMKZF8x"
-      ],
-      "titre": "expédition urbaine 2019-2 cover",
-      "credits": "Ardepa"
+      ]
     },
     "title": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes"
   }

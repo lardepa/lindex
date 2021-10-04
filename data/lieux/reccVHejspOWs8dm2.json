@@ -1,28 +1,36 @@
 {
   "id": "reccVHejspOWs8dm2",
-  "dernière modification": "2021-10-04T09:09:59.000Z",
   "nom": "Église Saint-Vincent-de-Paul",
-  "présentation": "Comment moderniser, dans un quartier populaire, une église campée depuis 65 ans dans une ancienne fabrique de brouettes, à l’accessibilité confuse ?\nTrois fils rouge ont été proposés : sobriété, fonctionnalité et identité paroissiale.\nLa composition a été clarifiée : la maison paroissiale remise à sa place, l’accès au site se resserre sur une entrée unique, offrant, en retrait de l’emprise publique, un vaste parvis, un lieu de rencontres constituant un creux qui délimite un contour. La voie est alors ouverte à une construction nouvelle, baignée\nde lumière.\nBlanche, lumineuse, l’assemblée est couverte par un plafond en bois plissé, comme un drapé au dessus des fidèles.\n_Texte : Magnum Architectes_\n_• L'ardepa a visité ce lieu le 16 mars 2018_\n",
   "adresse": "10 Rue Ernest Sauvestre, 44400 Rezé\n",
-  "département": "44 Loire-Atlantique",
+  "status": "Publié",
   "geolocalisation": [
     47.167452,
     -1.542924
   ],
-  "type": [
+  "date": "2015",
+  "maitre_oeuvre": [
     {
-      "id": "recVInw9NjTvZ1X63",
-      "destination": "Église",
-      "lieux": [
-        "recXNuzkB4wj0g0H4",
+      "id": "recDw2PcGxcwi2dF2",
+      "nom": "Magnum Architectes & Urbanistes",
+      "site_web": "http://www.agencemagnum.com/#1",
+      "maitre_oeuvre": [
         "reccVHejspOWs8dm2"
       ]
     }
   ],
-  "date": "2015",
+  "maitre_ouvrage": [
+    {
+      "id": "recZzRZbG9HPudGvw",
+      "nom": "Association Diocésaine de Nantes",
+      "maitre_ouvrage": [
+        "reccVHejspOWs8dm2"
+      ]
+    }
+  ],
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -64,72 +72,12 @@
         "recTaYdefmJUHsBOi",
         "recIsRYGFH3wqqTYC",
         "recMKYgGVASf6j8rE"
-      ],
-      "nom": "années 2010"
+      ]
     }
   ],
-  "status": "Publié",
-  "maitre_oeuvre": [
-    {
-      "id": "recDw2PcGxcwi2dF2",
-      "maitre_oeuvre": [
-        "reccVHejspOWs8dm2"
-      ],
-      "nom": "Magnum Architectes & Urbanistes",
-      "site_web": "http://www.agencemagnum.com/#1"
-    }
-  ],
-  "maitre_ouvrage": [
-    {
-      "id": "recZzRZbG9HPudGvw",
-      "maitre_ouvrage": [
-        "reccVHejspOWs8dm2"
-      ],
-      "nom": "Association Diocésaine de Nantes"
-    }
-  ],
-  "cover_media": {
-    "id": "recWjvquzg6rfDxU1",
-    "cover_lieux": [
-      "reccVHejspOWs8dm2"
-    ],
-    "titre": "Église Magnum cover",
-    "fichiers": [
-      {
-        "id": "attA1HB7UgLJ57a0J",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/208e2208823be884ea7e6bb9dfd36ad4/06a1983e/eglisemagnumcover.jpg",
-        "filename": "eglise magnum cover.jpg",
-        "size": 212653,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3d858d698449061f6c635a3d83496fc8/5f39a387",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6768afee7287d727cfa27df113b80497/87561f41",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3a03e12a3c2294eb13914e1730651726/720fe149",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "Magnum Architectes"
-  },
   "médias": [
     {
       "id": "recAeobQ6cSZOcx7x",
-      "lieux": [
-        "reccVHejspOWs8dm2"
-      ],
       "titre": "Église Magnum photos",
       "fichiers": [
         {
@@ -263,13 +211,13 @@
           }
         }
       ],
-      "credits": "Magnum Architectes"
+      "credits": "Magnum Architectes",
+      "lieux": [
+        "reccVHejspOWs8dm2"
+      ]
     },
     {
       "id": "reczFTxazxgslLkL8",
-      "lieux": [
-        "reccVHejspOWs8dm2"
-      ],
       "titre": "Église Magnum plaquette visite",
       "fichiers": [
         {
@@ -292,7 +240,59 @@
           }
         }
       ],
-      "credits": "Magnum architectes"
+      "credits": "Magnum architectes",
+      "lieux": [
+        "reccVHejspOWs8dm2"
+      ]
     }
-  ]
+  ],
+  "cover_media": {
+    "id": "recWjvquzg6rfDxU1",
+    "titre": "Église Magnum cover",
+    "fichiers": [
+      {
+        "id": "attA1HB7UgLJ57a0J",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/208e2208823be884ea7e6bb9dfd36ad4/06a1983e/eglisemagnumcover.jpg",
+        "filename": "eglise magnum cover.jpg",
+        "size": 212653,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3d858d698449061f6c635a3d83496fc8/5f39a387",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6768afee7287d727cfa27df113b80497/87561f41",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3a03e12a3c2294eb13914e1730651726/720fe149",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Magnum Architectes",
+    "cover_lieux": [
+      "reccVHejspOWs8dm2"
+    ]
+  },
+  "type": [
+    {
+      "id": "recVInw9NjTvZ1X63",
+      "destination": "Église",
+      "lieux": [
+        "recXNuzkB4wj0g0H4",
+        "reccVHejspOWs8dm2"
+      ]
+    }
+  ],
+  "présentation": "Comment moderniser, dans un quartier populaire, une église campée depuis 65 ans dans une ancienne fabrique de brouettes, à l’accessibilité confuse ?\nTrois fils rouge ont été proposés : sobriété, fonctionnalité et identité paroissiale.\nLa composition a été clarifiée : la maison paroissiale remise à sa place, l’accès au site se resserre sur une entrée unique, offrant, en retrait de l’emprise publique, un vaste parvis, un lieu de rencontres constituant un creux qui délimite un contour. La voie est alors ouverte à une construction nouvelle, baignée\nde lumière.\nBlanche, lumineuse, l’assemblée est couverte par un plafond en bois plissé, comme un drapé au dessus des fidèles.\n_Texte : Magnum Architectes_\n_• L'ardepa a visité ce lieu le 16 mars 2018_\n",
+  "département": "44 Loire-Atlantique",
+  "dernière modification": "2021-10-04T09:09:59.000Z"
 }

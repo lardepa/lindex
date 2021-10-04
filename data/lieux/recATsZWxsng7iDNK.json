@@ -1,34 +1,27 @@
 {
   "id": "recATsZWxsng7iDNK",
+  "nom": "Maison C&TB",
   "adresse": "Route du Drouillet, 44120 Vertou\n",
-  "type": [
-    {
-      "id": "recrpFA9KQQobRh6X",
-      "type_destination": "Logement",
-      "destination": "Maison",
-      "lieux": [
-        "recTr9BzAt1jG9yaJ",
-        "recHVehEvNmwXAJIO",
-        "rechFw6KIHy4PVSUb",
-        "recRFuKGP2zlHup3A",
-        "rec5EHfAartf4PUHm",
-        "recATsZWxsng7iDNK"
-      ]
-    }
+  "status": "Publié",
+  "geolocalisation": [
+    47.15934,
+    -1.487708
   ],
+  "date": "2019",
   "maitre_oeuvre": [
     {
       "id": "recXtVzXwS6EvWjoL",
+      "nom": "MIMA Atelier d'Architecture",
+      "site_web": "http://ateliermima.com/",
       "maitre_oeuvre": [
         "recATsZWxsng7iDNK"
-      ],
-      "site_web": "http://ateliermima.com/",
-      "nom": "MIMA Atelier d'Architecture"
+      ]
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recXT4TItsP1IuLWU",
+      "nom": "Privé",
       "maitre_ouvrage": [
         "recHVehEvNmwXAJIO",
         "rechFw6KIHy4PVSUb",
@@ -37,15 +30,13 @@
         "recRFuKGP2zlHup3A",
         "rec5EHfAartf4PUHm",
         "recATsZWxsng7iDNK"
-      ],
-      "nom": "Privé"
+      ]
     }
   ],
-  "status": "Publié",
-  "nom": "Maison C&TB",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -87,59 +78,12 @@
         "recTaYdefmJUHsBOi",
         "recIsRYGFH3wqqTYC",
         "recMKYgGVASf6j8rE"
-      ],
-      "nom": "années 2010"
+      ]
     }
   ],
-  "geolocalisation": [
-    47.15934,
-    -1.487708
-  ],
-  "département": "44 Loire-Atlantique",
-  "date": "2019",
-  "dernière modification": "2021-10-04T08:29:56.000Z",
-  "cover_media": {
-    "id": "recGHXDvmMZVZ8p6M",
-    "cover_lieux": [
-      "recATsZWxsng7iDNK"
-    ],
-    "titre": "maison C&TB cover",
-    "credits": "MIMA Atelier d'Architecture",
-    "fichiers": [
-      {
-        "id": "attPh7cQSQL5EQV2l",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/78aad4ef80c53aa6d655b4c2a7d41a2e/23580a99/maisonctocover.jpg",
-        "filename": "maison cto cover.jpg",
-        "size": 543214,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/68f3cef9f424c896adf5036f620882db/e84b51bc",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/f7cbf2173ce01eb21683391c376fa18b/d7b83cc1",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/1848093bef21cade895f5f5e1883d41e/f5df1402",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ]
-  },
   "médias": [
     {
       "id": "recFrYdirZxS04qgW",
-      "lieux": [
-        "recATsZWxsng7iDNK"
-      ],
       "titre": "maison C&TB photos 1",
       "fichiers": [
         {
@@ -162,13 +106,13 @@
           }
         }
       ],
-      "credits": "MIMA Atelier d'Architecture"
+      "credits": "MIMA Atelier d'Architecture",
+      "lieux": [
+        "recATsZWxsng7iDNK"
+      ]
     },
     {
       "id": "recd1QlNXB8nBvOD0",
-      "lieux": [
-        "recATsZWxsng7iDNK"
-      ],
       "titre": "maison C&TB photos 2",
       "fichiers": [
         {
@@ -250,13 +194,13 @@
           }
         }
       ],
-      "credits": "Ardepa"
+      "credits": "Ardepa",
+      "lieux": [
+        "recATsZWxsng7iDNK"
+      ]
     },
     {
       "id": "reckRDlnEqFWzA8Rm",
-      "lieux": [
-        "recATsZWxsng7iDNK"
-      ],
       "titre": "maison C&TB plaquette de visite",
       "fichiers": [
         {
@@ -279,8 +223,64 @@
           }
         }
       ],
-      "credits": "MIMA / Ardepa"
+      "credits": "MIMA / Ardepa",
+      "lieux": [
+        "recATsZWxsng7iDNK"
+      ]
     }
   ],
-  "présentation": "_• L'ardepa a visité ce lieu le 22 février 2019_\n"
+  "cover_media": {
+    "id": "recGHXDvmMZVZ8p6M",
+    "titre": "maison C&TB cover",
+    "fichiers": [
+      {
+        "id": "attPh7cQSQL5EQV2l",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/78aad4ef80c53aa6d655b4c2a7d41a2e/23580a99/maisonctocover.jpg",
+        "filename": "maison cto cover.jpg",
+        "size": 543214,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/68f3cef9f424c896adf5036f620882db/e84b51bc",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f7cbf2173ce01eb21683391c376fa18b/d7b83cc1",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1848093bef21cade895f5f5e1883d41e/f5df1402",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "MIMA Atelier d'Architecture",
+    "cover_lieux": [
+      "recATsZWxsng7iDNK"
+    ]
+  },
+  "type": [
+    {
+      "id": "recrpFA9KQQobRh6X",
+      "destination": "Maison",
+      "type_destination": "Logement",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK"
+      ]
+    }
+  ],
+  "présentation": "_• L'ardepa a visité ce lieu le 22 février 2019_\n",
+  "département": "44 Loire-Atlantique",
+  "dernière modification": "2021-10-04T08:29:56.000Z"
 }

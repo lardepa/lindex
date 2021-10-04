@@ -1,89 +1,40 @@
 {
   "id": "recP6LOBOUBRRlLnt",
-  "type": [
-    {
-      "id": "recEWoJWizkQSrwEo",
-      "type_destination": "Espace public",
-      "destination": "Aménagement paysager",
-      "lieux": [
-        "recJgalSFcQX7dLe6",
-        "rec0tsNbxoh48H20l",
-        "recP6LOBOUBRRlLnt"
-      ]
-    },
-    {
-      "id": "recutlOJwb5QQKd5c",
-      "type_destination": "Logement",
-      "destination": "Logements Collectifs",
-      "lieux": [
-        "recXrmOzavWvTwx9T",
-        "recdqD43kpp1pOv3x",
-        "rec72cuqtL80v3RYm",
-        "recjkXrXE0hZw6f4t",
-        "recP6LOBOUBRRlLnt",
-        "rec0Rwewbk2MMTQAD",
-        "recMKYgGVASf6j8rE"
-      ]
-    },
-    {
-      "id": "recYSw9aAndSU9UZ7",
-      "type_destination": "Logement",
-      "destination": "Logements individuels",
-      "lieux": [
-        "recahyhau12Ghaztg",
-        "recP6LOBOUBRRlLnt"
-      ]
-    }
-  ],
+  "nom": "Quartier de la Grande Fosse à Saint-Georges-de-Montaigu",
+  "status": "En rédaction",
+  "date": "2016",
   "maitre_oeuvre": [
     {
       "id": "rectllGdDxxzxQ7Yn",
+      "nom": "Atelier Site et Projet - Architecture, Urbanisme, Paysage",
+      "site_web": "http://sitesetprojets.fr/",
       "maitre_oeuvre": [
         "recP6LOBOUBRRlLnt"
-      ],
-      "site_web": "http://sitesetprojets.fr/",
-      "nom": "Atelier Site et Projet - Architecture, Urbanisme, Paysage"
+      ]
     },
     {
       "id": "recHLFIPmSHRXkUfj",
+      "nom": "PADW - Pellegrino Associés Design Workshop",
+      "site_web": "http://www.pa-dw.fr/",
       "maitre_oeuvre": [
         "recP6LOBOUBRRlLnt",
         "rec0Rwewbk2MMTQAD"
-      ],
-      "site_web": "http://www.pa-dw.fr/",
-      "nom": "PADW - Pellegrino Associés Design Workshop"
+      ]
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recZwurvY5RuxsRyi",
+      "nom": "Commune de Saint-Georges-de-Montaigu (85)",
       "maitre_ouvrage": [
-        "recP6LOBOUBRRlLnt"
-      ],
-      "nom": "Commune de Saint-Georges-de-Montaigu (85)"
-    }
-  ],
-  "status": "En rédaction",
-  "présentation": "Renouvellement urbain avec 31 logements (23 maisons de bourg (dont 2 en réhabilitation) et 8 logements intermédiaires)\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Aménagement et Urbanisme)\n",
-  "distinctions": [
-    {
-      "id": "recWC2OSlyx1EQjFm",
-      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
-      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
-      "lieux": [
-        "recY5jgLHC0792Lr0",
-        "recloEgKAuO4WjR2r",
-        "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd",
-        "recMsOSrCEl9x1F2V",
         "recP6LOBOUBRRlLnt"
       ]
     }
   ],
-  "nom": "Quartier de la Grande Fosse à Saint-Georges-de-Montaigu",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -125,12 +76,61 @@
         "recTaYdefmJUHsBOi",
         "recIsRYGFH3wqqTYC",
         "recMKYgGVASf6j8rE"
-      ],
-      "nom": "années 2010"
+      ]
     }
   ],
+  "type": [
+    {
+      "id": "recEWoJWizkQSrwEo",
+      "destination": "Aménagement paysager",
+      "type_destination": "Espace public",
+      "lieux": [
+        "recJgalSFcQX7dLe6",
+        "rec0tsNbxoh48H20l",
+        "recP6LOBOUBRRlLnt"
+      ]
+    },
+    {
+      "id": "recutlOJwb5QQKd5c",
+      "destination": "Logements Collectifs",
+      "type_destination": "Logement",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "recdqD43kpp1pOv3x",
+        "rec72cuqtL80v3RYm",
+        "recjkXrXE0hZw6f4t",
+        "recP6LOBOUBRRlLnt",
+        "rec0Rwewbk2MMTQAD",
+        "recMKYgGVASf6j8rE"
+      ]
+    },
+    {
+      "id": "recYSw9aAndSU9UZ7",
+      "destination": "Logements individuels",
+      "type_destination": "Logement",
+      "lieux": [
+        "recahyhau12Ghaztg",
+        "recP6LOBOUBRRlLnt"
+      ]
+    }
+  ],
+  "distinctions": [
+    {
+      "id": "recWC2OSlyx1EQjFm",
+      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
+      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
+      "lieux": [
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt"
+      ]
+    }
+  ],
+  "présentation": "Renouvellement urbain avec 31 logements (23 maisons de bourg (dont 2 en réhabilitation) et 8 logements intermédiaires)\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Aménagement et Urbanisme)\n",
   "département": "85 Vendée",
-  "date": "2016",
   "dernière modification": "2021-09-30T07:51:28.000Z",
   "geolocalisation": null
 }

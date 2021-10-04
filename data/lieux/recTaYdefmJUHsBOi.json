@@ -1,50 +1,43 @@
 {
   "id": "recTaYdefmJUHsBOi",
   "nom": "Zero Newton",
-  "dernière modification": "2021-10-04T09:57:08.000Z",
-  "présentation": "Nouveau phare minimaliste au cœur du projet urbain de l’Île de Nantes, ZERO NEWTON® est bien plus qu’un bâtiment supplémentaire sur ce territoire en déploiement constant.\n Une belle rencontre pour une co-création qui fera date. Né de la rencontre entre Anthony Rio (Agence UNITÉ), et Edouardo Souto de Moura (Prix Pritsker 2011), et nourri de leurs cultures et grammaires architecturales aussi différentes que complémentaires, ZERO NEWTON® est une œuvre singulière.\nZERO NEWTON®, c’est aussi la volonté d’une maitrise d’ouvrage de proposer un lieu de vie à partager au-delà de sa vocation première d’ouvrage tertiaire. Ainsi, l’on trouvera au rez-de-chaussée un restaurant d’auteur, une table créative et gourmande qui, à l’image du bâtiment, saura étonner sans superflu. Jouxtant le restaurant, un espace dédié à la création artistique, et à des événements originaux, permettra sans aucun doute à ZERO NEWTON® d’assumer pleinement son statut de lieu incontournable. Un phare doit briller.\nLes maitres d’œuvre souhaitaient que la créativité ne se limitent pas aux étages et puisse être partagée au sein d’un espace ouvert sur le monde, ses richesses culturelles, et sa diversité créative. \nUn équilibre basé sur la puissance de la curiosité.\nAssociant rigueur et verticalité des lignes, ZERO NEWTON® semble défier l’apesanteur avec un porte-à-faux à la fois imposant et déroutant. Une personnalité forte en émane et contribue à l’identité si particulière du Quartier de la Création.\nParce que ZERO NEWTON® n’est décidément pas un projet comme les autres, une thématique a été retenue afin de permettre aux organisations installées de collaborer en intelligence sur des projets partagés.\nAssociant dans une même dynamique les différents talents travaillant sur site, ZERO NEWTON® est un projet permanent fort d’une ambition à vocation collaborative, positive et sociétale. Elle se résume ainsi : “Définir et concevoir les nouveaux usages des espaces habités.”\nSi un bâtiment est avant tout une enveloppe qui définit un ensemble de volumes, il n’est plus possible d’ignorer les attentes en terme de nouveaux usages associés à la vie des espaces disponibles. Enrichir l’expérience proposée, tant en amont qu’en aval de la phase de construction, voici l’ambition portée.\n“Nous avons conçu un objet architectural épuré, puis nous l’avons déverrouillé et fait pivoter l’ensemble du bâti au-dessus du rez-de-chaussée, tel un loquet, afin d’ouvrir le point de vue et ainsi proposer aux utilisateurs du bâtiment une expérience différente.”\n_Texte : maitre d’ouvrage_\n_• L'ardepa a visité ce lieu le 18 mai 2018_\n",
   "adresse": "3 Place Albert Camus, 44200 Nantes\n",
-  "département": "44 Loire-Atlantique",
+  "status": "En rédaction",
   "geolocalisation": [
     47.204802,
     -1.562095
   ],
-  "type": [
+  "date": "2017",
+  "maitre_oeuvre": [
     {
-      "id": "recjX9ygJ9VA81LG6",
-      "type_destination": "Équipement",
-      "destination": "Bureaux",
-      "lieux": [
-        "recXrmOzavWvTwx9T",
-        "rec4neQMuPblp8tuX",
-        "recahyhau12Ghaztg",
-        "recpN2hW8eG6SnkLe",
-        "recVoRhrrPKCDBNwW",
-        "recIsRYGFH3wqqTYC",
+      "id": "recU2D2GiispGzlEs",
+      "nom": "Souto de Moura Architecte",
+      "maitre_oeuvre": [
         "recTaYdefmJUHsBOi"
       ]
     },
     {
-      "id": "recvYQkJNzMNb10UF",
-      "type_destination": "Équipement",
-      "destination": "Restauration",
-      "lieux": [
-        "recLVrdGzklj7mmLE",
-        "recT5ti90aD2NTdCN",
-        "recTaYdefmJUHsBOi"
-      ]
-    },
-    {
-      "id": "rec7mJ0bcTDfKGfnd",
-      "lieux": [
+      "id": "recJZSxAnxQ9NZe4n",
+      "nom": "Agence Unité architecture",
+      "site_web": "https://agence-unite.com/",
+      "maitre_oeuvre": [
         "recTaYdefmJUHsBOi"
       ]
     }
   ],
-  "date": "2017",
+  "maitre_ouvrage": [
+    {
+      "id": "rec4cDxvTIuPOn1ma",
+      "nom": "Alter Immo promotion",
+      "maitre_ouvrage": [
+        "recTaYdefmJUHsBOi"
+      ]
+    }
+  ],
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -86,43 +79,12 @@
         "recTaYdefmJUHsBOi",
         "recIsRYGFH3wqqTYC",
         "recMKYgGVASf6j8rE"
-      ],
-      "nom": "années 2010"
+      ]
     }
   ],
-  "maitre_oeuvre": [
-    {
-      "id": "recU2D2GiispGzlEs",
-      "maitre_oeuvre": [
-        "recTaYdefmJUHsBOi"
-      ],
-      "nom": "Souto de Moura Architecte"
-    },
-    {
-      "id": "recJZSxAnxQ9NZe4n",
-      "maitre_oeuvre": [
-        "recTaYdefmJUHsBOi"
-      ],
-      "nom": "Agence Unité architecture",
-      "site_web": "https://agence-unite.com/"
-    }
-  ],
-  "maitre_ouvrage": [
-    {
-      "id": "rec4cDxvTIuPOn1ma",
-      "maitre_ouvrage": [
-        "recTaYdefmJUHsBOi"
-      ],
-      "nom": "Alter Immo promotion"
-    }
-  ],
-  "status": "En rédaction",
   "médias": [
     {
       "id": "recYTShMMPcD17cfG",
-      "lieux": [
-        "recTaYdefmJUHsBOi"
-      ],
       "titre": "Zero Newton documents",
       "fichiers": [
         {
@@ -145,13 +107,13 @@
           }
         }
       ],
-      "credits": "Souto de Moura / Agence Unité"
+      "credits": "Souto de Moura / Agence Unité",
+      "lieux": [
+        "recTaYdefmJUHsBOi"
+      ]
     },
     {
       "id": "recgl53nh5vmLOybu",
-      "lieux": [
-        "recTaYdefmJUHsBOi"
-      ],
       "titre": "zero newton plaquette visite",
       "fichiers": [
         {
@@ -174,7 +136,45 @@
           }
         }
       ],
-      "credits": "Souto de Moura / Agence Unité / Ardepa"
+      "credits": "Souto de Moura / Agence Unité / Ardepa",
+      "lieux": [
+        "recTaYdefmJUHsBOi"
+      ]
     }
-  ]
+  ],
+  "type": [
+    {
+      "id": "recjX9ygJ9VA81LG6",
+      "destination": "Bureaux",
+      "type_destination": "Équipement",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "rec4neQMuPblp8tuX",
+        "recahyhau12Ghaztg",
+        "recpN2hW8eG6SnkLe",
+        "recVoRhrrPKCDBNwW",
+        "recIsRYGFH3wqqTYC",
+        "recTaYdefmJUHsBOi"
+      ]
+    },
+    {
+      "id": "recvYQkJNzMNb10UF",
+      "destination": "Restauration",
+      "type_destination": "Équipement",
+      "lieux": [
+        "recLVrdGzklj7mmLE",
+        "recT5ti90aD2NTdCN",
+        "recTaYdefmJUHsBOi"
+      ]
+    },
+    {
+      "id": "rec7mJ0bcTDfKGfnd",
+      "lieux": [
+        "recTaYdefmJUHsBOi"
+      ]
+    }
+  ],
+  "présentation": "Nouveau phare minimaliste au cœur du projet urbain de l’Île de Nantes, ZERO NEWTON® est bien plus qu’un bâtiment supplémentaire sur ce territoire en déploiement constant.\n Une belle rencontre pour une co-création qui fera date. Né de la rencontre entre Anthony Rio (Agence UNITÉ), et Edouardo Souto de Moura (Prix Pritsker 2011), et nourri de leurs cultures et grammaires architecturales aussi différentes que complémentaires, ZERO NEWTON® est une œuvre singulière.\nZERO NEWTON®, c’est aussi la volonté d’une maitrise d’ouvrage de proposer un lieu de vie à partager au-delà de sa vocation première d’ouvrage tertiaire. Ainsi, l’on trouvera au rez-de-chaussée un restaurant d’auteur, une table créative et gourmande qui, à l’image du bâtiment, saura étonner sans superflu. Jouxtant le restaurant, un espace dédié à la création artistique, et à des événements originaux, permettra sans aucun doute à ZERO NEWTON® d’assumer pleinement son statut de lieu incontournable. Un phare doit briller.\nLes maitres d’œuvre souhaitaient que la créativité ne se limitent pas aux étages et puisse être partagée au sein d’un espace ouvert sur le monde, ses richesses culturelles, et sa diversité créative. \nUn équilibre basé sur la puissance de la curiosité.\nAssociant rigueur et verticalité des lignes, ZERO NEWTON® semble défier l’apesanteur avec un porte-à-faux à la fois imposant et déroutant. Une personnalité forte en émane et contribue à l’identité si particulière du Quartier de la Création.\nParce que ZERO NEWTON® n’est décidément pas un projet comme les autres, une thématique a été retenue afin de permettre aux organisations installées de collaborer en intelligence sur des projets partagés.\nAssociant dans une même dynamique les différents talents travaillant sur site, ZERO NEWTON® est un projet permanent fort d’une ambition à vocation collaborative, positive et sociétale. Elle se résume ainsi : “Définir et concevoir les nouveaux usages des espaces habités.”\nSi un bâtiment est avant tout une enveloppe qui définit un ensemble de volumes, il n’est plus possible d’ignorer les attentes en terme de nouveaux usages associés à la vie des espaces disponibles. Enrichir l’expérience proposée, tant en amont qu’en aval de la phase de construction, voici l’ambition portée.\n“Nous avons conçu un objet architectural épuré, puis nous l’avons déverrouillé et fait pivoter l’ensemble du bâti au-dessus du rez-de-chaussée, tel un loquet, afin d’ouvrir le point de vue et ainsi proposer aux utilisateurs du bâtiment une expérience différente.”\n_Texte : maitre d’ouvrage_\n_• L'ardepa a visité ce lieu le 18 mai 2018_\n",
+  "département": "44 Loire-Atlantique",
+  "dernière modification": "2021-10-04T09:57:08.000Z"
 }

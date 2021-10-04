@@ -1,56 +1,36 @@
 {
   "id": "recBxhZLsWO1HSu4R",
+  "nom": "Pôle Santé à Pré-en-Pail-Saint-Samson",
   "adresse": "2 Rue de la Petite Vitesse,\n53185 Pré-en-Pail-Saint-Samson\n",
-  "type": [
-    {
-      "id": "recVwThcYNMfnh2XW",
-      "type_destination": "Équipement",
-      "destination": "Pôle Santé",
-      "lieux": [
-        "recBxhZLsWO1HSu4R"
-      ]
-    }
+  "status": "Publié",
+  "geolocalisation": [
+    48.457773,
+    -0.205491
   ],
+  "date": "2017",
   "maitre_oeuvre": [
     {
       "id": "reccAacRcHWkL3gaJ",
+      "nom": "Magma Architecture",
+      "site_web": "https://www.magma-architecture.com/",
       "maitre_oeuvre": [
         "recBxhZLsWO1HSu4R"
-      ],
-      "site_web": "https://www.magma-architecture.com/",
-      "nom": "Magma Architecture"
+      ]
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "rechOf0u0LDWCXnse",
+      "nom": "Communauté de Communes du Mont des Avaloirs (53)",
       "maitre_ouvrage": [
-        "recBxhZLsWO1HSu4R"
-      ],
-      "nom": "Communauté de Communes du Mont des Avaloirs (53)"
-    }
-  ],
-  "status": "Publié",
-  "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne 2014 (Catégorie Développement Durable)\n",
-  "distinctions": [
-    {
-      "id": "rec3Xe5U2PVARPF2u",
-      "site_web": "https://www.caue53.com/page-grand-prix-public/",
-      "nom": "Grand prix départemental du cadre de vie (53)",
-      "description": "Le Grand prix Départemental du cadre de vie de Mayenne est remis tous les quatre ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Mayenne",
-      "lieux": [
-        "rec4neQMuPblp8tuX",
-        "reczXyoM7GigrsPit",
-        "recsuUKLNrVXo8p8J",
-        "recdqD43kpp1pOv3x",
         "recBxhZLsWO1HSu4R"
       ]
     }
   ],
-  "nom": "Pôle Santé à Pré-en-Pail-Saint-Samson",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -92,15 +72,35 @@
         "recTaYdefmJUHsBOi",
         "recIsRYGFH3wqqTYC",
         "recMKYgGVASf6j8rE"
-      ],
-      "nom": "années 2010"
+      ]
     }
   ],
-  "geolocalisation": [
-    48.457773,
-    -0.205491
+  "type": [
+    {
+      "id": "recVwThcYNMfnh2XW",
+      "destination": "Pôle Santé",
+      "type_destination": "Équipement",
+      "lieux": [
+        "recBxhZLsWO1HSu4R"
+      ]
+    }
   ],
+  "distinctions": [
+    {
+      "id": "rec3Xe5U2PVARPF2u",
+      "nom": "Grand prix départemental du cadre de vie (53)",
+      "description": "Le Grand prix Départemental du cadre de vie de Mayenne est remis tous les quatre ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Mayenne",
+      "site_web": "https://www.caue53.com/page-grand-prix-public/",
+      "lieux": [
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R"
+      ]
+    }
+  ],
+  "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne 2014 (Catégorie Développement Durable)\n",
   "département": "53 Mayenne",
-  "date": "2017",
   "dernière modification": "2021-09-30T15:46:40.000Z"
 }
