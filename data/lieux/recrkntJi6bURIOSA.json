@@ -1,0 +1,316 @@
+{
+  "id": "recrkntJi6bURIOSA",
+  "nom": "Maison l'Amour des Cèdres",
+  "dernière modification": "2021-10-04T15:22:25.000Z",
+  "adresse": "2 rue Albert Calmette 44300 Nantes\n",
+  "département": "44 Loire-Atlantique",
+  "geolocalisation": [
+    47.230691,
+    -1.571427
+  ],
+  "type": [
+    {
+      "id": "recrpFA9KQQobRh6X",
+      "destination": "Maison",
+      "type_destination": "Logement",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA"
+      ]
+    }
+  ],
+  "présentation": "Inespéré, ce « coin de paradis » dans Nantes, terrain libre de 326 m2. Inespéré mais contraignant réglementairement: un espace boisé inconstructible décrit un arc de cercle au sud. Inespéré, il ne reste plus qu’à contempler les deux cèdres voisins. Inespéré, le voisinage voit d’un bon oeil une construction basse et discrète se projeter ici.\n\nLe programme est variable tout au long du développement du projet : est-ce un seul logement? est-ce deux logements? est-ce un bureau et une maison? la cuisine doit-elle être ouverte ou fermée? une cave est-elle vraiment nécessaire? Ces aller/retour, ces mises au point sont guidés par le choix premier de conserver une trame régulière de poteaux de 3,70m en façade sud, dans lequel viendront s’ajuster la programmation.\n\nEn effet, la maison se glisse en longueur sur le terrain et la partie de plain-pied s’affine jusqu’à être réduite à 3m de large. Pour profiter pleinement du paysage et réduire l’épaisseur de la paroi, toute la façade du rez-de-chaussée est vitrée sur sa hauteur. \nLe contexte (urbain pourtant) le permet: l’intimité est préservée par la ramure touffue, et aucunes constructions futures ne sont à craindre en limite de parcelle voisine. \n\nL’étage, plus refermé, comme une boite en lévitation, est perforé de multiples ouvertures, conservant l’intimité domestique. Il laisse également passer le soleil de l’ouest jusqu’au bout du jardin. Les matériaux choisis font échos à l’espace paysager. Les façades sont composées de bardage bois à pose verticale en mélèze de france et de menuiseries extérieures en bois exotique.\n\nTexte : MFA l’architecte\n_• L'ardepa a visité ce lieu le 28 septembre 2018_\n",
+  "date": "2015",
+  "périodes": [
+    {
+      "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
+      "lieux": [
+        "recXIe49AgTTO1AuY",
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R",
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r",
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
+        "recYQXv9Df1Bn5fTu",
+        "rec7OkEzJNwlvELsf",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb",
+        "rec0tsNbxoh48H20l",
+        "recX0Kj4p2adp8f8U",
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt",
+        "recu65igj5DHRpC30",
+        "recRFuKGP2zlHup3A",
+        "recpN2hW8eG6SnkLe",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "rec0Rwewbk2MMTQAD",
+        "reccVHejspOWs8dm2",
+        "recTaYdefmJUHsBOi",
+        "recIsRYGFH3wqqTYC",
+        "recMKYgGVASf6j8rE",
+        "receMWo5ARK964EuD",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA"
+      ]
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "rec3uCC60YTxDA1id",
+      "maitre_oeuvre": [
+        "recrkntJi6bURIOSA"
+      ],
+      "nom": "MFA - Mélaine Ferré Architecture",
+      "site_web": "http://www.mfa.archi/"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recXT4TItsP1IuLWU",
+      "nom": "Privé",
+      "maitre_ouvrage": [
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recahyhau12Ghaztg",
+        "recY5jgLHC0792Lr0",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA"
+      ]
+    }
+  ],
+  "status": "Publié",
+  "cover_media": {
+    "id": "reczUgk0j0TdFUDgR",
+    "cover_lieux": [
+      "recrkntJi6bURIOSA"
+    ],
+    "titre": "maison cedres cover",
+    "fichiers": [
+      {
+        "id": "attvUXopeC7tl3ZfY",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/db56d85e9bb064cd6eae2861c52bc4f0/8f3566c3/amourdescedrescover.jpg",
+        "filename": "amour des cedres cover.jpg",
+        "size": 458197,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e160bb1cb4741b3ef6b270c3f223eb6e/d112726e",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4b073b5153b13bfffd3383beb6cd6991/721fee64",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/47d3d62c7258ec61152436362877798a/e93e131b",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "MFA Architecture"
+  },
+  "médias": [
+    {
+      "id": "rectYlctvPmd4ncSo",
+      "lieux": [
+        "recrkntJi6bURIOSA"
+      ],
+      "titre": "maison cèdres photos",
+      "fichiers": [
+        {
+          "id": "attdIZmKGUyMdicvU",
+          "width": 1414,
+          "height": 1414,
+          "url": "https://dl.airtable.com/.attachments/1ab8496eb142824e37a5b24a0c2161c5/d9d34980/MFA-MaisonF-Nantes-resize-9.jpg",
+          "filename": "MFA-Maison F-Nantes-resize-9.jpg",
+          "size": 1493226,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/50c725979dd406160232b00f849e8a1d/1338764e",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4352f5be504e395ba5887b49c22b8fc6/9a9773da",
+              "width": 512,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a3596a6ad005697d509dd27a21463fab/74b7a902",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attJPXlWSmAYjUf7c",
+          "width": 1265,
+          "height": 1581,
+          "url": "https://dl.airtable.com/.attachments/9cc42cdee833fb91b162c389dbaa4835/21c73461/MFA-MaisonF-Nantes-resize-11.jpg",
+          "filename": "MFA-Maison F-Nantes-resize-11.jpg",
+          "size": 762766,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7e497eb76abbda6f8f5ab02f71ab8a02/7cb1e8be",
+              "width": 29,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/dacb50ac51af5e3208eff2749f24625d/75004f39",
+              "width": 512,
+              "height": 640
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6b37224a54e50078afc970bdf0706623/36a1d290",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attVSmRDVjyyop1nN",
+          "width": 1265,
+          "height": 1581,
+          "url": "https://dl.airtable.com/.attachments/4709f357397a90fc5a033fa09d277c08/8ccae5c4/MFA-MaisonF-Nantes-resize-25.jpg",
+          "filename": "MFA-Maison F-Nantes-resize-25.jpg",
+          "size": 1237383,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/894358e02c3f790a6e8b7c6c28adb0f1/d824e03b",
+              "width": 29,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/156cd3a394ed69df826568938a1335a5/b06a5f0b",
+              "width": 512,
+              "height": 640
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/dfac67b75353b39c7049db8e5e1d78c3/f8282702",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "atthzIShgz82iAYFD",
+          "width": 468,
+          "height": 590,
+          "url": "https://dl.airtable.com/.attachments/0614586f4410ae904d6c3d351368a2ff/3a46bbee/mfa-maison-a-nantes-japl-2015.jpg",
+          "filename": "mfa-maison-a-nantes-japl-2015.jpg",
+          "size": 78357,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/adbf60f5ea13fd9846b43dc498eba726/95145ca6",
+              "width": 29,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/05c0724d10d2ce73558575b0114364c7/623a81e6",
+              "width": 468,
+              "height": 590
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d4fb770f83cd18b87fbee832361cdf6e/c07f7a81",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attLO2vWV4MAYRrQ3",
+          "width": 4131,
+          "height": 3444,
+          "url": "https://dl.airtable.com/.attachments/0f855491c78a2f4fd5e9f95c6ce66363/d986ac97/planr1.jpg",
+          "filename": "plan r1.jpg",
+          "size": 1388107,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c5a700e6fa08373ae41e7a9d084535bf/ca5a841c",
+              "width": 43,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cfb9600896e96e6e229b6f0c5a294e3a/e2c444f5",
+              "width": 614,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/44f2f6c579e71bd9b69b1a5b26a29c7e/aaf800dc",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "MFA Architecture"
+    },
+    {
+      "id": "recPh0phsSjd8m8XW",
+      "lieux": [
+        "recrkntJi6bURIOSA"
+      ],
+      "titre": "maison cèdres plaquette visite",
+      "fichiers": [
+        {
+          "id": "attE4hU0KiZmTdH1Z",
+          "url": "https://dl.airtable.com/.attachments/842d58d1404450b93b7e33052cbf8452/480f09f9/plaquetteA5lamourdescdres.pdf",
+          "filename": "plaquetteA5 l'amour des cèdres.pdf",
+          "size": 2842551,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5db60bea9cc68efc5deedec054fb709e/1e0ba03c",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f3c4be37e30eb085cd37088920b0b4a6/3ab25b9f",
+              "width": 361,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "credits": "MFA Architecture / ARDEPA"
+    }
+  ]
+}

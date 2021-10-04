@@ -420,34 +420,34 @@
   "recLD9rnkZv8VOOLu": {
     "id": "recLD9rnkZv8VOOLu",
     "nom": "Maison Paysage",
-    "dernière modification": "2021-10-04T14:53:18.000Z",
-    "présentation": "Étendre une maison, c’est réduire l’espace extérieur de la parcelle sur laquelle elle prend place. \nLe thème du projet que nous avons développé pour la maison paysage est celui de la restitution de cet espace.\nLe site du projet se situe à Nantes, dans un quartier implanté sur le sillon de Bretagne, l’une des lignes de crête du massif armoricain. La parcelle de 300 m² accueille en son fond une petite maison témoignant du passé ouvrier du quartier.\nNous avons mis en place un parcours constitué d’un jeu de terrasses successives reliées par des rampes, formant un itinéraire s’ouvrant successivement sur un patio, le paysage des coeurs d’îlots et le grand paysage des rives sud de la Loire. \nLe développé de ce parcours défi nit une surface. Le volume situé en dessous de cette surface constitue l’extension de la maison, un enchaînement d’espaces à vivre (salon, cuisine, atelier) reliés par des vues obliques, mis en relation par des jeux de niveaux, sans aucune porte intérieure. \nLa «maison paysage» est la mise en relation de deux bâtiments aux différences marquées. \nNous sommes partis du principe qu’il était intéressant de proposer 2 maisons, de déployer des ambiances, des modes de vies et des écritures propres à chaque entité plutôt que des espaces uniformément écrits dans le but de gommer les quelques 80 années qui séparent la construction des deux maisons. La disposition singulière de la maison des années 30, en fond de parcelle, crée un surprenant effet d’anachronisme: la maison ancienne semble être l’extension de la maison neuve.\nLa «maison paysage» est non seulement un potentiel des rapports\nvariés à l’extérieur, mais également un travail sur la matière qui constitue la création d’un paysage intérieur : le veinage du contreplaqué, les motifs dessinés pendant le chantier par la pluie sur la structure métallique, le moirage de la résine ou les motifs répétitifs\ndes carreaux de ciment constituent un univers à part entière, au même titre que les nuages dessinent des paysages inattendus et propices à la contemplation.\n_Textes : Mabire-Reich Architectes_\n_• L'ardepa a visité ce lieu le 14 septembre 2018_\n",
     "adresse": "22 Avenue Jeanne Jugan\n44000 Nantes\n",
-    "département": "44 Loire-Atlantique",
+    "status": "Publié",
     "geolocalisation": "47.202964,-1.59681",
-    "type": [
-      "recrpFA9KQQobRh6X"
-    ],
     "date": "2015",
-    "périodes": [
-      "rec0D9TkCH83ItF6j"
-    ],
     "maitre_oeuvre": [
       "recubrUqr9TbPddlB"
     ],
     "maitre_ouvrage": [
       "recXT4TItsP1IuLWU"
     ],
-    "status": "Publié",
-    "cover_media": [
-      "recNaYy2065LxGq1H"
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
     ],
     "médias": [
       "recji4Ta7t9RCylEj",
       "recLH3hmQJ6JZjjh9",
       "recZEunHBvua0HlT0",
       "recYRGqGLiVvbWRvP"
-    ]
+    ],
+    "cover_media": [
+      "recNaYy2065LxGq1H"
+    ],
+    "type": [
+      "recrpFA9KQQobRh6X"
+    ],
+    "présentation": "Étendre une maison, c’est réduire l’espace extérieur de la parcelle sur laquelle elle prend place. \nLe thème du projet que nous avons développé pour la maison paysage est celui de la restitution de cet espace.\nLe site du projet se situe à Nantes, dans un quartier implanté sur le sillon de Bretagne, l’une des lignes de crête du massif armoricain. La parcelle de 300 m² accueille en son fond une petite maison témoignant du passé ouvrier du quartier.\nNous avons mis en place un parcours constitué d’un jeu de terrasses successives reliées par des rampes, formant un itinéraire s’ouvrant successivement sur un patio, le paysage des coeurs d’îlots et le grand paysage des rives sud de la Loire. \nLe développé de ce parcours défi nit une surface. Le volume situé en dessous de cette surface constitue l’extension de la maison, un enchaînement d’espaces à vivre (salon, cuisine, atelier) reliés par des vues obliques, mis en relation par des jeux de niveaux, sans aucune porte intérieure. \nLa «maison paysage» est la mise en relation de deux bâtiments aux différences marquées. \nNous sommes partis du principe qu’il était intéressant de proposer 2 maisons, de déployer des ambiances, des modes de vies et des écritures propres à chaque entité plutôt que des espaces uniformément écrits dans le but de gommer les quelques 80 années qui séparent la construction des deux maisons. La disposition singulière de la maison des années 30, en fond de parcelle, crée un surprenant effet d’anachronisme: la maison ancienne semble être l’extension de la maison neuve.\nLa «maison paysage» est non seulement un potentiel des rapports\nvariés à l’extérieur, mais également un travail sur la matière qui constitue la création d’un paysage intérieur : le veinage du contreplaqué, les motifs dessinés pendant le chantier par la pluie sur la structure métallique, le moirage de la résine ou les motifs répétitifs\ndes carreaux de ciment constituent un univers à part entière, au même titre que les nuages dessinent des paysages inattendus et propices à la contemplation.\n_Textes : Mabire-Reich Architectes_\n_• L'ardepa a visité ce lieu le 14 septembre 2018_\n",
+    "département": "44 Loire-Atlantique",
+    "dernière modification": "2021-10-04T14:53:18.000Z"
   },
   "recLVrdGzklj7mmLE": {
     "id": "recLVrdGzklj7mmLE",
@@ -1360,6 +1360,36 @@
     "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Architecture)\n",
     "département": "72 Sarthe",
     "dernière modification": "2021-09-30T07:30:33.000Z"
+  },
+  "recrkntJi6bURIOSA": {
+    "id": "recrkntJi6bURIOSA",
+    "nom": "Maison l'Amour des Cèdres",
+    "dernière modification": "2021-10-04T15:22:25.000Z",
+    "adresse": "2 rue Albert Calmette 44300 Nantes\n",
+    "département": "44 Loire-Atlantique",
+    "geolocalisation": "47.230691,-1.571427",
+    "type": [
+      "recrpFA9KQQobRh6X"
+    ],
+    "présentation": "Inespéré, ce « coin de paradis » dans Nantes, terrain libre de 326 m2. Inespéré mais contraignant réglementairement: un espace boisé inconstructible décrit un arc de cercle au sud. Inespéré, il ne reste plus qu’à contempler les deux cèdres voisins. Inespéré, le voisinage voit d’un bon oeil une construction basse et discrète se projeter ici.\n\nLe programme est variable tout au long du développement du projet : est-ce un seul logement? est-ce deux logements? est-ce un bureau et une maison? la cuisine doit-elle être ouverte ou fermée? une cave est-elle vraiment nécessaire? Ces aller/retour, ces mises au point sont guidés par le choix premier de conserver une trame régulière de poteaux de 3,70m en façade sud, dans lequel viendront s’ajuster la programmation.\n\nEn effet, la maison se glisse en longueur sur le terrain et la partie de plain-pied s’affine jusqu’à être réduite à 3m de large. Pour profiter pleinement du paysage et réduire l’épaisseur de la paroi, toute la façade du rez-de-chaussée est vitrée sur sa hauteur. \nLe contexte (urbain pourtant) le permet: l’intimité est préservée par la ramure touffue, et aucunes constructions futures ne sont à craindre en limite de parcelle voisine. \n\nL’étage, plus refermé, comme une boite en lévitation, est perforé de multiples ouvertures, conservant l’intimité domestique. Il laisse également passer le soleil de l’ouest jusqu’au bout du jardin. Les matériaux choisis font échos à l’espace paysager. Les façades sont composées de bardage bois à pose verticale en mélèze de france et de menuiseries extérieures en bois exotique.\n\nTexte : MFA l’architecte\n_• L'ardepa a visité ce lieu le 28 septembre 2018_\n",
+    "date": "2015",
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "maitre_oeuvre": [
+      "rec3uCC60YTxDA1id"
+    ],
+    "maitre_ouvrage": [
+      "recXT4TItsP1IuLWU"
+    ],
+    "status": "Publié",
+    "cover_media": [
+      "reczUgk0j0TdFUDgR"
+    ],
+    "médias": [
+      "rectYlctvPmd4ncSo",
+      "recPh0phsSjd8m8XW"
+    ]
   },
   "recsuUKLNrVXo8p8J": {
     "id": "recsuUKLNrVXo8p8J",

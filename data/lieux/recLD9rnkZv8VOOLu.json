@@ -1,31 +1,40 @@
 {
   "id": "recLD9rnkZv8VOOLu",
   "nom": "Maison Paysage",
-  "dernière modification": "2021-10-04T14:53:18.000Z",
-  "présentation": "Étendre une maison, c’est réduire l’espace extérieur de la parcelle sur laquelle elle prend place. \nLe thème du projet que nous avons développé pour la maison paysage est celui de la restitution de cet espace.\nLe site du projet se situe à Nantes, dans un quartier implanté sur le sillon de Bretagne, l’une des lignes de crête du massif armoricain. La parcelle de 300 m² accueille en son fond une petite maison témoignant du passé ouvrier du quartier.\nNous avons mis en place un parcours constitué d’un jeu de terrasses successives reliées par des rampes, formant un itinéraire s’ouvrant successivement sur un patio, le paysage des coeurs d’îlots et le grand paysage des rives sud de la Loire. \nLe développé de ce parcours défi nit une surface. Le volume situé en dessous de cette surface constitue l’extension de la maison, un enchaînement d’espaces à vivre (salon, cuisine, atelier) reliés par des vues obliques, mis en relation par des jeux de niveaux, sans aucune porte intérieure. \nLa «maison paysage» est la mise en relation de deux bâtiments aux différences marquées. \nNous sommes partis du principe qu’il était intéressant de proposer 2 maisons, de déployer des ambiances, des modes de vies et des écritures propres à chaque entité plutôt que des espaces uniformément écrits dans le but de gommer les quelques 80 années qui séparent la construction des deux maisons. La disposition singulière de la maison des années 30, en fond de parcelle, crée un surprenant effet d’anachronisme: la maison ancienne semble être l’extension de la maison neuve.\nLa «maison paysage» est non seulement un potentiel des rapports\nvariés à l’extérieur, mais également un travail sur la matière qui constitue la création d’un paysage intérieur : le veinage du contreplaqué, les motifs dessinés pendant le chantier par la pluie sur la structure métallique, le moirage de la résine ou les motifs répétitifs\ndes carreaux de ciment constituent un univers à part entière, au même titre que les nuages dessinent des paysages inattendus et propices à la contemplation.\n_Textes : Mabire-Reich Architectes_\n_• L'ardepa a visité ce lieu le 14 septembre 2018_\n",
   "adresse": "22 Avenue Jeanne Jugan\n44000 Nantes\n",
-  "département": "44 Loire-Atlantique",
+  "status": "Publié",
   "geolocalisation": [
     47.202964,
     -1.59681
   ],
-  "type": [
+  "date": "2015",
+  "maitre_oeuvre": [
     {
-      "id": "recrpFA9KQQobRh6X",
-      "destination": "Maison",
-      "type_destination": "Logement",
-      "lieux": [
-        "recTr9BzAt1jG9yaJ",
-        "recHVehEvNmwXAJIO",
-        "rechFw6KIHy4PVSUb",
-        "recRFuKGP2zlHup3A",
-        "rec5EHfAartf4PUHm",
-        "recATsZWxsng7iDNK",
+      "id": "recubrUqr9TbPddlB",
+      "nom": "Mabire-Reich Architectes",
+      "site_web": "https://mabire-reich.com/",
+      "maitre_oeuvre": [
         "recLD9rnkZv8VOOLu"
       ]
     }
   ],
-  "date": "2015",
+  "maitre_ouvrage": [
+    {
+      "id": "recXT4TItsP1IuLWU",
+      "nom": "Privé",
+      "maitre_ouvrage": [
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recahyhau12Ghaztg",
+        "recY5jgLHC0792Lr0",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA"
+      ]
+    }
+  ],
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -72,79 +81,14 @@
         "recIsRYGFH3wqqTYC",
         "recMKYgGVASf6j8rE",
         "receMWo5ARK964EuD",
-        "recLD9rnkZv8VOOLu"
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA"
       ]
     }
   ],
-  "maitre_oeuvre": [
-    {
-      "id": "recubrUqr9TbPddlB",
-      "maitre_oeuvre": [
-        "recLD9rnkZv8VOOLu"
-      ],
-      "nom": "Mabire-Reich Architectes",
-      "site_web": "https://mabire-reich.com/"
-    }
-  ],
-  "maitre_ouvrage": [
-    {
-      "id": "recXT4TItsP1IuLWU",
-      "nom": "Privé",
-      "maitre_ouvrage": [
-        "recHVehEvNmwXAJIO",
-        "rechFw6KIHy4PVSUb",
-        "recahyhau12Ghaztg",
-        "recY5jgLHC0792Lr0",
-        "recRFuKGP2zlHup3A",
-        "rec5EHfAartf4PUHm",
-        "recATsZWxsng7iDNK",
-        "recLD9rnkZv8VOOLu"
-      ]
-    }
-  ],
-  "status": "Publié",
-  "cover_media": {
-    "id": "recNaYy2065LxGq1H",
-    "cover_lieux": [
-      "recLD9rnkZv8VOOLu"
-    ],
-    "titre": "maison paysage cover",
-    "fichiers": [
-      {
-        "id": "att6N6m85kZ3nfS8o",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/44bfe751aa76d6cd152cc4fb084ca67e/cf473414/maisonpaysagecover.jpg",
-        "filename": "maison paysage cover.jpg",
-        "size": 226625,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/822fa8d9be06820404c393c9473b0c27/4adf16f2",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/0d881dbd3668772be1326f92158715f3/48e9a4eb",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/62d96feebb4b844978b60cdb1feaa5d6/cfe73dcf",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "Mabire-Reich Architectes"
-  },
   "médias": [
     {
       "id": "recji4Ta7t9RCylEj",
-      "lieux": [
-        "recLD9rnkZv8VOOLu"
-      ],
       "titre": "Maison paysage photos",
       "fichiers": [
         {
@@ -278,13 +222,13 @@
           }
         }
       ],
-      "credits": "Mabire-Reich Architectes"
+      "credits": "Mabire-Reich Architectes",
+      "lieux": [
+        "recLD9rnkZv8VOOLu"
+      ]
     },
     {
       "id": "recLH3hmQJ6JZjjh9",
-      "lieux": [
-        "recLD9rnkZv8VOOLu"
-      ],
       "titre": "maison paysage photos 2",
       "fichiers": [
         {
@@ -392,13 +336,13 @@
           }
         }
       ],
-      "credits": "Mabire-Reich Architectes"
+      "credits": "Mabire-Reich Architectes",
+      "lieux": [
+        "recLD9rnkZv8VOOLu"
+      ]
     },
     {
       "id": "recZEunHBvua0HlT0",
-      "lieux": [
-        "recLD9rnkZv8VOOLu"
-      ],
       "titre": "maison paysage dossier de presse",
       "fichiers": [
         {
@@ -421,13 +365,13 @@
           }
         }
       ],
-      "credits": "Mabire-Reich Architectes"
+      "credits": "Mabire-Reich Architectes",
+      "lieux": [
+        "recLD9rnkZv8VOOLu"
+      ]
     },
     {
       "id": "recYRGqGLiVvbWRvP",
-      "lieux": [
-        "recLD9rnkZv8VOOLu"
-      ],
       "titre": "maison paysage plaquette de visite",
       "fichiers": [
         {
@@ -450,7 +394,66 @@
           }
         }
       ],
-      "credits": "Mabire-Reich Architectes / Ardepa"
+      "credits": "Mabire-Reich Architectes / Ardepa",
+      "lieux": [
+        "recLD9rnkZv8VOOLu"
+      ]
     }
-  ]
+  ],
+  "cover_media": {
+    "id": "recNaYy2065LxGq1H",
+    "titre": "maison paysage cover",
+    "fichiers": [
+      {
+        "id": "att6N6m85kZ3nfS8o",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/44bfe751aa76d6cd152cc4fb084ca67e/cf473414/maisonpaysagecover.jpg",
+        "filename": "maison paysage cover.jpg",
+        "size": 226625,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/822fa8d9be06820404c393c9473b0c27/4adf16f2",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/0d881dbd3668772be1326f92158715f3/48e9a4eb",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/62d96feebb4b844978b60cdb1feaa5d6/cfe73dcf",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Mabire-Reich Architectes",
+    "cover_lieux": [
+      "recLD9rnkZv8VOOLu"
+    ]
+  },
+  "type": [
+    {
+      "id": "recrpFA9KQQobRh6X",
+      "destination": "Maison",
+      "type_destination": "Logement",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA"
+      ]
+    }
+  ],
+  "présentation": "Étendre une maison, c’est réduire l’espace extérieur de la parcelle sur laquelle elle prend place. \nLe thème du projet que nous avons développé pour la maison paysage est celui de la restitution de cet espace.\nLe site du projet se situe à Nantes, dans un quartier implanté sur le sillon de Bretagne, l’une des lignes de crête du massif armoricain. La parcelle de 300 m² accueille en son fond une petite maison témoignant du passé ouvrier du quartier.\nNous avons mis en place un parcours constitué d’un jeu de terrasses successives reliées par des rampes, formant un itinéraire s’ouvrant successivement sur un patio, le paysage des coeurs d’îlots et le grand paysage des rives sud de la Loire. \nLe développé de ce parcours défi nit une surface. Le volume situé en dessous de cette surface constitue l’extension de la maison, un enchaînement d’espaces à vivre (salon, cuisine, atelier) reliés par des vues obliques, mis en relation par des jeux de niveaux, sans aucune porte intérieure. \nLa «maison paysage» est la mise en relation de deux bâtiments aux différences marquées. \nNous sommes partis du principe qu’il était intéressant de proposer 2 maisons, de déployer des ambiances, des modes de vies et des écritures propres à chaque entité plutôt que des espaces uniformément écrits dans le but de gommer les quelques 80 années qui séparent la construction des deux maisons. La disposition singulière de la maison des années 30, en fond de parcelle, crée un surprenant effet d’anachronisme: la maison ancienne semble être l’extension de la maison neuve.\nLa «maison paysage» est non seulement un potentiel des rapports\nvariés à l’extérieur, mais également un travail sur la matière qui constitue la création d’un paysage intérieur : le veinage du contreplaqué, les motifs dessinés pendant le chantier par la pluie sur la structure métallique, le moirage de la résine ou les motifs répétitifs\ndes carreaux de ciment constituent un univers à part entière, au même titre que les nuages dessinent des paysages inattendus et propices à la contemplation.\n_Textes : Mabire-Reich Architectes_\n_• L'ardepa a visité ce lieu le 14 septembre 2018_\n",
+  "département": "44 Loire-Atlantique",
+  "dernière modification": "2021-10-04T14:53:18.000Z"
 }
