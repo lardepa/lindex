@@ -71,11 +71,11 @@
   },
   "recOWK3c1cbm06Vqy": {
     "id": "recOWK3c1cbm06Vqy",
+    "type_destination": "Équipement",
+    "destination": "Sciences",
     "lieux": [
       "recloEgKAuO4WjR2r"
-    ],
-    "destination": "Sciences",
-    "type_destination": "Équipement"
+    ]
   },
   "recQIJ15w7Yc15eNf": {
     "id": "recQIJ15w7Yc15eNf",
@@ -219,7 +219,9 @@
       "recTr9BzAt1jG9yaJ",
       "recHVehEvNmwXAJIO",
       "rechFw6KIHy4PVSUb",
-      "recRFuKGP2zlHup3A"
+      "recRFuKGP2zlHup3A",
+      "rec5EHfAartf4PUHm",
+      "recATsZWxsng7iDNK"
     ]
   },
   "recs5EEjFEqR1pMAv": {

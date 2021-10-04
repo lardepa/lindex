@@ -273,15 +273,7 @@
       },
       {
         "id": "recT5ti90aD2NTdCN",
-        "nom": "Labo Diva",
-        "dernière modification": "2021-09-30T15:59:03.000Z",
-        "présentation": "L’ancien magasin de matériel de cuisine doit être transformé en espace d’exposition et de communication ouvert au public. \nLa rénovation doit mettre le bâtiment aux normes avec ses nouveaux usages.\nUn travail en équipe avec les scénographes et l’exploitant du restaurant doit permettre de donner une nouvelle identité à ce lieu atypique et idéalement situé au coeur de la rénovation urbaine de l’île de Nantes.\n_Texte : 0101 Architectes_\n",
         "adresse": "51 Bd Gustave Roch, 44200 Nantes\n",
-        "département": "44 Loire-Atlantique",
-        "geolocalisation": [
-          47.201941,
-          -1.553842
-        ],
         "type": [
           {
             "id": "reccvYGuIVsYicPss",
@@ -312,28 +304,15 @@
             ]
           }
         ],
-        "date": "2021",
-        "périodes": [
-          {
-            "id": "recrOfcUS3a0toY0i",
-            "lieux": [
-              "recTr9BzAt1jG9yaJ",
-              "recRlloApjtcScitR",
-              "recXrmOzavWvTwx9T",
-              "recahyhau12Ghaztg",
-              "recT5ti90aD2NTdCN"
-            ],
-            "nom": "années 2020"
-          }
-        ],
         "maitre_oeuvre": [
           {
             "id": "rec11l6RyBToGd7kz",
             "maitre_oeuvre": [
-              "recT5ti90aD2NTdCN"
+              "recT5ti90aD2NTdCN",
+              "rec5EHfAartf4PUHm"
             ],
-            "nom": "0101 Architectes",
-            "site_web": "https://0101.archi/"
+            "site_web": "https://0101.archi/",
+            "nom": "0101 Architectes"
           }
         ],
         "maitre_ouvrage": [
@@ -346,13 +325,34 @@
             "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique"
           }
         ],
+        "parcours": [
+          {
+            "id": "recnSvIT9dWMKZF8x",
+            "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
+            "status": "Publié",
+            "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n",
+            "médias": [
+              "recaTHLX6YXDUfkh2"
+            ],
+            "en une": true,
+            "date": "2019-11-16",
+            "cover_media": [
+              "recikqDR8r22npdW9"
+            ],
+            "sous-titre": "Expédition urbaine 2019#5",
+            "type parcours": "Expédition",
+            "lieux": [
+              "recVoRhrrPKCDBNwW",
+              "recT5ti90aD2NTdCN",
+              "recpN2hW8eG6SnkLe"
+            ]
+          }
+        ],
         "status": "Publié",
+        "présentation": "L’ancien magasin de matériel de cuisine doit être transformé en espace d’exposition et de communication ouvert au public. \nLa rénovation doit mettre le bâtiment aux normes avec ses nouveaux usages.\nUn travail en équipe avec les scénographes et l’exploitant du restaurant doit permettre de donner une nouvelle identité à ce lieu atypique et idéalement situé au coeur de la rénovation urbaine de l’île de Nantes.\n_Texte : 0101 Architectes_\n",
+        "nom": "Labo Diva",
         "cover_media": {
           "id": "recdeHjCwMxrdDcAk",
-          "cover_lieux": [
-            "recT5ti90aD2NTdCN"
-          ],
-          "titre": "labo diva cover",
           "fichiers": [
             {
               "id": "attcdMBMIWzB0vsOX",
@@ -381,15 +381,34 @@
               }
             }
           ],
-          "credits": "0101 Architectes"
+          "titre": "labo diva cover",
+          "credits": "0101 Architectes",
+          "cover_lieux": [
+            "recT5ti90aD2NTdCN"
+          ]
         },
+        "périodes": [
+          {
+            "id": "recrOfcUS3a0toY0i",
+            "lieux": [
+              "recTr9BzAt1jG9yaJ",
+              "recRlloApjtcScitR",
+              "recXrmOzavWvTwx9T",
+              "recahyhau12Ghaztg",
+              "recT5ti90aD2NTdCN"
+            ],
+            "nom": "années 2020"
+          }
+        ],
+        "geolocalisation": [
+          47.201941,
+          -1.553842
+        ],
+        "département": "44 Loire-Atlantique",
+        "date": "2021",
         "médias": [
           {
             "id": "rec09sEvadCPUSVlq",
-            "lieux": [
-              "recT5ti90aD2NTdCN"
-            ],
-            "titre": "labo diva photos",
             "fichiers": [
               {
                 "id": "attbigSwuzt3BfMsO",
@@ -548,32 +567,14 @@
                 }
               }
             ],
+            "lieux": [
+              "recT5ti90aD2NTdCN"
+            ],
+            "titre": "labo diva photos",
             "credits": "0101 Architectes"
           }
         ],
-        "parcours": [
-          {
-            "id": "recnSvIT9dWMKZF8x",
-            "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
-            "status": "Publié",
-            "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n",
-            "médias": [
-              "recaTHLX6YXDUfkh2"
-            ],
-            "en une": true,
-            "date": "2019-11-16",
-            "cover_media": [
-              "recikqDR8r22npdW9"
-            ],
-            "sous-titre": "Expédition urbaine 2019#5",
-            "type parcours": "Expédition",
-            "lieux": [
-              "recVoRhrrPKCDBNwW",
-              "recT5ti90aD2NTdCN",
-              "recpN2hW8eG6SnkLe"
-            ]
-          }
-        ]
+        "dernière modification": "2021-09-30T15:59:03.000Z"
       },
       {
         "id": "recpN2hW8eG6SnkLe",
@@ -718,7 +719,9 @@
               "recP6LOBOUBRRlLnt",
               "recu65igj5DHRpC30",
               "recRFuKGP2zlHup3A",
-              "recpN2hW8eG6SnkLe"
+              "recpN2hW8eG6SnkLe",
+              "rec5EHfAartf4PUHm",
+              "recATsZWxsng7iDNK"
             ],
             "nom": "années 2010"
           }
@@ -1119,7 +1122,9 @@
               "recTr9BzAt1jG9yaJ",
               "recHVehEvNmwXAJIO",
               "rechFw6KIHy4PVSUb",
-              "recRFuKGP2zlHup3A"
+              "recRFuKGP2zlHup3A",
+              "rec5EHfAartf4PUHm",
+              "recATsZWxsng7iDNK"
             ]
           }
         ],

@@ -14,11 +14,11 @@
     },
     {
       "id": "recOWK3c1cbm06Vqy",
+      "type_destination": "Équipement",
+      "destination": "Sciences",
       "lieux": [
         "recloEgKAuO4WjR2r"
-      ],
-      "destination": "Sciences",
-      "type_destination": "Équipement"
+      ]
     }
   ],
   "maitre_oeuvre": [
@@ -96,7 +96,9 @@
         "recP6LOBOUBRRlLnt",
         "recu65igj5DHRpC30",
         "recRFuKGP2zlHup3A",
-        "recpN2hW8eG6SnkLe"
+        "recpN2hW8eG6SnkLe",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK"
       ],
       "nom": "années 2010"
     }
