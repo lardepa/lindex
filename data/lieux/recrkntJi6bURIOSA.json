@@ -1,32 +1,41 @@
 {
   "id": "recrkntJi6bURIOSA",
   "nom": "Maison l'Amour des Cèdres",
-  "dernière modification": "2021-10-04T15:22:33.000Z",
   "adresse": "2 rue Albert Calmette 44300 Nantes\n",
-  "département": "44 Loire-Atlantique",
+  "status": "Publié",
   "geolocalisation": [
     47.230691,
     -1.571427
   ],
-  "type": [
+  "date": "2015",
+  "maitre_oeuvre": [
     {
-      "id": "recrpFA9KQQobRh6X",
-      "destination": "Maison",
-      "type_destination": "Logement",
-      "lieux": [
-        "recTr9BzAt1jG9yaJ",
-        "recHVehEvNmwXAJIO",
-        "rechFw6KIHy4PVSUb",
-        "recRFuKGP2zlHup3A",
-        "rec5EHfAartf4PUHm",
-        "recATsZWxsng7iDNK",
-        "recLD9rnkZv8VOOLu",
+      "id": "rec3uCC60YTxDA1id",
+      "nom": "MFA - Mélaine Ferré Architecture",
+      "site_web": "http://www.mfa.archi/",
+      "maitre_oeuvre": [
         "recrkntJi6bURIOSA"
       ]
     }
   ],
-  "présentation": "Inespéré, ce « coin de paradis » dans Nantes, terrain libre de 326 m2. Inespéré mais contraignant réglementairement: un espace boisé inconstructible décrit un arc de cercle au sud. Inespéré, il ne reste plus qu’à contempler les deux cèdres voisins. Inespéré, le voisinage voit d’un bon oeil une construction basse et discrète se projeter ici.\n\nLe programme est variable tout au long du développement du projet : est-ce un seul logement? est-ce deux logements? est-ce un bureau et une maison? la cuisine doit-elle être ouverte ou fermée? une cave est-elle vraiment nécessaire? Ces aller/retour, ces mises au point sont guidés par le choix premier de conserver une trame régulière de poteaux de 3,70m en façade sud, dans lequel viendront s’ajuster la programmation.\n\nEn effet, la maison se glisse en longueur sur le terrain et la partie de plain-pied s’affine jusqu’à être réduite à 3m de large. Pour profiter pleinement du paysage et réduire l’épaisseur de la paroi, toute la façade du rez-de-chaussée est vitrée sur sa hauteur. \nLe contexte (urbain pourtant) le permet: l’intimité est préservée par la ramure touffue, et aucunes constructions futures ne sont à craindre en limite de parcelle voisine. \n\nL’étage, plus refermé, comme une boite en lévitation, est perforé de multiples ouvertures, conservant l’intimité domestique. Il laisse également passer le soleil de l’ouest jusqu’au bout du jardin. Les matériaux choisis font échos à l’espace paysager. Les façades sont composées de bardage bois à pose verticale en mélèze de france et de menuiseries extérieures en bois exotique.\n\n_Texte : MFA Architecture_\n_• L'ardepa a visité ce lieu le 28 septembre 2018_\n",
-  "date": "2015",
+  "maitre_ouvrage": [
+    {
+      "id": "recXT4TItsP1IuLWU",
+      "nom": "Privé",
+      "maitre_ouvrage": [
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recahyhau12Ghaztg",
+        "recY5jgLHC0792Lr0",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V"
+      ]
+    }
+  ],
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
@@ -74,80 +83,16 @@
         "recMKYgGVASf6j8rE",
         "receMWo5ARK964EuD",
         "recLD9rnkZv8VOOLu",
-        "recrkntJi6bURIOSA"
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V",
+        "recq4adxSr0wOfKMW",
+        "rec01yhWP2aoRq5jj"
       ]
     }
   ],
-  "maitre_oeuvre": [
-    {
-      "id": "rec3uCC60YTxDA1id",
-      "maitre_oeuvre": [
-        "recrkntJi6bURIOSA"
-      ],
-      "nom": "MFA - Mélaine Ferré Architecture",
-      "site_web": "http://www.mfa.archi/"
-    }
-  ],
-  "maitre_ouvrage": [
-    {
-      "id": "recXT4TItsP1IuLWU",
-      "nom": "Privé",
-      "maitre_ouvrage": [
-        "recHVehEvNmwXAJIO",
-        "rechFw6KIHy4PVSUb",
-        "recahyhau12Ghaztg",
-        "recY5jgLHC0792Lr0",
-        "recRFuKGP2zlHup3A",
-        "rec5EHfAartf4PUHm",
-        "recATsZWxsng7iDNK",
-        "recLD9rnkZv8VOOLu",
-        "recrkntJi6bURIOSA"
-      ]
-    }
-  ],
-  "status": "Publié",
-  "cover_media": {
-    "id": "reczUgk0j0TdFUDgR",
-    "cover_lieux": [
-      "recrkntJi6bURIOSA"
-    ],
-    "titre": "maison cedres cover",
-    "fichiers": [
-      {
-        "id": "attvUXopeC7tl3ZfY",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/db56d85e9bb064cd6eae2861c52bc4f0/8f3566c3/amourdescedrescover.jpg",
-        "filename": "amour des cedres cover.jpg",
-        "size": 458197,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/e160bb1cb4741b3ef6b270c3f223eb6e/d112726e",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4b073b5153b13bfffd3383beb6cd6991/721fee64",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/47d3d62c7258ec61152436362877798a/e93e131b",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "MFA Architecture"
-  },
   "médias": [
     {
       "id": "rectYlctvPmd4ncSo",
-      "lieux": [
-        "recrkntJi6bURIOSA"
-      ],
       "titre": "maison cèdres photos",
       "fichiers": [
         {
@@ -281,13 +226,13 @@
           }
         }
       ],
-      "credits": "MFA Architecture"
+      "credits": "MFA Architecture",
+      "lieux": [
+        "recrkntJi6bURIOSA"
+      ]
     },
     {
       "id": "recPh0phsSjd8m8XW",
-      "lieux": [
-        "recrkntJi6bURIOSA"
-      ],
       "titre": "maison cèdres plaquette visite",
       "fichiers": [
         {
@@ -310,7 +255,67 @@
           }
         }
       ],
-      "credits": "MFA Architecture / ARDEPA"
+      "credits": "MFA Architecture / ARDEPA",
+      "lieux": [
+        "recrkntJi6bURIOSA"
+      ]
     }
-  ]
+  ],
+  "cover_media": {
+    "id": "reczUgk0j0TdFUDgR",
+    "titre": "maison cedres cover",
+    "fichiers": [
+      {
+        "id": "attvUXopeC7tl3ZfY",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/db56d85e9bb064cd6eae2861c52bc4f0/8f3566c3/amourdescedrescover.jpg",
+        "filename": "amour des cedres cover.jpg",
+        "size": 458197,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/e160bb1cb4741b3ef6b270c3f223eb6e/d112726e",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4b073b5153b13bfffd3383beb6cd6991/721fee64",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/47d3d62c7258ec61152436362877798a/e93e131b",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "MFA Architecture",
+    "cover_lieux": [
+      "recrkntJi6bURIOSA"
+    ]
+  },
+  "type": [
+    {
+      "id": "recrpFA9KQQobRh6X",
+      "destination": "Maison",
+      "type_destination": "Logement",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V"
+      ]
+    }
+  ],
+  "présentation": "Inespéré, ce « coin de paradis » dans Nantes, terrain libre de 326 m2. Inespéré mais contraignant réglementairement: un espace boisé inconstructible décrit un arc de cercle au sud. Inespéré, il ne reste plus qu’à contempler les deux cèdres voisins. Inespéré, le voisinage voit d’un bon oeil une construction basse et discrète se projeter ici.\n\nLe programme est variable tout au long du développement du projet : est-ce un seul logement? est-ce deux logements? est-ce un bureau et une maison? la cuisine doit-elle être ouverte ou fermée? une cave est-elle vraiment nécessaire? Ces aller/retour, ces mises au point sont guidés par le choix premier de conserver une trame régulière de poteaux de 3,70m en façade sud, dans lequel viendront s’ajuster la programmation.\n\nEn effet, la maison se glisse en longueur sur le terrain et la partie de plain-pied s’affine jusqu’à être réduite à 3m de large. Pour profiter pleinement du paysage et réduire l’épaisseur de la paroi, toute la façade du rez-de-chaussée est vitrée sur sa hauteur. \nLe contexte (urbain pourtant) le permet: l’intimité est préservée par la ramure touffue, et aucunes constructions futures ne sont à craindre en limite de parcelle voisine. \n\nL’étage, plus refermé, comme une boite en lévitation, est perforé de multiples ouvertures, conservant l’intimité domestique. Il laisse également passer le soleil de l’ouest jusqu’au bout du jardin. Les matériaux choisis font échos à l’espace paysager. Les façades sont composées de bardage bois à pose verticale en mélèze de france et de menuiseries extérieures en bois exotique.\n\n_Texte : MFA Architecture_\n_• L'ardepa a visité ce lieu le 28 septembre 2018_\n",
+  "département": "44 Loire-Atlantique",
+  "dernière modification": "2021-10-04T15:22:33.000Z"
 }

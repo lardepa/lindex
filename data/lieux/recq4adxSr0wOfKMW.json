@@ -1,0 +1,443 @@
+{
+  "id": "recq4adxSr0wOfKMW",
+  "nom": "Le Chronographe",
+  "adresse": "21 Rue Saint-Lupien 44400 Rezé\n",
+  "status": "Publié",
+  "geolocalisation": [
+    47.19183906095207,
+    -1.5647830776386644
+  ],
+  "date": "2015",
+  "maitre_oeuvre": [
+    {
+      "id": "recaGTVAxJlTQJ2lF",
+      "nom": "Berranger & Vincent Architectes",
+      "site_web": "https://www.berrangeretvincent.com/",
+      "maitre_oeuvre": [
+        "recq4adxSr0wOfKMW"
+      ]
+    },
+    {
+      "id": "recA36FgRNMYK8WEz",
+      "nom": "A + R Paysage",
+      "site_web": "https://www.aplusrpaysages.com/",
+      "maitre_oeuvre": [
+        "recq4adxSr0wOfKMW"
+      ]
+    },
+    {
+      "id": "recpjhTSvKvezvene",
+      "nom": "ASA - Atelier Sompairac architecture et scénographie",
+      "site_web": "https://www.sompairac-architectes.com/",
+      "maitre_oeuvre": [
+        "recq4adxSr0wOfKMW"
+      ]
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recXVXVP3gQIykC61",
+      "nom": "Nantes Métropole (44)",
+      "site_web": "https://metropole.nantes.fr/",
+      "maitre_ouvrage": [
+        "recXIe49AgTTO1AuY",
+        "receMWo5ARK964EuD",
+        "recq4adxSr0wOfKMW"
+      ]
+    },
+    {
+      "id": "recI6W1YFKxFG3H6F",
+      "nom": "Ville de Rezé (44)",
+      "maitre_ouvrage": [
+        "recq4adxSr0wOfKMW"
+      ]
+    }
+  ],
+  "périodes": [
+    {
+      "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
+      "lieux": [
+        "recXIe49AgTTO1AuY",
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R",
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r",
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
+        "recYQXv9Df1Bn5fTu",
+        "rec7OkEzJNwlvELsf",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb",
+        "rec0tsNbxoh48H20l",
+        "recX0Kj4p2adp8f8U",
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt",
+        "recu65igj5DHRpC30",
+        "recRFuKGP2zlHup3A",
+        "recpN2hW8eG6SnkLe",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "rec0Rwewbk2MMTQAD",
+        "reccVHejspOWs8dm2",
+        "recTaYdefmJUHsBOi",
+        "recIsRYGFH3wqqTYC",
+        "recMKYgGVASf6j8rE",
+        "receMWo5ARK964EuD",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V",
+        "recq4adxSr0wOfKMW",
+        "rec01yhWP2aoRq5jj"
+      ]
+    }
+  ],
+  "médias": [
+    {
+      "id": "recqzfqvMcWgsh3eh",
+      "titre": "chronographe photos 1",
+      "fichiers": [
+        {
+          "id": "attpGSQgUpiYnKtcR",
+          "width": 1136,
+          "height": 852,
+          "url": "https://dl.airtable.com/.attachments/b6b6937fce2c85e5be573ba067c0c7bf/59980345/16710555_10211023608859069_1621806597_o.jpg",
+          "filename": "16710555_10211023608859069_1621806597_o.jpg",
+          "size": 145417,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/02c227083e9782e0f252a6f9481ec064/90ce7346",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e382cfce095d76891317389bd68dad07/717006a3",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e582bd4a7f64f0f5d2b68d5eaffdc565/f5766808",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attwqfyZhW4kjfGu4",
+          "width": 1136,
+          "height": 852,
+          "url": "https://dl.airtable.com/.attachments/2597183d2e1c60001bcc4841b945e181/1b6ffb3e/16735423_10211023608179052_538361989_o.jpg",
+          "filename": "16735423_10211023608179052_538361989_o.jpg",
+          "size": 98334,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d9312435b5239012521eb65192f1c64d/f0ebe01a",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7d0c548efa154e9d77cd9215304d7363/53d3e4a1",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/56227fd6ed5faf9a19517b44ee3cdbcc/28a156e2",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Berranger & Vincent / Ardepa",
+      "lieux": [
+        "recq4adxSr0wOfKMW"
+      ]
+    },
+    {
+      "id": "recXb9oIm9jyNb0sF",
+      "titre": "chronographe documents",
+      "fichiers": [
+        {
+          "id": "att21dIU84ILGwve9",
+          "url": "https://dl.airtable.com/.attachments/8113a40c995293d2a3a381c204a1f705/999cb686/chronographedocuments.pdf",
+          "filename": "chronographe documents.pdf",
+          "size": 4988775,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f2e325cea0c62d3c45e38df5f99c6a8b/f56ad2ae",
+              "width": 51,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b0e54d5a42c8c9a19ab3175e3d35ea95/4141e3d3",
+              "width": 512,
+              "height": 362
+            }
+          }
+        }
+      ],
+      "credits": "Berranger & Vincent",
+      "lieux": [
+        "recq4adxSr0wOfKMW"
+      ]
+    },
+    {
+      "id": "rec68yki3tqthtmSq",
+      "titre": "chronographe photos 2",
+      "fichiers": [
+        {
+          "id": "attGSlWqCmu4SkoAG",
+          "width": 852,
+          "height": 1136,
+          "url": "https://dl.airtable.com/.attachments/4b52a5fc8e1cf57957a001af3e0c25c8/e9e71b60/16731514_10211023608899070_897389873_o.jpg",
+          "filename": "16731514_10211023608899070_897389873_o.jpg",
+          "size": 168604,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c0c3721ebbe8fedbf087f1a40e03fe11/d7379fa1",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a23273a91aa31fec2d3feff8ec3bf1ac/908b2f75",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5a257aef00140e3989e032b9c43d6484/c0c20508",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attwP0v9jNvUZm9Q5",
+          "width": 852,
+          "height": 1136,
+          "url": "https://dl.airtable.com/.attachments/6f91be819edd6763ae9715792459fc39/790c59fd/16735072_10211023609979097_144608611_o.jpg",
+          "filename": "16735072_10211023609979097_144608611_o.jpg",
+          "size": 175751,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/50e97dea4a612fd889346db31c03aaf7/507d24d3",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/dd799c6721ab728f15c8cb899126b419/642a1ddc",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4075943d6788498aef54d5945582d9cb/caaae8a1",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attcnDtkuhcG1Tn5Y",
+          "width": 852,
+          "height": 1136,
+          "url": "https://dl.airtable.com/.attachments/95feea5593de73d8d300a27aa5e1600c/5c228530/16735088_10211023609899095_975168715_o.jpg",
+          "filename": "16735088_10211023609899095_975168715_o.jpg",
+          "size": 194593,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9aa2fd5e282d3d06b8023a285f4e7591/820e02ec",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a2378baa418b313da119785760f078ee/5c0c710f",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2e935b904b6eb36b48cbe6e022f4cb9a/a4a7940d",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attoJDHsQ42pDIq9m",
+          "width": 852,
+          "height": 1136,
+          "url": "https://dl.airtable.com/.attachments/21946b7e1f68c439f7def5ce56940b3f/2025bbfd/16735617_10211023608539061_942773023_o.jpg",
+          "filename": "16735617_10211023608539061_942773023_o.jpg",
+          "size": 114841,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0e36317db57a29ecae3282783b71cd46/07e1546a",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/778ec639786d5b85dbf54dedc453a716/e22b79ba",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fba62ce4d9680f1b21404c1815ed1907/325c743d",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attvPsxV5SMsN3FVt",
+          "width": 852,
+          "height": 1136,
+          "url": "https://dl.airtable.com/.attachments/8ab329f104a319c8bfa43c8e1f49ecd7/dad4741a/16735722_10211023609299080_182110571_o.jpg",
+          "filename": "16735722_10211023609299080_182110571_o.jpg",
+          "size": 184837,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c2a701765f553eb6fcab8806118034b1/c88a00b1",
+              "width": 27,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2c1d5cc59e20e56b6d0c499eca9db588/a5ccb442",
+              "width": 512,
+              "height": 683
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0037623a7fb9d4818e19778f3b6866e3/599b7b9b",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Berranger & Vincent / Ardepa",
+      "lieux": [
+        "recq4adxSr0wOfKMW"
+      ]
+    },
+    {
+      "id": "recMKEQl7WsyFtJjb",
+      "titre": "Chronographe plaquette de visite",
+      "fichiers": [
+        {
+          "id": "attivkudmPdlzIewx",
+          "url": "https://dl.airtable.com/.attachments/b04c0497d06a7f2f36d8afba802d2128/b33bd5e3/chronographeplaquettea5.pdf",
+          "filename": "chronographe plaquette a5.pdf",
+          "size": 5578400,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/55b1cbdff8244d60ac30f552bc27d6d7/d08edce2",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ad88d2481e4eb9f71c8ddf514cdc04bc/a785182f",
+              "width": 361,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "credits": "Berranger & Vincent / Ardepa",
+      "lieux": [
+        "recq4adxSr0wOfKMW"
+      ]
+    }
+  ],
+  "cover_media": {
+    "id": "rechXGhXgMvAotC3B",
+    "titre": "chronographe cover",
+    "fichiers": [
+      {
+        "id": "attIxwfRJdGvoMjUj",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/d63b37905035fcbf8941a08f92a6cfc5/0e6d9cd1/chronographecover.jpg",
+        "filename": "chronographe cover.jpg",
+        "size": 282760,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/70db58e3931fc77d5161235f734d99c2/8b95a528",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5d7ceb16cc9e1ce73c7d6b820ae80ba0/c46762db",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2d59ca611ed581fffbe7a9fd7e3df990/0527beb4",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Berranger & Vincent / Ardepa",
+    "cover_lieux": [
+      "recq4adxSr0wOfKMW"
+    ]
+  },
+  "type": [
+    {
+      "id": "recpXtVGJnicjtjCe",
+      "destination": "Musée",
+      "type_destination": "Équipement",
+      "lieux": [
+        "recAIyOLNUx4kiPXv",
+        "receMWo5ARK964EuD",
+        "recq4adxSr0wOfKMW"
+      ]
+    },
+    {
+      "id": "recU0DF0Isnpt8rJ1",
+      "destination": "Culture",
+      "type_destination": "Équipement",
+      "lieux": [
+        "recq85i5LBfpWsp9R",
+        "recloEgKAuO4WjR2r",
+        "recT5ti90aD2NTdCN",
+        "recq4adxSr0wOfKMW"
+      ]
+    },
+    {
+      "id": "recOWK3c1cbm06Vqy",
+      "destination": "Sciences",
+      "type_destination": "Équipement",
+      "lieux": [
+        "recloEgKAuO4WjR2r",
+        "recq4adxSr0wOfKMW"
+      ]
+    }
+  ],
+  "présentation": "**_LE CHRONOGRAPHE_**\nEnclencher le comptage, stopper, remettre à zéro, mesurer l’intervalle de temps écoulé, puis tout recommencer : telles sont les actions que permet le chronographe, cette montre capable d’indiquer la durée d’une observation. Après de longues délibérations, ce mot issu du vocabulaire de l’horlogerie fut choisi pour baptiser le centre d’interprétation archéologique de Saint-Lupien. Ce nouvel outil serait donc la métaphore d’une machine à remonter le temps, l’enrouler et le dérouler : une belle image pour dire l’écriture de l’Histoire, comprendre la fabrique d’une ville et d’un paysage, et saisir l’essence de la recherche en archéologie. \n**_UNE ARCHITECTURE SIGNÉE BERRANGER & VINCENT_**\nPour un architecte, intervenir sur un site archéologique constitue une vraie gageure : la question du bon ancrage, qui respecte les traces des vestiges antiques et s’insère dans la logique de l’ancien tissu urbain, se pose avec une acuité particulière, tant vis-à-vis du paysage que par la nature même du programme, car le bâtiment conçu par Jérôme Berranger et Stéphanie Vincent a pour mission première d’être un instrument de médiation, révélateur de contexte spatio-temporel.\n**_OBSERVER, ÊTRE TRAVERSÉ_**\nLe duo choisit la simplicité des volumes : deux parallélépipèdes s’équilibrent, l’un posé avec légèreté sur la pente du site, l’autre dressé vers le ciel, lorgnant à la fois vers l’esthétique industrielle de l’échafaudage métallique et celle, plus organique, de la cabane en bois. Berranger & Vincent évoquent l’image des observatoires de pêcheurs ou de chasseurs, des belvédères de campagne, ou des tours médiévales : autant d’espaces ouverts sur le monde qui en retour se voient traversés par le paysage alentour ; autant de structures plutôt précaires, non figées, qui ménagent de multiples possibilités d’observation, de contemplation et de projection. \nÀ l’intérieur de ses 800 m2 de surface, le Chronographe dispose d’un espace d’exposition permanente, un espace d’exposition temporaire, des bureaux et espaces logistiques, et deux ateliers pédagogiques. \nPartout priment la sobriété des volumes et la souplesse d’utilisation. L’idée de circulation l’emporte : au rez-de-jardin, l’exposition Temporaire se déploie dans un espace ouvert, libéré de point porteur. \nLes architectes ont ici privilégié la transparence, comme pour entrer en conversation avec la topographie proche. Ailleurs, le bâtiment souligne les perspectives qui révèlent la nature du site : la double trame irrégulière des façades du rez-de-chaussée, bardées de mélèze aux douces nuances argentées, offre ainsi plusieurs cadrages liés à la muséographie de l’exposition permanente. \nLe choix des ouvertures articule des séquences de regard : vues en contre-plongée sur les murets du jardin archéologique, cadrage précis sur la Chapelle St Lupien, percement contrôlé sur la Maison Radieuse... \nOutil de transmission, l’architecture orchestre de multiples étapes perceptives. \n_Texte : Eva Prouteau_\n_• L'ardepa a visité ce lieu le 10 février 2017_\n",
+  "département": "44 Loire-Atlantique",
+  "dernière modification": "2021-10-05T13:06:20.000Z"
+}

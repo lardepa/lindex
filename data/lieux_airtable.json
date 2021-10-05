@@ -1,4 +1,35 @@
 {
+  "rec01yhWP2aoRq5jj": {
+    "id": "rec01yhWP2aoRq5jj",
+    "nom": "Institut public La Persagotière",
+    "adresse": "2 rue René Dunan 44200 Nantes\n",
+    "status": "Publié",
+    "geolocalisation": "47.193398,-1.537883",
+    "date": "2016",
+    "maitre_oeuvre": [
+      "rec5Hv3G4xYoddlcE"
+    ],
+    "maitre_ouvrage": [
+      "recKIPoNLtWslh3Yz"
+    ],
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "médias": [
+      "recwVarAR5Rk5mvJB",
+      "recdmvjKbmgaZPcDx",
+      "recZyIaijCtpbQFq9"
+    ],
+    "cover_media": [
+      "rec7obdFSUpPHsyQV"
+    ],
+    "type": [
+      "rec0MFGGo0LBcztlB"
+    ],
+    "présentation": "Ce projet s’inscrit dans une démarche urbaine globale de requalification du site des bâtiments de l’institut de la Persagotière en bord de Sèvre à Nantes.\nIl lui faut à la fois garder le lien avec le patrimoine naturel et construit, offrir les nouveaux atouts d’un équipement performant et s’adapter à un handicap ciblé, celui de la surdité totale ou partielle.\n**_Parti urbain et paysager :_**\nProlonger le parc en s’appuyant sur les nouvelles lignes directrices.\nL’aménagement projeté du site est celui d’un parc habité. Le projet s’implante au milieu d’un écrin végétal reconstitué et densifié. Par un jeu d’inflexions et de fragmentation des volumes, des espaces extérieurs spécifiques sont ménagés : préau, cour de récréation, parvis assurant une séparation claire des flux piétons et voitures. Les stationnements sont gérés tels des clairières dans l’écrin vert. Cet équipement a été conçu comme un 3e élément remarquable au sein du parc, en dialogue avec la chapelle et le château.\n**_Parti architectural :_**\nConcevoir un volume unitaire et repérable offrant un cœur ouvert.\nLe projet articule trois volumes qui par leur assemblage génèrent une richesse d’espaces interstitiels tel le hall commun transparent et traversant. L’implantation des deux volumes côté parvis symbolise des bras ouverts, renforçant la qualité d’accueil et la convivialité. Le bâtiment est résolument ouvert sur l’extérieur et sur l’intérieur, privilégiant la fluidité, tant sur le plan visuel que sur le plan circulatoire.\nLes matériaux utilisés résonnent avec ce parti volumétrique, ainsi sur les extérieurs, les façades tournées vers le parc sont en béton préfabriqué, matricé et lasuré en écho aux façades minérales des éléments remarquables que sont l’église et le château. Les façades donnant sur le cœur du projet sont en bardage verrier coloré, générant une intériorité riche et ludique apportant chaleur et gaieté.\n**_Parti fonctionnel :_**\nFavoriser transparence et lumière, respiration et perspective tout en préservant l’intimité.\nL’accès au hall s’effectue dans le prolongement direct du parvis couvert qui longe le centre de documentation. La desserte des différentes entités s’effectue alors en étoile. Véritable cœur du projet, ludique, coloré, « _organique_ » et sensuel, le hall a été conçu comme un lieu de convivialité et de repérage, facilitant les échanges. Depuis ce hall transparent et lumineux, l’extérieur (parvis et parking) est immédiatement préhensible par le regard.\nLa circulation verticale principale occupe une place centrale, elle est systématiquement en prise avec les halls d’étage, qui sont un relais du hall principal. D’une manière générale, toutes les circulations débouchent sur des cadrages sur le paysage. Le repérage par la vue a été privilégié prenant en compte que le malentendant s’accroche plus particulièrement à ce qu’il voit.\nNotre positionnement architectural consiste à nous inscrire de manière contemporaine dans un site tout en mettant en avant ses composantes. Nous nous sommes attachés à concilier les demandes spécifiques d’un programme et les données multiples d’un site, le tout passé au crible du développement durable.\n_Texte : Forma6_\n_• L'ardepa a visité ce lieu le 17 juin 2016_\n",
+    "département": "44 Loire-Atlantique",
+    "dernière modification": "2021-10-05T14:09:16.000Z"
+  },
   "rec0Rwewbk2MMTQAD": {
     "id": "rec0Rwewbk2MMTQAD",
     "nom": "La promenade des Nefs ",
@@ -1335,6 +1366,43 @@
     "département": "44 Loire-Atlantique",
     "dernière modification": "2021-10-04T08:31:44.000Z"
   },
+  "recq4adxSr0wOfKMW": {
+    "id": "recq4adxSr0wOfKMW",
+    "nom": "Le Chronographe",
+    "adresse": "21 Rue Saint-Lupien 44400 Rezé\n",
+    "status": "Publié",
+    "geolocalisation": "47.19183906095207, -1.5647830776386644",
+    "date": "2015",
+    "maitre_oeuvre": [
+      "recaGTVAxJlTQJ2lF",
+      "recA36FgRNMYK8WEz",
+      "recpjhTSvKvezvene"
+    ],
+    "maitre_ouvrage": [
+      "recXVXVP3gQIykC61",
+      "recI6W1YFKxFG3H6F"
+    ],
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "médias": [
+      "recqzfqvMcWgsh3eh",
+      "recXb9oIm9jyNb0sF",
+      "rec68yki3tqthtmSq",
+      "recMKEQl7WsyFtJjb"
+    ],
+    "cover_media": [
+      "rechXGhXgMvAotC3B"
+    ],
+    "type": [
+      "recpXtVGJnicjtjCe",
+      "recU0DF0Isnpt8rJ1",
+      "recOWK3c1cbm06Vqy"
+    ],
+    "présentation": "**_LE CHRONOGRAPHE_**\nEnclencher le comptage, stopper, remettre à zéro, mesurer l’intervalle de temps écoulé, puis tout recommencer : telles sont les actions que permet le chronographe, cette montre capable d’indiquer la durée d’une observation. Après de longues délibérations, ce mot issu du vocabulaire de l’horlogerie fut choisi pour baptiser le centre d’interprétation archéologique de Saint-Lupien. Ce nouvel outil serait donc la métaphore d’une machine à remonter le temps, l’enrouler et le dérouler : une belle image pour dire l’écriture de l’Histoire, comprendre la fabrique d’une ville et d’un paysage, et saisir l’essence de la recherche en archéologie. \n**_UNE ARCHITECTURE SIGNÉE BERRANGER & VINCENT_**\nPour un architecte, intervenir sur un site archéologique constitue une vraie gageure : la question du bon ancrage, qui respecte les traces des vestiges antiques et s’insère dans la logique de l’ancien tissu urbain, se pose avec une acuité particulière, tant vis-à-vis du paysage que par la nature même du programme, car le bâtiment conçu par Jérôme Berranger et Stéphanie Vincent a pour mission première d’être un instrument de médiation, révélateur de contexte spatio-temporel.\n**_OBSERVER, ÊTRE TRAVERSÉ_**\nLe duo choisit la simplicité des volumes : deux parallélépipèdes s’équilibrent, l’un posé avec légèreté sur la pente du site, l’autre dressé vers le ciel, lorgnant à la fois vers l’esthétique industrielle de l’échafaudage métallique et celle, plus organique, de la cabane en bois. Berranger & Vincent évoquent l’image des observatoires de pêcheurs ou de chasseurs, des belvédères de campagne, ou des tours médiévales : autant d’espaces ouverts sur le monde qui en retour se voient traversés par le paysage alentour ; autant de structures plutôt précaires, non figées, qui ménagent de multiples possibilités d’observation, de contemplation et de projection. \nÀ l’intérieur de ses 800 m2 de surface, le Chronographe dispose d’un espace d’exposition permanente, un espace d’exposition temporaire, des bureaux et espaces logistiques, et deux ateliers pédagogiques. \nPartout priment la sobriété des volumes et la souplesse d’utilisation. L’idée de circulation l’emporte : au rez-de-jardin, l’exposition Temporaire se déploie dans un espace ouvert, libéré de point porteur. \nLes architectes ont ici privilégié la transparence, comme pour entrer en conversation avec la topographie proche. Ailleurs, le bâtiment souligne les perspectives qui révèlent la nature du site : la double trame irrégulière des façades du rez-de-chaussée, bardées de mélèze aux douces nuances argentées, offre ainsi plusieurs cadrages liés à la muséographie de l’exposition permanente. \nLe choix des ouvertures articule des séquences de regard : vues en contre-plongée sur les murets du jardin archéologique, cadrage précis sur la Chapelle St Lupien, percement contrôlé sur la Maison Radieuse... \nOutil de transmission, l’architecture orchestre de multiples étapes perceptives. \n_Texte : Eva Prouteau_\n_• L'ardepa a visité ce lieu le 10 février 2017_\n",
+    "département": "44 Loire-Atlantique",
+    "dernière modification": "2021-10-05T13:06:20.000Z"
+  },
   "recq85i5LBfpWsp9R": {
     "id": "recq85i5LBfpWsp9R",
     "nom": "Espace de diffusion culturelle à Domfront-en-Champagne",
@@ -1361,35 +1429,66 @@
     "département": "72 Sarthe",
     "dernière modification": "2021-09-30T07:30:33.000Z"
   },
+  "recqyWBYUvLlSsdix": {
+    "id": "recqyWBYUvLlSsdix",
+    "nom": "Villagexpo de Nantes",
+    "dernière modification": "2021-10-05T15:53:52.000Z",
+    "geolocalisation": "47.2158991667668, -1.617667399566115",
+    "adresse": "Rue d'Avranche 44000 Nantes\n",
+    "département": "44 Loire-Atlantique",
+    "type": [
+      "recYSw9aAndSU9UZ7"
+    ],
+    "date": "1968",
+    "périodes": [
+      "recoq00NAUf4eKDs0"
+    ],
+    "maitre_oeuvre": [
+      "recRc1cQ0NqjqHJpZ",
+      "recpjzCDWnnKxEpbk"
+    ],
+    "maitre_ouvrage": [
+      "recxs3HdBxI9nzo5P"
+    ],
+    "présentation": "Le « villagexpo » se voulait être une démonstration à l’échelle 1 que l’on peut concilier la qualité de l’habitat individuel (ce sont des maisons HLM) et la réalisation d’opérations groupées de modèles industrialisés.\nLe Villagexpo de Saint-Herblain est le premier réalisé hors région parisienne. L’exposition qui dura du 13 juin au 14 juillet 1968 connut un véritable succès.\nPlus d'infos dans la plaquette de visite (à télécharger ICI)\n_• L'ardepa a visité ce lieu lors des Journées du Patrimoine 2015_\n",
+    "status": "Publié",
+    "cover_media": [
+      "rec5SJ5oRPAtFuCX5"
+    ],
+    "médias": [
+      "recJ1SB6CFPO9h6XW",
+      "reczjd2tuQWbOlPZz"
+    ]
+  },
   "recrkntJi6bURIOSA": {
     "id": "recrkntJi6bURIOSA",
     "nom": "Maison l'Amour des Cèdres",
-    "dernière modification": "2021-10-04T15:22:33.000Z",
     "adresse": "2 rue Albert Calmette 44300 Nantes\n",
-    "département": "44 Loire-Atlantique",
+    "status": "Publié",
     "geolocalisation": "47.230691,-1.571427",
-    "type": [
-      "recrpFA9KQQobRh6X"
-    ],
-    "présentation": "Inespéré, ce « coin de paradis » dans Nantes, terrain libre de 326 m2. Inespéré mais contraignant réglementairement: un espace boisé inconstructible décrit un arc de cercle au sud. Inespéré, il ne reste plus qu’à contempler les deux cèdres voisins. Inespéré, le voisinage voit d’un bon oeil une construction basse et discrète se projeter ici.\n\nLe programme est variable tout au long du développement du projet : est-ce un seul logement? est-ce deux logements? est-ce un bureau et une maison? la cuisine doit-elle être ouverte ou fermée? une cave est-elle vraiment nécessaire? Ces aller/retour, ces mises au point sont guidés par le choix premier de conserver une trame régulière de poteaux de 3,70m en façade sud, dans lequel viendront s’ajuster la programmation.\n\nEn effet, la maison se glisse en longueur sur le terrain et la partie de plain-pied s’affine jusqu’à être réduite à 3m de large. Pour profiter pleinement du paysage et réduire l’épaisseur de la paroi, toute la façade du rez-de-chaussée est vitrée sur sa hauteur. \nLe contexte (urbain pourtant) le permet: l’intimité est préservée par la ramure touffue, et aucunes constructions futures ne sont à craindre en limite de parcelle voisine. \n\nL’étage, plus refermé, comme une boite en lévitation, est perforé de multiples ouvertures, conservant l’intimité domestique. Il laisse également passer le soleil de l’ouest jusqu’au bout du jardin. Les matériaux choisis font échos à l’espace paysager. Les façades sont composées de bardage bois à pose verticale en mélèze de france et de menuiseries extérieures en bois exotique.\n\n_Texte : MFA Architecture_\n_• L'ardepa a visité ce lieu le 28 septembre 2018_\n",
     "date": "2015",
-    "périodes": [
-      "rec0D9TkCH83ItF6j"
-    ],
     "maitre_oeuvre": [
       "rec3uCC60YTxDA1id"
     ],
     "maitre_ouvrage": [
       "recXT4TItsP1IuLWU"
     ],
-    "status": "Publié",
-    "cover_media": [
-      "reczUgk0j0TdFUDgR"
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
     ],
     "médias": [
       "rectYlctvPmd4ncSo",
       "recPh0phsSjd8m8XW"
-    ]
+    ],
+    "cover_media": [
+      "reczUgk0j0TdFUDgR"
+    ],
+    "type": [
+      "recrpFA9KQQobRh6X"
+    ],
+    "présentation": "Inespéré, ce « coin de paradis » dans Nantes, terrain libre de 326 m2. Inespéré mais contraignant réglementairement: un espace boisé inconstructible décrit un arc de cercle au sud. Inespéré, il ne reste plus qu’à contempler les deux cèdres voisins. Inespéré, le voisinage voit d’un bon oeil une construction basse et discrète se projeter ici.\n\nLe programme est variable tout au long du développement du projet : est-ce un seul logement? est-ce deux logements? est-ce un bureau et une maison? la cuisine doit-elle être ouverte ou fermée? une cave est-elle vraiment nécessaire? Ces aller/retour, ces mises au point sont guidés par le choix premier de conserver une trame régulière de poteaux de 3,70m en façade sud, dans lequel viendront s’ajuster la programmation.\n\nEn effet, la maison se glisse en longueur sur le terrain et la partie de plain-pied s’affine jusqu’à être réduite à 3m de large. Pour profiter pleinement du paysage et réduire l’épaisseur de la paroi, toute la façade du rez-de-chaussée est vitrée sur sa hauteur. \nLe contexte (urbain pourtant) le permet: l’intimité est préservée par la ramure touffue, et aucunes constructions futures ne sont à craindre en limite de parcelle voisine. \n\nL’étage, plus refermé, comme une boite en lévitation, est perforé de multiples ouvertures, conservant l’intimité domestique. Il laisse également passer le soleil de l’ouest jusqu’au bout du jardin. Les matériaux choisis font échos à l’espace paysager. Les façades sont composées de bardage bois à pose verticale en mélèze de france et de menuiseries extérieures en bois exotique.\n\n_Texte : MFA Architecture_\n_• L'ardepa a visité ce lieu le 28 septembre 2018_\n",
+    "département": "44 Loire-Atlantique",
+    "dernière modification": "2021-10-04T15:22:33.000Z"
   },
   "recsuUKLNrVXo8p8J": {
     "id": "recsuUKLNrVXo8p8J",
@@ -1484,6 +1583,29 @@
     "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 (Catégorie Aménagement)\n",
     "département": "72 Sarthe",
     "dernière modification": "2021-09-30T07:30:49.000Z"
+  },
+  "recwnakX0XGMKhW3V": {
+    "id": "recwnakX0XGMKhW3V",
+    "nom": "White House",
+    "adresse": "41 quai Robert Surcouf 44400 Rezé\n",
+    "status": "En rédaction",
+    "geolocalisation": "47.195014,-1.580204",
+    "date": "2014",
+    "maitre_oeuvre": [
+      "recBW0Z2JjUaP5hr4"
+    ],
+    "maitre_ouvrage": [
+      "recXT4TItsP1IuLWU"
+    ],
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
+    ],
+    "type": [
+      "recrpFA9KQQobRh6X"
+    ],
+    "présentation": "_• L'ardepa a visité ce lieu le 30 novembre 2018_\n",
+    "département": "44 Loire-Atlantique",
+    "dernière modification": "2021-10-05T07:24:51.000Z"
   },
   "reczXyoM7GigrsPit": {
     "id": "reczXyoM7GigrsPit",

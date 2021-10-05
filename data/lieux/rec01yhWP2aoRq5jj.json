@@ -1,0 +1,232 @@
+{
+  "id": "rec01yhWP2aoRq5jj",
+  "nom": "Institut public La Persagotière",
+  "adresse": "2 rue René Dunan 44200 Nantes\n",
+  "status": "Publié",
+  "geolocalisation": [
+    47.193398,
+    -1.537883
+  ],
+  "date": "2016",
+  "maitre_oeuvre": [
+    {
+      "id": "rec5Hv3G4xYoddlcE",
+      "nom": "Forma6",
+      "site_web": "http://www.forma6.net/",
+      "maitre_oeuvre": [
+        "recJgalSFcQX7dLe6",
+        "recRFuKGP2zlHup3A",
+        "recIsRYGFH3wqqTYC",
+        "rec01yhWP2aoRq5jj"
+      ]
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recKIPoNLtWslh3Yz",
+      "nom": "Institut la Persagotière",
+      "maitre_ouvrage": [
+        "rec01yhWP2aoRq5jj"
+      ]
+    }
+  ],
+  "périodes": [
+    {
+      "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
+      "lieux": [
+        "recXIe49AgTTO1AuY",
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R",
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r",
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
+        "recYQXv9Df1Bn5fTu",
+        "rec7OkEzJNwlvELsf",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb",
+        "rec0tsNbxoh48H20l",
+        "recX0Kj4p2adp8f8U",
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt",
+        "recu65igj5DHRpC30",
+        "recRFuKGP2zlHup3A",
+        "recpN2hW8eG6SnkLe",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "rec0Rwewbk2MMTQAD",
+        "reccVHejspOWs8dm2",
+        "recTaYdefmJUHsBOi",
+        "recIsRYGFH3wqqTYC",
+        "recMKYgGVASf6j8rE",
+        "receMWo5ARK964EuD",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V",
+        "recq4adxSr0wOfKMW",
+        "rec01yhWP2aoRq5jj"
+      ]
+    }
+  ],
+  "médias": [
+    {
+      "id": "recwVarAR5Rk5mvJB",
+      "titre": "persagotière photo",
+      "fichiers": [
+        {
+          "id": "attm5JXyBWyKfHT80",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/b332e2bb6c84318b25c8132587faa14e/3613f655/persagotiere1.jpg",
+          "filename": "persagotiere1.jpg",
+          "size": 378314,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d1a590c05ee884dbeba8b3c378d1f475/608c2b4e",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d70119a72ff0eb38ba10cf40c28067d7/d9933baa",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/690130c5d36019dea362552b065c4104/002347e2",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Forma6",
+      "lieux": [
+        "rec01yhWP2aoRq5jj"
+      ]
+    },
+    {
+      "id": "recdmvjKbmgaZPcDx",
+      "titre": "persagotière documents",
+      "fichiers": [
+        {
+          "id": "attQUjXpDiFmQUpH8",
+          "url": "https://dl.airtable.com/.attachments/40d8652eb1a34558b49484aa07ec659d/6c13e272/institutpersagotiredocuments.pdf",
+          "filename": "institut persagotière documents.pdf",
+          "size": 2995988,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a749b6898cf17fbc072c8986f63e57be/d874b9fa",
+              "width": 51,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/deda46082b56309b085cbfe17207253d/dbada9b2",
+              "width": 512,
+              "height": 362
+            }
+          }
+        }
+      ],
+      "credits": "Forma6",
+      "lieux": [
+        "rec01yhWP2aoRq5jj"
+      ]
+    },
+    {
+      "id": "recZyIaijCtpbQFq9",
+      "titre": "persagotière plaquette visiter",
+      "fichiers": [
+        {
+          "id": "attzmz6YRIpiwmxro",
+          "url": "https://dl.airtable.com/.attachments/c47a1fa77dea032fa3c02623c341e693/0e3af1c2/Persagotierea5.pdf",
+          "filename": "Persagotiere a5.pdf",
+          "size": 5418887,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4a4c51000d06146ad15d62510cd27ed0/a1075b93",
+              "width": 26,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7671863e6890fde476ad1de782997123/5ec513e6",
+              "width": 368,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "credits": "Forma6 / ARDEPA",
+      "lieux": [
+        "rec01yhWP2aoRq5jj"
+      ]
+    }
+  ],
+  "cover_media": {
+    "id": "rec7obdFSUpPHsyQV",
+    "titre": "persagotière cover",
+    "fichiers": [
+      {
+        "id": "attmgp0R6ptdwaEwW",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/c850b9cc4eed9abd1775adef9ac902e2/15089022/persagotierecover.jpg",
+        "filename": "persagotiere cover.jpg",
+        "size": 390271,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6be5a0f3a13cf87d4e50badb9ab038da/27e76095",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d17dea9e268ecb9f9112bb1b76eebebf/e95be567",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/98904f1e8222ae0d7d88044faf13f43b/1db29fe5",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Forma6",
+    "cover_lieux": [
+      "rec01yhWP2aoRq5jj"
+    ]
+  },
+  "type": [
+    {
+      "id": "rec0MFGGo0LBcztlB",
+      "destination": "Établissement médico-social",
+      "type_destination": "Équipement",
+      "lieux": [
+        "rec01yhWP2aoRq5jj"
+      ]
+    }
+  ],
+  "présentation": "Ce projet s’inscrit dans une démarche urbaine globale de requalification du site des bâtiments de l’institut de la Persagotière en bord de Sèvre à Nantes.\nIl lui faut à la fois garder le lien avec le patrimoine naturel et construit, offrir les nouveaux atouts d’un équipement performant et s’adapter à un handicap ciblé, celui de la surdité totale ou partielle.\n**_Parti urbain et paysager :_**\nProlonger le parc en s’appuyant sur les nouvelles lignes directrices.\nL’aménagement projeté du site est celui d’un parc habité. Le projet s’implante au milieu d’un écrin végétal reconstitué et densifié. Par un jeu d’inflexions et de fragmentation des volumes, des espaces extérieurs spécifiques sont ménagés : préau, cour de récréation, parvis assurant une séparation claire des flux piétons et voitures. Les stationnements sont gérés tels des clairières dans l’écrin vert. Cet équipement a été conçu comme un 3e élément remarquable au sein du parc, en dialogue avec la chapelle et le château.\n**_Parti architectural :_**\nConcevoir un volume unitaire et repérable offrant un cœur ouvert.\nLe projet articule trois volumes qui par leur assemblage génèrent une richesse d’espaces interstitiels tel le hall commun transparent et traversant. L’implantation des deux volumes côté parvis symbolise des bras ouverts, renforçant la qualité d’accueil et la convivialité. Le bâtiment est résolument ouvert sur l’extérieur et sur l’intérieur, privilégiant la fluidité, tant sur le plan visuel que sur le plan circulatoire.\nLes matériaux utilisés résonnent avec ce parti volumétrique, ainsi sur les extérieurs, les façades tournées vers le parc sont en béton préfabriqué, matricé et lasuré en écho aux façades minérales des éléments remarquables que sont l’église et le château. Les façades donnant sur le cœur du projet sont en bardage verrier coloré, générant une intériorité riche et ludique apportant chaleur et gaieté.\n**_Parti fonctionnel :_**\nFavoriser transparence et lumière, respiration et perspective tout en préservant l’intimité.\nL’accès au hall s’effectue dans le prolongement direct du parvis couvert qui longe le centre de documentation. La desserte des différentes entités s’effectue alors en étoile. Véritable cœur du projet, ludique, coloré, « _organique_ » et sensuel, le hall a été conçu comme un lieu de convivialité et de repérage, facilitant les échanges. Depuis ce hall transparent et lumineux, l’extérieur (parvis et parking) est immédiatement préhensible par le regard.\nLa circulation verticale principale occupe une place centrale, elle est systématiquement en prise avec les halls d’étage, qui sont un relais du hall principal. D’une manière générale, toutes les circulations débouchent sur des cadrages sur le paysage. Le repérage par la vue a été privilégié prenant en compte que le malentendant s’accroche plus particulièrement à ce qu’il voit.\nNotre positionnement architectural consiste à nous inscrire de manière contemporaine dans un site tout en mettant en avant ses composantes. Nous nous sommes attachés à concilier les demandes spécifiques d’un programme et les données multiples d’un site, le tout passé au crible du développement durable.\n_Texte : Forma6_\n_• L'ardepa a visité ce lieu le 17 juin 2016_\n",
+  "département": "44 Loire-Atlantique",
+  "dernière modification": "2021-10-05T14:09:16.000Z"
+}

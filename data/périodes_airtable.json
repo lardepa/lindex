@@ -45,12 +45,15 @@
       "recMKYgGVASf6j8rE",
       "receMWo5ARK964EuD",
       "recLD9rnkZv8VOOLu",
-      "recrkntJi6bURIOSA"
+      "recrkntJi6bURIOSA",
+      "recwnakX0XGMKhW3V",
+      "recq4adxSr0wOfKMW",
+      "rec01yhWP2aoRq5jj"
     ]
   },
   "rec49ra2Jb8NhV3cl": {
     "id": "rec49ra2Jb8NhV3cl",
-    "nom": "années 90",
+    "nom": "années 1990",
     "lieux": [
       "recVoRhrrPKCDBNwW"
     ]
@@ -65,7 +68,7 @@
   },
   "recOTINF3xZD1l6uI": {
     "id": "recOTINF3xZD1l6uI",
-    "nom": "années 70"
+    "nom": "années 1970"
   },
   "recSztFxOKfg2lnEY": {
     "id": "recSztFxOKfg2lnEY",
@@ -75,11 +78,14 @@
   },
   "recWiHCG46dlpbgdo": {
     "id": "recWiHCG46dlpbgdo",
-    "nom": "années 40"
+    "nom": "années 1940"
   },
   "recoq00NAUf4eKDs0": {
     "id": "recoq00NAUf4eKDs0",
-    "nom": "années 60"
+    "nom": "années 1960",
+    "lieux": [
+      "recqyWBYUvLlSsdix"
+    ]
   },
   "recrOfcUS3a0toY0i": {
     "id": "recrOfcUS3a0toY0i",
@@ -94,10 +100,10 @@
   },
   "rectIY4LvjIh60mHP": {
     "id": "rectIY4LvjIh60mHP",
-    "nom": "années 50"
+    "nom": "années 1950"
   },
   "recvZzDZl9CjwwI2F": {
     "id": "recvZzDZl9CjwwI2F",
-    "nom": "années 80"
+    "nom": "années 1980"
   }
 }

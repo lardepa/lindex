@@ -1,5 +1,237 @@
 [
   {
+    "id": "rec01yhWP2aoRq5jj",
+    "nom": "Institut public La Persagotière",
+    "adresse": "2 rue René Dunan 44200 Nantes\n",
+    "status": "Publié",
+    "geolocalisation": [
+      47.193398,
+      -1.537883
+    ],
+    "date": "2016",
+    "maitre_oeuvre": [
+      {
+        "id": "rec5Hv3G4xYoddlcE",
+        "nom": "Forma6",
+        "site_web": "http://www.forma6.net/",
+        "maitre_oeuvre": [
+          "recJgalSFcQX7dLe6",
+          "recRFuKGP2zlHup3A",
+          "recIsRYGFH3wqqTYC",
+          "rec01yhWP2aoRq5jj"
+        ]
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recKIPoNLtWslh3Yz",
+        "nom": "Institut la Persagotière",
+        "maitre_ouvrage": [
+          "rec01yhWP2aoRq5jj"
+        ]
+      }
+    ],
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "nom": "années 2010",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu",
+          "rec7OkEzJNwlvELsf",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED",
+          "rechFw6KIHy4PVSUb",
+          "rec0tsNbxoh48H20l",
+          "recX0Kj4p2adp8f8U",
+          "recY5jgLHC0792Lr0",
+          "recloEgKAuO4WjR2r",
+          "recelyrNTkM7l50Jd",
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt",
+          "recu65igj5DHRpC30",
+          "recRFuKGP2zlHup3A",
+          "recpN2hW8eG6SnkLe",
+          "rec5EHfAartf4PUHm",
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2",
+          "recTaYdefmJUHsBOi",
+          "recIsRYGFH3wqqTYC",
+          "recMKYgGVASf6j8rE",
+          "receMWo5ARK964EuD",
+          "recLD9rnkZv8VOOLu",
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
+        ]
+      }
+    ],
+    "médias": [
+      {
+        "id": "recwVarAR5Rk5mvJB",
+        "titre": "persagotière photo",
+        "fichiers": [
+          {
+            "id": "attm5JXyBWyKfHT80",
+            "width": 1920,
+            "height": 1080,
+            "url": "https://dl.airtable.com/.attachments/b332e2bb6c84318b25c8132587faa14e/3613f655/persagotiere1.jpg",
+            "filename": "persagotiere1.jpg",
+            "size": 378314,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d1a590c05ee884dbeba8b3c378d1f475/608c2b4e",
+                "width": 64,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d70119a72ff0eb38ba10cf40c28067d7/d9933baa",
+                "width": 910,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/690130c5d36019dea362552b065c4104/002347e2",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "credits": "Forma6",
+        "lieux": [
+          "rec01yhWP2aoRq5jj"
+        ]
+      },
+      {
+        "id": "recdmvjKbmgaZPcDx",
+        "titre": "persagotière documents",
+        "fichiers": [
+          {
+            "id": "attQUjXpDiFmQUpH8",
+            "url": "https://dl.airtable.com/.attachments/40d8652eb1a34558b49484aa07ec659d/6c13e272/institutpersagotiredocuments.pdf",
+            "filename": "institut persagotière documents.pdf",
+            "size": 2995988,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a749b6898cf17fbc072c8986f63e57be/d874b9fa",
+                "width": 51,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/deda46082b56309b085cbfe17207253d/dbada9b2",
+                "width": 512,
+                "height": 362
+              }
+            }
+          }
+        ],
+        "credits": "Forma6",
+        "lieux": [
+          "rec01yhWP2aoRq5jj"
+        ]
+      },
+      {
+        "id": "recZyIaijCtpbQFq9",
+        "titre": "persagotière plaquette visiter",
+        "fichiers": [
+          {
+            "id": "attzmz6YRIpiwmxro",
+            "url": "https://dl.airtable.com/.attachments/c47a1fa77dea032fa3c02623c341e693/0e3af1c2/Persagotierea5.pdf",
+            "filename": "Persagotiere a5.pdf",
+            "size": 5418887,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4a4c51000d06146ad15d62510cd27ed0/a1075b93",
+                "width": 26,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7671863e6890fde476ad1de782997123/5ec513e6",
+                "width": 368,
+                "height": 512
+              }
+            }
+          }
+        ],
+        "credits": "Forma6 / ARDEPA",
+        "lieux": [
+          "rec01yhWP2aoRq5jj"
+        ]
+      }
+    ],
+    "cover_media": {
+      "id": "rec7obdFSUpPHsyQV",
+      "titre": "persagotière cover",
+      "fichiers": [
+        {
+          "id": "attmgp0R6ptdwaEwW",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/c850b9cc4eed9abd1775adef9ac902e2/15089022/persagotierecover.jpg",
+          "filename": "persagotiere cover.jpg",
+          "size": 390271,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6be5a0f3a13cf87d4e50badb9ab038da/27e76095",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d17dea9e268ecb9f9112bb1b76eebebf/e95be567",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/98904f1e8222ae0d7d88044faf13f43b/1db29fe5",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Forma6",
+      "cover_lieux": [
+        "rec01yhWP2aoRq5jj"
+      ]
+    },
+    "type": [
+      {
+        "id": "rec0MFGGo0LBcztlB",
+        "destination": "Établissement médico-social",
+        "type_destination": "Équipement",
+        "lieux": [
+          "rec01yhWP2aoRq5jj"
+        ]
+      }
+    ],
+    "présentation": "Ce projet s’inscrit dans une démarche urbaine globale de requalification du site des bâtiments de l’institut de la Persagotière en bord de Sèvre à Nantes.\nIl lui faut à la fois garder le lien avec le patrimoine naturel et construit, offrir les nouveaux atouts d’un équipement performant et s’adapter à un handicap ciblé, celui de la surdité totale ou partielle.\n**_Parti urbain et paysager :_**\nProlonger le parc en s’appuyant sur les nouvelles lignes directrices.\nL’aménagement projeté du site est celui d’un parc habité. Le projet s’implante au milieu d’un écrin végétal reconstitué et densifié. Par un jeu d’inflexions et de fragmentation des volumes, des espaces extérieurs spécifiques sont ménagés : préau, cour de récréation, parvis assurant une séparation claire des flux piétons et voitures. Les stationnements sont gérés tels des clairières dans l’écrin vert. Cet équipement a été conçu comme un 3e élément remarquable au sein du parc, en dialogue avec la chapelle et le château.\n**_Parti architectural :_**\nConcevoir un volume unitaire et repérable offrant un cœur ouvert.\nLe projet articule trois volumes qui par leur assemblage génèrent une richesse d’espaces interstitiels tel le hall commun transparent et traversant. L’implantation des deux volumes côté parvis symbolise des bras ouverts, renforçant la qualité d’accueil et la convivialité. Le bâtiment est résolument ouvert sur l’extérieur et sur l’intérieur, privilégiant la fluidité, tant sur le plan visuel que sur le plan circulatoire.\nLes matériaux utilisés résonnent avec ce parti volumétrique, ainsi sur les extérieurs, les façades tournées vers le parc sont en béton préfabriqué, matricé et lasuré en écho aux façades minérales des éléments remarquables que sont l’église et le château. Les façades donnant sur le cœur du projet sont en bardage verrier coloré, générant une intériorité riche et ludique apportant chaleur et gaieté.\n**_Parti fonctionnel :_**\nFavoriser transparence et lumière, respiration et perspective tout en préservant l’intimité.\nL’accès au hall s’effectue dans le prolongement direct du parvis couvert qui longe le centre de documentation. La desserte des différentes entités s’effectue alors en étoile. Véritable cœur du projet, ludique, coloré, « _organique_ » et sensuel, le hall a été conçu comme un lieu de convivialité et de repérage, facilitant les échanges. Depuis ce hall transparent et lumineux, l’extérieur (parvis et parking) est immédiatement préhensible par le regard.\nLa circulation verticale principale occupe une place centrale, elle est systématiquement en prise avec les halls d’étage, qui sont un relais du hall principal. D’une manière générale, toutes les circulations débouchent sur des cadrages sur le paysage. Le repérage par la vue a été privilégié prenant en compte que le malentendant s’accroche plus particulièrement à ce qu’il voit.\nNotre positionnement architectural consiste à nous inscrire de manière contemporaine dans un site tout en mettant en avant ses composantes. Nous nous sommes attachés à concilier les demandes spécifiques d’un programme et les données multiples d’un site, le tout passé au crible du développement durable.\n_Texte : Forma6_\n_• L'ardepa a visité ce lieu le 17 juin 2016_\n",
+    "département": "44 Loire-Atlantique",
+    "dernière modification": "2021-10-05T14:09:16.000Z"
+  },
+  {
     "id": "rec0Rwewbk2MMTQAD",
     "nom": "La promenade des Nefs ",
     "adresse": "43 rue du Bois Hercé 44100 Nantes\n",
@@ -76,7 +308,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -414,7 +649,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -527,7 +765,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -609,7 +850,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -660,7 +902,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -897,7 +1142,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -981,7 +1227,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -1117,7 +1366,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -1237,7 +1489,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -1248,7 +1503,8 @@
         "type_destination": "Équipement",
         "lieux": [
           "recAIyOLNUx4kiPXv",
-          "receMWo5ARK964EuD"
+          "receMWo5ARK964EuD",
+          "recq4adxSr0wOfKMW"
         ]
       },
       {
@@ -1317,7 +1573,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -1368,7 +1625,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -1569,7 +1829,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -1653,7 +1914,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -1762,7 +2026,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -1886,7 +2153,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -1964,7 +2234,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -2015,7 +2286,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -2032,7 +2306,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -2074,7 +2349,8 @@
         "maitre_oeuvre": [
           "recJgalSFcQX7dLe6",
           "recRFuKGP2zlHup3A",
-          "recIsRYGFH3wqqTYC"
+          "recIsRYGFH3wqqTYC",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -2134,7 +2410,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -2396,7 +2675,8 @@
         "maitre_oeuvre": [
           "recJgalSFcQX7dLe6",
           "recRFuKGP2zlHup3A",
-          "recIsRYGFH3wqqTYC"
+          "recIsRYGFH3wqqTYC",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -2456,7 +2736,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -2568,7 +2851,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -2634,7 +2920,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -2685,7 +2972,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -3052,7 +3342,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -3328,7 +3619,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -3442,7 +3736,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -3726,7 +4023,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -3852,7 +4152,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -3887,7 +4190,8 @@
         "type_destination": "Logement",
         "lieux": [
           "recahyhau12Ghaztg",
-          "recP6LOBOUBRRlLnt"
+          "recP6LOBOUBRRlLnt",
+          "recqyWBYUvLlSsdix"
         ]
       }
     ],
@@ -3987,7 +4291,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -4041,7 +4348,8 @@
         "maitre_oeuvre": [
           "recJgalSFcQX7dLe6",
           "recRFuKGP2zlHup3A",
-          "recIsRYGFH3wqqTYC"
+          "recIsRYGFH3wqqTYC",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -4058,7 +4366,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -4109,7 +4418,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -4414,7 +4726,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -4949,7 +5262,8 @@
         "lieux": [
           "recq85i5LBfpWsp9R",
           "recloEgKAuO4WjR2r",
-          "recT5ti90aD2NTdCN"
+          "recT5ti90aD2NTdCN",
+          "recq4adxSr0wOfKMW"
         ]
       }
     ],
@@ -5063,7 +5377,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -5412,7 +5729,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -5483,7 +5801,7 @@
     "périodes": [
       {
         "id": "rec49ra2Jb8NhV3cl",
-        "nom": "années 90",
+        "nom": "années 1990",
         "lieux": [
           "recVoRhrrPKCDBNwW"
         ]
@@ -5742,7 +6060,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -5804,7 +6125,8 @@
         "site_web": "https://metropole.nantes.fr/",
         "maitre_ouvrage": [
           "recXIe49AgTTO1AuY",
-          "receMWo5ARK964EuD"
+          "receMWo5ARK964EuD",
+          "recq4adxSr0wOfKMW"
         ]
       }
     ],
@@ -5855,7 +6177,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -6097,7 +6422,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -6449,7 +6777,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -6500,7 +6829,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -6620,7 +6952,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -6695,7 +7030,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -6858,7 +7194,8 @@
         "type_destination": "Logement",
         "lieux": [
           "recahyhau12Ghaztg",
-          "recP6LOBOUBRRlLnt"
+          "recP6LOBOUBRRlLnt",
+          "recqyWBYUvLlSsdix"
         ]
       },
       {
@@ -6995,7 +7332,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -7297,7 +7637,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -7389,7 +7732,8 @@
         "site_web": "https://metropole.nantes.fr/",
         "maitre_ouvrage": [
           "recXIe49AgTTO1AuY",
-          "receMWo5ARK964EuD"
+          "receMWo5ARK964EuD",
+          "recq4adxSr0wOfKMW"
         ]
       }
     ],
@@ -7440,7 +7784,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -7664,7 +8011,8 @@
         "type_destination": "Équipement",
         "lieux": [
           "recAIyOLNUx4kiPXv",
-          "receMWo5ARK964EuD"
+          "receMWo5ARK964EuD",
+          "recq4adxSr0wOfKMW"
         ]
       }
     ],
@@ -7749,7 +8097,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -7810,7 +8161,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -7861,7 +8213,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -7878,7 +8233,8 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
@@ -7988,7 +8344,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -8117,7 +8476,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -8235,7 +8597,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -8247,7 +8612,8 @@
         "lieux": [
           "recq85i5LBfpWsp9R",
           "recloEgKAuO4WjR2r",
-          "recT5ti90aD2NTdCN"
+          "recT5ti90aD2NTdCN",
+          "recq4adxSr0wOfKMW"
         ]
       },
       {
@@ -8255,7 +8621,8 @@
         "destination": "Sciences",
         "type_destination": "Équipement",
         "lieux": [
-          "recloEgKAuO4WjR2r"
+          "recloEgKAuO4WjR2r",
+          "recq4adxSr0wOfKMW"
         ]
       }
     ],
@@ -8355,7 +8722,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -8489,7 +8859,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -8689,105 +9062,60 @@
     "dernière modification": "2021-10-04T08:31:44.000Z"
   },
   {
-    "id": "recq85i5LBfpWsp9R",
-    "nom": "Espace de diffusion culturelle à Domfront-en-Champagne",
-    "adresse": "3 chemin du pressoir, 72119 Domfront-en-Champagne\n",
+    "id": "recq4adxSr0wOfKMW",
+    "nom": "Le Chronographe",
+    "adresse": "21 Rue Saint-Lupien 44400 Rezé\n",
     "status": "Publié",
     "geolocalisation": [
-      48.106156,
-      0.026757
+      47.19183906095207,
+      -1.5647830776386644
     ],
-    "date": "2009",
+    "date": "2015",
     "maitre_oeuvre": [
       {
-        "id": "rec8r73AaBFcWgkdQ",
-        "nom": "Xavier Ménard Architecte",
+        "id": "recaGTVAxJlTQJ2lF",
+        "nom": "Berranger & Vincent Architectes",
+        "site_web": "https://www.berrangeretvincent.com/",
         "maitre_oeuvre": [
-          "recq85i5LBfpWsp9R"
+          "recq4adxSr0wOfKMW"
+        ]
+      },
+      {
+        "id": "recA36FgRNMYK8WEz",
+        "nom": "A + R Paysage",
+        "site_web": "https://www.aplusrpaysages.com/",
+        "maitre_oeuvre": [
+          "recq4adxSr0wOfKMW"
+        ]
+      },
+      {
+        "id": "recpjhTSvKvezvene",
+        "nom": "ASA - Atelier Sompairac architecture et scénographie",
+        "site_web": "https://www.sompairac-architectes.com/",
+        "maitre_oeuvre": [
+          "recq4adxSr0wOfKMW"
         ]
       }
     ],
     "maitre_ouvrage": [
       {
-        "id": "recTedn3N7A0RKkXU",
-        "nom": "Commune de Domfront-en-Champagne (72)",
+        "id": "recXVXVP3gQIykC61",
+        "nom": "Nantes Métropole (44)",
+        "site_web": "https://metropole.nantes.fr/",
         "maitre_ouvrage": [
-          "recq85i5LBfpWsp9R"
+          "recXIe49AgTTO1AuY",
+          "receMWo5ARK964EuD",
+          "recq4adxSr0wOfKMW"
         ]
-      }
-    ],
-    "périodes": [
+      },
       {
-        "id": "recAnX6ahvGJYvz0M",
-        "nom": "années 2000",
-        "lieux": [
-          "recLVrdGzklj7mmLE",
-          "recq85i5LBfpWsp9R"
+        "id": "recI6W1YFKxFG3H6F",
+        "nom": "Ville de Rezé (44)",
+        "maitre_ouvrage": [
+          "recq4adxSr0wOfKMW"
         ]
       }
     ],
-    "type": [
-      {
-        "id": "recU0DF0Isnpt8rJ1",
-        "destination": "Culture",
-        "type_destination": "Équipement",
-        "lieux": [
-          "recq85i5LBfpWsp9R",
-          "recloEgKAuO4WjR2r",
-          "recT5ti90aD2NTdCN"
-        ]
-      }
-    ],
-    "distinctions": [
-      {
-        "id": "recmk2YRhgfa5q8Dj",
-        "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
-        "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.\nIl a été remplacé en 2021 par le prix \"Aperçus Sarthe\"",
-        "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
-        "lieux": [
-          "rechtsQSNXyvtp75c",
-          "recuIUUMuCMw2rrHn",
-          "rec72cuqtL80v3RYm",
-          "recXNuzkB4wj0g0H4",
-          "recq85i5LBfpWsp9R",
-          "recM6PpcEu5bvmzwd",
-          "recmanFMpSvbjFW6r"
-        ]
-      }
-    ],
-    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Architecture)\n",
-    "département": "72 Sarthe",
-    "dernière modification": "2021-09-30T07:30:33.000Z"
-  },
-  {
-    "id": "recrkntJi6bURIOSA",
-    "nom": "Maison l'Amour des Cèdres",
-    "dernière modification": "2021-10-04T15:22:33.000Z",
-    "adresse": "2 rue Albert Calmette 44300 Nantes\n",
-    "département": "44 Loire-Atlantique",
-    "geolocalisation": [
-      47.230691,
-      -1.571427
-    ],
-    "type": [
-      {
-        "id": "recrpFA9KQQobRh6X",
-        "destination": "Maison",
-        "type_destination": "Logement",
-        "lieux": [
-          "recTr9BzAt1jG9yaJ",
-          "recHVehEvNmwXAJIO",
-          "rechFw6KIHy4PVSUb",
-          "recRFuKGP2zlHup3A",
-          "rec5EHfAartf4PUHm",
-          "recATsZWxsng7iDNK",
-          "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
-        ]
-      }
-    ],
-    "présentation": "Inespéré, ce « coin de paradis » dans Nantes, terrain libre de 326 m2. Inespéré mais contraignant réglementairement: un espace boisé inconstructible décrit un arc de cercle au sud. Inespéré, il ne reste plus qu’à contempler les deux cèdres voisins. Inespéré, le voisinage voit d’un bon oeil une construction basse et discrète se projeter ici.\n\nLe programme est variable tout au long du développement du projet : est-ce un seul logement? est-ce deux logements? est-ce un bureau et une maison? la cuisine doit-elle être ouverte ou fermée? une cave est-elle vraiment nécessaire? Ces aller/retour, ces mises au point sont guidés par le choix premier de conserver une trame régulière de poteaux de 3,70m en façade sud, dans lequel viendront s’ajuster la programmation.\n\nEn effet, la maison se glisse en longueur sur le terrain et la partie de plain-pied s’affine jusqu’à être réduite à 3m de large. Pour profiter pleinement du paysage et réduire l’épaisseur de la paroi, toute la façade du rez-de-chaussée est vitrée sur sa hauteur. \nLe contexte (urbain pourtant) le permet: l’intimité est préservée par la ramure touffue, et aucunes constructions futures ne sont à craindre en limite de parcelle voisine. \n\nL’étage, plus refermé, comme une boite en lévitation, est perforé de multiples ouvertures, conservant l’intimité domestique. Il laisse également passer le soleil de l’ouest jusqu’au bout du jardin. Les matériaux choisis font échos à l’espace paysager. Les façades sont composées de bardage bois à pose verticale en mélèze de france et de menuiseries extérieures en bois exotique.\n\n_Texte : MFA Architecture_\n_• L'ardepa a visité ce lieu le 28 septembre 2018_\n",
-    "date": "2015",
     "périodes": [
       {
         "id": "rec0D9TkCH83ItF6j",
@@ -8835,18 +9163,626 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
+        ]
+      }
+    ],
+    "médias": [
+      {
+        "id": "recqzfqvMcWgsh3eh",
+        "titre": "chronographe photos 1",
+        "fichiers": [
+          {
+            "id": "attpGSQgUpiYnKtcR",
+            "width": 1136,
+            "height": 852,
+            "url": "https://dl.airtable.com/.attachments/b6b6937fce2c85e5be573ba067c0c7bf/59980345/16710555_10211023608859069_1621806597_o.jpg",
+            "filename": "16710555_10211023608859069_1621806597_o.jpg",
+            "size": 145417,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/02c227083e9782e0f252a6f9481ec064/90ce7346",
+                "width": 48,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e382cfce095d76891317389bd68dad07/717006a3",
+                "width": 683,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e582bd4a7f64f0f5d2b68d5eaffdc565/f5766808",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attwqfyZhW4kjfGu4",
+            "width": 1136,
+            "height": 852,
+            "url": "https://dl.airtable.com/.attachments/2597183d2e1c60001bcc4841b945e181/1b6ffb3e/16735423_10211023608179052_538361989_o.jpg",
+            "filename": "16735423_10211023608179052_538361989_o.jpg",
+            "size": 98334,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d9312435b5239012521eb65192f1c64d/f0ebe01a",
+                "width": 48,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7d0c548efa154e9d77cd9215304d7363/53d3e4a1",
+                "width": 683,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/56227fd6ed5faf9a19517b44ee3cdbcc/28a156e2",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "credits": "Berranger & Vincent / Ardepa",
+        "lieux": [
+          "recq4adxSr0wOfKMW"
+        ]
+      },
+      {
+        "id": "recXb9oIm9jyNb0sF",
+        "titre": "chronographe documents",
+        "fichiers": [
+          {
+            "id": "att21dIU84ILGwve9",
+            "url": "https://dl.airtable.com/.attachments/8113a40c995293d2a3a381c204a1f705/999cb686/chronographedocuments.pdf",
+            "filename": "chronographe documents.pdf",
+            "size": 4988775,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f2e325cea0c62d3c45e38df5f99c6a8b/f56ad2ae",
+                "width": 51,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b0e54d5a42c8c9a19ab3175e3d35ea95/4141e3d3",
+                "width": 512,
+                "height": 362
+              }
+            }
+          }
+        ],
+        "credits": "Berranger & Vincent",
+        "lieux": [
+          "recq4adxSr0wOfKMW"
+        ]
+      },
+      {
+        "id": "rec68yki3tqthtmSq",
+        "titre": "chronographe photos 2",
+        "fichiers": [
+          {
+            "id": "attGSlWqCmu4SkoAG",
+            "width": 852,
+            "height": 1136,
+            "url": "https://dl.airtable.com/.attachments/4b52a5fc8e1cf57957a001af3e0c25c8/e9e71b60/16731514_10211023608899070_897389873_o.jpg",
+            "filename": "16731514_10211023608899070_897389873_o.jpg",
+            "size": 168604,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c0c3721ebbe8fedbf087f1a40e03fe11/d7379fa1",
+                "width": 27,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a23273a91aa31fec2d3feff8ec3bf1ac/908b2f75",
+                "width": 512,
+                "height": 683
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5a257aef00140e3989e032b9c43d6484/c0c20508",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attwP0v9jNvUZm9Q5",
+            "width": 852,
+            "height": 1136,
+            "url": "https://dl.airtable.com/.attachments/6f91be819edd6763ae9715792459fc39/790c59fd/16735072_10211023609979097_144608611_o.jpg",
+            "filename": "16735072_10211023609979097_144608611_o.jpg",
+            "size": 175751,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/50e97dea4a612fd889346db31c03aaf7/507d24d3",
+                "width": 27,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dd799c6721ab728f15c8cb899126b419/642a1ddc",
+                "width": 512,
+                "height": 683
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4075943d6788498aef54d5945582d9cb/caaae8a1",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attcnDtkuhcG1Tn5Y",
+            "width": 852,
+            "height": 1136,
+            "url": "https://dl.airtable.com/.attachments/95feea5593de73d8d300a27aa5e1600c/5c228530/16735088_10211023609899095_975168715_o.jpg",
+            "filename": "16735088_10211023609899095_975168715_o.jpg",
+            "size": 194593,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9aa2fd5e282d3d06b8023a285f4e7591/820e02ec",
+                "width": 27,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a2378baa418b313da119785760f078ee/5c0c710f",
+                "width": 512,
+                "height": 683
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2e935b904b6eb36b48cbe6e022f4cb9a/a4a7940d",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attoJDHsQ42pDIq9m",
+            "width": 852,
+            "height": 1136,
+            "url": "https://dl.airtable.com/.attachments/21946b7e1f68c439f7def5ce56940b3f/2025bbfd/16735617_10211023608539061_942773023_o.jpg",
+            "filename": "16735617_10211023608539061_942773023_o.jpg",
+            "size": 114841,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0e36317db57a29ecae3282783b71cd46/07e1546a",
+                "width": 27,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/778ec639786d5b85dbf54dedc453a716/e22b79ba",
+                "width": 512,
+                "height": 683
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/fba62ce4d9680f1b21404c1815ed1907/325c743d",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attvPsxV5SMsN3FVt",
+            "width": 852,
+            "height": 1136,
+            "url": "https://dl.airtable.com/.attachments/8ab329f104a319c8bfa43c8e1f49ecd7/dad4741a/16735722_10211023609299080_182110571_o.jpg",
+            "filename": "16735722_10211023609299080_182110571_o.jpg",
+            "size": 184837,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c2a701765f553eb6fcab8806118034b1/c88a00b1",
+                "width": 27,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2c1d5cc59e20e56b6d0c499eca9db588/a5ccb442",
+                "width": 512,
+                "height": 683
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0037623a7fb9d4818e19778f3b6866e3/599b7b9b",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "credits": "Berranger & Vincent / Ardepa",
+        "lieux": [
+          "recq4adxSr0wOfKMW"
+        ]
+      },
+      {
+        "id": "recMKEQl7WsyFtJjb",
+        "titre": "Chronographe plaquette de visite",
+        "fichiers": [
+          {
+            "id": "attivkudmPdlzIewx",
+            "url": "https://dl.airtable.com/.attachments/b04c0497d06a7f2f36d8afba802d2128/b33bd5e3/chronographeplaquettea5.pdf",
+            "filename": "chronographe plaquette a5.pdf",
+            "size": 5578400,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/55b1cbdff8244d60ac30f552bc27d6d7/d08edce2",
+                "width": 25,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ad88d2481e4eb9f71c8ddf514cdc04bc/a785182f",
+                "width": 361,
+                "height": 512
+              }
+            }
+          }
+        ],
+        "credits": "Berranger & Vincent / Ardepa",
+        "lieux": [
+          "recq4adxSr0wOfKMW"
+        ]
+      }
+    ],
+    "cover_media": {
+      "id": "rechXGhXgMvAotC3B",
+      "titre": "chronographe cover",
+      "fichiers": [
+        {
+          "id": "attIxwfRJdGvoMjUj",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/d63b37905035fcbf8941a08f92a6cfc5/0e6d9cd1/chronographecover.jpg",
+          "filename": "chronographe cover.jpg",
+          "size": 282760,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/70db58e3931fc77d5161235f734d99c2/8b95a528",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5d7ceb16cc9e1ce73c7d6b820ae80ba0/c46762db",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2d59ca611ed581fffbe7a9fd7e3df990/0527beb4",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Berranger & Vincent / Ardepa",
+      "cover_lieux": [
+        "recq4adxSr0wOfKMW"
+      ]
+    },
+    "type": [
+      {
+        "id": "recpXtVGJnicjtjCe",
+        "destination": "Musée",
+        "type_destination": "Équipement",
+        "lieux": [
+          "recAIyOLNUx4kiPXv",
+          "receMWo5ARK964EuD",
+          "recq4adxSr0wOfKMW"
+        ]
+      },
+      {
+        "id": "recU0DF0Isnpt8rJ1",
+        "destination": "Culture",
+        "type_destination": "Équipement",
+        "lieux": [
+          "recq85i5LBfpWsp9R",
+          "recloEgKAuO4WjR2r",
+          "recT5ti90aD2NTdCN",
+          "recq4adxSr0wOfKMW"
+        ]
+      },
+      {
+        "id": "recOWK3c1cbm06Vqy",
+        "destination": "Sciences",
+        "type_destination": "Équipement",
+        "lieux": [
+          "recloEgKAuO4WjR2r",
+          "recq4adxSr0wOfKMW"
+        ]
+      }
+    ],
+    "présentation": "**_LE CHRONOGRAPHE_**\nEnclencher le comptage, stopper, remettre à zéro, mesurer l’intervalle de temps écoulé, puis tout recommencer : telles sont les actions que permet le chronographe, cette montre capable d’indiquer la durée d’une observation. Après de longues délibérations, ce mot issu du vocabulaire de l’horlogerie fut choisi pour baptiser le centre d’interprétation archéologique de Saint-Lupien. Ce nouvel outil serait donc la métaphore d’une machine à remonter le temps, l’enrouler et le dérouler : une belle image pour dire l’écriture de l’Histoire, comprendre la fabrique d’une ville et d’un paysage, et saisir l’essence de la recherche en archéologie. \n**_UNE ARCHITECTURE SIGNÉE BERRANGER & VINCENT_**\nPour un architecte, intervenir sur un site archéologique constitue une vraie gageure : la question du bon ancrage, qui respecte les traces des vestiges antiques et s’insère dans la logique de l’ancien tissu urbain, se pose avec une acuité particulière, tant vis-à-vis du paysage que par la nature même du programme, car le bâtiment conçu par Jérôme Berranger et Stéphanie Vincent a pour mission première d’être un instrument de médiation, révélateur de contexte spatio-temporel.\n**_OBSERVER, ÊTRE TRAVERSÉ_**\nLe duo choisit la simplicité des volumes : deux parallélépipèdes s’équilibrent, l’un posé avec légèreté sur la pente du site, l’autre dressé vers le ciel, lorgnant à la fois vers l’esthétique industrielle de l’échafaudage métallique et celle, plus organique, de la cabane en bois. Berranger & Vincent évoquent l’image des observatoires de pêcheurs ou de chasseurs, des belvédères de campagne, ou des tours médiévales : autant d’espaces ouverts sur le monde qui en retour se voient traversés par le paysage alentour ; autant de structures plutôt précaires, non figées, qui ménagent de multiples possibilités d’observation, de contemplation et de projection. \nÀ l’intérieur de ses 800 m2 de surface, le Chronographe dispose d’un espace d’exposition permanente, un espace d’exposition temporaire, des bureaux et espaces logistiques, et deux ateliers pédagogiques. \nPartout priment la sobriété des volumes et la souplesse d’utilisation. L’idée de circulation l’emporte : au rez-de-jardin, l’exposition Temporaire se déploie dans un espace ouvert, libéré de point porteur. \nLes architectes ont ici privilégié la transparence, comme pour entrer en conversation avec la topographie proche. Ailleurs, le bâtiment souligne les perspectives qui révèlent la nature du site : la double trame irrégulière des façades du rez-de-chaussée, bardées de mélèze aux douces nuances argentées, offre ainsi plusieurs cadrages liés à la muséographie de l’exposition permanente. \nLe choix des ouvertures articule des séquences de regard : vues en contre-plongée sur les murets du jardin archéologique, cadrage précis sur la Chapelle St Lupien, percement contrôlé sur la Maison Radieuse... \nOutil de transmission, l’architecture orchestre de multiples étapes perceptives. \n_Texte : Eva Prouteau_\n_• L'ardepa a visité ce lieu le 10 février 2017_\n",
+    "département": "44 Loire-Atlantique",
+    "dernière modification": "2021-10-05T13:06:20.000Z"
+  },
+  {
+    "id": "recq85i5LBfpWsp9R",
+    "nom": "Espace de diffusion culturelle à Domfront-en-Champagne",
+    "adresse": "3 chemin du pressoir, 72119 Domfront-en-Champagne\n",
+    "status": "Publié",
+    "geolocalisation": [
+      48.106156,
+      0.026757
+    ],
+    "date": "2009",
+    "maitre_oeuvre": [
+      {
+        "id": "rec8r73AaBFcWgkdQ",
+        "nom": "Xavier Ménard Architecte",
+        "maitre_oeuvre": [
+          "recq85i5LBfpWsp9R"
+        ]
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recTedn3N7A0RKkXU",
+        "nom": "Commune de Domfront-en-Champagne (72)",
+        "maitre_ouvrage": [
+          "recq85i5LBfpWsp9R"
+        ]
+      }
+    ],
+    "périodes": [
+      {
+        "id": "recAnX6ahvGJYvz0M",
+        "nom": "années 2000",
+        "lieux": [
+          "recLVrdGzklj7mmLE",
+          "recq85i5LBfpWsp9R"
+        ]
+      }
+    ],
+    "type": [
+      {
+        "id": "recU0DF0Isnpt8rJ1",
+        "destination": "Culture",
+        "type_destination": "Équipement",
+        "lieux": [
+          "recq85i5LBfpWsp9R",
+          "recloEgKAuO4WjR2r",
+          "recT5ti90aD2NTdCN",
+          "recq4adxSr0wOfKMW"
+        ]
+      }
+    ],
+    "distinctions": [
+      {
+        "id": "recmk2YRhgfa5q8Dj",
+        "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+        "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.\nIl a été remplacé en 2021 par le prix \"Aperçus Sarthe\"",
+        "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+        "lieux": [
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recq85i5LBfpWsp9R",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r"
+        ]
+      }
+    ],
+    "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Architecture)\n",
+    "département": "72 Sarthe",
+    "dernière modification": "2021-09-30T07:30:33.000Z"
+  },
+  {
+    "id": "recqyWBYUvLlSsdix",
+    "nom": "Villagexpo de Nantes",
+    "dernière modification": "2021-10-05T15:53:52.000Z",
+    "geolocalisation": [
+      47.2158991667668,
+      -1.617667399566115
+    ],
+    "adresse": "Rue d'Avranche 44000 Nantes\n",
+    "département": "44 Loire-Atlantique",
+    "type": [
+      {
+        "id": "recYSw9aAndSU9UZ7",
+        "destination": "Logements individuels",
+        "type_destination": "Logement",
+        "lieux": [
+          "recahyhau12Ghaztg",
+          "recP6LOBOUBRRlLnt",
+          "recqyWBYUvLlSsdix"
+        ]
+      }
+    ],
+    "date": "1968",
+    "périodes": [
+      {
+        "id": "recoq00NAUf4eKDs0",
+        "nom": "années 1960",
+        "lieux": [
+          "recqyWBYUvLlSsdix"
         ]
       }
     ],
     "maitre_oeuvre": [
       {
+        "id": "recRc1cQ0NqjqHJpZ",
+        "maitre_oeuvre": [
+          "recqyWBYUvLlSsdix"
+        ],
+        "nom": "Marcel Favraud"
+      },
+      {
+        "id": "recpjzCDWnnKxEpbk",
+        "maitre_oeuvre": [
+          "recqyWBYUvLlSsdix"
+        ],
+        "nom": "Georges Evano"
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recxs3HdBxI9nzo5P",
+        "maitre_ouvrage": [
+          "recqyWBYUvLlSsdix"
+        ],
+        "nom": "Société Coopérative HLM La Maison Familiale"
+      }
+    ],
+    "présentation": "Le « villagexpo » se voulait être une démonstration à l’échelle 1 que l’on peut concilier la qualité de l’habitat individuel (ce sont des maisons HLM) et la réalisation d’opérations groupées de modèles industrialisés.\nLe Villagexpo de Saint-Herblain est le premier réalisé hors région parisienne. L’exposition qui dura du 13 juin au 14 juillet 1968 connut un véritable succès.\nPlus d'infos dans la plaquette de visite (à télécharger ICI)\n_• L'ardepa a visité ce lieu lors des Journées du Patrimoine 2015_\n",
+    "status": "Publié",
+    "cover_media": {
+      "id": "rec5SJ5oRPAtFuCX5",
+      "cover_lieux": [
+        "recqyWBYUvLlSsdix"
+      ],
+      "titre": "villagexpocover",
+      "fichiers": [
+        {
+          "id": "att0arZbiu8jCZstm",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/432ce655833b96fdfed8d13da558d6e7/c711afa5/villaexpocover.jpg",
+          "filename": "villaexpo cover.jpg",
+          "size": 386436,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ad5e880e9880a1c3a7d10ae340eec97b/4af6673b",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a67d3764834684a461ecd8cdfd5d8cbf/b52ec736",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4c316ba0529666591d24a66969e228e6/87a47684",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "SCHLM La Maison Familiale / Ardepa"
+    },
+    "médias": [
+      {
+        "id": "recJ1SB6CFPO9h6XW",
+        "lieux": [
+          "recqyWBYUvLlSsdix"
+        ],
+        "titre": "villagexpo photos",
+        "fichiers": [
+          {
+            "id": "attiGwtTsZRX8WcJh",
+            "width": 2201,
+            "height": 1080,
+            "url": "https://dl.airtable.com/.attachments/6f1cf8921f14486fd5affed8c5194b36/b83d9c0f/villagexpo1.jpg",
+            "filename": "villagexpo 1.jpg",
+            "size": 817367,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/48b5d98b6f668033a41aae7db9128f6e/9cc4eb9d",
+                "width": 73,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3dced3e8f38f29eca0dbc933918e3c18/74c1bc8f",
+                "width": 1043,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/deabf933d155dde70470ad31b60c6b8d/d07654ef",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "att0oguovUZjK8nlo",
+            "width": 1920,
+            "height": 1080,
+            "url": "https://dl.airtable.com/.attachments/20e14248f81adc1962a72a8e531b31a3/0cc25a93/villagexpo2.jpg",
+            "filename": "villagexpo 2.jpg",
+            "size": 460508,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f2588e7f1ec13ba462a3a5220300e0bb/712f6c0e",
+                "width": 64,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/3a7412a519ac00c341cbb146e3f42c30/f7ecc2ee",
+                "width": 910,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9e499d5d429e2215abfb017dd2747ecb/1aa296e3",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "credits": "SCHLM La Maison Familiale / Ardepa"
+      },
+      {
+        "id": "reczjd2tuQWbOlPZz",
+        "lieux": [
+          "recqyWBYUvLlSsdix"
+        ],
+        "fichiers": [
+          {
+            "id": "att6RUyAYlwdUDlmc",
+            "url": "https://dl.airtable.com/.attachments/fd25cc325ee68db33ac6fc1e35209c01/24a0edaa/PlaquetteVillagExpoa5.pdf",
+            "filename": "Plaquette VillagExpo a5.pdf",
+            "size": 5441555,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/6e21fc5486479529627b0c7596aa1e42/4f9355a9",
+                "width": 25,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9752442d681e4f6d0f619d122e9fbbe0/79dba630",
+                "width": 361,
+                "height": 512
+              }
+            }
+          }
+        ],
+        "titre": "village expo plaquette visite",
+        "credits": "SCHLM La Maison Familiale / Ardepa"
+      }
+    ]
+  },
+  {
+    "id": "recrkntJi6bURIOSA",
+    "nom": "Maison l'Amour des Cèdres",
+    "adresse": "2 rue Albert Calmette 44300 Nantes\n",
+    "status": "Publié",
+    "geolocalisation": [
+      47.230691,
+      -1.571427
+    ],
+    "date": "2015",
+    "maitre_oeuvre": [
+      {
         "id": "rec3uCC60YTxDA1id",
+        "nom": "MFA - Mélaine Ferré Architecture",
+        "site_web": "http://www.mfa.archi/",
         "maitre_oeuvre": [
           "recrkntJi6bURIOSA"
-        ],
-        "nom": "MFA - Mélaine Ferré Architecture",
-        "site_web": "http://www.mfa.archi/"
+        ]
       }
     ],
     "maitre_ouvrage": [
@@ -8862,53 +9798,68 @@
           "rec5EHfAartf4PUHm",
           "recATsZWxsng7iDNK",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
         ]
       }
     ],
-    "status": "Publié",
-    "cover_media": {
-      "id": "reczUgk0j0TdFUDgR",
-      "cover_lieux": [
-        "recrkntJi6bURIOSA"
-      ],
-      "titre": "maison cedres cover",
-      "fichiers": [
-        {
-          "id": "attvUXopeC7tl3ZfY",
-          "width": 1920,
-          "height": 1080,
-          "url": "https://dl.airtable.com/.attachments/db56d85e9bb064cd6eae2861c52bc4f0/8f3566c3/amourdescedrescover.jpg",
-          "filename": "amour des cedres cover.jpg",
-          "size": 458197,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/e160bb1cb4741b3ef6b270c3f223eb6e/d112726e",
-              "width": 64,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/4b073b5153b13bfffd3383beb6cd6991/721fee64",
-              "width": 910,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/47d3d62c7258ec61152436362877798a/e93e131b",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "credits": "MFA Architecture"
-    },
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "nom": "années 2010",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu",
+          "rec7OkEzJNwlvELsf",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED",
+          "rechFw6KIHy4PVSUb",
+          "rec0tsNbxoh48H20l",
+          "recX0Kj4p2adp8f8U",
+          "recY5jgLHC0792Lr0",
+          "recloEgKAuO4WjR2r",
+          "recelyrNTkM7l50Jd",
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt",
+          "recu65igj5DHRpC30",
+          "recRFuKGP2zlHup3A",
+          "recpN2hW8eG6SnkLe",
+          "rec5EHfAartf4PUHm",
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2",
+          "recTaYdefmJUHsBOi",
+          "recIsRYGFH3wqqTYC",
+          "recMKYgGVASf6j8rE",
+          "receMWo5ARK964EuD",
+          "recLD9rnkZv8VOOLu",
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
+        ]
+      }
+    ],
     "médias": [
       {
         "id": "rectYlctvPmd4ncSo",
-        "lieux": [
-          "recrkntJi6bURIOSA"
-        ],
         "titre": "maison cèdres photos",
         "fichiers": [
           {
@@ -9042,13 +9993,13 @@
             }
           }
         ],
-        "credits": "MFA Architecture"
+        "credits": "MFA Architecture",
+        "lieux": [
+          "recrkntJi6bURIOSA"
+        ]
       },
       {
         "id": "recPh0phsSjd8m8XW",
-        "lieux": [
-          "recrkntJi6bURIOSA"
-        ],
         "titre": "maison cèdres plaquette visite",
         "fichiers": [
           {
@@ -9071,9 +10022,69 @@
             }
           }
         ],
-        "credits": "MFA Architecture / ARDEPA"
+        "credits": "MFA Architecture / ARDEPA",
+        "lieux": [
+          "recrkntJi6bURIOSA"
+        ]
       }
-    ]
+    ],
+    "cover_media": {
+      "id": "reczUgk0j0TdFUDgR",
+      "titre": "maison cedres cover",
+      "fichiers": [
+        {
+          "id": "attvUXopeC7tl3ZfY",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/db56d85e9bb064cd6eae2861c52bc4f0/8f3566c3/amourdescedrescover.jpg",
+          "filename": "amour des cedres cover.jpg",
+          "size": 458197,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e160bb1cb4741b3ef6b270c3f223eb6e/d112726e",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4b073b5153b13bfffd3383beb6cd6991/721fee64",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/47d3d62c7258ec61152436362877798a/e93e131b",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "MFA Architecture",
+      "cover_lieux": [
+        "recrkntJi6bURIOSA"
+      ]
+    },
+    "type": [
+      {
+        "id": "recrpFA9KQQobRh6X",
+        "destination": "Maison",
+        "type_destination": "Logement",
+        "lieux": [
+          "recTr9BzAt1jG9yaJ",
+          "recHVehEvNmwXAJIO",
+          "rechFw6KIHy4PVSUb",
+          "recRFuKGP2zlHup3A",
+          "rec5EHfAartf4PUHm",
+          "recATsZWxsng7iDNK",
+          "recLD9rnkZv8VOOLu",
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
+        ]
+      }
+    ],
+    "présentation": "Inespéré, ce « coin de paradis » dans Nantes, terrain libre de 326 m2. Inespéré mais contraignant réglementairement: un espace boisé inconstructible décrit un arc de cercle au sud. Inespéré, il ne reste plus qu’à contempler les deux cèdres voisins. Inespéré, le voisinage voit d’un bon oeil une construction basse et discrète se projeter ici.\n\nLe programme est variable tout au long du développement du projet : est-ce un seul logement? est-ce deux logements? est-ce un bureau et une maison? la cuisine doit-elle être ouverte ou fermée? une cave est-elle vraiment nécessaire? Ces aller/retour, ces mises au point sont guidés par le choix premier de conserver une trame régulière de poteaux de 3,70m en façade sud, dans lequel viendront s’ajuster la programmation.\n\nEn effet, la maison se glisse en longueur sur le terrain et la partie de plain-pied s’affine jusqu’à être réduite à 3m de large. Pour profiter pleinement du paysage et réduire l’épaisseur de la paroi, toute la façade du rez-de-chaussée est vitrée sur sa hauteur. \nLe contexte (urbain pourtant) le permet: l’intimité est préservée par la ramure touffue, et aucunes constructions futures ne sont à craindre en limite de parcelle voisine. \n\nL’étage, plus refermé, comme une boite en lévitation, est perforé de multiples ouvertures, conservant l’intimité domestique. Il laisse également passer le soleil de l’ouest jusqu’au bout du jardin. Les matériaux choisis font échos à l’espace paysager. Les façades sont composées de bardage bois à pose verticale en mélèze de france et de menuiseries extérieures en bois exotique.\n\n_Texte : MFA Architecture_\n_• L'ardepa a visité ce lieu le 28 septembre 2018_\n",
+    "département": "44 Loire-Atlantique",
+    "dernière modification": "2021-10-04T15:22:33.000Z"
   },
   {
     "id": "recsuUKLNrVXo8p8J",
@@ -9158,7 +10169,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -9268,7 +10282,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -9695,7 +10712,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
@@ -9729,6 +10749,119 @@
     "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 (Catégorie Aménagement)\n",
     "département": "72 Sarthe",
     "dernière modification": "2021-09-30T07:30:49.000Z"
+  },
+  {
+    "id": "recwnakX0XGMKhW3V",
+    "nom": "White House",
+    "adresse": "41 quai Robert Surcouf 44400 Rezé\n",
+    "status": "En rédaction",
+    "geolocalisation": [
+      47.195014,
+      -1.580204
+    ],
+    "date": "2014",
+    "maitre_oeuvre": [
+      {
+        "id": "recBW0Z2JjUaP5hr4",
+        "nom": "AALSML - Annie Lebeaupin Saint M'Leux Architecte",
+        "maitre_oeuvre": [
+          "recwnakX0XGMKhW3V"
+        ]
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recXT4TItsP1IuLWU",
+        "nom": "Privé",
+        "maitre_ouvrage": [
+          "recHVehEvNmwXAJIO",
+          "rechFw6KIHy4PVSUb",
+          "recahyhau12Ghaztg",
+          "recY5jgLHC0792Lr0",
+          "recRFuKGP2zlHup3A",
+          "rec5EHfAartf4PUHm",
+          "recATsZWxsng7iDNK",
+          "recLD9rnkZv8VOOLu",
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
+        ]
+      }
+    ],
+    "périodes": [
+      {
+        "id": "rec0D9TkCH83ItF6j",
+        "nom": "années 2010",
+        "lieux": [
+          "recXIe49AgTTO1AuY",
+          "rec4neQMuPblp8tuX",
+          "reczXyoM7GigrsPit",
+          "recsuUKLNrVXo8p8J",
+          "recdqD43kpp1pOv3x",
+          "recBxhZLsWO1HSu4R",
+          "rechtsQSNXyvtp75c",
+          "recuIUUMuCMw2rrHn",
+          "rec72cuqtL80v3RYm",
+          "recXNuzkB4wj0g0H4",
+          "recM6PpcEu5bvmzwd",
+          "recmanFMpSvbjFW6r",
+          "recjkXrXE0hZw6f4t",
+          "recQh9bPlaf7FDpmG",
+          "recGXesDW1kGxSoxQ",
+          "recJgalSFcQX7dLe6",
+          "recHVehEvNmwXAJIO",
+          "recYQXv9Df1Bn5fTu",
+          "rec7OkEzJNwlvELsf",
+          "recAIyOLNUx4kiPXv",
+          "recDA3JohqEFwoBED",
+          "rechFw6KIHy4PVSUb",
+          "rec0tsNbxoh48H20l",
+          "recX0Kj4p2adp8f8U",
+          "recY5jgLHC0792Lr0",
+          "recloEgKAuO4WjR2r",
+          "recelyrNTkM7l50Jd",
+          "recL8sEqdH9C2gWvd",
+          "recMsOSrCEl9x1F2V",
+          "recP6LOBOUBRRlLnt",
+          "recu65igj5DHRpC30",
+          "recRFuKGP2zlHup3A",
+          "recpN2hW8eG6SnkLe",
+          "rec5EHfAartf4PUHm",
+          "recATsZWxsng7iDNK",
+          "rec0Rwewbk2MMTQAD",
+          "reccVHejspOWs8dm2",
+          "recTaYdefmJUHsBOi",
+          "recIsRYGFH3wqqTYC",
+          "recMKYgGVASf6j8rE",
+          "receMWo5ARK964EuD",
+          "recLD9rnkZv8VOOLu",
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
+        ]
+      }
+    ],
+    "type": [
+      {
+        "id": "recrpFA9KQQobRh6X",
+        "destination": "Maison",
+        "type_destination": "Logement",
+        "lieux": [
+          "recTr9BzAt1jG9yaJ",
+          "recHVehEvNmwXAJIO",
+          "rechFw6KIHy4PVSUb",
+          "recRFuKGP2zlHup3A",
+          "rec5EHfAartf4PUHm",
+          "recATsZWxsng7iDNK",
+          "recLD9rnkZv8VOOLu",
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V"
+        ]
+      }
+    ],
+    "présentation": "_• L'ardepa a visité ce lieu le 30 novembre 2018_\n",
+    "département": "44 Loire-Atlantique",
+    "dernière modification": "2021-10-05T07:24:51.000Z"
   },
   {
     "id": "reczXyoM7GigrsPit",
@@ -9807,7 +10940,10 @@
           "recMKYgGVASf6j8rE",
           "receMWo5ARK964EuD",
           "recLD9rnkZv8VOOLu",
-          "recrkntJi6bURIOSA"
+          "recrkntJi6bURIOSA",
+          "recwnakX0XGMKhW3V",
+          "recq4adxSr0wOfKMW",
+          "rec01yhWP2aoRq5jj"
         ]
       }
     ],
