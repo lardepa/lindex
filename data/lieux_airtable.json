@@ -1432,17 +1432,10 @@
   "recqyWBYUvLlSsdix": {
     "id": "recqyWBYUvLlSsdix",
     "nom": "Villagexpo de Nantes",
-    "dernière modification": "2021-10-05T15:53:52.000Z",
-    "geolocalisation": "47.2158991667668, -1.617667399566115",
     "adresse": "Rue d'Avranche 44000 Nantes\n",
-    "département": "44 Loire-Atlantique",
-    "type": [
-      "recYSw9aAndSU9UZ7"
-    ],
+    "status": "Publié",
+    "geolocalisation": "47.2158991667668, -1.617667399566115",
     "date": "1968",
-    "périodes": [
-      "recoq00NAUf4eKDs0"
-    ],
     "maitre_oeuvre": [
       "recRc1cQ0NqjqHJpZ",
       "recpjzCDWnnKxEpbk"
@@ -1450,15 +1443,22 @@
     "maitre_ouvrage": [
       "recxs3HdBxI9nzo5P"
     ],
-    "présentation": "Le « villagexpo » se voulait être une démonstration à l’échelle 1 que l’on peut concilier la qualité de l’habitat individuel (ce sont des maisons HLM) et la réalisation d’opérations groupées de modèles industrialisés.\nLe Villagexpo de Saint-Herblain est le premier réalisé hors région parisienne. L’exposition qui dura du 13 juin au 14 juillet 1968 connut un véritable succès.\nPlus d'infos dans la plaquette de visite (à télécharger ICI)\n_• L'ardepa a visité ce lieu lors des Journées du Patrimoine 2015_\n",
-    "status": "Publié",
-    "cover_media": [
-      "rec5SJ5oRPAtFuCX5"
+    "périodes": [
+      "recoq00NAUf4eKDs0"
     ],
     "médias": [
       "recJ1SB6CFPO9h6XW",
       "reczjd2tuQWbOlPZz"
-    ]
+    ],
+    "cover_media": [
+      "rec5SJ5oRPAtFuCX5"
+    ],
+    "type": [
+      "recYSw9aAndSU9UZ7"
+    ],
+    "présentation": "Le « villagexpo » se voulait être une démonstration à l’échelle 1 que l’on peut concilier la qualité de l’habitat individuel (ce sont des maisons HLM) et la réalisation d’opérations groupées de modèles industrialisés.\nLe Villagexpo de Saint-Herblain est le premier réalisé hors région parisienne. L’exposition qui dura du 13 juin au 14 juillet 1968 connut un véritable succès.\nPlus d'infos dans la plaquette de visite (à télécharger ICI)\n_• L'ardepa a visité ce lieu lors des Journées du Patrimoine 2015_\n",
+    "département": "44 Loire-Atlantique",
+    "dernière modification": "2021-10-05T15:53:52.000Z"
   },
   "recrkntJi6bURIOSA": {
     "id": "recrkntJi6bURIOSA",
@@ -1553,9 +1553,9 @@
     "distinctions": [
       "recp0W1AeapKvzlxk"
     ],
-    "présentation": "Une intégration paysagère douce qui accompagne le développement de la commune.\nNi au centre de la commune, ni véritablement en périphérie au regard de l’extension urbaine en cours au nord de la rue des pierres blanches, la situation du projet d’espace festif et culturel offre l’opportunité de conforter le développement de la ville par l’affirmation du caractère public des aménagements et des équipements.\nLa contemporanéité d’une écriture architecturale sobre et événementielle.\nAu delà de la nouvelle offre publique offerte par la nouvelle salle, sa forme et sa volumétrie doivent offrir une insertion douce dans son environnement tout en proposant une identité au caractère événementiel affirmé.\nL’usage de matériaux bruts et durables (terre cuite, béton, bois) permet de réduire au maximum les coûts d’entretien et de maintenance mais s’intègrent surtout comme outil de proposition d’une architecture contemporaine sobre et intemporelle.\nLa qualité de ces matériaux est au centre des ambiances proposées, tant à l’intérieur qu’à l’extérieur et participe pleinement à singulariser le projet et son «atmosphère» : la sobriété des matières nobles utilisées confère aux espaces le caractère solennel que nécessite certains des usages et permet de mettre en avant la qualité des dispositifs spatiaux.\nAinsi les espaces de réception majeurs (salle, hall d’accueil, salle de réunion, salle de musique) profitent de hauteurs sous plafond très importantes ainsi que de cadrages particuliers sur le paysage, en offrant la lecture de grandes porosités et d’espaces extérieurs aux qualité d’usage différenciées. \nCes deux dispositifs, jeux de volumes et de matières, participent pleinement à la proposition d’une hétérogénéité volumétrique cohérente, qui offre dans un volume très compact une lecture géographique des fonctions et des usages.\nTexte extrait du dossier de presse, RAUM\n\nRetrouvez l'article et la plaquette de cette visite sur le **[site web de l'ardepa !](https://www.lardepa.com/genese-2020-1-espace-culturel-des-pierres-blanches/)**\n\nL'Espace culturel des Pierres Blanches a été lauréat dans la catégorie Culture, Jeunesse et Sport lors du prix Équerre d'Argent 2019.\n• L'ardepa a visité ce lieu le 16 mars 2020\n",
+    "présentation": "Une intégration paysagère douce qui accompagne le développement de la commune.\nNi au centre de la commune, ni véritablement en périphérie au regard de l’extension urbaine en cours au nord de la rue des pierres blanches, la situation du projet d’espace festif et culturel offre l’opportunité de conforter le développement de la ville par l’affirmation du caractère public des aménagements et des équipements.\nLa contemporanéité d’une écriture architecturale sobre et événementielle.\nAu delà de la nouvelle offre publique offerte par la nouvelle salle, sa forme et sa volumétrie doivent offrir une insertion douce dans son environnement tout en proposant une identité au caractère événementiel affirmé.\nL’usage de matériaux bruts et durables (terre cuite, béton, bois) permet de réduire au maximum les coûts d’entretien et de maintenance mais s’intègrent surtout comme outil de proposition d’une architecture contemporaine sobre et intemporelle.\nLa qualité de ces matériaux est au centre des ambiances proposées, tant à l’intérieur qu’à l’extérieur et participe pleinement à singulariser le projet et son «atmosphère» : la sobriété des matières nobles utilisées confère aux espaces le caractère solennel que nécessite certains des usages et permet de mettre en avant la qualité des dispositifs spatiaux.\nAinsi les espaces de réception majeurs (salle, hall d’accueil, salle de réunion, salle de musique) profitent de hauteurs sous plafond très importantes ainsi que de cadrages particuliers sur le paysage, en offrant la lecture de grandes porosités et d’espaces extérieurs aux qualité d’usage différenciées. \nCes deux dispositifs, jeux de volumes et de matières, participent pleinement à la proposition d’une hétérogénéité volumétrique cohérente, qui offre dans un volume très compact une lecture géographique des fonctions et des usages.\nTexte extrait du dossier de presse, RAUM\n\nRetrouvez l'article et la plaquette de cette visite sur le **[site web de l'ardepa !](https://www.lardepa.com/genese-2020-1-espace-culturel-des-pierres-blanches/)**\n\nL'Espace culturel des Pierres Blanches a été lauréat dans la catégorie Culture, Jeunesse et Sport lors du prix Équerre d'Argent 2019.\n\n• L'ardepa a visité ce lieu le 16 mars 2020\n",
     "département": "44 Loire-Atlantique",
-    "dernière modification": "2021-10-04T08:38:53.000Z"
+    "dernière modification": "2021-10-07T08:44:13.000Z"
   },
   "recuIUUMuCMw2rrHn": {
     "id": "recuIUUMuCMw2rrHn",

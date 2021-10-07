@@ -313,10 +313,10 @@
   },
   "recRc1cQ0NqjqHJpZ": {
     "id": "recRc1cQ0NqjqHJpZ",
+    "nom": "Marcel Favraud",
     "maitre_oeuvre": [
       "recqyWBYUvLlSsdix"
-    ],
-    "nom": "Marcel Favraud"
+    ]
   },
   "recRin8OHDURkg4sX": {
     "id": "recRin8OHDURkg4sX",
@@ -699,10 +699,10 @@
   },
   "recpjzCDWnnKxEpbk": {
     "id": "recpjzCDWnnKxEpbk",
+    "nom": "Georges Evano",
     "maitre_oeuvre": [
       "recqyWBYUvLlSsdix"
-    ],
-    "nom": "Georges Evano"
+    ]
   },
   "recpuainVapKKywrU": {
     "id": "recpuainVapKKywrU",
@@ -797,9 +797,9 @@
   },
   "recxs3HdBxI9nzo5P": {
     "id": "recxs3HdBxI9nzo5P",
+    "nom": "Société Coopérative HLM La Maison Familiale",
     "maitre_ouvrage": [
       "recqyWBYUvLlSsdix"
-    ],
-    "nom": "Société Coopérative HLM La Maison Familiale"
+    ]
   }
 }
