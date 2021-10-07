@@ -1,0 +1,127 @@
+{
+  "id": "recigl83FpciTgaw8",
+  "nom": "Usine de traitement des eaux usées de la Petite Californie",
+  "adresse": "15 Rue Ordronneau 44400 Rezé\n",
+  "status": "En rédaction",
+  "geolocalisation": [
+    47.191089,
+    -1.583499
+  ],
+  "date": "2011",
+  "maitre_oeuvre": [
+    {
+      "id": "recJsVlZyMKjo4oOd",
+      "nom": "Atelier le Priol Architectes",
+      "site_web": "https://www.atelierlepriolarchitectes.com/",
+      "maitre_oeuvre": [
+        "recigl83FpciTgaw8"
+      ]
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recXVXVP3gQIykC61",
+      "nom": "Nantes Métropole (44)",
+      "site_web": "https://metropole.nantes.fr/",
+      "maitre_ouvrage": [
+        "recXIe49AgTTO1AuY",
+        "receMWo5ARK964EuD",
+        "recq4adxSr0wOfKMW",
+        "recigl83FpciTgaw8",
+        "receDNWxTooSTCLHo"
+      ]
+    }
+  ],
+  "périodes": [
+    {
+      "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
+      "lieux": [
+        "recXIe49AgTTO1AuY",
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R",
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r",
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
+        "recYQXv9Df1Bn5fTu",
+        "rec7OkEzJNwlvELsf",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb",
+        "rec0tsNbxoh48H20l",
+        "recX0Kj4p2adp8f8U",
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt",
+        "recu65igj5DHRpC30",
+        "recRFuKGP2zlHup3A",
+        "recpN2hW8eG6SnkLe",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "rec0Rwewbk2MMTQAD",
+        "reccVHejspOWs8dm2",
+        "recTaYdefmJUHsBOi",
+        "recIsRYGFH3wqqTYC",
+        "recMKYgGVASf6j8rE",
+        "receMWo5ARK964EuD",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V",
+        "recq4adxSr0wOfKMW",
+        "rec01yhWP2aoRq5jj",
+        "recigl83FpciTgaw8",
+        "receDNWxTooSTCLHo",
+        "recKbU8dW7ri9Ihu9"
+      ]
+    }
+  ],
+  "médias": [
+    {
+      "id": "recILfHwvLu5w33aB",
+      "titre": "usine eau rezé plaquette",
+      "fichiers": [
+        {
+          "id": "attMt7DixDpbgf1vT",
+          "url": "https://dl.airtable.com/.attachments/4148906875297789a5fdcd6666149634/4af1dcf5/A5-exp1-eau.pdf",
+          "filename": "A5-expé1-eau.pdf",
+          "size": 837411,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ae20524af1d12acb2ad5a2762f644b13/2d6f0f2f",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c18ecc90bb22762116324b1ab829e3c5/c3012ede",
+              "width": 361,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "credits": "Le Priol / Nantes métropole / Ardepa",
+      "lieux": [
+        "recigl83FpciTgaw8"
+      ]
+    }
+  ],
+  "présentation": "Le traitement des eaux usées de l’agglomération nantaise se partage entre l’usine de Tougas à Saint-Herblain et celle de la Petite Californie à Rezé. Celle-ci, conçue aujourd’hui pour 180 000 habitants, est implantée près du village de Trentemoult, dans un entre-deux routier entre zones d’activités et zones commerciales péri-urbaines.\n\nL’extension des capacités de l’usine a permis de lui donner une image architecturale digne d’un édifice tertiaire, par la création d’une nouvelle façade vers Trentemoult, tout en participant à la reconquête du quartier par le regroupement au sein d’un bâtiment des équipements de traitement auparavant étalés sur la parcelle voisine. Le nouvel ensemble, resserré, réunit un bâtiment existant et un nouveau, qui abrite un procédé de traitement des eaux établi sur plusieurs niveaux, de part et d’autre d’une cour de service.\n\nAu nord, une « peau » nouvelle réunit les deux bâtiments techniques. Elle implante en avant de l’usine des blocs vitrés, posés au sol ou suspendus dans le vide, qui accueillent bureaux et salles de réunions. \nDans l’entre-deux, un espace de circulation, serre végétalisée, est traversé par une coursive métallique, espace de circulation et lieu de contemplation du paysage, surmonté d’un vaste auvent en résille de métal.\n\nL’aménagement des abords, par sa qualité paysagère et ses jeux d’eau, contribue à la nouvelle image de l’usine, et complète sa conception architecturale bioclimatique. \n\n_Texte : Christophe Boucher, CAUE 44_\n\n_• L'ardepa a visité ce lieu le 22 juin 2019, lors de l'**Expédition urbaine 2019#1 - \"L'eau, enjeu du siècle\"**_\n\n",
+  "département": "44 Loire-Atlantique",
+  "dernière modification": "2021-10-07T13:59:23.000Z",
+  "type": []
+}

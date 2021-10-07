@@ -93,7 +93,8 @@
     "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique",
     "maitre_ouvrage": [
       "recpN2hW8eG6SnkLe",
-      "recT5ti90aD2NTdCN"
+      "recT5ti90aD2NTdCN",
+      "recKbU8dW7ri9Ihu9"
     ]
   },
   "rec8GtplG9QmCaQAJ": {
@@ -206,6 +207,14 @@
       "recTaYdefmJUHsBOi"
     ]
   },
+  "recJsVlZyMKjo4oOd": {
+    "id": "recJsVlZyMKjo4oOd",
+    "nom": "Atelier le Priol Architectes",
+    "site_web": "https://www.atelierlepriolarchitectes.com/",
+    "maitre_oeuvre": [
+      "recigl83FpciTgaw8"
+    ]
+  },
   "recKIPoNLtWslh3Yz": {
     "id": "recKIPoNLtWslh3Yz",
     "nom": "Institut la Persagotière",
@@ -232,7 +241,9 @@
     "id": "recL4Vs8QCoqNKb4j",
     "nom": "Ville de Nantes (44)",
     "maitre_ouvrage": [
-      "receMWo5ARK964EuD"
+      "receMWo5ARK964EuD",
+      "recK8aI8T01RXFgcD",
+      "recKbU8dW7ri9Ihu9"
     ]
   },
   "recLBtIyE7sVMbBwh": {
@@ -250,6 +261,13 @@
       "recAIyOLNUx4kiPXv"
     ]
   },
+  "recNZ1FrE8vvoDqfk": {
+    "id": "recNZ1FrE8vvoDqfk",
+    "nom": "Richard Dievolski Ingénieur",
+    "maitre_oeuvre": [
+      "recK8aI8T01RXFgcD"
+    ]
+  },
   "recNklaa9ashZHOi4": {
     "id": "recNklaa9ashZHOi4",
     "nom": "Adèle Sarrailh Paysage",
@@ -263,6 +281,13 @@
     "maitre_ouvrage": [
       "recXrmOzavWvTwx9T",
       "recMKYgGVASf6j8rE"
+    ]
+  },
+  "recO52D5cD3JhPEJp": {
+    "id": "recO52D5cD3JhPEJp",
+    "nom": "Jean-Luc Pellerin architecte",
+    "maitre_oeuvre": [
+      "recK8aI8T01RXFgcD"
     ]
   },
   "recOl6lYjNOuOGchX": {
@@ -323,6 +348,14 @@
     "nom": "Commune de Saint-Denis-des-Coudrais (72)",
     "maitre_ouvrage": [
       "recXNuzkB4wj0g0H4"
+    ]
+  },
+  "recRtIEn3AIlmzfx6": {
+    "id": "recRtIEn3AIlmzfx6",
+    "nom": "Bruit du Frigo",
+    "site_web": "https://bruitdufrigo.com/",
+    "maitre_oeuvre": [
+      "recKbU8dW7ri9Ihu9"
     ]
   },
   "recSTcBSeVMm2gaCD": {
@@ -444,7 +477,9 @@
     "maitre_ouvrage": [
       "recXIe49AgTTO1AuY",
       "receMWo5ARK964EuD",
-      "recq4adxSr0wOfKMW"
+      "recq4adxSr0wOfKMW",
+      "recigl83FpciTgaw8",
+      "receDNWxTooSTCLHo"
     ]
   },
   "recXtVzXwS6EvWjoL": {
@@ -636,6 +671,14 @@
       "recLVrdGzklj7mmLE"
     ]
   },
+  "reckxf0BZsd3PLu8Y": {
+    "id": "reckxf0BZsd3PLu8Y",
+    "nom": "BASE paysage",
+    "site_web": "https://www.baseland.fr/",
+    "maitre_oeuvre": [
+      "recKbU8dW7ri9Ihu9"
+    ]
+  },
   "recleUhLiIBLOEkyG": {
     "id": "recleUhLiIBLOEkyG",
     "nom": "Nathalie Chardon Architecture",
@@ -681,6 +724,13 @@
       "recYQXv9Df1Bn5fTu"
     ]
   },
+  "recoMuGLEUNFA2DOQ": {
+    "id": "recoMuGLEUNFA2DOQ",
+    "nom": "Louis Fruitet ingénieur",
+    "maitre_oeuvre": [
+      "recK8aI8T01RXFgcD"
+    ]
+  },
   "recpjOfOdGukiQ4gA": {
     "id": "recpjOfOdGukiQ4gA",
     "nom": "Atelier du Pont - agence d'architecture",
@@ -699,9 +749,10 @@
   },
   "recpjzCDWnnKxEpbk": {
     "id": "recpjzCDWnnKxEpbk",
-    "nom": "Georges Evano",
+    "nom": "Georges Evano architecte",
     "maitre_oeuvre": [
-      "recqyWBYUvLlSsdix"
+      "recqyWBYUvLlSsdix",
+      "recK8aI8T01RXFgcD"
     ]
   },
   "recpuainVapKKywrU": {
@@ -786,6 +837,13 @@
     "site_web": "https://www.atelier-ramdam.com/",
     "maitre_oeuvre": [
       "recGXesDW1kGxSoxQ"
+    ]
+  },
+  "recxQj3xoNYuwDJbv": {
+    "id": "recxQj3xoNYuwDJbv",
+    "nom": "AURA architectes",
+    "maitre_oeuvre": [
+      "receDNWxTooSTCLHo"
     ]
   },
   "recxbSsoxnApY8i6C": {

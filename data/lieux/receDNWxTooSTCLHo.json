@@ -1,0 +1,298 @@
+{
+  "id": "receDNWxTooSTCLHo",
+  "nom": "Extension du Palais des Sports",
+  "adresse": "7-9 Rue André Tardieu 44200 Nantes\n",
+  "status": "Publié",
+  "geolocalisation": [
+    47.209528,
+    -1.537994
+  ],
+  "date": "2019",
+  "maitre_oeuvre": [
+    {
+      "id": "recxQj3xoNYuwDJbv",
+      "nom": "AURA architectes",
+      "maitre_oeuvre": [
+        "receDNWxTooSTCLHo"
+      ]
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recXVXVP3gQIykC61",
+      "nom": "Nantes Métropole (44)",
+      "site_web": "https://metropole.nantes.fr/",
+      "maitre_ouvrage": [
+        "recXIe49AgTTO1AuY",
+        "receMWo5ARK964EuD",
+        "recq4adxSr0wOfKMW",
+        "recigl83FpciTgaw8",
+        "receDNWxTooSTCLHo"
+      ]
+    }
+  ],
+  "périodes": [
+    {
+      "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
+      "lieux": [
+        "recXIe49AgTTO1AuY",
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R",
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r",
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
+        "recYQXv9Df1Bn5fTu",
+        "rec7OkEzJNwlvELsf",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb",
+        "rec0tsNbxoh48H20l",
+        "recX0Kj4p2adp8f8U",
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt",
+        "recu65igj5DHRpC30",
+        "recRFuKGP2zlHup3A",
+        "recpN2hW8eG6SnkLe",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "rec0Rwewbk2MMTQAD",
+        "reccVHejspOWs8dm2",
+        "recTaYdefmJUHsBOi",
+        "recIsRYGFH3wqqTYC",
+        "recMKYgGVASf6j8rE",
+        "receMWo5ARK964EuD",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V",
+        "recq4adxSr0wOfKMW",
+        "rec01yhWP2aoRq5jj",
+        "recigl83FpciTgaw8",
+        "receDNWxTooSTCLHo",
+        "recKbU8dW7ri9Ihu9"
+      ]
+    }
+  ],
+  "médias": [
+    {
+      "id": "recQqeYhgDlLZK837",
+      "lieux": [
+        "receDNWxTooSTCLHo"
+      ],
+      "titre": "sports beaulieu photos",
+      "fichiers": [
+        {
+          "id": "attYlPmssaxAdulaq",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/a3daaebcccb72b19f637bdf8fead9fd5/1ec9c0eb/DSC_3746.JPG",
+          "filename": "DSC_3746.JPG",
+          "size": 375849,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cc35441e1fbfde571170f4ab2df2ef8c/721b374f",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ab8cbb9f2671b757c4d32e386d289e19/64943176",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f77ae136a8208e9303c1965d9ad9dc15/5620b879",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attCLDeLFrGJJOBOv",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/0ebcfeaaab794c135222ce344494db99/fde474e6/DSC_3751.JPG",
+          "filename": "DSC_3751.JPG",
+          "size": 572544,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b87ad18b6a97e2fdccdb61c899fdf52c/b698967e",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/eea9f8db8e9b5aad33d612c9b9ae495b/1f35aefd",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3cff9be02d54fd79fa02c0cbc32c7d05/24857e53",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Ardepa"
+    },
+    {
+      "id": "rec50pXcfN6uqj5Z1",
+      "titre": "extension sports beaulieu doc",
+      "fichiers": [
+        {
+          "id": "attEK5v9q3hBJeOt4",
+          "width": 1748,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/ee7e73d1da970d2c5ee9287487931348/fae474ac/palaissportsbeaulieu3.jpg",
+          "filename": "palais sports beaulieu 3.jpg",
+          "size": 1002724,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/299282f17bb1883c6900e1fb4ff161f2/8bc4988f",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/154a25b7dc9dae8b5030bac5633671a4/ae066944",
+              "width": 829,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5dc8b576daf312bcbe33058077033b04/5fc46be7",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "AURA / Nantes métropole",
+      "lieux": [
+        "receDNWxTooSTCLHo"
+      ]
+    },
+    {
+      "id": "recotkbZH4BZFgqOk",
+      "titre": "sports beaulieu plaquette",
+      "fichiers": [
+        {
+          "id": "attYztoLTmAlVbLnC",
+          "url": "https://dl.airtable.com/.attachments/12470d2eaf51994a0b0a6b88acafcdc1/03edf2a2/A5-expe2-bienEtre.pdf",
+          "filename": "A5-expe2-bienEtre.pdf",
+          "size": 12064615,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1112bef79de080bd144002ff643e41b4/9072c9e8",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/04fcd47c0d3a1978fb1172e86a2af7db/2bf5bf31",
+              "width": 361,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "credits": "Nantes métropole / Ardepa",
+      "lieux": [
+        "recK8aI8T01RXFgcD",
+        "receDNWxTooSTCLHo"
+      ]
+    }
+  ],
+  "cover_media": {
+    "id": "recJEnskAFziowZoO",
+    "titre": "extension sports beaulieu cover",
+    "fichiers": [
+      {
+        "id": "attpg9WcjaJ0bM5lY",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/727d2775a635575ffe7976170a1a0756/8272a59b/extensionsportsbeaulieucover.jpg",
+        "filename": "extension sports beaulieu cover.jpg",
+        "size": 271660,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f23a123f09faabfd2ae60d647a07e856/e7e9b326",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ea5459e2cd0bc36c10890488b4bb67fb/e8cbc6e8",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2ad8a292353979fdd1e913d368d3e39d/76335709",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Jean-Dominique Billaud / Samoa",
+    "cover_lieux": [
+      "receDNWxTooSTCLHo"
+    ]
+  },
+  "type": [
+    {
+      "id": "recVSbbcBxY2ydzDN",
+      "destination": "Équipement sportif",
+      "type_destination": "Équipement",
+      "lieux": [
+        "rechtsQSNXyvtp75c",
+        "recYQXv9Df1Bn5fTu",
+        "recK8aI8T01RXFgcD",
+        "receDNWxTooSTCLHo"
+      ]
+    }
+  ],
+  "présentation": "**_Une rénovation XXL_**\nLe chantier de réhabilitation du Palais des Sports de Beaulieu s’est attaché à respecter l’architecture remarquable du site classé au patrimoine nantais. Ainsi, les couleurs, les matériaux et les volumes imaginés par les architectes nantais Georges Evano et Jean-Luc Pellerin ont été préservés. Respecter la valeur patrimoniale de l’équipement tout en le modernisant et en l’adaptant aux besoins et aux pratiques du sport d’aujourd’hui a été le principal objectif des travaux qui ont notamment permis d’augmenter la jauge de la salle principale : 5 450 places contre 4 700 auparavant.\nPour améliorer le confort de tous les utilisateurs du Palais des Sports, sportifs professionnels, sportifs amateurs et spectateurs, le chantier de rénovation du Palais des Sports de Beaulieu a permis de créer 5 500 m² de nouveaux espaces : un hall d’entrée pour la salle principale, hall d’entrée pour la salle annexe et des espaces de réceptions sur trois niveaux.\n_Texte : Nantes Métropole_\n\n**_Les objectifs du projet :_**\n\n· Séparer les accueils joueurs/utilisateurs et spectateurs,\n· Proposer des espaces de réception, d’un office à disposition des traiteurs pour les besoins des salles VIP.\n· Créé des locaux connexes complétant l’équipement (vestiaires, sanitaires, stockage…) ainsi que d’un accès depuis l’extérieur vers les locaux de stockage.\n\nL’extension s’installe à l’est de l’équipement, à l’emplacement pressenti lors de la conception initiale du PSB.\n\nLe projet s’appuie sur les préconisations de l’aménageur (SAMOA) et du Service des Espaces Verts de la Ville de Nantes (interaction avec l’espace public), ainsi que sur les données du programme transmis par le Service des Sports (3 entités s’en dégagent : VIP/Accueil 5 000/Accueil 500).\n\n**_Implantation, organisation des nouvelles constructions_**\n\nTrois entités s’en dégagent :\n§ Une extension VIP (R + 2)\n§ Une extension en lien avec la salle 5 000 (R + 1)\n§ Une extension en lien avec la salle 500 (R + 1)\n\nL’extension VIP se dégage de l’existant afin de laisser visible au maximum les façades vitrées de la salle 5 000. Les extensions sont dans le prolongement de l’existant, elles abritent à l’étage les locaux techniques des centrales de traitement d’air et au rez-de-chaussée un point accueil billetterie pour les 2 volumes ainsi qu’une boutique pour l’entité 5 000 et une salle de convivialité pour l’entité 500.\n\nL’entité VIP abrite au RDC, une zone d’accueil, vestiaire, une salle de réception, des sanitaires publics, un espace de stockage et un office. Une liaison de plain-pied permet d’accéder à la salle 5 000 du PSB. Au R + 1, on trouve un nouvel espace de réception, des sanitaires publics et un espace en lien avec l’office. Une passerelle couverte permet de faire le lien au niveau des loges du PSB. Enfin, le R + 2 abrite un dernier espace de convivialité-bar, un bureau et une terrasse extérieure.\nL’emprise au sol de l’extension est de 2 125 m².\nLe projet prévoit de redessiner un parvis en lien avec les 3 entités. Celui-ci permet de guider le public par un jeu de calepinage au sol de pavé béton et d’affirmer ainsi les 3 accueils.\n\n_Texte extrait de la notice architecturale du Permis de Construire- agence AURA_\n\n_• L'ardepa a visité ce lieu le 06 juillet 2019, lors de l'Expédition urbaine 2019#2 - Le bien-être en ville._\n",
+  "département": "44 Loire-Atlantique",
+  "dernière modification": "2021-10-07T14:51:06.000Z",
+  "parcours": [
+    {
+      "id": "recit6lDBhqoxoJn9",
+      "nom": "Le bien-être en ville",
+      "cover_media": [
+        "recBNHsKIkH2zYavH"
+      ],
+      "type parcours": "Expédition",
+      "status": "Publié",
+      "date": "2019-07-06",
+      "sous-titre": "Expédition urbaine 2019#2",
+      "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
+      "lieux": [
+        "recK8aI8T01RXFgcD",
+        "receDNWxTooSTCLHo",
+        "recKbU8dW7ri9Ihu9"
+      ],
+      "médias": [
+        "recKe5H17rMJ2ezdf",
+        "recYDhDq2wZ1zWGhE",
+        "recaTHLX6YXDUfkh2"
+      ],
+      "en une": true
+    }
+  ]
+}

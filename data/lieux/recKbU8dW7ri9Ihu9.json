@@ -1,0 +1,283 @@
+{
+  "id": "recKbU8dW7ri9Ihu9",
+  "nom": "Les berges du faubourg",
+  "adresse": "Boulevard Gaston Doumergue 44200 Nantes\n",
+  "status": "Publié",
+  "geolocalisation": [
+    47.2075283202251,
+    -1.5475056974357995
+  ],
+  "date": "2019",
+  "maitre_oeuvre": [
+    {
+      "id": "reckxf0BZsd3PLu8Y",
+      "nom": "BASE paysage",
+      "site_web": "https://www.baseland.fr/",
+      "maitre_oeuvre": [
+        "recKbU8dW7ri9Ihu9"
+      ]
+    },
+    {
+      "id": "recRtIEn3AIlmzfx6",
+      "nom": "Bruit du Frigo",
+      "site_web": "https://bruitdufrigo.com/",
+      "maitre_oeuvre": [
+        "recKbU8dW7ri9Ihu9"
+      ]
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recL4Vs8QCoqNKb4j",
+      "nom": "Ville de Nantes (44)",
+      "maitre_ouvrage": [
+        "receMWo5ARK964EuD",
+        "recK8aI8T01RXFgcD",
+        "recKbU8dW7ri9Ihu9"
+      ]
+    },
+    {
+      "id": "rec6zwotXGCBOq5C8",
+      "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique",
+      "maitre_ouvrage": [
+        "recpN2hW8eG6SnkLe",
+        "recT5ti90aD2NTdCN",
+        "recKbU8dW7ri9Ihu9"
+      ]
+    }
+  ],
+  "périodes": [
+    {
+      "id": "rec0D9TkCH83ItF6j",
+      "nom": "années 2010",
+      "lieux": [
+        "recXIe49AgTTO1AuY",
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R",
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r",
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
+        "recYQXv9Df1Bn5fTu",
+        "rec7OkEzJNwlvELsf",
+        "recAIyOLNUx4kiPXv",
+        "recDA3JohqEFwoBED",
+        "rechFw6KIHy4PVSUb",
+        "rec0tsNbxoh48H20l",
+        "recX0Kj4p2adp8f8U",
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt",
+        "recu65igj5DHRpC30",
+        "recRFuKGP2zlHup3A",
+        "recpN2hW8eG6SnkLe",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "rec0Rwewbk2MMTQAD",
+        "reccVHejspOWs8dm2",
+        "recTaYdefmJUHsBOi",
+        "recIsRYGFH3wqqTYC",
+        "recMKYgGVASf6j8rE",
+        "receMWo5ARK964EuD",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V",
+        "recq4adxSr0wOfKMW",
+        "rec01yhWP2aoRq5jj",
+        "recigl83FpciTgaw8",
+        "receDNWxTooSTCLHo",
+        "recKbU8dW7ri9Ihu9"
+      ]
+    }
+  ],
+  "médias": [
+    {
+      "id": "recCFVzIKggFEfzkS",
+      "lieux": [
+        "recKbU8dW7ri9Ihu9"
+      ],
+      "titre": "berges photo",
+      "fichiers": [
+        {
+          "id": "attRobSyeIS9eFzVG",
+          "width": 1295,
+          "height": 550,
+          "url": "https://dl.airtable.com/.attachments/fb5e2e5cb4c3d59bcde42243db448013/ca546768/pecherie-belvedere-berge-nord-ile-de-Nantes-1295x550.jpg",
+          "filename": "pecherie-belvedere-berge-nord-ile-de-Nantes-1295x550.jpg",
+          "size": 124659,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/1e5f0a4134992888b9492fb82432c360/3dee6a7d",
+              "width": 85,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c7c25e95224148a1cf00c418b20dbc8a/30028dcd",
+              "width": 1206,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d815743af68d9393432a76c763221288/57d4de63",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "atthm2NK7dwJ4kdBg",
+          "width": 1295,
+          "height": 485,
+          "url": "https://dl.airtable.com/.attachments/2512e383b0e9cee4025efff848861776/da376d1c/WEB-JON-07.18-21-1295x485.jpg",
+          "filename": "WEB-JON-07.18-21-1295x485.jpg",
+          "size": 162376,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/adb83ee5b89d274063227e6977f5e385/c3243eed",
+              "width": 96,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fa3c23370d7aedbd6eb8c62c8533fe14/b71eb486",
+              "width": 1295,
+              "height": 485
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/510949be84925445eb3abf116adeff19/ae41282d",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "BASE / Nantes métropole"
+    },
+    {
+      "id": "recaTHLX6YXDUfkh2",
+      "titre": "expédition urbaine 2019-2 plaquette",
+      "fichiers": [
+        {
+          "id": "att4RHX5nwnPiHkWU",
+          "url": "https://dl.airtable.com/.attachments/7f27868128b15a76e7203461b0ecba43/ee1a8687/plaquetteA5.pdf",
+          "filename": "plaquetteA5.pdf",
+          "size": 3896398,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3c00e5b2ff052643c91ca8282fda4fa8/d13a3966",
+              "width": 26,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c4fe4a1f66a8040ed1bc994ea1649206/9c5319ef",
+              "width": 368,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "credits": "Ardepa",
+      "parcours": [
+        "recnSvIT9dWMKZF8x",
+        "recit6lDBhqoxoJn9"
+      ],
+      "lieux": [
+        "recKbU8dW7ri9Ihu9"
+      ]
+    }
+  ],
+  "cover_media": {
+    "id": "recYDhDq2wZ1zWGhE",
+    "titre": "berges cover",
+    "fichiers": [
+      {
+        "id": "attp3N1M5cRSWBqqj",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/22297308b11ec8c3a9f2f1c2f34c5607/03c7c179/DSC_3768.JPG",
+        "filename": "DSC_3768.JPG",
+        "size": 573005,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/779d06d9b9bee79879e03407bac1534b/0b5aea10",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cb4f72bc08fac63afb1f13b291559870/505891c5",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9dd9eee8838efd4f4fb84fea7ba03b6b/965098ed",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "ardepa",
+    "cover_lieux": [
+      "recKbU8dW7ri9Ihu9"
+    ],
+    "parcours": [
+      "recit6lDBhqoxoJn9"
+    ]
+  },
+  "type": [
+    {
+      "id": "recEWoJWizkQSrwEo",
+      "destination": "Aménagement paysager",
+      "type_destination": "Espace public",
+      "lieux": [
+        "recJgalSFcQX7dLe6",
+        "rec0tsNbxoh48H20l",
+        "recP6LOBOUBRRlLnt",
+        "recKbU8dW7ri9Ihu9"
+      ]
+    }
+  ],
+  "présentation": "Le réaménagement des bords de Loire est l’une des ambitions premières du projet urbain de l’île de Nantes. Et la transformation des berges du faubourg conclut la requalification de la rive nord de l’île.\n\n**_Assurer la continuité piétonne et cyclable des berges_**\n\nEn 2015, avant le démarrage des travaux sur les berges du faubourg, 7 km de berges ou de quais avaient déjà été réaménagés sur les 12 km du tour de l’île. Objectif : offrir une continuité piétonne et cyclable avec les aménagements déjà réalisés pour permettre de retrouver la Loire. C’est l’agence BASE paysagiste qui a hérité du projet des berges du faubourg, en coproduction avec les habitants. 90 personnes se sont engagées dans cette démarche de réflexion. Elles ont participé à travers une série de réunions pour déterminer des propositions et des réflexions sur les usages futurs des espaces aménagés.\n« Ce travail a fait émerger la volonté forte des habitants de se réapproprier le fleuve, mais aussi l’envie de retrouver des usages conviviaux sur les berges », observe le collectif qui a animé les ateliers.\n\n**_7 hectares d’espaces publics transfigurés_**\n\nLes berges du faubourg s’étendent depuis le pont Haudaudine jusqu’au pont Aristide-Briand. Ce sont plus de 7 hectares d’espaces publics pour 1 km de berges et de quais qui ont été réaménagés.\nPiétons et cyclistes peuvent ainsi circuler du parc du Crapa au parc des Chantiers sans quitter les bords du fleuve. Le projet de l’agence BASE se déploie de part et d’autre du pont du général Audibert.\n\n**_Quais Rhuys et Hoche : ambiance nature_**\n\nA l’ouest du pont du général Audibert, une attention toute particulière a été portée à la Loire et à l’existant. Une place prolongée par des gradins en béton s’avance sur le fleuve au niveau du quai Hoche. Elle se connecte à une promenade de caillebotis au bord de l’eau qui rejoint l’espace du balcon de Biesse, dédié aux loisirs (terrains de boules, jeux pour enfants, etc.), à l’est, et le quai André-Rhuys, à l’est. \n\n**_Des espaces de jeux et de rencontre pour tous les âges._**\n\nLe parvis des écoles, aménagé à l’angle des quais André-Rhuys et Hoche accueille des équipements tels que baby-foot, ping-pong et agrès sportifs. Le long de la promenade sur la berge du quai André-Rhuys, on retrouve aussi la pêcherie, singulière structure posée sur la Loire, en clin d’œil aux anciennes pêcheries de l’estuaire.\n\nCet espace de détente et de contemplation créé à l’initiative d’une démarche participative peut accueillir des événements de petit format ou des classes de plein air.\n\n\n**_Quai Doumergue : de multiples usages_**\n\nA l’est du pont du général Audibert, c’est la diversité des usages qui prime. Une guinguette s’intègre au paysage par sa large structure métallique. Accessible depuis le boulevard, le premier niveau abrite une terrasse en bois, un espace de buvette et petite restauration et des toilettes publiques. Au niveau de la berge, l’installation de grandes tables, d’établis et d’un espace de stockage permet l’organisation d’événements. \nD’autres espaces de loisirs jalonnent le quai à l’ouest de la guinguette. On retrouve des terrains destinés à la pratique du badminton ou du volley et même un skatepark. Au bord de l’eau, ce sont de grands espaces libres pour jouer, se détendre, flâner ou pique-niquer qui structurent l’espace. Enfin, à l’est, c’est un jardin partagé pour les habitants du quartier qui se déploie.\n\n**_Une circulation apaisée_**\n\nEn parallèle de l’aménagement des berges – rendues plus accessibles aux piétons, cyclistes et personnes à mobilité réduite – les travaux ont permis de repenser la circulation. Elargissement des trottoirs, limitation de vitesse et mise en sens unique de certaines voies ont contribué à apaiser les espaces de circulation.\n\n_Sources : www.iledenantes.com et www.nantes.fr pour les citations._\n\n_• L'ardepa a visité ces lieux le 06 juillet 2019, lors de l'Expédition urbaine 2019#2 - Le bien-être en ville. _\n",
+  "département": "44 Loire-Atlantique",
+  "dernière modification": "2021-10-07T14:51:10.000Z",
+  "parcours": [
+    {
+      "id": "recit6lDBhqoxoJn9",
+      "nom": "Le bien-être en ville",
+      "cover_media": [
+        "recBNHsKIkH2zYavH"
+      ],
+      "type parcours": "Expédition",
+      "status": "Publié",
+      "date": "2019-07-06",
+      "sous-titre": "Expédition urbaine 2019#2",
+      "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
+      "lieux": [
+        "recK8aI8T01RXFgcD",
+        "receDNWxTooSTCLHo",
+        "recKbU8dW7ri9Ihu9"
+      ],
+      "médias": [
+        "recKe5H17rMJ2ezdf",
+        "recYDhDq2wZ1zWGhE",
+        "recaTHLX6YXDUfkh2"
+      ],
+      "en une": true
+    }
+  ]
+}
