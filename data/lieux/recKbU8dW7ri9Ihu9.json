@@ -33,7 +33,8 @@
       "maitre_ouvrage": [
         "receMWo5ARK964EuD",
         "recK8aI8T01RXFgcD",
-        "recKbU8dW7ri9Ihu9"
+        "recKbU8dW7ri9Ihu9",
+        "recrfw9hvh3VrHFhx"
       ]
     },
     {
@@ -99,16 +100,14 @@
         "rec01yhWP2aoRq5jj",
         "recigl83FpciTgaw8",
         "receDNWxTooSTCLHo",
-        "recKbU8dW7ri9Ihu9"
+        "recKbU8dW7ri9Ihu9",
+        "recrfw9hvh3VrHFhx"
       ]
     }
   ],
   "médias": [
     {
       "id": "recCFVzIKggFEfzkS",
-      "lieux": [
-        "recKbU8dW7ri9Ihu9"
-      ],
       "titre": "berges photo",
       "fichiers": [
         {
@@ -164,7 +163,10 @@
           }
         }
       ],
-      "credits": "BASE / Nantes métropole"
+      "credits": "BASE / Nantes métropole",
+      "lieux": [
+        "recKbU8dW7ri9Ihu9"
+      ]
     },
     {
       "id": "recaTHLX6YXDUfkh2",
@@ -191,12 +193,12 @@
         }
       ],
       "credits": "Ardepa",
+      "lieux": [
+        "recKbU8dW7ri9Ihu9"
+      ],
       "parcours": [
         "recnSvIT9dWMKZF8x",
         "recit6lDBhqoxoJn9"
-      ],
-      "lieux": [
-        "recKbU8dW7ri9Ihu9"
       ]
     }
   ],
@@ -248,36 +250,37 @@
         "recJgalSFcQX7dLe6",
         "rec0tsNbxoh48H20l",
         "recP6LOBOUBRRlLnt",
-        "recKbU8dW7ri9Ihu9"
+        "recKbU8dW7ri9Ihu9",
+        "recrfw9hvh3VrHFhx"
       ]
     }
   ],
   "présentation": "Le réaménagement des bords de Loire est l’une des ambitions premières du projet urbain de l’île de Nantes. Et la transformation des berges du faubourg conclut la requalification de la rive nord de l’île.\n\n**_Assurer la continuité piétonne et cyclable des berges_**\n\nEn 2015, avant le démarrage des travaux sur les berges du faubourg, 7 km de berges ou de quais avaient déjà été réaménagés sur les 12 km du tour de l’île. Objectif : offrir une continuité piétonne et cyclable avec les aménagements déjà réalisés pour permettre de retrouver la Loire. C’est l’agence BASE paysagiste qui a hérité du projet des berges du faubourg, en coproduction avec les habitants. 90 personnes se sont engagées dans cette démarche de réflexion. Elles ont participé à travers une série de réunions pour déterminer des propositions et des réflexions sur les usages futurs des espaces aménagés.\n« Ce travail a fait émerger la volonté forte des habitants de se réapproprier le fleuve, mais aussi l’envie de retrouver des usages conviviaux sur les berges », observe le collectif qui a animé les ateliers.\n\n**_7 hectares d’espaces publics transfigurés_**\n\nLes berges du faubourg s’étendent depuis le pont Haudaudine jusqu’au pont Aristide-Briand. Ce sont plus de 7 hectares d’espaces publics pour 1 km de berges et de quais qui ont été réaménagés.\nPiétons et cyclistes peuvent ainsi circuler du parc du Crapa au parc des Chantiers sans quitter les bords du fleuve. Le projet de l’agence BASE se déploie de part et d’autre du pont du général Audibert.\n\n**_Quais Rhuys et Hoche : ambiance nature_**\n\nA l’ouest du pont du général Audibert, une attention toute particulière a été portée à la Loire et à l’existant. Une place prolongée par des gradins en béton s’avance sur le fleuve au niveau du quai Hoche. Elle se connecte à une promenade de caillebotis au bord de l’eau qui rejoint l’espace du balcon de Biesse, dédié aux loisirs (terrains de boules, jeux pour enfants, etc.), à l’est, et le quai André-Rhuys, à l’est. \n\n**_Des espaces de jeux et de rencontre pour tous les âges._**\n\nLe parvis des écoles, aménagé à l’angle des quais André-Rhuys et Hoche accueille des équipements tels que baby-foot, ping-pong et agrès sportifs. Le long de la promenade sur la berge du quai André-Rhuys, on retrouve aussi la pêcherie, singulière structure posée sur la Loire, en clin d’œil aux anciennes pêcheries de l’estuaire.\n\nCet espace de détente et de contemplation créé à l’initiative d’une démarche participative peut accueillir des événements de petit format ou des classes de plein air.\n\n\n**_Quai Doumergue : de multiples usages_**\n\nA l’est du pont du général Audibert, c’est la diversité des usages qui prime. Une guinguette s’intègre au paysage par sa large structure métallique. Accessible depuis le boulevard, le premier niveau abrite une terrasse en bois, un espace de buvette et petite restauration et des toilettes publiques. Au niveau de la berge, l’installation de grandes tables, d’établis et d’un espace de stockage permet l’organisation d’événements. \nD’autres espaces de loisirs jalonnent le quai à l’ouest de la guinguette. On retrouve des terrains destinés à la pratique du badminton ou du volley et même un skatepark. Au bord de l’eau, ce sont de grands espaces libres pour jouer, se détendre, flâner ou pique-niquer qui structurent l’espace. Enfin, à l’est, c’est un jardin partagé pour les habitants du quartier qui se déploie.\n\n**_Une circulation apaisée_**\n\nEn parallèle de l’aménagement des berges – rendues plus accessibles aux piétons, cyclistes et personnes à mobilité réduite – les travaux ont permis de repenser la circulation. Elargissement des trottoirs, limitation de vitesse et mise en sens unique de certaines voies ont contribué à apaiser les espaces de circulation.\n\n_Sources : www.iledenantes.com et www.nantes.fr pour les citations._\n\n_• L'ardepa a visité ces lieux le 06 juillet 2019, lors de l'Expédition urbaine 2019#2 - Le bien-être en ville. _\n",
-  "département": "44 Loire-Atlantique",
-  "dernière modification": "2021-10-07T14:51:10.000Z",
   "parcours": [
     {
       "id": "recit6lDBhqoxoJn9",
       "nom": "Le bien-être en ville",
-      "cover_media": [
-        "recBNHsKIkH2zYavH"
-      ],
-      "type parcours": "Expédition",
+      "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
       "status": "Publié",
       "date": "2019-07-06",
-      "sous-titre": "Expédition urbaine 2019#2",
-      "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
       "lieux": [
         "recK8aI8T01RXFgcD",
         "receDNWxTooSTCLHo",
         "recKbU8dW7ri9Ihu9"
+      ],
+      "cover_media": [
+        "recBNHsKIkH2zYavH"
       ],
       "médias": [
         "recKe5H17rMJ2ezdf",
         "recYDhDq2wZ1zWGhE",
         "recaTHLX6YXDUfkh2"
       ],
+      "type parcours": "Expédition",
+      "sous-titre": "Expédition urbaine 2019#2",
       "en une": true
     }
-  ]
+  ],
+  "département": "44 Loire-Atlantique",
+  "dernière modification": "2021-10-07T14:51:10.000Z"
 }

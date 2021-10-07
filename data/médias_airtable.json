@@ -1285,9 +1285,6 @@
   },
   "recBNHsKIkH2zYavH": {
     "id": "recBNHsKIkH2zYavH",
-    "cover_parcours": [
-      "recit6lDBhqoxoJn9"
-    ],
     "titre": "expé bien être cover",
     "fichiers": [
       {
@@ -1317,13 +1314,13 @@
         }
       }
     ],
-    "credits": "ardepa"
+    "credits": "ardepa",
+    "cover_parcours": [
+      "recit6lDBhqoxoJn9"
+    ]
   },
   "recCFVzIKggFEfzkS": {
     "id": "recCFVzIKggFEfzkS",
-    "lieux": [
-      "recKbU8dW7ri9Ihu9"
-    ],
     "titre": "berges photo",
     "fichiers": [
       {
@@ -1379,7 +1376,10 @@
         }
       }
     ],
-    "credits": "BASE / Nantes métropole"
+    "credits": "BASE / Nantes métropole",
+    "lieux": [
+      "recKbU8dW7ri9Ihu9"
+    ]
   },
   "recDmlQa40EnnG6Fu": {
     "id": "recDmlQa40EnnG6Fu",
@@ -2115,9 +2115,6 @@
   },
   "recQqeYhgDlLZK837": {
     "id": "recQqeYhgDlLZK837",
-    "lieux": [
-      "receDNWxTooSTCLHo"
-    ],
     "titre": "sports beaulieu photos",
     "fichiers": [
       {
@@ -2173,7 +2170,10 @@
         }
       }
     ],
-    "credits": "Ardepa"
+    "credits": "Ardepa",
+    "lieux": [
+      "receDNWxTooSTCLHo"
+    ]
   },
   "recR0CyEHxK24Jg9r": {
     "id": "recR0CyEHxK24Jg9r",
@@ -3018,12 +3018,12 @@
       }
     ],
     "credits": "Ardepa",
+    "lieux": [
+      "recKbU8dW7ri9Ihu9"
+    ],
     "parcours": [
       "recnSvIT9dWMKZF8x",
       "recit6lDBhqoxoJn9"
-    ],
-    "lieux": [
-      "recKbU8dW7ri9Ihu9"
     ]
   },
   "recad0uhdP8X2hbTL": {
