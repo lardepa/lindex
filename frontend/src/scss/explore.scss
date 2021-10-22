@@ -5,9 +5,11 @@
   z-index: 1900;
   width: 100vw;
   height: 100vh;
+
   //   TODO: change color when final color chosen
-  background-color: rgba($color_explorer, 0.6);
+  background-color: rgba($color_explorer, 0.8);
   .filter {
+    padding: 1rem;
     display: flex;
     width: 100%;
     height: 100%;
@@ -16,9 +18,13 @@
     flex-direction: column;
   }
   .filter-values {
+    overflow-y: auto;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     .filter-value {
-      font-size: 1.5em;
+      font-size: 1.5rem;
+      margin-bottom: 0.5rem;
     }
 
     .filter-value:hover {
