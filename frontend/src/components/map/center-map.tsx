@@ -30,9 +30,15 @@ export const CenterMap = (props: { lieux: LieuType[] }) => {
       center = [47.207562, -1.557635];
       zoom = 15;
     }
-
-    if (bounds) map.fitBounds(bounds as LatLngBoundsLiteral);
-    else map.setView(center as LatLngExpression, zoom);
+    // bounds works only if we have more than one geoloc
+    if (bounds && (bounds[0][0] !== bounds[1][0] || bounds[0][1] !== bounds[1][1])) {
+      map.fitBounds(bounds as LatLngBoundsLiteral);
+    } else {
+      // if only one poitn center on it
+      if (bounds) map.setView(bounds[0] as LatLngExpression, 23);
+      //if no point center on arbitrary center
+      else map.setView(center as LatLngExpression, zoom);
+    }
   }, [lieux, map]);
   return null;
 };

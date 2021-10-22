@@ -38,7 +38,8 @@ export const ExplorePage: React.FC<{}> = () => {
             ),
         ),
       );
-    if (lieux && filtersParams.length === 0) setFilteredLieux(lieux.filter((l) => l.geolocalisation));
+    if (lieux && filtersParams.length === 0)
+      setFilteredLieux(lieux.filter((l) => l.geolocalisation && l.geolocalisation.length === 2));
   }, [lieux, filtersParams]);
   // index possible filter options from filteredLieux
   useEffect(() => {
