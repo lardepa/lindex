@@ -21,14 +21,22 @@ export const SelectionsListPage: React.FC<{}> = () => {
             {selections?.map((s) => (
               <LinkPreview to={`/selections/${s.id}`}>
                 <div key={s.id} className="parcours-card">
-                  {s.portrait && (
+                  {/* {s.portrait && (
                     <div className="parcours-cover">
                       <Media media={s.portrait} />
                     </div>
+                  )} */}
+                  {s.portrait && s.portrait?.fichiers && (
+                    <div
+                      className="parcours-cover"
+                      style={{
+                        backgroundImage: `url(${s.portrait?.fichiers[0].thumbnails?.large?.url})`,
+                        backgroundSize: "cover",
+                      }}
+                    ></div>
                   )}
                   <div className="parcours-title">
-                    <h5>{s.invité}</h5>
-                    <h6>TODO: add profession</h6>
+                    <div className="title">{s.invité}</div>
                   </div>
                 </div>
               </LinkPreview>

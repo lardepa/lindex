@@ -1,7 +1,7 @@
 // todo : unify menu styles
 .menu-item {
   border-top: $menu_border;
-  padding: 0.5rem 1rem;
+  padding: 0.8rem 1rem 0.6rem 1rem;
   text-decoration: none;
   cursor: pointer; //some menu item are not <a>
   background-color: white;
@@ -16,6 +16,7 @@
   }
   .about-item {
     font-size: 1rem;
+    line-height: 0.5rem;
   }
 }
 

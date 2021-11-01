@@ -20,7 +20,10 @@ const NewsItem: React.FC<{ news: NewsType }> = ({ news }) => (
     <div className="rightHeader">Découvrez {headerTitle(news.type)}</div>
 
     <Media media={news.cover_media} cover />
-    <div className="title">{news.title}</div>
+    <div className="info-box">
+      <div className="title">{news.title}</div>
+      <div className="subtitle">{news.subtitle}</div>
+    </div>
   </LinkPreview>
 );
 

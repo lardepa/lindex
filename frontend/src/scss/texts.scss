@@ -3,6 +3,9 @@ body {
   color: $color_default_text;
   font-weight: bold;
 }
+a {
+  text-decoration: none;
+}
 
 @import url("https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
@@ -23,6 +26,7 @@ h4 {
 .long-text {
   font-weight: bold;
   > p > a {
+    text-decoration: underline;
     color: $color_link;
   }
 }
@@ -30,6 +34,7 @@ h4 {
 .nav-home {
   font-size: 1.5rem;
 }
-.horizontal-menu {
+.horizontal-menu,
+.vertical-menu {
   font-size: 1.25rem;
 }

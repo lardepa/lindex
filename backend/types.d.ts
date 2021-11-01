@@ -155,6 +155,7 @@ export interface NewsType {
   lastModification: Date;
   cover_media: MediaType;
   title: string;
+  subtitle?: string;
 }
 
 export interface ContenuType {

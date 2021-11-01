@@ -281,6 +281,12 @@ importAllTables().then(async (dataset) => {
   );
   saveModelOnDisk("selections", selections);
   // en une objects
+  const dateFormater = new Intl.DateTimeFormat("fr-FR", {
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
   const news: NewsType[] = sortBy(
     [
       ...(values(lieux)
@@ -291,6 +297,7 @@ importAllTables().then(async (dataset) => {
           status: l.status,
           cover_media: l.cover_media,
           title: l.nom,
+          subtitle: l.maitre_oeuvre.map((m) => m.nom).join(", "),
           lastModification: l["dernière modification"],
         })) as NewsType[]),
       ...(values(selections)
@@ -311,6 +318,7 @@ importAllTables().then(async (dataset) => {
           status: p.status,
           cover_media: p.cover_media,
           title: p.nom,
+          subtitle: dateFormater.format(new Date(p.date)),
           lastModification: p["dernière modification"],
         })) as NewsType[]),
     ],

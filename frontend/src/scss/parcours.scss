@@ -2,27 +2,39 @@
 .parcours-list {
   display: flex;
   flex-direction: column;
-  border-left: 8px black solid;
+  border-left: 1rem black solid;
   .parcours-card {
     display: flex;
     flex-direction: row;
-    border-top: 2px black solid;
+    border-top: 1px black solid;
 
     .parcours-cover {
-      width: 30%;
+      width: 25%;
+      max-height: 100%;
       flex-shrink: 0;
-      .media {
-        width: 100%;
-      }
+      // .media {
+      //   img {
+      //     object-fit: cover;
+      //   }
+      // }
     }
 
     .parcours-title {
-      font-family: $technical_font;
-      flex-shrink: 1;
-      padding: 1em;
-      min-height: 64px;
-      h5 {
-        font-weight: bold;
+      padding: 0.5em 0 0.5em 1em;
+      min-height: 50px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      .title {
+        font-size: 1.15rem;
+        line-height: 1.25rem;
+        font-weight: 700;
+      }
+      .subtitle {
+        font-family: $technical_font;
+        font-size: 1rem;
+        font-weight: lighter;
+        line-height: 1.25rem;
       }
     }
   }
