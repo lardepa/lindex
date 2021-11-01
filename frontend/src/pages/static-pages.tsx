@@ -16,7 +16,10 @@ const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }
   return (
     <div className="container-fluid">
       <div className="row full-height no-gutters">
-        <div className="col-sm-6 col-lg-4 col-xl-3 px-0 full-responsive-height overflow-auto d-flex flex-column justify-content-between">
+        <div
+          className="col-sm-6 col-lg-4 col-xl-3 px-0 overflow-auto d-flex flex-column justify-content-between"
+          id="left-menu"
+        >
           <Logo />
           <div className="presentation">Une cartographie de l'architecture en Pays de la Loire.</div>
           <div>
