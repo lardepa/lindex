@@ -43,25 +43,25 @@
   background-color: $color_grey_background !important;
 }
 .explorer.menu-item.selected {
-  background-color: $color_explorer;
+  background-color: $color_explorer_full;
 }
 .selections.menu-item.selected {
-  background-color: $color_selections;
+  background-color: $color_selections_full;
 }
 .parcours.menu-item.selected {
-  background-color: $color_parcours;
+  background-color: $color_parcours_full;
 }
 
 .explorer-hover:hover,
 .explorer.menu-item:hover {
-  background-color: $color_explorer_full;
+  background-color: $color_explorer;
 }
 
 .selections-hover:hover,
 .selections.menu-item:hover {
-  background-color: $color_selections_full;
+  background-color: $color_selections;
 }
 .parcours-hover:hover,
 .parcours.menu-item:hover {
-  background-color: $color_parcours_full;
+  background-color: $color_parcours;
 }
