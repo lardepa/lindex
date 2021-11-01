@@ -15,11 +15,11 @@ export const PageLayout: React.FC<Props> = (props) => {
   return (
     <div className="container-fluid">
       <div className="row full-height no-gutters">
-        <div className="col-sm-6 col-lg-4 col-xl-3 px-0 full-responsive-height overflow-auto d-flex flex-column justify-content-between">
+        <div className="col-md-3 col-lg-4 col-xl-3 px-0 overflow-auto d-flex flex-column justify-content-between context-menu">
           <Logo />
           {leftContent}
         </div>
-        <div className="col-sm-6 col-lg-8 col-xl-9 px-0">
+        <div className="col-md-9 col-lg-8 col-xl-9 px-0">
           <div
             className={`page-layout-grid-container ${
               gridLayoutName ? gridLayoutName : "page-layout-default-area"

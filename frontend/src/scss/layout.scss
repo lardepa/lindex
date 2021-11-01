@@ -9,7 +9,7 @@
 }
 @include media-breakpoint-down(sm) {
   .full-responsive-height {
-    height: 85vh;
+    height: 90vh;
   }
 
   #burger-menu {
@@ -33,10 +33,13 @@
   display: flex;
 }
 .logo {
-  max-height: 15vh;
+  max-height: 10vh;
+  max-width: 100%;
+  overflow: hidden;
   img {
-    max-width: 80%;
-    margin: 2rem;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 0.9em;
   }
 }
 .parcours {
@@ -63,6 +66,11 @@
 .page-layout-grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+}
+@include media-breakpoint-down(sm) {
+  .page-layout-grid-container {
+    grid-template-columns: 4fr 1fr !important;
+  }
 }
 .page-layout-default-area {
   grid-template-rows: min-content auto;

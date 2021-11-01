@@ -32,6 +32,27 @@
     grid-row: menu;
   }
 }
+@include media-breakpoint-down(md) {
+  .context-menu .vertical-menu {
+    display: none;
+  }
+}
+@include media-breakpoint-down(sm) {
+  .horizontal-menu {
+    display: none;
+  }
+  .vertical-menu {
+    display: none;
+  }
+}
+@media (max-height: 500px) {
+  .horizontal-menu {
+    display: none;
+  }
+  .vertical-menu {
+    display: none;
+  }
+}
 
 // COLORS
 .menu-item.disabled {
