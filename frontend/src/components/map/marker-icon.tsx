@@ -3,6 +3,7 @@ import { DestinationType } from "../../types";
 import equipementSVG from "./equipement.svg";
 import logementSVG from "./logement.svg";
 import espacePublicSVG from "./espace_public.svg";
+import undefinedSVG from "./undefined.svg";
 
 const DestinationSVG = (destination: DestinationType | undefined): any => {
   switch (destination) {
@@ -13,7 +14,7 @@ const DestinationSVG = (destination: DestinationType | undefined): any => {
     case "Espace public":
       return espacePublicSVG;
     default:
-      return equipementSVG;
+      return undefinedSVG;
   }
 };
 
