@@ -252,7 +252,7 @@ importAllTables().then(async (dataset) => {
       // replacing ids by foreign objects
       const p: ParcoursType = {
         ...parcoursAirtable,
-        lieux: parcoursAirtable["lieux"].map((l) => lieux[l]),
+        lieux: (parcoursAirtable["lieux"] || []).map((l) => lieux[l]),
         médias:
           parcoursAirtable["médias"] &&
           parcoursAirtable["médias"].map((m) => dataset.médias[m] as MediaType),
