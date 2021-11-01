@@ -9,7 +9,7 @@ export const MetadataField: React.FC<{ label: string; filterKey: string; value: 
   ({ label, value, filterKey, noLink }) => {
     const values: string[] = Array.isArray(value) ? value : [value];
     return (
-      <div className="field">
+      <div className={`${filterKey !== "moeuvre" ? "extra-metadata" : "main-metadata"} field`}>
         <span className="label">{label}</span>
         {values?.map((v, i) => (
           <>

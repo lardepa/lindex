@@ -15,7 +15,16 @@
       background-color: inherit;
       border-top: unset;
       font-weight: bold;
-
+      @include media-breakpoint-down(sm) {
+        .extra-metadata {
+          display: none;
+        }
+      }
+      @media (max-height: 500px) {
+        .extra-metadata {
+          display: none;
+        }
+      }
       .value {
         font-family: $default_font;
       }
