@@ -18,7 +18,7 @@ export interface FilterType {
   key: string; // used in URL to store state
   label: string; // used in UI for filter menu
   getValueFromLieu: (lieu: LieuType) => string[]; // used to index filter values
-  prefixLabel?: string; //used to render the current filter state phrase
+  prefixLabel?: (plural: boolean) => string; //used to render the current filter state phrase
   hide?: boolean;
 }
 

@@ -12,7 +12,7 @@ const FiltersStatusBar: React.FC<{ nbSelectedLieux: number }> = ({ nbSelectedLie
         {!filtersParams.find(({ filter }) => filter.key === "type") && `lieu${nbSelectedLieux > 1 ? "x" : ""}`}
       </div>
       {filtersParams.map((f) => (
-        <SelectedFilterValues key={f.filter.key} filtersParam={f} />
+        <SelectedFilterValues key={f.filter.key} filtersParam={f} plural={nbSelectedLieux > 1} />
       ))}
     </div>
   );
