@@ -27,7 +27,7 @@ export const Media: React.FC<{ media: MediaType; cover?: boolean; forceRatio?: "
             case "pdf":
               // PDF file is stored under full quality (other are thumbnail of first page)
               const ratio: number | undefined = f.thumbnails && f.thumbnails?.large.height / f.thumbnails?.large.width;
-              if (!forceRatio) forceRatio = ratio && ratio > 1 ? "force-height" : "force-width";
+              if (!forceRatio) forceRatio = ratio && ratio >= 1 ? "force-height" : "force-width";
               if (!cover)
                 return (
                   <div className={`media ${forceRatio}`}>
