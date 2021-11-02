@@ -27,6 +27,7 @@ export const ParcoursListPage: React.FC<{}> = () => {
                       style={{
                         backgroundImage: `url(${p.cover_media?.fichiers[0].thumbnails?.large?.url})`,
                         backgroundSize: "cover",
+                        backgroundPosition: "center center",
                       }}
                     ></div>
                   )}

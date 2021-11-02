@@ -32,6 +32,7 @@ export const SelectionsListPage: React.FC<{}> = () => {
                       style={{
                         backgroundImage: `url(${s.portrait?.fichiers[0].thumbnails?.large?.url})`,
                         backgroundSize: "cover",
+                        backgroundPosition: "center center",
                       }}
                     ></div>
                   )}
