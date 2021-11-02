@@ -7,6 +7,11 @@
 .full-responsive-height {
   height: 100vh;
 }
+
+.context-menu {
+  border-right: $menu-border;
+}
+
 @include media-breakpoint-down(sm) {
   .full-responsive-height {
     height: 90vh;
@@ -87,6 +92,9 @@
 }
 
 .media-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   > .media {
     max-height: 78vh;
     img {
@@ -120,6 +128,9 @@
       left: 0 !important;
     }
   }
+}
+.pdf-page {
+  border: $menu-border;
 }
 .media-container:last-child {
   margin-bottom: 0;
@@ -161,7 +172,6 @@ figure {
   .lieu-card {
     flex-shrink: 0;
     position: relative;
-    margin-left: 1rem;
     .title {
       img {
         padding-right: 0.5rem;

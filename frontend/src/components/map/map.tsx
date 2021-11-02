@@ -84,7 +84,7 @@ export const Map: React.FC<MapProps> = (props) => {
         ))}
       {itinary && (
         <Polyline
-          pathOptions={{ color: "black" }}
+          pathOptions={{ color: "black", dashArray: "0 8" }}
           positions={lieux
             .filter((lieu) => lieu.geolocalisation)
             .map((lieu) => lieu.geolocalisation as LatLngExpression)}

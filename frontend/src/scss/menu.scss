@@ -31,9 +31,12 @@
   .menu-item {
     border-top: none;
     border-bottom: $menu_border;
-    border-left: $menu_border;
+    border-right: $menu_border;
     text-align: left;
     grid-row: menu;
+  }
+  .menu-item:last-child {
+    border-right: 0;
   }
 }
 @include media-breakpoint-down(md) {

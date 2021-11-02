@@ -66,3 +66,13 @@
     "col-content main-content main-content"
     "footer footer footer";
 }
+
+.parcours-gallery {
+  display: flex;
+  .media {
+    margin-right: 1rem;
+  }
+  .media:last-child {
+    margin-right: 0;
+  }
+}

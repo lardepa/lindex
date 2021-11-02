@@ -53,7 +53,7 @@ export const ParcoursPage: React.FC<{}> = () => {
               <div className="flex-grow-2 edito" style={{ gridArea: "main-content" }}>
                 <ReactMarkdown>{parcours.édito}</ReactMarkdown>
               </div>
-              <div className="d-flex flex-row" style={{ gridArea: "footer" }}>
+              <div className="parcours-gallery" style={{ gridArea: "footer" }}>
                 {parcours?.médias?.map((m) => (
                   <Media key={m.id} media={m} />
                 ))}
