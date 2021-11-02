@@ -8,16 +8,32 @@ a {
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
-
+.presentation {
+  margin: 3rem 1rem;
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 2.15rem;
+  flex-shrink: 0;
+}
+@include media-breakpoint-down(sm) {
+  .presentation {
+    display: none;
+  }
+}
+@media (max-height: 500px) {
+  .presentation {
+    display: none;
+  }
+}
 .metadata {
   font-family: $technical_font;
 }
 
 h1 {
-  font-weight: 800;
-  font-size: 3rem;
-  line-height: 3rem;
-  margin-bottom: 5rem;
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 2rem;
+  margin-bottom: 0;
 }
 h4 {
   font-weight: bold;
@@ -25,6 +41,18 @@ h4 {
 
 .long-text {
   font-weight: bold;
+  font-size: 1.15rem;
+  line-height: 1.5rem;
+  > p > a {
+    text-decoration: underline;
+    color: $color_link;
+  }
+}
+
+.short-description {
+  font-weight: 500;
+  font-size: 1.25rem;
+  line-height: 2rem;
   > p > a {
     text-decoration: underline;
     color: $color_link;

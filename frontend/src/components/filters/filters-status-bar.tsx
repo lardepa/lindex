@@ -7,9 +7,11 @@ const FiltersStatusBar: React.FC<{ nbSelectedLieux: number }> = ({ nbSelectedLie
   const { filtersParams } = queryParamsState;
   return (
     <div className="filters-status-bar" style={{ gridArea: "status-bar" }}>
-      <div className="m-1 ">
+      <div className="my-1 ">
         {nbSelectedLieux}{" "}
-        {!filtersParams.find(({ filter }) => filter.key === "type") && `lieu${nbSelectedLieux > 1 ? "x" : ""}`}
+        {!filtersParams.find(({ filter }) => filter.key === "type") && (
+          <>{`lieu${nbSelectedLieux > 1 ? "x" : ""}`}&nbsp;</>
+        )}
       </div>
       {filtersParams.map((f) => (
         <SelectedFilterValues key={f.filter.key} filtersParam={f} plural={nbSelectedLieux > 1} />

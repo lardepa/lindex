@@ -6,6 +6,9 @@
   cursor: pointer; //some menu item are not <a>
   background-color: white;
 }
+.menu-item.related {
+  font-size: 0.875rem;
+}
 
 .vertical-menu {
   display: flex;

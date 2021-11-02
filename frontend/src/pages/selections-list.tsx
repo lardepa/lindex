@@ -16,7 +16,7 @@ export const SelectionsListPage: React.FC<{}> = () => {
       menuSelectedItem="selections"
       leftContent={
         <>
-          <div className="presentation">L'Ardepa invite des citoyens à vosu faire découvrir l'architecture.</div>
+          <div className="presentation">L'Ardepa invite des citoyens à vous faire découvrir l'architecture.</div>
           <div className="parcours-list">
             {selections?.map((s) => (
               <LinkPreview to={`/selections/${s.id}`}>

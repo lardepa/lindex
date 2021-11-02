@@ -14,16 +14,17 @@
 
     .label {
       font-family: $technical_font;
-      margin-right: 0.5em;
+      margin-right: 0.8rem;
       font-weight: normal;
       white-space: nowrap;
       // margin top to align fonts
-      margin-top: -0.3em;
+      margin-top: -0.1em;
     }
     .value {
+      font-size: 0.875rem;
       background-color: white;
-      border-radius: 1em;
-      padding: 0.3em 0.6em;
+      border-radius: 2em;
+      padding: 0.3rem 1rem 0.2rem 1rem;
       margin-right: 0.5em;
       text-decoration: none;
     }

@@ -11,7 +11,7 @@ const FilterModal: React.FC<{
     <div className="filter-modal" onClick={onClose}>
       <div className="filter">
         <h2>{filterParam.filter.label}</h2>
-        <div className="filter-values">
+        <div className="filter-values align-items-baseline">
           {options.map((v, i) => (
             <FilterValue key={i} value={v} filterParams={filterParam} selected={filterParam.values.includes(v)} />
           ))}

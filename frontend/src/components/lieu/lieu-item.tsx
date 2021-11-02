@@ -12,18 +12,18 @@ export const LieuItem: React.FC<{ lieu: LieuType; className?: string }> = ({ lie
     <img
       src={DestinationSVG(lieu.type[0]?.type_destination)}
       alt={lieu.type[0]?.type_destination || "??"}
-      style={{ width: "1.8rem" }}
+      style={{ width: "1.8rem", flexShrink: 0 }}
     />
-    <div className="d-flex flex-column mx-3">
+    <div className="d-flex flex-column ms-3" style={{ fontSize: "0.875rem", lineHeight: "1rem" }}>
       <div>
         <b>{lieu.nom}</b>,{" "}
         {lieu.type[0]?.destination && (
-          <span className="metadata" style={{ fontWeight: "normal" }}>
+          <span className="metadata" style={{ fontWeight: 700 }}>
             {lieu.type[0]?.destination}
           </span>
         )}
       </div>
-      <div>{lieu.adresse}</div>
+      <div style={{ fontWeight: "lighter" }}>{lieu.adresse}</div>
     </div>
   </LinkPreview>
 );

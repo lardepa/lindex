@@ -30,7 +30,7 @@ export const SelectionPage: React.FC<{}> = () => {
                     <LieuItem lieu={l} className="selections" />
                   ))}
                 </div>
-                <LinkPreview className="menu-item" to="/sélections">
+                <LinkPreview className="menu-item related" to="/sélections">
                   Voir les autres sélections
                 </LinkPreview>
               </div>
@@ -42,19 +42,19 @@ export const SelectionPage: React.FC<{}> = () => {
         <>
           {!loading && selection && (
             <>
-              <div style={{ gridArea: "col-content" }}>
+              <div style={{ gridArea: "col-content", marginTop: "2rem" }}>
                 {selection?.portrait && (
-                  <div className="w-100 media-container pt-3">
+                  <div className="w-100 media-container">
                     <Media media={selection?.portrait} />
                   </div>
                 )}
-                <div className="p-3">
-                  <h1 className="metadata">{selection.invité}</h1>
+                <div className="p-3 pt-4">
+                  <h1>{selection.invité}</h1>
 
-                  <ReactMarkdown>{selection?.introduction}</ReactMarkdown>
+                  <ReactMarkdown className="metadata">{selection?.introduction}</ReactMarkdown>
                 </div>
               </div>
-              <div className="long-text p-3" style={{ gridArea: "main-content" }}>
+              <div className="long-text px-3" style={{ gridArea: "main-content", marginTop: "2rem" }}>
                 <ReactMarkdown>{selection?.édito}</ReactMarkdown>
               </div>
               <div className="horizontal-carousel" style={{ gridArea: "footer" }}>

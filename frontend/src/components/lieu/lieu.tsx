@@ -33,11 +33,11 @@ export const MetadataField: React.FC<{ label: string; filterKey: string; value: 
 export const Lieu: React.FC<{ lieu: LieuType }> = ({ lieu }) => (
   <>
     {/* first 1/3 column */}
-    <div style={{ gridArea: "col-content" }} className="d-flex flex-column justify-content-between">
+    <div style={{ gridArea: "col-content", marginTop: "2rem" }} className="d-flex flex-column justify-content-between">
       <div
         // className="flex-shrink-1 flex-grow-1 flex-basis-1"
         style={{
-          padding: "2rem 1rem 3rem 1rem",
+          padding: "0.5rem 1rem",
           overflowY: "auto",
           lineHeight: "1.5rem",
           fontSize: "1.125em",
@@ -46,7 +46,7 @@ export const Lieu: React.FC<{ lieu: LieuType }> = ({ lieu }) => (
         }}
       >
         <h1>{lieu.nom}</h1>
-        <div className="long-text">
+        <div className="long-text" style={{ lineHeight: "1.45rem", fontSize: "1em" }}>
           <ReactMarkdown>{lieu.présentation}</ReactMarkdown>
         </div>
       </div>
@@ -78,7 +78,7 @@ export const Lieu: React.FC<{ lieu: LieuType }> = ({ lieu }) => (
     {/* seccond 2/3 column */}
     <div
       className="media-container"
-      style={{ gridArea: "main-content", overflowY: "auto", overflowX: "hidden", paddingTop: "1rem" }}
+      style={{ gridArea: "main-content", overflowY: "auto", overflowX: "hidden", marginTop: "2rem" }}
     >
       {lieu?.cover_media && <Media media={lieu?.cover_media} />}
       {lieu?.médias?.map((m) => (
