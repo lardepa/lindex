@@ -15,16 +15,7 @@ a {
   line-height: 2.15rem;
   flex-shrink: 0;
 }
-@include media-breakpoint-down(sm) {
-  .presentation {
-    display: none;
-  }
-}
-@media (max-height: 500px) {
-  .presentation {
-    display: none;
-  }
-}
+
 .metadata {
   font-family: $technical_font;
 }

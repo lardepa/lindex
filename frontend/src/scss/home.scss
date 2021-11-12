@@ -44,4 +44,14 @@
       display: none;
     }
   }
+  @include media-breakpoint-down(sm) {
+    .presentation {
+      display: none;
+    }
+  }
+  @media (max-height: 500px) {
+    .presentation {
+      display: none;
+    }
+  }
 }
