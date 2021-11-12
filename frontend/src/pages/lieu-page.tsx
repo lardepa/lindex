@@ -6,8 +6,9 @@ import { Lieu } from "../components/lieu/lieu";
 import { useGetOne } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
 import { LieuRelatedItems } from "../components/lieu/lieu-related-items";
+import withSize from "../components/layout/with-size";
 
-export const LieuPage: React.FC<{}> = () => {
+export const _LieuPage: React.FC<{ width: number }> = ({ width }) => {
   const { id } = useParams<{ id: string }>();
   const [lieu, loading] = useGetOne<LieuType>("lieux", id);
   return (
@@ -15,10 +16,12 @@ export const LieuPage: React.FC<{}> = () => {
       leftContent={<> {lieu && <LieuRelatedItems lieu={lieu} />}</>}
       rightContent={
         <>
-          {!loading && lieu && <Lieu lieu={lieu} />}
+          {!loading && lieu && <Lieu lieu={lieu} width={width} />}
           <Loader loading={loading} />
         </>
       }
     />
   );
 };
+
+export const LieuPage = withSize<{}>(_LieuPage);

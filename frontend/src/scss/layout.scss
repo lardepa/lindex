@@ -90,7 +90,7 @@ body::-webkit-scrollbar-thumb {
 }
 @include media-breakpoint-down(sm) {
   .page-layout-grid-container {
-    grid-template-columns: 4fr 1fr !important;
+    grid-template-columns: 1fr 0fr !important;
   }
 }
 .page-layout-default-area {

@@ -4,6 +4,10 @@ import env from "react-dotenv";
 
 const config: ConfigType = {
   DATA_URL: env.DATA_URL || process.env.PUBLIC_URL || "",
+  RESPONSIVE_BREAKPOINTS: {
+    sm: 576,
+  },
+
   MAP_LAYERS: {
     positron: {
       TILE_CREDITS:

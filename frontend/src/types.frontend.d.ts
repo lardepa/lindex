@@ -2,6 +2,9 @@ import { DestinationType, LieuType } from "./types";
 
 export interface ConfigType {
   DATA_URL: string;
+  RESPONSIVE_BREAKPOINTS: {
+    sm: number;
+  };
   COLORS: {
     DESTINATIONS: { [Property in DestinationType]: string };
   };
