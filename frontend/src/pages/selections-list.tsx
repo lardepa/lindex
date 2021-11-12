@@ -2,7 +2,6 @@ import React from "react";
 import { SelectionType } from "../types";
 import { Map } from "../components/map/map";
 import { flatten } from "lodash";
-import { Media } from "../components/media/media";
 import { PageLayout } from "../components/layout/page-layout";
 import { LinkPreview } from "../components/link-preview";
 import { useGetList } from "../hooks/useAPI";
