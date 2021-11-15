@@ -86,6 +86,29 @@
     "département": "85 Vendée",
     "dernière modification": "2021-09-29T14:50:31.000Z"
   },
+  "rec3sjAwggXRAkqGc": {
+    "id": "rec3sjAwggXRAkqGc",
+    "nom": "École publique",
+    "adresse": "3 Rue Mgr Grimault, 53800 La Selle-Craonnaise\n",
+    "status": "En rédaction",
+    "geolocalisation": "47°50'34.1\"N 1°02'40.8\"W",
+    "date": "2022",
+    "maitre_oeuvre": [
+      "recwBzoHCzFntMRgP"
+    ],
+    "maitre_ouvrage": [
+      "recTtX54KNi6dq2Oa"
+    ],
+    "périodes": [
+      "recrOfcUS3a0toY0i"
+    ],
+    "type": [
+      "recXibaj44X2ckGlM"
+    ],
+    "présentation": "Ce projet réunit les anciennes écoles dispersées dans le bourg avec l’objectif de souder les équipes pédagogiques. Dès l’appel d’offre nous avons proposé un transfert d’affectation entre plusieurs bâtiments communaux et une implantation différente de la commande initiale. En effet, nous avons trouvé plus judicieux pour les futurs usagers de créer un pôle scolaire unitaire autour des équipements sportifs, de la cantine et du périscolaire. \nCette proximité permet aussi d’exploiter les qualités paysagères du site : cheminement piétons avec le centre-bourg, topographie en terrasses, densité végétale des jardins mitoyens, et vues orientées à l’ouest. La construction bois-paille, rationnelle et tramée, offre une souplesse d’appropriation des pièces pour les innovations pédagogiques et les classes multi-niveaux. Le fonctionnement de l’école permet d’exploiter le bâtiment pour d’autres usages : la salle de motricité est pensée comme un petit gymnase accessible le week-end pour les habitants de La-Selle-Craonnaise\n\nTextes des architectes\n",
+    "département": "53 Mayenne",
+    "dernière modification": "2021-10-19T15:51:47.000Z"
+  },
   "rec4neQMuPblp8tuX": {
     "id": "rec4neQMuPblp8tuX",
     "nom": "Hôtel des entreprises innovantes \"La Licorne\"",
@@ -1306,35 +1329,35 @@
   },
   "rech0NsUFIcIJYybV": {
     "id": "rech0NsUFIcIJYybV",
-    "dernière modification": "2021-10-19T14:31:44.000Z",
     "nom": "École publique Félix Leclerc",
-    "présentation": "Après un premier projet jugé inadapté, la commune initie en 2010 une nouvelle méthode de réflexion pour travailler sur le pôle enfance. Accompagnés du cabinet Wigwam Conseil, les élus mettent en place un Processus de Conception Intégré (PCI), démarche de concertation originaire du Canada.\nPar l’appropriation collective et l’échange de savoir-faire, une aventure humaine unique débute pour créer un équipement innovant, énergétiquement performant et au coût réduit. \nRéunis en ateliers, enfants, parents d’élèves, élus, architectes, paysagistes, psychosociologue, chauffeurs de cars, cuisinier, aides maternelles et thermicien vont questionner le programme et le faire évoluer. Ils décident d’agrandir l’école de 7 à 14 classes. Les locaux existants sont réhabilités, agrandis et en partie reconvertis en accueil périscolaire et de loisirs. Un bâtiment neuf est construit pour les 7 nouvelles classes.\n\nLes architectes l’assument, il ne s’agit pas ici d’une «architecture de revue qui parle d’elle-même». \nLe projet ne se caractérise pas par des formes ou des matériaux exceptionnels, mais respecte un ancrage dans son environnement rural par son mode constructif, son volume et le soin apporté à ses espaces extérieurs.\nSous une structure métallique de type hangar agricole, l’ossature bois non porteuse laisse libre l’aménagement intérieur. Le choix de matériaux écologiques et locaux se voit dans l’emploi de la terre crue issue du site pour des cloisons intérieures (mises en place grâce à des chantiers d’insertion) ou celui d’essences de bois de l’ouest de la France.\nLe pôle enfance se distingue également par ses espaces extérieurs : coin terrasse arboré pour le repos, bacs à jardiner, sols paillés d’écorces, abords dédiés au pré-pâturage pour les vaches, parking optimisé pour être aussi piste d’athlétisme, «bosquet-ball» ou mare pédagogique.\nAu-delà de l’implication des acteurs de ce projet, il faut souligner les efforts d’une commune engagée depuis 15 ans dans une démarche de développement durable.\n\n_Textes CAUE44_\n\nApproche environnementale :\n\nL’accent a été mis sur la construction d’une école saine et économe en énergie.\nAfin d’améliorer la performance thermique et les coûts de construction, les surfaces neuves sont regroupées au maximum dans un bâtiment unique dont l’orientation est optimisée et l’isolation renforcée. La charpente métallique agit comme un parapluie et facilite, en la rendant indépendante, la réalisation de l’étanchéité à l’air de l’enveloppe. Le test à l’étanchéité à l’air a montré que celle-ci est particulièrement efficace (q4 = 0,17 m3/h/m²) et permet ainsi de diminuer les besoins en énergie. Le chauffage est assuré par une chaufferie centrale au bois plaquette élagué sur la commune, source d’énergie locale et renouvelable.\nL’ensemble de la nouvelle école ne consomme pas plus d’énergie que l’ancienne alors que la surface est plus que doublée. \nLe bâtiment neuf surpasse son objectif RT2012 de -50% et se conforme à la démarche HQE.\n\nLes murs de l’école sont construits en matériaux biosourcés : ossature bois et remplissage en terre crue. La terre offre des qualités hygrométriques et thermiques remarquables. Le réemploi de celle-ci sur le site au lieu de l’évacuer participe à la limitation des déchets générés par le chantier.\n\n_Textes Atelier Belenfant & Daubas_\n\n**Distinction : **Prix du public dans le cadre de APERÇUS 2017 – Prix départemental d’architecture, d’urbanisme et d’aménagement de Loire-Atlantique du CAUE 44.\n\n_• L'ardepa a visité ce lieu le 16 octobre 2021, lors des Journées nationales de l'Architecture (JNA 2021)._\n",
     "adresse": "22 Rue Jean Louis Maillard, 44130 Bouvron\n",
-    "département": "44 Loire-Atlantique",
+    "status": "En rédaction",
     "geolocalisation": "47.414098,-1.849267",
-    "type": [
-      "recXibaj44X2ckGlM"
-    ],
     "date": "2015",
-    "périodes": [
-      "rec0D9TkCH83ItF6j"
-    ],
     "maitre_oeuvre": [
       "recYPFreZkue5OVJn"
     ],
     "maitre_ouvrage": [
       "reckIN7QgogRWD1nk"
     ],
-    "status": "En rédaction",
-    "cover_media": [
-      "recpGldktKFCD8zqb"
+    "périodes": [
+      "rec0D9TkCH83ItF6j"
     ],
     "médias": [
       "rec1yJj2iBpKJ4MZF"
     ],
+    "cover_media": [
+      "recpGldktKFCD8zqb"
+    ],
+    "type": [
+      "recXibaj44X2ckGlM"
+    ],
     "distinctions": [
       "recU9u1vRjil6EoPo"
-    ]
+    ],
+    "présentation": "Après un premier projet jugé inadapté, la commune initie en 2010 une nouvelle méthode de réflexion pour travailler sur le pôle enfance. Accompagnés du cabinet Wigwam Conseil, les élus mettent en place un Processus de Conception Intégré (PCI), démarche de concertation originaire du Canada.\nPar l’appropriation collective et l’échange de savoir-faire, une aventure humaine unique débute pour créer un équipement innovant, énergétiquement performant et au coût réduit. \nRéunis en ateliers, enfants, parents d’élèves, élus, architectes, paysagistes, psychosociologue, chauffeurs de cars, cuisinier, aides maternelles et thermicien vont questionner le programme et le faire évoluer. Ils décident d’agrandir l’école de 7 à 14 classes. Les locaux existants sont réhabilités, agrandis et en partie reconvertis en accueil périscolaire et de loisirs. Un bâtiment neuf est construit pour les 7 nouvelles classes.\n\nLes architectes l’assument, il ne s’agit pas ici d’une «architecture de revue qui parle d’elle-même». \nLe projet ne se caractérise pas par des formes ou des matériaux exceptionnels, mais respecte un ancrage dans son environnement rural par son mode constructif, son volume et le soin apporté à ses espaces extérieurs.\nSous une structure métallique de type hangar agricole, l’ossature bois non porteuse laisse libre l’aménagement intérieur. Le choix de matériaux écologiques et locaux se voit dans l’emploi de la terre crue issue du site pour des cloisons intérieures (mises en place grâce à des chantiers d’insertion) ou celui d’essences de bois de l’ouest de la France.\nLe pôle enfance se distingue également par ses espaces extérieurs : coin terrasse arboré pour le repos, bacs à jardiner, sols paillés d’écorces, abords dédiés au pré-pâturage pour les vaches, parking optimisé pour être aussi piste d’athlétisme, «bosquet-ball» ou mare pédagogique.\nAu-delà de l’implication des acteurs de ce projet, il faut souligner les efforts d’une commune engagée depuis 15 ans dans une démarche de développement durable.\n\n_Textes CAUE44_\n\nApproche environnementale :\n\nL’accent a été mis sur la construction d’une école saine et économe en énergie.\nAfin d’améliorer la performance thermique et les coûts de construction, les surfaces neuves sont regroupées au maximum dans un bâtiment unique dont l’orientation est optimisée et l’isolation renforcée. La charpente métallique agit comme un parapluie et facilite, en la rendant indépendante, la réalisation de l’étanchéité à l’air de l’enveloppe. Le test à l’étanchéité à l’air a montré que celle-ci est particulièrement efficace (q4 = 0,17 m3/h/m²) et permet ainsi de diminuer les besoins en énergie. Le chauffage est assuré par une chaufferie centrale au bois plaquette élagué sur la commune, source d’énergie locale et renouvelable.\nL’ensemble de la nouvelle école ne consomme pas plus d’énergie que l’ancienne alors que la surface est plus que doublée. \nLe bâtiment neuf surpasse son objectif RT2012 de -50% et se conforme à la démarche HQE.\n\nLes murs de l’école sont construits en matériaux biosourcés : ossature bois et remplissage en terre crue. La terre offre des qualités hygrométriques et thermiques remarquables. Le réemploi de celle-ci sur le site au lieu de l’évacuer participe à la limitation des déchets générés par le chantier.\n\n_Textes Atelier Belenfant & Daubas_\n\n**Distinction : **Prix du public dans le cadre de APERÇUS 2017 – Prix départemental d’architecture, d’urbanisme et d’aménagement de Loire-Atlantique du CAUE 44.\n\n_• L'ardepa a visité ce lieu le 16 octobre 2021, lors des Journées nationales de l'Architecture (JNA 2021)._\n",
+    "département": "44 Loire-Atlantique",
+    "dernière modification": "2021-10-19T14:31:44.000Z"
   },
   "rechFw6KIHy4PVSUb": {
     "id": "rechFw6KIHy4PVSUb",
@@ -1439,7 +1462,33 @@
     "dernière modification": "2021-09-28T06:47:46.000Z"
   },
   "reclKHqSQhv9rHQQ4": {
-    "id": "reclKHqSQhv9rHQQ4"
+    "id": "reclKHqSQhv9rHQQ4",
+    "nom": "Restaurant scolaire ",
+    "adresse": "Rue de l'étang, Saint-Aignan-sur-Roë\n",
+    "status": "En rédaction",
+    "geolocalisation": "47.839423,-1.13861",
+    "date": "2021",
+    "maitre_oeuvre": [
+      "recwBzoHCzFntMRgP"
+    ],
+    "maitre_ouvrage": [
+      "recLTWxSLGEYBt13U"
+    ],
+    "périodes": [
+      "recrOfcUS3a0toY0i"
+    ],
+    "médias": [
+      "recEnIacsxMHVrRNT"
+    ],
+    "cover_media": [
+      "recdg3bF0hat9GJN5"
+    ],
+    "type": [
+      "recM2x4CsmriRyDpt"
+    ],
+    "présentation": "Saint-Aignan-sur-Roë est une commune rurale de 900 habitants représentative de l’étalement pavillonnaire. En contre point de cet échec national, la commune reste attractive et vivante grâce à un réseau de commerces et de services.\nEn 2014, la nouvelle équipe municipale s’interroge sur une emprise non bâtie en cœur de bourg : l’ancien champ de foire devenu terrain de football. Conscients du manque d’ingénierie en interne, la commune lance une consultation d’architectes pour faire face au défi énergétique et social qui s’impose.\nComme souvent, malgré un manque cruel de moyens, l’engagement et l’envie de ces élus font des communes rurales un terrain propice pour mener des projets inventifs et ambitieux.\nL’atelier Huitorel & Morais s’engage dans cette démarche pour réfléchir globalement en mobilisant les habitants et en privilégiant les ressources locales. Selon nous, une architecture résiliente prend forme dans un processus qui mobilise activement les usagers et l’économie du territoire.\n\nSi la mairie de Saint-Aignan-sur-Roë n’a pas l’habitude de conduire des projets d’équipement public, elle est soucieuse de bien faire et d’offrir un cadre confortable aux enfants et au personnel du restaurant scolaire. Conscient qu’il n’a pas les compétences pour mener un tel projet, Mr le maire fait appel à la DDT et au GAL sud Mayenne (organisme public conseil en énergie) pour l’épauler et le conseiller dans ses démarches. Cela s’avère déterminant puisque la mission se décomposent en 3 moments clés :\n\n\\- Un diagnostic actions dans lequel les qualités existantes sont mises en réseau.\n\\- Un plan guide OAP qui définit la stratégie urbaine à 20 ans autour d’un mail paysager.\n\\- Un 1er bâtiment qui concrétise l’étude et enclenche un processus de transformation.\n\n​En collaboration avec les paysagistes Bassinet Turquin, l’opportunité de réfléchir à plusieurs échelles constitue pour nous une des conditions pour produire une architecture vertueuse et ancrée dans son territoire.\nPour nous, l’implication des habitants est déterminante dans la conception du restaurant scolaire. Dès le diagnostic, les balades urbaines et les réunions publiques que nous avons initiées ont permis de reformuler la commande et de préciser le programme.\nAinsi, la répartition des équipements publics dans la commune est bousculée au profit d’une plus grande cohérence (parcours, énergie, stationnement, etc.) Concrètement, cela se traduit dans le plan guide, par le déplacement de la mairie dans un nouveau bâtiment et le transfert de l’école de musique et du périscolaire dans la mairie actuelle.\nDans cette même logique, à l’échelle du restaurant scolaire, une réflexion plus générale est menée sur l’urbanisme nourricier et l’alimentation. Depuis la cantine, les enfants aperçoivent les citernes de récupération des eaux, dont la matérialité renvoi à celle du bâtiment, et le potager de l’école en relation avec les nouveaux vergers plantés et la mare pédagogique créée au bord du ruisseau.\n​Ce bâtiment bioclimatique est conçu comme une grande couverture qui répond à l’échelle du mail paysager. A l’intérieur, elle définit des volumes généreux et cadre des vues sur le paysage pour les enfants. Ce sont bien le confort des usagers et une souplesse d’occupation qui sont ici recherchés.\nL’arrivée d’une centaine d’enfants fait rapidement augmenter la température.\nAvec l’appui du bureau d’étude THALEM, le choix de la paille permet un déphasage thermique qui absorbe cette surchauffe et la restitue en soirée pour permettre d’autres usages.\nElle est mise en œuvre en atelier dans des caissons préfabriqués qui s’associent à la structure en bois issue de matériaux biosourcés en circuit court.\nEn contrepoint de la conception low-tech du bâtiment, les panneaux photovoltaïques couvrent les besoins de la cantine, passive, ainsi que ceux de la future mairie.\nNous avons fait le choix que l’aspect du bâtiment exprime ces qualités, comme le reflet du projet de société porté par les habitants.\n​Si la prise de conscience d’un changement semble partagée par tous, son application est plus difficile. La transition vers une architecture décarbonée accessible pour tous se heurte encore aux fabricants qui participent à rédiger les réglementations et induisent les coûts de construction. L’enthousiasme du conseil municipal de Saint-Aignan-sur-Roë a permis la réalisation de ce projet d’intérêt général qui dépasse la seule question de la performance thermique pour tracer un sillon vertueux.\nAvec la modestie qu’un architecte doit porter, la construction de la cantine intègre le temps long. Elle est conçue d’abord pour les enfants, citoyens de demain. Ce projet vise à déclencher une dynamique où la qualité de la commande publique doit donner envie et démocratiser certains procédés pour la rendre accessible à la commande privée.\n\nTextes des architectes\n",
+    "département": "53 Mayenne",
+    "dernière modification": "2021-10-19T15:39:37.000Z"
   },
   "recloEgKAuO4WjR2r": {
     "id": "recloEgKAuO4WjR2r",

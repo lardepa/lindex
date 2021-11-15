@@ -243,7 +243,9 @@
             "recRlloApjtcScitR",
             "recXrmOzavWvTwx9T",
             "recahyhau12Ghaztg",
-            "recT5ti90aD2NTdCN"
+            "recT5ti90aD2NTdCN",
+            "reclKHqSQhv9rHQQ4",
+            "rec3sjAwggXRAkqGc"
           ]
         }
       ],
@@ -602,7 +604,9 @@
             "rec01yhWP2aoRq5jj",
             "recigl83FpciTgaw8",
             "receDNWxTooSTCLHo",
-            "recKbU8dW7ri9Ihu9"
+            "recKbU8dW7ri9Ihu9",
+            "recrfw9hvh3VrHFhx",
+            "rech0NsUFIcIJYybV"
           ]
         }
       ],
@@ -864,12 +868,12 @@
         }
       ],
       "credits": "Ardepa",
+      "lieux": [
+        "recKbU8dW7ri9Ihu9"
+      ],
       "parcours": [
         "recnSvIT9dWMKZF8x",
         "recit6lDBhqoxoJn9"
-      ],
-      "lieux": [
-        "recKbU8dW7ri9Ihu9"
       ]
     }
   ],

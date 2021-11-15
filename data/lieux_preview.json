@@ -707,6 +707,65 @@
     "geolocalisation": null
   },
   {
+    "id": "rec3sjAwggXRAkqGc",
+    "nom": "École publique",
+    "adresse": "3 Rue Mgr Grimault, 53800 La Selle-Craonnaise\n",
+    "status": "En rédaction",
+    "geolocalisation": [
+      47
+    ],
+    "date": "2022",
+    "maitre_oeuvre": [
+      {
+        "id": "recwBzoHCzFntMRgP",
+        "nom": "Atelier Huitorel et Morais",
+        "maitre_oeuvre": [
+          "reclKHqSQhv9rHQQ4",
+          "rec3sjAwggXRAkqGc"
+        ]
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recTtX54KNi6dq2Oa",
+        "nom": "Commune de la Selle Craonnaise",
+        "maitre_ouvrage": [
+          "rec3sjAwggXRAkqGc"
+        ]
+      }
+    ],
+    "périodes": [
+      {
+        "id": "recrOfcUS3a0toY0i",
+        "nom": "années 2020",
+        "lieux": [
+          "recTr9BzAt1jG9yaJ",
+          "recRlloApjtcScitR",
+          "recXrmOzavWvTwx9T",
+          "recahyhau12Ghaztg",
+          "recT5ti90aD2NTdCN",
+          "reclKHqSQhv9rHQQ4",
+          "rec3sjAwggXRAkqGc"
+        ]
+      }
+    ],
+    "type": [
+      {
+        "id": "recXibaj44X2ckGlM",
+        "destination": "École",
+        "type_destination": "Équipement",
+        "lieux": [
+          "rechtsQSNXyvtp75c",
+          "rech0NsUFIcIJYybV",
+          "rec3sjAwggXRAkqGc"
+        ]
+      }
+    ],
+    "présentation": "Ce projet réunit les anciennes écoles dispersées dans le bourg avec l’objectif de souder les équipes pédagogiques. Dès l’appel d’offre nous avons proposé un transfert d’affectation entre plusieurs bâtiments communaux et une implantation différente de la commande initiale. En effet, nous avons trouvé plus judicieux pour les futurs usagers de créer un pôle scolaire unitaire autour des équipements sportifs, de la cantine et du périscolaire. \nCette proximité permet aussi d’exploiter les qualités paysagères du site : cheminement piétons avec le centre-bourg, topographie en terrasses, densité végétale des jardins mitoyens, et vues orientées à l’ouest. La construction bois-paille, rationnelle et tramée, offre une souplesse d’appropriation des pièces pour les innovations pédagogiques et les classes multi-niveaux. Le fonctionnement de l’école permet d’exploiter le bâtiment pour d’autres usages : la salle de motricité est pensée comme un petit gymnase accessible le week-end pour les habitants de La-Selle-Craonnaise\n\nTextes des architectes\n",
+    "département": "53 Mayenne",
+    "dernière modification": "2021-10-19T15:51:47.000Z"
+  },
+  {
     "id": "rec4neQMuPblp8tuX",
     "nom": "Hôtel des entreprises innovantes \"La Licorne\"",
     "adresse": "106 avenue Pierre de Couvertin 53130 Laval\n",
@@ -5552,7 +5611,9 @@
           "recRlloApjtcScitR",
           "recXrmOzavWvTwx9T",
           "recahyhau12Ghaztg",
-          "recT5ti90aD2NTdCN"
+          "recT5ti90aD2NTdCN",
+          "reclKHqSQhv9rHQQ4",
+          "rec3sjAwggXRAkqGc"
         ]
       }
     ],
@@ -5758,7 +5819,9 @@
           "recRlloApjtcScitR",
           "recXrmOzavWvTwx9T",
           "recahyhau12Ghaztg",
-          "recT5ti90aD2NTdCN"
+          "recT5ti90aD2NTdCN",
+          "reclKHqSQhv9rHQQ4",
+          "rec3sjAwggXRAkqGc"
         ]
       }
     ],
@@ -6259,7 +6322,9 @@
           "recRlloApjtcScitR",
           "recXrmOzavWvTwx9T",
           "recahyhau12Ghaztg",
-          "recT5ti90aD2NTdCN"
+          "recT5ti90aD2NTdCN",
+          "reclKHqSQhv9rHQQ4",
+          "rec3sjAwggXRAkqGc"
         ]
       }
     ],
@@ -7266,7 +7331,9 @@
           "recRlloApjtcScitR",
           "recXrmOzavWvTwx9T",
           "recahyhau12Ghaztg",
-          "recT5ti90aD2NTdCN"
+          "recT5ti90aD2NTdCN",
+          "reclKHqSQhv9rHQQ4",
+          "rec3sjAwggXRAkqGc"
         ]
       }
     ],
@@ -7801,7 +7868,9 @@
           "recRlloApjtcScitR",
           "recXrmOzavWvTwx9T",
           "recahyhau12Ghaztg",
-          "recT5ti90aD2NTdCN"
+          "recT5ti90aD2NTdCN",
+          "reclKHqSQhv9rHQQ4",
+          "rec3sjAwggXRAkqGc"
         ]
       }
     ],
@@ -9215,27 +9284,33 @@
   },
   {
     "id": "rech0NsUFIcIJYybV",
-    "dernière modification": "2021-10-19T14:31:44.000Z",
     "nom": "École publique Félix Leclerc",
-    "présentation": "Après un premier projet jugé inadapté, la commune initie en 2010 une nouvelle méthode de réflexion pour travailler sur le pôle enfance. Accompagnés du cabinet Wigwam Conseil, les élus mettent en place un Processus de Conception Intégré (PCI), démarche de concertation originaire du Canada.\nPar l’appropriation collective et l’échange de savoir-faire, une aventure humaine unique débute pour créer un équipement innovant, énergétiquement performant et au coût réduit. \nRéunis en ateliers, enfants, parents d’élèves, élus, architectes, paysagistes, psychosociologue, chauffeurs de cars, cuisinier, aides maternelles et thermicien vont questionner le programme et le faire évoluer. Ils décident d’agrandir l’école de 7 à 14 classes. Les locaux existants sont réhabilités, agrandis et en partie reconvertis en accueil périscolaire et de loisirs. Un bâtiment neuf est construit pour les 7 nouvelles classes.\n\nLes architectes l’assument, il ne s’agit pas ici d’une «architecture de revue qui parle d’elle-même». \nLe projet ne se caractérise pas par des formes ou des matériaux exceptionnels, mais respecte un ancrage dans son environnement rural par son mode constructif, son volume et le soin apporté à ses espaces extérieurs.\nSous une structure métallique de type hangar agricole, l’ossature bois non porteuse laisse libre l’aménagement intérieur. Le choix de matériaux écologiques et locaux se voit dans l’emploi de la terre crue issue du site pour des cloisons intérieures (mises en place grâce à des chantiers d’insertion) ou celui d’essences de bois de l’ouest de la France.\nLe pôle enfance se distingue également par ses espaces extérieurs : coin terrasse arboré pour le repos, bacs à jardiner, sols paillés d’écorces, abords dédiés au pré-pâturage pour les vaches, parking optimisé pour être aussi piste d’athlétisme, «bosquet-ball» ou mare pédagogique.\nAu-delà de l’implication des acteurs de ce projet, il faut souligner les efforts d’une commune engagée depuis 15 ans dans une démarche de développement durable.\n\n_Textes CAUE44_\n\nApproche environnementale :\n\nL’accent a été mis sur la construction d’une école saine et économe en énergie.\nAfin d’améliorer la performance thermique et les coûts de construction, les surfaces neuves sont regroupées au maximum dans un bâtiment unique dont l’orientation est optimisée et l’isolation renforcée. La charpente métallique agit comme un parapluie et facilite, en la rendant indépendante, la réalisation de l’étanchéité à l’air de l’enveloppe. Le test à l’étanchéité à l’air a montré que celle-ci est particulièrement efficace (q4 = 0,17 m3/h/m²) et permet ainsi de diminuer les besoins en énergie. Le chauffage est assuré par une chaufferie centrale au bois plaquette élagué sur la commune, source d’énergie locale et renouvelable.\nL’ensemble de la nouvelle école ne consomme pas plus d’énergie que l’ancienne alors que la surface est plus que doublée. \nLe bâtiment neuf surpasse son objectif RT2012 de -50% et se conforme à la démarche HQE.\n\nLes murs de l’école sont construits en matériaux biosourcés : ossature bois et remplissage en terre crue. La terre offre des qualités hygrométriques et thermiques remarquables. Le réemploi de celle-ci sur le site au lieu de l’évacuer participe à la limitation des déchets générés par le chantier.\n\n_Textes Atelier Belenfant & Daubas_\n\n**Distinction : **Prix du public dans le cadre de APERÇUS 2017 – Prix départemental d’architecture, d’urbanisme et d’aménagement de Loire-Atlantique du CAUE 44.\n\n_• L'ardepa a visité ce lieu le 16 octobre 2021, lors des Journées nationales de l'Architecture (JNA 2021)._\n",
     "adresse": "22 Rue Jean Louis Maillard, 44130 Bouvron\n",
-    "département": "44 Loire-Atlantique",
+    "status": "En rédaction",
     "geolocalisation": [
       47.414098,
       -1.849267
     ],
-    "type": [
+    "date": "2015",
+    "maitre_oeuvre": [
       {
-        "id": "recXibaj44X2ckGlM",
-        "destination": "École",
-        "type_destination": "Équipement",
-        "lieux": [
-          "rechtsQSNXyvtp75c",
+        "id": "recYPFreZkue5OVJn",
+        "nom": "Atelier Belenfant Daubas",
+        "site_web": "https://www.atelierbelenfantdaubas.org/",
+        "maitre_oeuvre": [
           "rech0NsUFIcIJYybV"
         ]
       }
     ],
-    "date": "2015",
+    "maitre_ouvrage": [
+      {
+        "id": "reckIN7QgogRWD1nk",
+        "nom": "Ville de Bouvron (44)",
+        "maitre_ouvrage": [
+          "rech0NsUFIcIJYybV"
+        ]
+      }
+    ],
     "périodes": [
       {
         "id": "rec0D9TkCH83ItF6j",
@@ -9295,31 +9370,39 @@
         ]
       }
     ],
-    "maitre_oeuvre": [
+    "médias": [
       {
-        "id": "recYPFreZkue5OVJn",
-        "maitre_oeuvre": [
-          "rech0NsUFIcIJYybV"
+        "id": "rec1yJj2iBpKJ4MZF",
+        "titre": "bouvron plaquette",
+        "fichiers": [
+          {
+            "id": "attA2y8YEoivd7n5O",
+            "url": "https://dl.airtable.com/.attachments/3e65f7f3ac743439e99c78bcc81d57b2/35c434e5/plaquetteBOUVRON.pdf",
+            "filename": "plaquetteBOUVRON.pdf",
+            "size": 1042100,
+            "type": "application/pdf",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8a29d6404fdc56ae9f327068a9781e75/56c13734",
+                "width": 26,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a7f07b7cfdf8d9b7970c27cb75226512/149e29db",
+                "width": 365,
+                "height": 512
+              }
+            }
+          }
         ],
-        "nom": "Atelier Belenfant Daubas",
-        "site_web": "https://www.atelierbelenfantdaubas.org/"
-      }
-    ],
-    "maitre_ouvrage": [
-      {
-        "id": "reckIN7QgogRWD1nk",
-        "nom": "Ville de Bouvron (44)",
-        "maitre_ouvrage": [
+        "credits": "Ardepa / Belenfant-Daubas",
+        "lieux": [
           "rech0NsUFIcIJYybV"
         ]
       }
     ],
-    "status": "En rédaction",
     "cover_media": {
       "id": "recpGldktKFCD8zqb",
-      "cover_lieux": [
-        "rech0NsUFIcIJYybV"
-      ],
       "titre": "bouvron couverture",
       "fichiers": [
         {
@@ -9349,48 +9432,35 @@
           }
         }
       ],
-      "credits": "Ardepa"
+      "credits": "Ardepa",
+      "cover_lieux": [
+        "rech0NsUFIcIJYybV"
+      ]
     },
-    "médias": [
+    "type": [
       {
-        "id": "rec1yJj2iBpKJ4MZF",
+        "id": "recXibaj44X2ckGlM",
+        "destination": "École",
+        "type_destination": "Équipement",
         "lieux": [
-          "rech0NsUFIcIJYybV"
-        ],
-        "titre": "bouvron plaquette",
-        "fichiers": [
-          {
-            "id": "attA2y8YEoivd7n5O",
-            "url": "https://dl.airtable.com/.attachments/3e65f7f3ac743439e99c78bcc81d57b2/35c434e5/plaquetteBOUVRON.pdf",
-            "filename": "plaquetteBOUVRON.pdf",
-            "size": 1042100,
-            "type": "application/pdf",
-            "thumbnails": {
-              "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/8a29d6404fdc56ae9f327068a9781e75/56c13734",
-                "width": 26,
-                "height": 36
-              },
-              "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/a7f07b7cfdf8d9b7970c27cb75226512/149e29db",
-                "width": 365,
-                "height": 512
-              }
-            }
-          }
-        ],
-        "credits": "Ardepa / Belenfant-Daubas"
+          "rechtsQSNXyvtp75c",
+          "rech0NsUFIcIJYybV",
+          "rec3sjAwggXRAkqGc"
+        ]
       }
     ],
     "distinctions": [
       {
         "id": "recU9u1vRjil6EoPo",
+        "nom": "Prix Aperçu Loire Atlantique (44)",
         "lieux": [
           "rech0NsUFIcIJYybV"
-        ],
-        "nom": "Prix Aperçu Loire Atlantique (44)"
+        ]
       }
-    ]
+    ],
+    "présentation": "Après un premier projet jugé inadapté, la commune initie en 2010 une nouvelle méthode de réflexion pour travailler sur le pôle enfance. Accompagnés du cabinet Wigwam Conseil, les élus mettent en place un Processus de Conception Intégré (PCI), démarche de concertation originaire du Canada.\nPar l’appropriation collective et l’échange de savoir-faire, une aventure humaine unique débute pour créer un équipement innovant, énergétiquement performant et au coût réduit. \nRéunis en ateliers, enfants, parents d’élèves, élus, architectes, paysagistes, psychosociologue, chauffeurs de cars, cuisinier, aides maternelles et thermicien vont questionner le programme et le faire évoluer. Ils décident d’agrandir l’école de 7 à 14 classes. Les locaux existants sont réhabilités, agrandis et en partie reconvertis en accueil périscolaire et de loisirs. Un bâtiment neuf est construit pour les 7 nouvelles classes.\n\nLes architectes l’assument, il ne s’agit pas ici d’une «architecture de revue qui parle d’elle-même». \nLe projet ne se caractérise pas par des formes ou des matériaux exceptionnels, mais respecte un ancrage dans son environnement rural par son mode constructif, son volume et le soin apporté à ses espaces extérieurs.\nSous une structure métallique de type hangar agricole, l’ossature bois non porteuse laisse libre l’aménagement intérieur. Le choix de matériaux écologiques et locaux se voit dans l’emploi de la terre crue issue du site pour des cloisons intérieures (mises en place grâce à des chantiers d’insertion) ou celui d’essences de bois de l’ouest de la France.\nLe pôle enfance se distingue également par ses espaces extérieurs : coin terrasse arboré pour le repos, bacs à jardiner, sols paillés d’écorces, abords dédiés au pré-pâturage pour les vaches, parking optimisé pour être aussi piste d’athlétisme, «bosquet-ball» ou mare pédagogique.\nAu-delà de l’implication des acteurs de ce projet, il faut souligner les efforts d’une commune engagée depuis 15 ans dans une démarche de développement durable.\n\n_Textes CAUE44_\n\nApproche environnementale :\n\nL’accent a été mis sur la construction d’une école saine et économe en énergie.\nAfin d’améliorer la performance thermique et les coûts de construction, les surfaces neuves sont regroupées au maximum dans un bâtiment unique dont l’orientation est optimisée et l’isolation renforcée. La charpente métallique agit comme un parapluie et facilite, en la rendant indépendante, la réalisation de l’étanchéité à l’air de l’enveloppe. Le test à l’étanchéité à l’air a montré que celle-ci est particulièrement efficace (q4 = 0,17 m3/h/m²) et permet ainsi de diminuer les besoins en énergie. Le chauffage est assuré par une chaufferie centrale au bois plaquette élagué sur la commune, source d’énergie locale et renouvelable.\nL’ensemble de la nouvelle école ne consomme pas plus d’énergie que l’ancienne alors que la surface est plus que doublée. \nLe bâtiment neuf surpasse son objectif RT2012 de -50% et se conforme à la démarche HQE.\n\nLes murs de l’école sont construits en matériaux biosourcés : ossature bois et remplissage en terre crue. La terre offre des qualités hygrométriques et thermiques remarquables. Le réemploi de celle-ci sur le site au lieu de l’évacuer participe à la limitation des déchets générés par le chantier.\n\n_Textes Atelier Belenfant & Daubas_\n\n**Distinction : **Prix du public dans le cadre de APERÇUS 2017 – Prix départemental d’architecture, d’urbanisme et d’aménagement de Loire-Atlantique du CAUE 44.\n\n_• L'ardepa a visité ce lieu le 16 octobre 2021, lors des Journées nationales de l'Architecture (JNA 2021)._\n",
+    "département": "44 Loire-Atlantique",
+    "dernière modification": "2021-10-19T14:31:44.000Z"
   },
   {
     "id": "rechFw6KIHy4PVSUb",
@@ -9627,7 +9697,8 @@
         "type_destination": "Équipement",
         "lieux": [
           "rechtsQSNXyvtp75c",
-          "rech0NsUFIcIJYybV"
+          "rech0NsUFIcIJYybV",
+          "rec3sjAwggXRAkqGc"
         ]
       },
       {
@@ -9927,8 +9998,186 @@
   },
   {
     "id": "reclKHqSQhv9rHQQ4",
-    "geolocalisation": null,
-    "type": []
+    "nom": "Restaurant scolaire ",
+    "adresse": "Rue de l'étang, Saint-Aignan-sur-Roë\n",
+    "status": "En rédaction",
+    "geolocalisation": [
+      47.839423,
+      -1.13861
+    ],
+    "date": "2021",
+    "maitre_oeuvre": [
+      {
+        "id": "recwBzoHCzFntMRgP",
+        "nom": "Atelier Huitorel et Morais",
+        "maitre_oeuvre": [
+          "reclKHqSQhv9rHQQ4",
+          "rec3sjAwggXRAkqGc"
+        ]
+      }
+    ],
+    "maitre_ouvrage": [
+      {
+        "id": "recLTWxSLGEYBt13U",
+        "nom": "Commune de Saint-Aignan-sur-Roë",
+        "maitre_ouvrage": [
+          "reclKHqSQhv9rHQQ4"
+        ]
+      }
+    ],
+    "périodes": [
+      {
+        "id": "recrOfcUS3a0toY0i",
+        "nom": "années 2020",
+        "lieux": [
+          "recTr9BzAt1jG9yaJ",
+          "recRlloApjtcScitR",
+          "recXrmOzavWvTwx9T",
+          "recahyhau12Ghaztg",
+          "recT5ti90aD2NTdCN",
+          "reclKHqSQhv9rHQQ4",
+          "rec3sjAwggXRAkqGc"
+        ]
+      }
+    ],
+    "médias": [
+      {
+        "id": "recEnIacsxMHVrRNT",
+        "titre": "photos",
+        "fichiers": [
+          {
+            "id": "attugBPprnUZVhKSq",
+            "width": 4032,
+            "height": 2268,
+            "url": "https://dl.airtable.com/.attachments/87ff8661602328a341e53c7fcbd9b715/0066473c/20211016_152116.jpg",
+            "filename": "20211016_152116.jpg",
+            "size": 3138355,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8ef7447bae5c83bb2a12c3b0e6af0ff2/351d4326",
+                "width": 64,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b3dea37e561da0bbba93e9f28cfbe232/5560f00f",
+                "width": 910,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/08f9983b1999b48c2319724bc151e123/eb48d30c",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attfjljf4O9c7yv8R",
+            "width": 4032,
+            "height": 2268,
+            "url": "https://dl.airtable.com/.attachments/f402c6a27b7798c2edb466d78d9ecfa1/05c3acb7/20211016_154843.jpg",
+            "filename": "20211016_154843.jpg",
+            "size": 2250641,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/10c76cc1bdf8e57f9a9e51416a249402/164709f1",
+                "width": 64,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f61f0b4255e1d47dd0c66813c895f3b7/39283eee",
+                "width": 910,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c42dfd7dee63a63d577748ba575f48aa/9bbb883a",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          },
+          {
+            "id": "attN8P41HlYAazziU",
+            "width": 4032,
+            "height": 2268,
+            "url": "https://dl.airtable.com/.attachments/58051934560d688f9bcae5a0c8fa10af/adde7e63/20211016_153452.jpg",
+            "filename": "20211016_153452.jpg",
+            "size": 2018282,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/74e79f3b727a81dcda548d3b612cbd7d/5d5b5356",
+                "width": 20,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/63eed306ffae1bfabfb4a7157307be49/dc26f285",
+                "width": 512,
+                "height": 910
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c752c6358d5146bf00ece2db0691548f/2c80cd13",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "credits": "Ardepa",
+        "lieux": [
+          "reclKHqSQhv9rHQQ4"
+        ]
+      }
+    ],
+    "cover_media": {
+      "id": "recdg3bF0hat9GJN5",
+      "titre": "Cantine cover",
+      "fichiers": [
+        {
+          "id": "attM0dBkXMkdR9vto",
+          "width": 4032,
+          "height": 2268,
+          "url": "https://dl.airtable.com/.attachments/dc8fdac70194ba1e03c7695d8e95096d/8c27e4d4/20211016_154936.jpg",
+          "filename": "20211016_154936.jpg",
+          "size": 3294857,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ed64a2780b4740acdb32888a769966a1/a006901f",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3f251c551f57dfddf91ea5df1ee9a663/235b051c",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f58abab4a7208f1e2515bb720fa8e886/8525a51d",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Ardepa",
+      "cover_lieux": [
+        "reclKHqSQhv9rHQQ4"
+      ]
+    },
+    "type": [
+      {
+        "id": "recM2x4CsmriRyDpt",
+        "destination": "Restaurant scolaire",
+        "lieux": [
+          "reclKHqSQhv9rHQQ4"
+        ]
+      }
+    ],
+    "présentation": "Saint-Aignan-sur-Roë est une commune rurale de 900 habitants représentative de l’étalement pavillonnaire. En contre point de cet échec national, la commune reste attractive et vivante grâce à un réseau de commerces et de services.\nEn 2014, la nouvelle équipe municipale s’interroge sur une emprise non bâtie en cœur de bourg : l’ancien champ de foire devenu terrain de football. Conscients du manque d’ingénierie en interne, la commune lance une consultation d’architectes pour faire face au défi énergétique et social qui s’impose.\nComme souvent, malgré un manque cruel de moyens, l’engagement et l’envie de ces élus font des communes rurales un terrain propice pour mener des projets inventifs et ambitieux.\nL’atelier Huitorel & Morais s’engage dans cette démarche pour réfléchir globalement en mobilisant les habitants et en privilégiant les ressources locales. Selon nous, une architecture résiliente prend forme dans un processus qui mobilise activement les usagers et l’économie du territoire.\n\nSi la mairie de Saint-Aignan-sur-Roë n’a pas l’habitude de conduire des projets d’équipement public, elle est soucieuse de bien faire et d’offrir un cadre confortable aux enfants et au personnel du restaurant scolaire. Conscient qu’il n’a pas les compétences pour mener un tel projet, Mr le maire fait appel à la DDT et au GAL sud Mayenne (organisme public conseil en énergie) pour l’épauler et le conseiller dans ses démarches. Cela s’avère déterminant puisque la mission se décomposent en 3 moments clés :\n\n\\- Un diagnostic actions dans lequel les qualités existantes sont mises en réseau.\n\\- Un plan guide OAP qui définit la stratégie urbaine à 20 ans autour d’un mail paysager.\n\\- Un 1er bâtiment qui concrétise l’étude et enclenche un processus de transformation.\n\n​En collaboration avec les paysagistes Bassinet Turquin, l’opportunité de réfléchir à plusieurs échelles constitue pour nous une des conditions pour produire une architecture vertueuse et ancrée dans son territoire.\nPour nous, l’implication des habitants est déterminante dans la conception du restaurant scolaire. Dès le diagnostic, les balades urbaines et les réunions publiques que nous avons initiées ont permis de reformuler la commande et de préciser le programme.\nAinsi, la répartition des équipements publics dans la commune est bousculée au profit d’une plus grande cohérence (parcours, énergie, stationnement, etc.) Concrètement, cela se traduit dans le plan guide, par le déplacement de la mairie dans un nouveau bâtiment et le transfert de l’école de musique et du périscolaire dans la mairie actuelle.\nDans cette même logique, à l’échelle du restaurant scolaire, une réflexion plus générale est menée sur l’urbanisme nourricier et l’alimentation. Depuis la cantine, les enfants aperçoivent les citernes de récupération des eaux, dont la matérialité renvoi à celle du bâtiment, et le potager de l’école en relation avec les nouveaux vergers plantés et la mare pédagogique créée au bord du ruisseau.\n​Ce bâtiment bioclimatique est conçu comme une grande couverture qui répond à l’échelle du mail paysager. A l’intérieur, elle définit des volumes généreux et cadre des vues sur le paysage pour les enfants. Ce sont bien le confort des usagers et une souplesse d’occupation qui sont ici recherchés.\nL’arrivée d’une centaine d’enfants fait rapidement augmenter la température.\nAvec l’appui du bureau d’étude THALEM, le choix de la paille permet un déphasage thermique qui absorbe cette surchauffe et la restitue en soirée pour permettre d’autres usages.\nElle est mise en œuvre en atelier dans des caissons préfabriqués qui s’associent à la structure en bois issue de matériaux biosourcés en circuit court.\nEn contrepoint de la conception low-tech du bâtiment, les panneaux photovoltaïques couvrent les besoins de la cantine, passive, ainsi que ceux de la future mairie.\nNous avons fait le choix que l’aspect du bâtiment exprime ces qualités, comme le reflet du projet de société porté par les habitants.\n​Si la prise de conscience d’un changement semble partagée par tous, son application est plus difficile. La transition vers une architecture décarbonée accessible pour tous se heurte encore aux fabricants qui participent à rédiger les réglementations et induisent les coûts de construction. L’enthousiasme du conseil municipal de Saint-Aignan-sur-Roë a permis la réalisation de ce projet d’intérêt général qui dépasse la seule question de la performance thermique pour tracer un sillon vertueux.\nAvec la modestie qu’un architecte doit porter, la construction de la cantine intègre le temps long. Elle est conçue d’abord pour les enfants, citoyens de demain. Ce projet vise à déclencher une dynamique où la qualité de la commande publique doit donner envie et démocratiser certains procédés pour la rendre accessible à la commande privée.\n\nTextes des architectes\n",
+    "département": "53 Mayenne",
+    "dernière modification": "2021-10-19T15:39:37.000Z"
   },
   {
     "id": "recloEgKAuO4WjR2r",

@@ -40,6 +40,7 @@
       ]
     },
     "title": "Viséo",
+    "subtitle": "RAUM architectes, D'ici Là Paysage",
     "lastModification": "2021-10-04T08:13:14.000Z"
   },
   {
@@ -83,6 +84,7 @@
       ]
     },
     "title": "Relier les Impasses",
+    "subtitle": "Bigre ! Architecture",
     "lastModification": "2021-10-04T08:13:45.000Z"
   },
   {
@@ -133,9 +135,6 @@
     "status": "Publié",
     "cover_media": {
       "id": "recBNHsKIkH2zYavH",
-      "cover_parcours": [
-        "recit6lDBhqoxoJn9"
-      ],
       "titre": "expé bien être cover",
       "fichiers": [
         {
@@ -165,9 +164,13 @@
           }
         }
       ],
-      "credits": "ardepa"
+      "credits": "ardepa",
+      "cover_parcours": [
+        "recit6lDBhqoxoJn9"
+      ]
     },
-    "title": "Le bien-être en ville"
+    "title": "Le bien-être en ville",
+    "subtitle": "samedi 6 juillet 2019"
   },
   {
     "id": "recnSvIT9dWMKZF8x",
@@ -209,6 +212,7 @@
         "recnSvIT9dWMKZF8x"
       ]
     },
-    "title": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes"
+    "title": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
+    "subtitle": "samedi 16 novembre 2019"
   }
 ]

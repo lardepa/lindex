@@ -63,6 +63,13 @@
       "recQh9bPlaf7FDpmG"
     ]
   },
+  "recM2x4CsmriRyDpt": {
+    "id": "recM2x4CsmriRyDpt",
+    "destination": "Restaurant scolaire",
+    "lieux": [
+      "reclKHqSQhv9rHQQ4"
+    ]
+  },
   "recNYG3gOluc33BDh": {
     "id": "recNYG3gOluc33BDh",
     "destination": "EHPAD",
@@ -141,7 +148,8 @@
     "type_destination": "Équipement",
     "lieux": [
       "rechtsQSNXyvtp75c",
-      "rech0NsUFIcIJYybV"
+      "rech0NsUFIcIJYybV",
+      "rec3sjAwggXRAkqGc"
     ]
   },
   "recYSw9aAndSU9UZ7": {

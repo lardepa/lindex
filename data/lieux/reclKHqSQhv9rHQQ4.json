@@ -1,5 +1,183 @@
 {
   "id": "reclKHqSQhv9rHQQ4",
-  "geolocalisation": null,
-  "type": []
+  "nom": "Restaurant scolaire ",
+  "adresse": "Rue de l'étang, Saint-Aignan-sur-Roë\n",
+  "status": "En rédaction",
+  "geolocalisation": [
+    47.839423,
+    -1.13861
+  ],
+  "date": "2021",
+  "maitre_oeuvre": [
+    {
+      "id": "recwBzoHCzFntMRgP",
+      "nom": "Atelier Huitorel et Morais",
+      "maitre_oeuvre": [
+        "reclKHqSQhv9rHQQ4",
+        "rec3sjAwggXRAkqGc"
+      ]
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recLTWxSLGEYBt13U",
+      "nom": "Commune de Saint-Aignan-sur-Roë",
+      "maitre_ouvrage": [
+        "reclKHqSQhv9rHQQ4"
+      ]
+    }
+  ],
+  "périodes": [
+    {
+      "id": "recrOfcUS3a0toY0i",
+      "nom": "années 2020",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recRlloApjtcScitR",
+        "recXrmOzavWvTwx9T",
+        "recahyhau12Ghaztg",
+        "recT5ti90aD2NTdCN",
+        "reclKHqSQhv9rHQQ4",
+        "rec3sjAwggXRAkqGc"
+      ]
+    }
+  ],
+  "médias": [
+    {
+      "id": "recEnIacsxMHVrRNT",
+      "titre": "photos",
+      "fichiers": [
+        {
+          "id": "attugBPprnUZVhKSq",
+          "width": 4032,
+          "height": 2268,
+          "url": "https://dl.airtable.com/.attachments/87ff8661602328a341e53c7fcbd9b715/0066473c/20211016_152116.jpg",
+          "filename": "20211016_152116.jpg",
+          "size": 3138355,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/8ef7447bae5c83bb2a12c3b0e6af0ff2/351d4326",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/b3dea37e561da0bbba93e9f28cfbe232/5560f00f",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/08f9983b1999b48c2319724bc151e123/eb48d30c",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attfjljf4O9c7yv8R",
+          "width": 4032,
+          "height": 2268,
+          "url": "https://dl.airtable.com/.attachments/f402c6a27b7798c2edb466d78d9ecfa1/05c3acb7/20211016_154843.jpg",
+          "filename": "20211016_154843.jpg",
+          "size": 2250641,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/10c76cc1bdf8e57f9a9e51416a249402/164709f1",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f61f0b4255e1d47dd0c66813c895f3b7/39283eee",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c42dfd7dee63a63d577748ba575f48aa/9bbb883a",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attN8P41HlYAazziU",
+          "width": 4032,
+          "height": 2268,
+          "url": "https://dl.airtable.com/.attachments/58051934560d688f9bcae5a0c8fa10af/adde7e63/20211016_153452.jpg",
+          "filename": "20211016_153452.jpg",
+          "size": 2018282,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/74e79f3b727a81dcda548d3b612cbd7d/5d5b5356",
+              "width": 20,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/63eed306ffae1bfabfb4a7157307be49/dc26f285",
+              "width": 512,
+              "height": 910
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c752c6358d5146bf00ece2db0691548f/2c80cd13",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Ardepa",
+      "lieux": [
+        "reclKHqSQhv9rHQQ4"
+      ]
+    }
+  ],
+  "cover_media": {
+    "id": "recdg3bF0hat9GJN5",
+    "titre": "Cantine cover",
+    "fichiers": [
+      {
+        "id": "attM0dBkXMkdR9vto",
+        "width": 4032,
+        "height": 2268,
+        "url": "https://dl.airtable.com/.attachments/dc8fdac70194ba1e03c7695d8e95096d/8c27e4d4/20211016_154936.jpg",
+        "filename": "20211016_154936.jpg",
+        "size": 3294857,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ed64a2780b4740acdb32888a769966a1/a006901f",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3f251c551f57dfddf91ea5df1ee9a663/235b051c",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/f58abab4a7208f1e2515bb720fa8e886/8525a51d",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Ardepa",
+    "cover_lieux": [
+      "reclKHqSQhv9rHQQ4"
+    ]
+  },
+  "type": [
+    {
+      "id": "recM2x4CsmriRyDpt",
+      "destination": "Restaurant scolaire",
+      "lieux": [
+        "reclKHqSQhv9rHQQ4"
+      ]
+    }
+  ],
+  "présentation": "Saint-Aignan-sur-Roë est une commune rurale de 900 habitants représentative de l’étalement pavillonnaire. En contre point de cet échec national, la commune reste attractive et vivante grâce à un réseau de commerces et de services.\nEn 2014, la nouvelle équipe municipale s’interroge sur une emprise non bâtie en cœur de bourg : l’ancien champ de foire devenu terrain de football. Conscients du manque d’ingénierie en interne, la commune lance une consultation d’architectes pour faire face au défi énergétique et social qui s’impose.\nComme souvent, malgré un manque cruel de moyens, l’engagement et l’envie de ces élus font des communes rurales un terrain propice pour mener des projets inventifs et ambitieux.\nL’atelier Huitorel & Morais s’engage dans cette démarche pour réfléchir globalement en mobilisant les habitants et en privilégiant les ressources locales. Selon nous, une architecture résiliente prend forme dans un processus qui mobilise activement les usagers et l’économie du territoire.\n\nSi la mairie de Saint-Aignan-sur-Roë n’a pas l’habitude de conduire des projets d’équipement public, elle est soucieuse de bien faire et d’offrir un cadre confortable aux enfants et au personnel du restaurant scolaire. Conscient qu’il n’a pas les compétences pour mener un tel projet, Mr le maire fait appel à la DDT et au GAL sud Mayenne (organisme public conseil en énergie) pour l’épauler et le conseiller dans ses démarches. Cela s’avère déterminant puisque la mission se décomposent en 3 moments clés :\n\n\\- Un diagnostic actions dans lequel les qualités existantes sont mises en réseau.\n\\- Un plan guide OAP qui définit la stratégie urbaine à 20 ans autour d’un mail paysager.\n\\- Un 1er bâtiment qui concrétise l’étude et enclenche un processus de transformation.\n\n​En collaboration avec les paysagistes Bassinet Turquin, l’opportunité de réfléchir à plusieurs échelles constitue pour nous une des conditions pour produire une architecture vertueuse et ancrée dans son territoire.\nPour nous, l’implication des habitants est déterminante dans la conception du restaurant scolaire. Dès le diagnostic, les balades urbaines et les réunions publiques que nous avons initiées ont permis de reformuler la commande et de préciser le programme.\nAinsi, la répartition des équipements publics dans la commune est bousculée au profit d’une plus grande cohérence (parcours, énergie, stationnement, etc.) Concrètement, cela se traduit dans le plan guide, par le déplacement de la mairie dans un nouveau bâtiment et le transfert de l’école de musique et du périscolaire dans la mairie actuelle.\nDans cette même logique, à l’échelle du restaurant scolaire, une réflexion plus générale est menée sur l’urbanisme nourricier et l’alimentation. Depuis la cantine, les enfants aperçoivent les citernes de récupération des eaux, dont la matérialité renvoi à celle du bâtiment, et le potager de l’école en relation avec les nouveaux vergers plantés et la mare pédagogique créée au bord du ruisseau.\n​Ce bâtiment bioclimatique est conçu comme une grande couverture qui répond à l’échelle du mail paysager. A l’intérieur, elle définit des volumes généreux et cadre des vues sur le paysage pour les enfants. Ce sont bien le confort des usagers et une souplesse d’occupation qui sont ici recherchés.\nL’arrivée d’une centaine d’enfants fait rapidement augmenter la température.\nAvec l’appui du bureau d’étude THALEM, le choix de la paille permet un déphasage thermique qui absorbe cette surchauffe et la restitue en soirée pour permettre d’autres usages.\nElle est mise en œuvre en atelier dans des caissons préfabriqués qui s’associent à la structure en bois issue de matériaux biosourcés en circuit court.\nEn contrepoint de la conception low-tech du bâtiment, les panneaux photovoltaïques couvrent les besoins de la cantine, passive, ainsi que ceux de la future mairie.\nNous avons fait le choix que l’aspect du bâtiment exprime ces qualités, comme le reflet du projet de société porté par les habitants.\n​Si la prise de conscience d’un changement semble partagée par tous, son application est plus difficile. La transition vers une architecture décarbonée accessible pour tous se heurte encore aux fabricants qui participent à rédiger les réglementations et induisent les coûts de construction. L’enthousiasme du conseil municipal de Saint-Aignan-sur-Roë a permis la réalisation de ce projet d’intérêt général qui dépasse la seule question de la performance thermique pour tracer un sillon vertueux.\nAvec la modestie qu’un architecte doit porter, la construction de la cantine intègre le temps long. Elle est conçue d’abord pour les enfants, citoyens de demain. Ce projet vise à déclencher une dynamique où la qualité de la commande publique doit donner envie et démocratiser certains procédés pour la rendre accessible à la commande privée.\n\nTextes des architectes\n",
+  "département": "53 Mayenne",
+  "dernière modification": "2021-10-19T15:39:37.000Z"
 }

@@ -1,0 +1,59 @@
+{
+  "id": "rec3sjAwggXRAkqGc",
+  "nom": "École publique",
+  "adresse": "3 Rue Mgr Grimault, 53800 La Selle-Craonnaise\n",
+  "status": "En rédaction",
+  "geolocalisation": [
+    47
+  ],
+  "date": "2022",
+  "maitre_oeuvre": [
+    {
+      "id": "recwBzoHCzFntMRgP",
+      "nom": "Atelier Huitorel et Morais",
+      "maitre_oeuvre": [
+        "reclKHqSQhv9rHQQ4",
+        "rec3sjAwggXRAkqGc"
+      ]
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recTtX54KNi6dq2Oa",
+      "nom": "Commune de la Selle Craonnaise",
+      "maitre_ouvrage": [
+        "rec3sjAwggXRAkqGc"
+      ]
+    }
+  ],
+  "périodes": [
+    {
+      "id": "recrOfcUS3a0toY0i",
+      "nom": "années 2020",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recRlloApjtcScitR",
+        "recXrmOzavWvTwx9T",
+        "recahyhau12Ghaztg",
+        "recT5ti90aD2NTdCN",
+        "reclKHqSQhv9rHQQ4",
+        "rec3sjAwggXRAkqGc"
+      ]
+    }
+  ],
+  "type": [
+    {
+      "id": "recXibaj44X2ckGlM",
+      "destination": "École",
+      "type_destination": "Équipement",
+      "lieux": [
+        "rechtsQSNXyvtp75c",
+        "rech0NsUFIcIJYybV",
+        "rec3sjAwggXRAkqGc"
+      ]
+    }
+  ],
+  "présentation": "Ce projet réunit les anciennes écoles dispersées dans le bourg avec l’objectif de souder les équipes pédagogiques. Dès l’appel d’offre nous avons proposé un transfert d’affectation entre plusieurs bâtiments communaux et une implantation différente de la commande initiale. En effet, nous avons trouvé plus judicieux pour les futurs usagers de créer un pôle scolaire unitaire autour des équipements sportifs, de la cantine et du périscolaire. \nCette proximité permet aussi d’exploiter les qualités paysagères du site : cheminement piétons avec le centre-bourg, topographie en terrasses, densité végétale des jardins mitoyens, et vues orientées à l’ouest. La construction bois-paille, rationnelle et tramée, offre une souplesse d’appropriation des pièces pour les innovations pédagogiques et les classes multi-niveaux. Le fonctionnement de l’école permet d’exploiter le bâtiment pour d’autres usages : la salle de motricité est pensée comme un petit gymnase accessible le week-end pour les habitants de La-Selle-Craonnaise\n\nTextes des architectes\n",
+  "département": "53 Mayenne",
+  "dernière modification": "2021-10-19T15:51:47.000Z"
+}
