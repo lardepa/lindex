@@ -81,7 +81,7 @@
     flex-direction: column;
   }
   .parcours-grid-area {
-    grid-template-rows: auto auto auto 60vh;
+    grid-template-rows: auto;
     grid-template-areas:
       "col-content"
       "main-content"
