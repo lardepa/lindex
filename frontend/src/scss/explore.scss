@@ -48,6 +48,17 @@
     font-size: 1.875rem;
     line-height: 1.875rem;
   }
+  .show-filter-menu {
+    display: none;
+  }
+  @include media-breakpoint-down(md) {
+    .show-filter-menu {
+      display: block;
+    }
+    .filter-value-container {
+      display: none !important;
+    }
+  }
 }
 .filter-value {
   border-radius: 3rem;
@@ -80,4 +91,14 @@
     "menu menu menu"
     "status-bar status-bar status-bar"
     "main-content main-content main-content";
+}
+
+@include media-breakpoint-down(md) {
+  .explore-grid-area {
+    grid-template-rows: min-content 1fr;
+    grid-template-areas:
+      "status-bar status-bar status-bar"
+      "main-content main-content main-content";
+    height: calc(100vh - #{$logo-min-height});
+  }
 }

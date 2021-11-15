@@ -50,7 +50,7 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
           <div style={{ gridArea: "col-content", marginTop: "2rem" }}>{parcoursListWithTitle}</div>
         ) : (
           <div style={{ gridArea: "2/1/2/4" }}>
-            {!loading && parcours && <Map lieux={flatten(parcours.map((p) => p.lieux))} className="explore-map" />}
+            {!loading && parcours && <Map lieux={flatten(parcours.map((p) => p.lieux))} className="listing-map" />}
             <Loader loading={loading} />
           </div>
         )

@@ -9,35 +9,42 @@ import { Map } from "../components/map/map";
 import { LieuItem } from "../components/lieu/lieu-item";
 import { LinkPreview } from "../components/link-preview";
 import { DestinationSVG } from "../components/map/marker-icon";
+import config from "../config";
+import withSize from "../components/layout/with-size";
 
-export const SelectionPage: React.FC<{}> = () => {
+export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
   const { id } = useParams<{ id: string }>();
   const [selection, loading] = useGetOne<SelectionType>("selections", id);
+
+  const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.sm;
+
+  const map = (
+    <>
+      {!loading && selection && (
+        <div className="d-flex flex-column flex-grow-1 justify-content-end">
+          <div className="map-aside">
+            <div className="rightHeader">Sélection de {selection.invité}</div>
+            {selection.lieux && <Map lieux={selection.lieux} className="half-height" disableScroll={!!smallScreen} />}
+          </div>
+          <div className="steps flex-grow-1 vertical-menu selections">
+            {selection.lieux.map((l, stepIndex) => (
+              // todo: change link to state in params
+              <LieuItem lieu={l} className="selections" />
+            ))}
+            <LinkPreview className="menu-item related" to="/sélections">
+              Voir les autres sélections
+            </LinkPreview>
+          </div>
+        </div>
+      )}
+    </>
+  );
+
   return (
     <PageLayout
       menuSelectedItem="selections"
       gridLayoutName="colonne-main-footer-area "
-      leftContent={
-        <>
-          <>
-            {!loading && selection && (
-              <div className="d-flex flex-column flex-grow-1">
-                <div className="rightHeader">Sélection de {selection.invité}</div>
-                {selection.lieux && <Map lieux={selection.lieux} className="half-height" />}
-                <div className="steps flex-grow-1 vertical-menu selections">
-                  {selection.lieux.map((l, stepIndex) => (
-                    // todo: change link to state in params
-                    <LieuItem lieu={l} className="selections" />
-                  ))}
-                </div>
-                <LinkPreview className="menu-item related" to="/sélections">
-                  Voir les autres sélections
-                </LinkPreview>
-              </div>
-            )}
-          </>
-        </>
-      }
+      leftContent={map}
       rightContent={
         <>
           {!loading && selection && (
@@ -71,6 +78,7 @@ export const SelectionPage: React.FC<{}> = () => {
                     ),
                 )}
               </div>
+              {smallScreen && <div style={{ gridArea: "map" }}>{map}</div>}
             </>
           )}
         </>
@@ -78,3 +86,5 @@ export const SelectionPage: React.FC<{}> = () => {
     />
   );
 };
+
+export const SelectionPage = withSize<{}>(_SelectionPage);

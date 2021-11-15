@@ -48,7 +48,7 @@ const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
           <div style={{ gridArea: "col-content", marginTop: "2rem" }}>{selectionsListWithTitle}</div>
         ) : (
           <div style={{ gridArea: "2/1/2/4" }}>
-            {!loading && selections && <Map lieux={flatten(selections.map((s) => s.lieux))} className="explore-map" />}
+            {!loading && selections && <Map lieux={flatten(selections.map((s) => s.lieux))} className="listing-map" />}
             <Loader loading={loading} />
           </div>
         )

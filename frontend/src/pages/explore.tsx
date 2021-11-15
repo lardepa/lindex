@@ -24,6 +24,7 @@ export const ExplorePage: React.FC<{}> = () => {
   const { filtersParams } = queryParamsState;
 
   const [filterForPicker, showFilterPicker] = useState<FiltersParamType | null>(null);
+  const [responsiveFilterMenu, showResponsiveFilterMenu] = useState<boolean>(false);
   const [filtersOptions, setFiltersOptions] = useState<{ [filterKey: string]: string[] }>({});
 
   // filter lieux
@@ -68,12 +69,25 @@ export const ExplorePage: React.FC<{}> = () => {
           onClose={() => showFilterPicker(null)}
         />
       )}
+      {responsiveFilterMenu && (
+        <div className="filter-modal">
+          {" "}
+          <FiltersMenu
+            filtersParams={filtersParams}
+            filtersOptions={filtersOptions}
+            showFilterPicker={(filter) => {
+              showResponsiveFilterMenu(false);
+              showFilterPicker(filter);
+            }}
+          />
+        </div>
+      )}
       <PageLayout
         menuSelectedItem="explorer"
         gridLayoutName="explore-grid-area"
         leftContent={
           // Menu top open filters modals
-          <div className="d-flex flex-grow-1 flex-column justify-content-center">
+          <div className="d-flex flex-grow-1 flex-column justify-content-center d-none d-sm-none d-md-flex">
             <FiltersMenu
               filtersParams={filtersParams}
               filtersOptions={filtersOptions}
@@ -86,7 +100,7 @@ export const ExplorePage: React.FC<{}> = () => {
             {filteredLieux && (
               <>
                 {/* Current Filters Status Bar  */}
-                <FiltersStatusBar nbSelectedLieux={filteredLieux.length} />
+                <FiltersStatusBar nbSelectedLieux={filteredLieux.length} showMenu={showResponsiveFilterMenu} />
                 <div style={{ gridArea: "main-content" }}>
                   {!loading && <Map lieux={filteredLieux} className="explore-map" />}
                   <Loader loading={loading} />

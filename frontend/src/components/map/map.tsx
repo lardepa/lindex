@@ -18,15 +18,16 @@ interface MapProps {
   lieux: LieuType[];
   className?: string;
   itinary?: boolean;
+  disableScroll?: boolean;
 }
 
 export const Map: React.FC<MapProps> = (props) => {
-  const { lieux, className, itinary } = props;
+  const { lieux, className, itinary, disableScroll } = props;
 
   // TODO: Change marker pixels size according to zoom? https://jsfiddle.net/falkedesign/nobapxvd/
 
   return (
-    <MapContainer center={[47.207562, -1.557635]} zoom={15} scrollWheelZoom={true} className={className}>
+    <MapContainer center={[47.207562, -1.557635]} zoom={15} scrollWheelZoom={!disableScroll} className={className}>
       <CenterMap lieux={lieux} />
       <ScaleControl position="bottomleft" metric={true} imperial={false} />
       <TileLayer

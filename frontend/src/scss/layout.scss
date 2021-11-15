@@ -23,44 +23,9 @@ body::-webkit-scrollbar-thumb {
 .full-responsive-height {
   height: 100vh;
 }
-
-.context-menu {
-  border-right: $menu-border;
-}
-
 @include media-breakpoint-down(sm) {
   .full-responsive-height {
     height: 90vh;
-  }
-
-  #burger-menu {
-    top: 0 !important;
-  }
-}
-#burger-menu {
-  position: absolute;
-  top: -100px;
-  right: 0;
-  // leaflet control z-index is 1000
-  z-index: 1100;
-
-  .navbar-toggler {
-    margin: 0.5rem;
-    padding: 0.3rem 0.5rem;
-  }
-}
-#burger-menu .vertical-menu {
-  width: 100vw;
-  display: flex;
-}
-.logo {
-  max-height: 10vh;
-  max-width: 100%;
-  overflow: hidden;
-  img {
-    max-width: 100%;
-    max-height: 100%;
-    padding: 0.9em;
   }
 }
 .parcours {
@@ -76,6 +41,15 @@ body::-webkit-scrollbar-thumb {
 .explore-map {
   height: 100%;
 }
+.listing-map {
+  height: 100%;
+}
+@include media-breakpoint-down(md) {
+  .listing-map {
+    height: 50vh;
+  }
+}
+
 .rightHeader {
   background-color: $color_default_text;
   color: white;
@@ -85,8 +59,14 @@ body::-webkit-scrollbar-thumb {
 }
 
 .page-layout-grid-container {
+  height: 100vh;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+}
+@include media-breakpoint-down(md) {
+  .page-layout-grid-container {
+    height: auto;
+  }
 }
 @include media-breakpoint-down(sm) {
   .page-layout-grid-container {
@@ -105,6 +85,12 @@ body::-webkit-scrollbar-thumb {
     "menu menu menu"
     "col-content main-content main-content"
     "footer footer footer";
+}
+@include media-breakpoint-down(sm) {
+  .colonne-main-footer-area {
+    grid-template-rows: auto;
+    grid-template-areas: "col-content" "main-content" "media" "map";
+  }
 }
 
 .media-container {
@@ -202,5 +188,10 @@ figure {
     .media {
       height: 25vh;
     }
+  }
+}
+@include media-breakpoint-down(sm) {
+  .horizontal-carousel {
+    display: none;
   }
 }

@@ -76,3 +76,16 @@
     margin-right: 0;
   }
 }
+@include media-breakpoint-down(sm) {
+  .parcours-gallery {
+    flex-direction: column;
+  }
+  .parcours-grid-area {
+    grid-template-rows: auto auto auto 60vh;
+    grid-template-areas:
+      "col-content"
+      "main-content"
+      "media"
+      "map";
+  }
+}

@@ -9,12 +9,13 @@ const FiltersMenu: React.FC<{
   showFilterPicker: (filterParams: FiltersParamType) => void;
 }> = ({ filtersParams, showFilterPicker, filtersOptions }) => {
   return (
-    <div>
-      <h4 className="px-3">Filtres</h4>
+    <div style={{ backgroundColor: "white" }}>
+      <h4 className="px-3 pt-3">Filtres</h4>
       <div className="vertical-menu">
         {filtersConfig
           .filter((filter) => !filter.hide)
           .map((filter) => {
+            const filterParams = filtersParams.find((fp) => fp.filter.key === filter.key);
             const disable = filtersOptions[filter.key] && filtersOptions[filter.key].length === 0;
             return (
               <div
@@ -26,12 +27,14 @@ const FiltersMenu: React.FC<{
                   disable
                     ? () => {}
                     : () => {
-                        const filterParams = filtersParams.find((fp) => fp.filter.key === filter.key);
                         showFilterPicker({ filter, values: filterParams?.values || [] });
                       }
                 }
               >
-                <span>{filter.label}</span>
+                <span>
+                  {filter.label}{" "}
+                  {filterParams && filterParams?.values.length !== 0 ? `(${filterParams?.values.length})` : ""}
+                </span>
                 {!disable && <img src={PlusSVG} alt="open filter" height="10px" />}
               </div>
             );

@@ -7,7 +7,7 @@ const SelectedFilterValues: React.FC<{ filtersParam: FiltersParamType; plural: b
   plural,
 }) => {
   return (
-    <div className="d-flex flex-nowrap mt-1 align-items-baseline">
+    <div className="filter-value-container d-flex flex-nowrap mt-1 align-items-baseline">
       {filtersParam.filter.prefixLabel ? filtersParam.filter.prefixLabel(plural) : " "}
       {filtersParam.values.map((v, i) => (
         <FilterValue key={i} selected={true} filterParams={filtersParam} value={v} />

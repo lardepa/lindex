@@ -43,21 +43,57 @@
   .context-menu .vertical-menu {
     display: none;
   }
-}
-@include media-breakpoint-down(sm) {
-  .horizontal-menu {
-    display: none;
+  .context-menu .map-aside {
+    display: none !important;
   }
-  .vertical-menu {
+  .context-menu {
+    border-right: none !important;
+  }
+
+  .horizontal-menu {
     display: none;
   }
 }
 @media (max-height: 500px) {
-  .horizontal-menu {
-    display: none;
+  .context-menu .map-aside {
+    display: none !important;
   }
-  .vertical-menu {
-    display: none;
+}
+
+.context-menu {
+  border-right: $menu-border;
+}
+
+@include media-breakpoint-down(md) {
+  #burger-menu {
+    top: 0 !important;
+  }
+}
+#burger-menu {
+  position: absolute;
+  top: -100px;
+  right: 0;
+  // leaflet control z-index is 1000
+  z-index: 1100;
+
+  .navbar-toggler {
+    margin: 0.5rem;
+    padding: 0.3rem 0.5rem;
+  }
+}
+#burger-menu .vertical-menu {
+  width: 100vw;
+  display: flex;
+}
+.logo {
+  max-height: 10vh;
+  min-height: $logo-min-height;
+  max-width: 100%;
+  overflow: hidden;
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    padding: 0.9em;
   }
 }
 
