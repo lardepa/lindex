@@ -54,6 +54,9 @@
   @include media-breakpoint-down(md) {
     .show-filter-menu {
       display: block;
+      img {
+        vertical-align: sub;
+      }
     }
     .filter-value-container {
       display: none !important;

@@ -1,7 +1,7 @@
 import React from "react";
 import SelectedFilterValues from "./selected-filter-value";
 import { useQueryParamsState } from "../../hooks/queryParams";
-
+import FiltersMenuIcon from "./filters-menu-icon.svg";
 const FiltersStatusBar: React.FC<{ nbSelectedLieux: number; showMenu?: (show: boolean) => void }> = ({
   nbSelectedLieux,
   showMenu,
@@ -12,7 +12,7 @@ const FiltersStatusBar: React.FC<{ nbSelectedLieux: number; showMenu?: (show: bo
     <div className="filters-status-bar" style={{ gridArea: "status-bar" }}>
       {showMenu && (
         <button className="btn show-filter-menu" onClick={() => showMenu(true)}>
-          menu
+          <img src={FiltersMenuIcon} alt="filters menu" />
         </button>
       )}
       <div className="my-1 ">

@@ -70,7 +70,7 @@ export const ExplorePage: React.FC<{}> = () => {
         />
       )}
       {responsiveFilterMenu && (
-        <div className="filter-modal">
+        <div className="filter-modal" onClick={() => showResponsiveFilterMenu(false)}>
           {" "}
           <FiltersMenu
             filtersParams={filtersParams}
