@@ -23,7 +23,7 @@ export const MetadataField: React.FC<{ label: string; filterKey: string; value: 
                 {v}
               </LinkPreview>
             ) : (
-              <span>{v}</span>
+              <span className="value-no-link">{v}</span>
             )}
           </>
         ))}
@@ -37,7 +37,7 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
     <>
       {/* first 1/3 column */}
       <div
-        style={{ gridArea: "col-content", marginTop: "2rem" }}
+        style={{ gridArea: "col-content", marginTop: "0.6rem" }}
         className={`d-flex flex-column justify-content-between`}
       >
         <div
@@ -105,10 +105,7 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
         </div>
       </div>
       {/* seccond 2/3 column */}
-      <div
-        className="media-container"
-        style={{ gridArea: "main-content", overflowY: "auto", overflowX: "hidden", marginTop: "2rem" }}
-      >
+      <div className="media-container" style={{ gridArea: "main-content", overflowY: "auto", overflowX: "hidden" }}>
         {lieu?.cover_media && <Media media={lieu?.cover_media} />}
         {lieu?.médias?.map((m) => (
           <Media key={m.id} media={m} />

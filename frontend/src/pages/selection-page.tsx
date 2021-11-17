@@ -49,19 +49,19 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
         <>
           {!loading && selection && (
             <>
-              <div style={{ gridArea: "col-content", marginTop: "2rem" }}>
+              <div style={{ gridArea: "col-content" }}>
                 {selection?.portrait && (
                   <div className="w-100 media-container">
                     <Media media={selection?.portrait} />
                   </div>
                 )}
-                <div className="p-3 pt-4">
+                <div className="p-3 pt-2">
                   <h1>{selection.invité}</h1>
 
                   <ReactMarkdown className="metadata">{selection?.introduction}</ReactMarkdown>
                 </div>
               </div>
-              <div className="long-text px-3" style={{ gridArea: "main-content", marginTop: "2rem" }}>
+              <div className="long-text px-3" style={{ gridArea: "main-content", marginTop: "0.6rem" }}>
                 <ReactMarkdown>{selection?.édito}</ReactMarkdown>
               </div>
               <div className="horizontal-carousel" style={{ gridArea: "footer" }}>

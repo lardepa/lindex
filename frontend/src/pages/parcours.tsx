@@ -49,15 +49,21 @@ const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
         <>
           {!loading && parcours && (
             <>
-              <div className="flex-grow-1 metadata" style={{ gridArea: "col-content" }}>
+              <div className="flex-grow-1" style={{ gridArea: "col-content" }}>
                 {parcours.cover_media && (
                   <div className="w-100 media-container">
                     <Media media={parcours.cover_media} />
                   </div>
                 )}
-                <h1>{parcours.nom}</h1>
-                <h4>{parcours["sous-titre"]}</h4>
-                {parcours.date && <h3>{Intl.DateTimeFormat("FR-fr").format(new Date(parcours.date))}</h3>}
+                <h1 className="mb-3" style={{ fontWeight: 700 }}>
+                  {parcours.nom}
+                </h1>
+                <h5 className="metadata mb-2" style={{ fontWeight: 500 }}>
+                  {parcours["sous-titre"]}
+                </h5>
+                {parcours.date && (
+                  <h5 className="metadata">{Intl.DateTimeFormat("FR-fr").format(new Date(parcours.date))}</h5>
+                )}
               </div>
               <div className="flex-grow-2 edito" style={{ gridArea: "main-content" }}>
                 <ReactMarkdown>{parcours.édito}</ReactMarkdown>
