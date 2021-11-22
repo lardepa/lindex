@@ -4,6 +4,7 @@ export interface ConfigType {
   DATA_URL: string;
   RESPONSIVE_BREAKPOINTS: {
     sm: number;
+    md: number;
   };
   COLORS: {
     DESTINATIONS: { [Property in DestinationType]: string };

@@ -6,6 +6,7 @@ const config: ConfigType = {
   DATA_URL: env.DATA_URL || process.env.PUBLIC_URL || "",
   RESPONSIVE_BREAKPOINTS: {
     sm: 576,
+    md: 768,
   },
 
   MAP_LAYERS: {

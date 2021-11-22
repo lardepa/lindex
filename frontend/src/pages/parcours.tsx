@@ -15,7 +15,7 @@ import config from "../config";
 const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
   const { id } = useParams<{ id: string }>();
   const [parcours, loading] = useGetOne<ParcoursType | null>("parcours", id);
-  const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.sm;
+  const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.md;
 
   const map = (
     <>

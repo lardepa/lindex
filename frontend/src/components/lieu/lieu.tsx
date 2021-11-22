@@ -32,7 +32,7 @@ export const MetadataField: React.FC<{ label: string; filterKey: string; value: 
   };
 
 export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width }) => {
-  const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.sm;
+  const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.md;
   return (
     <>
       {/* first 1/3 column */}

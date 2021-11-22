@@ -68,7 +68,7 @@ body::-webkit-scrollbar-thumb {
     height: auto;
   }
 }
-@include media-breakpoint-down(sm) {
+@include media-breakpoint-down(md) {
   .page-layout-grid-container {
     grid-template-columns: 1fr 0fr !important;
   }
@@ -79,6 +79,8 @@ body::-webkit-scrollbar-thumb {
     "menu menu menu"
     "col-content main-content main-content";
 }
+
+// SELECTION PAGE
 .colonne-main-footer-area {
   grid-template-rows: min-content auto min-content;
   grid-template-areas:
@@ -86,13 +88,16 @@ body::-webkit-scrollbar-thumb {
     "col-content main-content main-content"
     "footer footer footer";
 }
-@include media-breakpoint-down(sm) {
+@include media-breakpoint-down(md) {
   .colonne-main-footer-area {
     grid-template-rows: auto;
     grid-template-areas: "col-content" "main-content" "media" "map";
   }
+  .horizontal-carousel {
+    display: none !important;
+  }
 }
-
+// MEDIA
 .media-container {
   display: flex;
   flex-direction: column;
@@ -188,10 +193,5 @@ figure {
     .media {
       height: 40vh;
     }
-  }
-}
-@include media-breakpoint-down(sm) {
-  .horizontal-carousel {
-    display: none;
   }
 }

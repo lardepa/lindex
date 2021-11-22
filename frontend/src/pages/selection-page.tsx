@@ -16,7 +16,7 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
   const { id } = useParams<{ id: string }>();
   const [selection, loading] = useGetOne<SelectionType>("selections", id);
 
-  const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.sm;
+  const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.md;
 
   const map = (
     <>
