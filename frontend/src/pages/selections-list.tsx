@@ -14,7 +14,11 @@ const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
   const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.sm;
 
   const selectionsListWithTitle = (
-    <>
+    <div
+      className={`d-flex flex-column flex-grow-1 ${
+        smallScreen ? "justify-content-start" : "justify-content-end"
+      } max-height-but-logo`}
+    >
       <div className="presentation">L'Ardepa invite des citoyens à vous faire découvrir l'architecture.</div>
       <div className="parcours-list">
         {selections?.map((s) => (
@@ -37,16 +41,14 @@ const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
           </LinkPreview>
         ))}
       </div>{" "}
-    </>
+    </div>
   );
   return (
     <PageLayout
       menuSelectedItem="selections"
-      leftContent={smallScreen ? null : selectionsListWithTitle}
+      leftContent={selectionsListWithTitle}
       rightContent={
-        smallScreen ? (
-          <div style={{ gridArea: "col-content", marginTop: "2rem" }}>{selectionsListWithTitle}</div>
-        ) : (
+        smallScreen ? null : (
           <div style={{ gridArea: "2/1/2/4" }}>
             {!loading && selections && <Map lieux={flatten(selections.map((s) => s.lieux))} className="listing-map" />}
             <Loader loading={loading} />

@@ -41,14 +41,17 @@
 }
 
 @include media-breakpoint-down(md) {
-  .context-menu .vertical-menu {
-    display: none;
-  }
-  .context-menu .map-aside {
-    display: none !important;
-  }
   .context-menu {
     border-right: none !important;
+    .map-aside {
+      display: none !important;
+    }
+    .vertical-menu {
+      display: none;
+    }
+    .parcours-list {
+      overflow-y: unset;
+    }
   }
 
   .horizontal-menu {
@@ -77,6 +80,9 @@
   }
   .steps.vertical-menu {
     max-height: 50%;
+    overflow-y: auto;
+  }
+  .parcours-list {
     overflow-y: auto;
   }
 }
@@ -112,6 +118,14 @@
   img {
     max-width: 100%;
     max-height: 100%;
+  }
+}
+.max-height-but-logo {
+  height: calc(100vh - #{$logo-height} - 2 * 0.8rem);
+}
+@include media-breakpoint-down(md) {
+  .max-height-but-logo {
+    height: auto;
   }
 }
 

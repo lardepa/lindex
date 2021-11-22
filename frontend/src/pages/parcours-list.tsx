@@ -14,7 +14,11 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
   const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.sm;
 
   const parcoursListWithTitle = (
-    <>
+    <div
+      className={`d-flex flex-column flex-grow-1 ${
+        smallScreen ? "justify-content-start" : "justify-content-end"
+      } max-height-but-logo`}
+    >
       <div className="presentation">Retrouvez les parcours proposés par l'Ardepa.</div>
       <div className="parcours-list">
         {parcours?.map((p) => (
@@ -30,7 +34,7 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
                   }}
                 ></div>
               )}
-              <div className="parcours-title">
+              <div className="parcours-title overflow-auto">
                 <div className="title">{p.nom}</div>
                 <div className="subtitle">{p["sous-titre"]}</div>
               </div>
@@ -38,17 +42,15 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
           </LinkPreview>
         ))}
       </div>
-    </>
+    </div>
   );
 
   return (
     <PageLayout
       menuSelectedItem="parcours"
-      leftContent={smallScreen ? null : parcoursListWithTitle}
+      leftContent={parcoursListWithTitle}
       rightContent={
-        smallScreen ? (
-          <div style={{ gridArea: "col-content", marginTop: "2rem" }}>{parcoursListWithTitle}</div>
-        ) : (
+        smallScreen ? null : (
           <div style={{ gridArea: "2/1/2/4" }}>
             {!loading && parcours && <Map lieux={flatten(parcours.map((p) => p.lieux))} className="listing-map" />}
             <Loader loading={loading} />
