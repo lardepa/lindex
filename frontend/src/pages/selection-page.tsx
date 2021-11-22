@@ -22,11 +22,11 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
     <>
       {!loading && selection && (
         <div className="d-flex flex-column flex-grow-1 justify-content-end">
-          <div className="map-aside">
+          <div className="map-aside d-flex flex-column">
             <div className="rightHeader">Sélection de {selection.invité}</div>
-            {selection.lieux && <Map lieux={selection.lieux} className="half-height" disableScroll={!!smallScreen} />}
+            {selection.lieux && <Map lieux={selection.lieux} className="map-in-menu" disableScroll={!!smallScreen} />}
           </div>
-          <div className="steps flex-grow-1 vertical-menu selections">
+          <div className="steps vertical-menu selections">
             {selection.lieux.map((l, stepIndex) => (
               // todo: change link to state in params
               <LieuItem lieu={l} className="selections" />

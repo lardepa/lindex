@@ -39,6 +39,7 @@
     border-right: 0;
   }
 }
+
 @include media-breakpoint-down(md) {
   .context-menu .vertical-menu {
     display: none;
@@ -55,13 +56,29 @@
   }
 }
 @media (max-height: 500px) {
-  .context-menu .map-aside {
-    display: none !important;
+  .context-menu {
+    .map-aside {
+      display: none !important;
+    }
+    .steps.vertical-menu {
+      max-height: 100% !important;
+    }
   }
 }
 
 .context-menu {
   border-right: $menu-border;
+  .map-aside {
+    height: 50%; //calc((100vh - #{$logo-height}) / 2);
+  }
+  .map-in-menu {
+    height: 1px;
+    flex-grow: 1;
+  }
+  .steps.vertical-menu {
+    max-height: 50%;
+    overflow-y: auto;
+  }
 }
 
 @include media-breakpoint-down(md) {

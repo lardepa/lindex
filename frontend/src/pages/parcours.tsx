@@ -21,13 +21,13 @@ const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
     <>
       {!loading && parcours && (
         <div className="d-flex flex-column flex-grow-1 justify-content-end">
-          <div className="map-aside">
+          <div className="map-aside d-flex flex-column">
             <div className="rightHeader">{parcours["sous-titre"]}</div>
             {parcours.lieux && (
-              <Map lieux={parcours.lieux} className="half-height" itinary={true} disableScroll={!!smallScreen} />
+              <Map lieux={parcours.lieux} className="map-in-menu" itinary={true} disableScroll={!!smallScreen} />
             )}
           </div>
-          <div className="steps parcours vertical-menu">
+          <div className="steps vertical-menu">
             {parcours.lieux.map((l, stepIndex) => (
               <LieuItem lieu={l} className="parcours" />
             ))}
