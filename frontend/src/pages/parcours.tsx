@@ -55,14 +55,14 @@ const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
                     <Media media={parcours.cover_media} />
                   </div>
                 )}
-                <h1 className="mb-3" style={{ fontWeight: 700 }}>
+                <h1 className="mb-3 px-3" style={{ fontWeight: 700 }}>
                   {parcours.nom}
                 </h1>
-                <h5 className="metadata mb-2" style={{ fontWeight: 500 }}>
+                <h5 className="metadata mb-2 px-3" style={{ fontWeight: 500 }}>
                   {parcours["sous-titre"]}
                 </h5>
                 {parcours.date && (
-                  <h5 className="metadata">{Intl.DateTimeFormat("FR-fr").format(new Date(parcours.date))}</h5>
+                  <h5 className="metadata px-3">{Intl.DateTimeFormat("FR-fr").format(new Date(parcours.date))}</h5>
                 )}
               </div>
               <div className="flex-grow-2 edito" style={{ gridArea: "main-content" }}>
