@@ -44,6 +44,11 @@
       display: none;
     }
   }
+  @include media-breakpoint-up(sm) {
+    #burger-menu {
+      display: none !important;
+    }
+  }
   @include media-breakpoint-down(sm) {
     .presentation {
       display: none;

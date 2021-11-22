@@ -6,6 +6,7 @@ import { VerticalMenu } from "../components/layout/vertical-menu";
 import { useGetList } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
 import { NewsCarousel } from "../components/news-carousel";
+import { BurgerMenu } from "../components/layout/BurgerMenu";
 
 export const Home: React.FC<{}> = () => {
   const [lieux, loading] = useGetList<LieuType>("lieux");
@@ -17,6 +18,7 @@ export const Home: React.FC<{}> = () => {
           className="col-sm-6 col-lg-4 col-xl-3 px-0 overflow-hide d-flex flex-column justify-content-between"
           id="left-menu"
         >
+          <BurgerMenu />
           <Logo />
           <div className="presentation">Une cartographie de l'architecture en Pays de la Loire.</div>
           <div>

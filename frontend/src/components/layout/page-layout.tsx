@@ -1,5 +1,6 @@
 import React, { ReactNode } from "react";
 import { Logo } from "../logo";
+import { BurgerMenu } from "./BurgerMenu";
 import { HorizontalMenu } from "./horizontal-menu";
 
 interface Props {
@@ -16,6 +17,7 @@ export const PageLayout: React.FC<Props> = (props) => {
     <div className="container-fluid">
       <div className="row full-height no-gutters">
         <div className="col-sd-12 col-md-3  px-0 overflow-auto d-flex flex-column justify-content-between context-menu">
+          <BurgerMenu />
           <Logo />
           {leftContent}
         </div>

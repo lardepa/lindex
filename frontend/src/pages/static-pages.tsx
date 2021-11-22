@@ -8,6 +8,7 @@ import { Loader } from "../components/loader";
 import ReactMarkdown from "react-markdown";
 import { StatiPageContent } from "../types.frontend";
 import { Link, useLocation } from "react-router-dom";
+import { BurgerMenu } from "../components/layout/BurgerMenu";
 
 const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }) => {
   const [contenus, loading] = useGetList<ContenuType>(contentType.modelName);
@@ -20,6 +21,7 @@ const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }
           className="col-sm-6 col-lg-4 col-xl-3 px-0 overflow-auto d-flex flex-column justify-content-between"
           id="left-menu"
         >
+          <BurgerMenu />
           <Logo />
           <div className="presentation">Une cartographie de l'architecture en Pays de la Loire.</div>
           <div>
