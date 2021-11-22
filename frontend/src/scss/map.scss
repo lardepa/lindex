@@ -31,6 +31,9 @@
     }
     a {
       color: $color_default_text;
+      figure .action {
+        display: none;
+      }
       .media {
         width: 100%;
       }

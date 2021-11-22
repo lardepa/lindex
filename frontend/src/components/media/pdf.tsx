@@ -3,6 +3,8 @@ import { Document, Page, pdfjs } from "react-pdf/dist/esm/entry.webpack";
 import withSize, { SizeState } from "../layout/with-size";
 import { Loader } from "../loader";
 
+import PDFSVG from "./pdf.svg";
+
 // issue with webworker load through webpack see https://github.com/wojtekmaj/react-pdf/issues/291
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
@@ -38,12 +40,19 @@ const _PDF: React.FC<PDFProps & SizeState> = ({ file, ratio, forceRatio, width, 
   const realHeight = pageHeight || (pageWidth && pageWidth * (ratio || 1));
   const buttonStyle = { padding: "0.3rem" };
   return (
-    <div className="d-flex flex-column align-content-center">
+    <div
+      className={`d-flex flex-column align-content-center ${
+        forceRatio === "force-height" || (!forceRatio && ratio && ratio >= 1) ? "h-100" : "w-100"
+      }`}
+    >
       <Document
         file={file}
         onLoadSuccess={onDocumentLoadSuccess}
         loading={<PDFLoader width={realWidth} height={realHeight} />}
       >
+        <a href={file} rel="noreferrer">
+          <img src={PDFSVG} alt="télécharger le PDF" className="action" />
+        </a>
         <Page
           className="pdf-page"
           pageNumber={pageNumber}

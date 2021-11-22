@@ -3,9 +3,20 @@ import { MediaType } from "../../types";
 import Embed from "react-tiny-oembed";
 import config from "../../config";
 import PDF from "./pdf";
+import PDFSVG from "./pdf.svg";
 
-const Figure: React.FC<{ url: string; media: MediaType }> = ({ url, media }) => (
-  <figure className="media">
+const Figure: React.FC<{ url: string; className?: string; pdf?: boolean; media: MediaType }> = ({
+  url,
+  media,
+  pdf,
+  className,
+}) => (
+  <figure className={`media ${className ? className : ""} ${pdf ? "pdf-page" : ""}`}>
+    {pdf && media.fichiers && media.fichiers[0] && (
+      <a href={`${config.DATA_URL}/attachments/${media.fichiers[0].id}/full.pdf`} rel="noreferrer">
+        <img src={PDFSVG} alt="télécharger le PDF" className="action" />
+      </a>
+    )}
     <img src={url} alt={media.nom} title={media.nom} />
     {media.credits && <div className="caption">{media.credits}</div>}
   </figure>
@@ -39,7 +50,8 @@ export const Media: React.FC<{ media: MediaType; cover?: boolean; forceRatio?: "
                     />
                   </div>
                 );
-              else return <Figure key={f.id} url={`${config.DATA_URL}/attachments/${f.id}/large.png`} media={media} />;
+              else
+                return <Figure key={f.id} pdf url={`${config.DATA_URL}/attachments/${f.id}/large.png`} media={media} />;
             default:
               return <Figure key={f.id} url={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`} media={media} />;
           }

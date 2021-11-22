@@ -56,7 +56,7 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
           {smallScreen && lieu?.cover_media && (
             <div className="media-container">
               {" "}
-              <Media media={lieu?.cover_media} />{" "}
+              <Media media={lieu?.cover_media} cover />{" "}
             </div>
           )}
           <div className="long-text" style={{ lineHeight: "1.45rem", fontSize: "1em" }}>

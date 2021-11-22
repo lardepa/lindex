@@ -64,7 +64,7 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
               <div className="long-text px-3" style={{ gridArea: "main-content", marginTop: "0.6rem" }}>
                 <ReactMarkdown>{selection?.édito}</ReactMarkdown>
               </div>
-              <div className="horizontal-carousel" style={{ gridArea: "footer" }}>
+              <div className="horizontal-carousel selection-medias" style={{ gridArea: "footer" }}>
                 {selection.lieux.map(
                   (l) =>
                     (l.cover_media || l.médias?.[0]) && (

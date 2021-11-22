@@ -69,11 +69,11 @@ const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
                 <ReactMarkdown>{parcours.édito}</ReactMarkdown>
               </div>
               <div
-                className={`${smallScreen ? "media-container" : ""} parcours-gallery`}
+                className={`${smallScreen ? "media-container" : "horizontal-carousel"} parcours-gallery `}
                 style={{ gridArea: smallScreen ? "media" : "footer" }}
               >
                 {parcours?.médias?.map((m) => (
-                  <Media key={m.id} media={m} />
+                  <Media key={m.id} media={m} forceRatio="force-height" cover />
                 ))}
               </div>
               {smallScreen && <div style={{ gridArea: "map" }}>{map}</div>}
