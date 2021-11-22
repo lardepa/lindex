@@ -32,7 +32,7 @@ const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }
         <div className="col-sm-6 col-lg-8 col-xl-9 px-0 d-flex">
           {!loading && contenus && (
             <>
-              <nav className="nav vertical-menu" style={{ width: "33%" }}>
+              <nav className="nav vertical-menu d-none d-sm-none d-lg-flex" style={{ width: "33%" }}>
                 {contenus?.map((c) => (
                   <Link to={{ hash: encodeURIComponent(c.section) }} key={c.id} className="menu-item">
                     {c.section}
