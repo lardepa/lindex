@@ -51,7 +51,7 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
             height: smallScreen ? "auto" : "1px",
           }}
         >
-          <h1>{lieu.nom}</h1>
+          <h1 className="mb-3">{lieu.nom}</h1>
           {/* MEDIA COVER when small screen */}
           {smallScreen && lieu?.cover_media && (
             <div className="media-container">

@@ -9,13 +9,13 @@ const FiltersStatusBar: React.FC<{ nbSelectedLieux: number; showMenu?: (show: bo
   const [queryParamsState] = useQueryParamsState();
   const { filtersParams } = queryParamsState;
   return (
-    <div className="filters-status-bar" style={{ gridArea: "status-bar" }}>
+    <div className="filters-status-bar p-0" style={{ gridArea: "status-bar" }}>
       {showMenu && (
         <button className="btn show-filter-menu" onClick={() => showMenu(true)}>
-          <img src={FiltersMenuIcon} alt="filters menu" />
+          <img height="80%" src={FiltersMenuIcon} alt="filters menu" />
         </button>
       )}
-      <div className="my-1 ">
+      <div className="my-1 ms-2">
         {nbSelectedLieux}{" "}
         <span className={!filtersParams.find(({ filter }) => filter.key === "type") ? "d-inline" : "d-l-none"}>
           {`lieu${nbSelectedLieux > 1 ? "x" : ""}`}&nbsp;
