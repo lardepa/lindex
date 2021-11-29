@@ -110,7 +110,7 @@
 }
 .logo {
   height: $logo-height;
-  margin: 0.8rem 1rem 0.8rem 1rem;
+  margin: $logo-margin-top 1rem;
   // max-height: 10vh;
   // min-height: $logo-height;
   width: calc(100% - 2rem);
@@ -121,7 +121,7 @@
   }
 }
 .max-height-but-logo {
-  height: calc(100vh - #{$logo-height} - 2 * 0.8rem);
+  height: calc(100vh - #{$logo-height} - 2 * #{$logo-margin-top});
 }
 @include media-breakpoint-down(md) {
   .max-height-but-logo {

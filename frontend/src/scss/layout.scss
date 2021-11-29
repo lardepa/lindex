@@ -30,7 +30,7 @@ h3 {
 }
 @include media-breakpoint-down(sm) {
   .full-responsive-height {
-    height: 90vh;
+    height: calc(100vh - #{$logo-height} - 2 * #{$logo-margin-top});
   }
 }
 .parcours {

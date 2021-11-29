@@ -102,6 +102,6 @@
     grid-template-areas:
       "status-bar status-bar status-bar"
       "main-content main-content main-content";
-    height: calc(100vh - #{$logo-height});
+    height: calc(100vh - #{$logo-height} - 2 * #{$logo-margin-top});
   }
 }
