@@ -1,163 +1,116 @@
 {
   "id": "recXrmOzavWvTwx9T",
-  "nom": "Viséo",
   "adresse": "16 boulevard de berlin 4000 nantes\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.216643,
-    -1.536066
-  ],
-  "date": "2021",
-  "maitre_oeuvre": [
+  "sélections": [
     {
-      "id": "recAzaWtKKkvowDI3",
-      "nom": "RAUM architectes",
-      "site_web": "https://raum.fr/",
-      "maitre_oeuvre": [
+      "id": "recBb6NHdfNisYSjI",
+      "portrait": [
+        "recxCPsnbbOskIBtT"
+      ],
+      "invité": "Personnalité 1",
+      "lieux": [
+        "recahyhau12Ghaztg",
         "recXrmOzavWvTwx9T",
+        "recXIe49AgTTO1AuY",
         "recu65igj5DHRpC30"
+      ],
+      "status": "Publié",
+      "introduction": "Perso 1 est un célèbre TEXTE texte texte texte texte v TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte",
+      "édito": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam \n",
+      "dernière modification": "2021-10-07T14:58:06.000Z"
+    },
+    {
+      "id": "recKLeXsRwBMLlMUR",
+      "portrait": [
+        "recIwd1dZ2nHUd5WG"
+      ],
+      "invité": "Personnalité 2",
+      "lieux": [
+        "recRlloApjtcScitR",
+        "recXrmOzavWvTwx9T",
+        "recRFuKGP2zlHup3A",
+        "recXIe49AgTTO1AuY"
+      ],
+      "status": "Publié",
+      "introduction": "On a fait appel à Perso 2 parceque :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
+      "en une": true,
+      "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\ncommodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+      "dernière modification": "2021-10-07T15:01:46.000Z"
+    }
+  ],
+  "type": [
+    {
+      "id": "recutlOJwb5QQKd5c",
+      "type_destination": "Logement",
+      "destination": "Logements Collectifs",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "recdqD43kpp1pOv3x",
+        "rec72cuqtL80v3RYm",
+        "recjkXrXE0hZw6f4t",
+        "recP6LOBOUBRRlLnt",
+        "rec0Rwewbk2MMTQAD",
+        "recMKYgGVASf6j8rE"
       ]
     },
     {
-      "id": "recQCBctiWmJvPyre",
-      "nom": "D'ici Là Paysage",
-      "site_web": "http://www.d-ici-la.com/",
-      "maitre_oeuvre": [
+      "id": "recmAxAQJjnH2ft4h",
+      "type_destination": "Équipement",
+      "destination": "Parking silo",
+      "lieux": [
         "recXrmOzavWvTwx9T"
       ]
+    },
+    {
+      "id": "recjX9ygJ9VA81LG6",
+      "type_destination": "Équipement",
+      "destination": "Bureaux",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "rec4neQMuPblp8tuX",
+        "recahyhau12Ghaztg",
+        "recpN2hW8eG6SnkLe",
+        "recVoRhrrPKCDBNwW",
+        "recIsRYGFH3wqqTYC",
+        "recTaYdefmJUHsBOi"
+      ]
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "recAzaWtKKkvowDI3",
+      "maitre_oeuvre": [
+        "recXrmOzavWvTwx9T",
+        "recu65igj5DHRpC30"
+      ],
+      "site_web": "https://raum.fr/",
+      "nom": "RAUM architectes"
+    },
+    {
+      "id": "recQCBctiWmJvPyre",
+      "maitre_oeuvre": [
+        "recXrmOzavWvTwx9T"
+      ],
+      "site_web": "http://www.d-ici-la.com/",
+      "nom": "D'ici Là Paysage"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recO0mgRjbzwkE5YB",
-      "nom": "Nantes Métropole Aménagement",
       "maitre_ouvrage": [
         "recXrmOzavWvTwx9T",
         "recMKYgGVASf6j8rE"
-      ]
+      ],
+      "nom": "Nantes Métropole Aménagement"
     }
   ],
-  "périodes": [
-    {
-      "id": "recrOfcUS3a0toY0i",
-      "nom": "années 2020",
-      "lieux": [
-        "recTr9BzAt1jG9yaJ",
-        "recRlloApjtcScitR",
-        "recXrmOzavWvTwx9T",
-        "recahyhau12Ghaztg",
-        "recT5ti90aD2NTdCN",
-        "reclKHqSQhv9rHQQ4",
-        "rec3sjAwggXRAkqGc"
-      ]
-    }
-  ],
-  "médias": [
-    {
-      "id": "rec08aeXrbCpBd1e9",
-      "titre": "Viséo 2",
-      "fichiers": [
-        {
-          "id": "att0778XAqR60m22j",
-          "width": 2000,
-          "height": 2500,
-          "url": "https://dl.airtable.com/.attachments/22937bd76840084adcb6ecee1cb4d7a5/86a961cd/viseo1.jpg",
-          "filename": "viseo (1).jpg",
-          "size": 1344972,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/485892ec7fbaf26d56ea71b41e6c0bfc/62a78917",
-              "width": 29,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/fafa653f939c45666422cadaff1fd895/549427a1",
-              "width": 512,
-              "height": 640
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/5256c878d3bb40f14363943fcb72c60f/bea6c6c3",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "credits": "RAUM",
-      "lieux": [
-        "recXrmOzavWvTwx9T"
-      ]
-    },
-    {
-      "id": "recuNktTmZtpBugOG",
-      "titre": "Viséo 3",
-      "fichiers": [
-        {
-          "id": "attprQyoNlMQSsSzr",
-          "width": 1500,
-          "height": 1875,
-          "url": "https://dl.airtable.com/.attachments/baed7ea57372f9d0bccfab210e2ff258/ed3e83e4/viseo1.tif",
-          "filename": "viseo (1).tif",
-          "size": 1030536,
-          "type": "image/tiff",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/6155ccd7894578c661ce7a47e53f76ca/30afd3b1.png",
-              "width": 29,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/3eebfe7d7a0a98c6f35068c9f840ff39/aa3b8ce7.png",
-              "width": 512,
-              "height": 640
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/41685875f027cb121c683c3ab538c694/14f1ff92.png",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "credits": "RAUM",
-      "lieux": [
-        "recXrmOzavWvTwx9T"
-      ]
-    },
-    {
-      "id": "recqg0TJwOko8Ui8W",
-      "titre": "Viseo plaquette visite",
-      "fichiers": [
-        {
-          "id": "attYSxmmfLlUtGipI",
-          "url": "https://dl.airtable.com/.attachments/fb3e7b99d8edabba8212f25dedb008fd/2ae9a02b/plaquetteViseoa5.pdf",
-          "filename": "plaquette Viseo a5.pdf",
-          "size": 4345098,
-          "type": "application/pdf",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/69d2acfcebbe25c53da9e8e50a0a0fdf/137eedc5",
-              "width": 25,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/dabe55c93dd15e5abd0b4af244813b79/72312c35",
-              "width": 361,
-              "height": 512
-            }
-          }
-        }
-      ],
-      "credits": "RAUM / Ardepa",
-      "lieux": [
-        "recXrmOzavWvTwx9T"
-      ]
-    }
-  ],
+  "status": "Publié",
+  "présentation": "Le quartier Euronantes, dont l’îlot 5B vient finaliser la frange Nord à proximité de la gare, participe au désenclavement du quartier Malakoff en le reliant au quartier Dalby, au quartier des Olivettes et par extension au centre historique et au développement Ouest de l’île de Nantes. Le projet s’intègre donc comme outil de connexion entre les usages proposés et le grand paysage, et se construit autour de 3 enjeux majeurs :\n\\- L’échelle humaine comme mesure de référence : cheminements et usages au cœur de l’identité du projet.\n\\- Une architecture qui par la qualité de sa matière et de ses volumes participe à la qualification pérenne du quartier.\n\\- La mise en place des conditions d’une mixité programmatique : dissocier clairement les entités afin de garantir leur modularité et de favoriser les échanges.\n1\\. Une architecture de chemins\nLa fabrique du paysage urbain à l’échelle de l’homme, significative dans la construction du quartier par le travail du « volume du piéton » est abordée dans le projet par un travail précis sur la porosité des rez-de chaussée et sur leur lisibilité. Cette démarche est poursuivie dans l’ensemble du projet en offrant un grand escalier qui non seulement garantit la potentialité publique des toitures en leur offrant un adressage sur rue, mais garantit aussi le caractère piéton des niveaux de parking.\n2\\. La matière de la ville\nLes matériaux utilisés s’intègrent comme première garantie d’un projet économe énergétiquement et financièrement :\n\\- La double peau en briques des bureaux SNCF permet de traiter efficacement les variations de porosité entre les locaux et l’extérieur\n\\- Le parking est construit selon des dispositifs structurels en béton rouge permettant sa transparence maximale et son éventuelle mutation future (éclairage naturel, hauteur sous dalle importante)\n\\- Les logements profitent d’une façade épaisse qui offrent sur toutes ses orientations un jeu subtil de nus extérieurs pour les espaces extérieurs protégés et de grand vitrage au nu intérieur des façades, en marquant la massivité du dispositif structurel.\n\nRetrouvez l'article et la plaquette de cette visite sur [le site web de l'ardepa ](https://www.lardepa.com/genese-20213-viseo/)\n",
+  "en une": true,
+  "nom": "Viséo",
   "cover_media": {
     "id": "recgsgovOytQsNOoV",
-    "titre": "Viséo 1",
     "fichiers": [
       {
         "id": "attSkmVXTYh8LPbK5",
@@ -186,88 +139,135 @@
         }
       }
     ],
+    "titre": "Viséo 1",
     "credits": "RAUM",
     "cover_lieux": [
       "recXrmOzavWvTwx9T"
     ]
   },
-  "type": [
+  "périodes": [
     {
-      "id": "recutlOJwb5QQKd5c",
-      "destination": "Logements Collectifs",
-      "type_destination": "Logement",
+      "id": "recrOfcUS3a0toY0i",
       "lieux": [
-        "recXrmOzavWvTwx9T",
-        "recdqD43kpp1pOv3x",
-        "rec72cuqtL80v3RYm",
-        "recjkXrXE0hZw6f4t",
-        "recP6LOBOUBRRlLnt",
-        "rec0Rwewbk2MMTQAD",
-        "recMKYgGVASf6j8rE"
-      ]
-    },
-    {
-      "id": "recmAxAQJjnH2ft4h",
-      "destination": "Parking silo",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recXrmOzavWvTwx9T"
-      ]
-    },
-    {
-      "id": "recjX9ygJ9VA81LG6",
-      "destination": "Bureaux",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recXrmOzavWvTwx9T",
-        "rec4neQMuPblp8tuX",
-        "recahyhau12Ghaztg",
-        "recpN2hW8eG6SnkLe",
-        "recVoRhrrPKCDBNwW",
-        "recIsRYGFH3wqqTYC",
-        "recTaYdefmJUHsBOi"
-      ]
-    }
-  ],
-  "sélections": [
-    {
-      "id": "recBb6NHdfNisYSjI",
-      "invité": "Personnalité 1",
-      "portrait": [
-        "recxCPsnbbOskIBtT"
-      ],
-      "status": "Publié",
-      "introduction": "Perso 1 est un célèbre TEXTE texte texte texte texte v TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte",
-      "édito": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam \n",
-      "lieux": [
-        "recahyhau12Ghaztg",
-        "recXrmOzavWvTwx9T",
-        "recXIe49AgTTO1AuY",
-        "recu65igj5DHRpC30"
-      ],
-      "dernière modification": "2021-10-07T14:58:06.000Z"
-    },
-    {
-      "id": "recKLeXsRwBMLlMUR",
-      "invité": "Personnalité 2",
-      "portrait": [
-        "recIwd1dZ2nHUd5WG"
-      ],
-      "status": "Publié",
-      "introduction": "On a fait appel à Perso 2 parceque :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
-      "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\ncommodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-      "lieux": [
+        "recTr9BzAt1jG9yaJ",
         "recRlloApjtcScitR",
         "recXrmOzavWvTwx9T",
-        "recRFuKGP2zlHup3A",
-        "recXIe49AgTTO1AuY"
+        "recahyhau12Ghaztg",
+        "recT5ti90aD2NTdCN",
+        "reclKHqSQhv9rHQQ4",
+        "rec3sjAwggXRAkqGc"
       ],
-      "en une": true,
-      "dernière modification": "2021-10-07T15:01:46.000Z"
+      "nom": "années 2020"
     }
   ],
-  "présentation": "Le quartier Euronantes, dont l’îlot 5B vient finaliser la frange Nord à proximité de la gare, participe au désenclavement du quartier Malakoff en le reliant au quartier Dalby, au quartier des Olivettes et par extension au centre historique et au développement Ouest de l’île de Nantes. Le projet s’intègre donc comme outil de connexion entre les usages proposés et le grand paysage, et se construit autour de 3 enjeux majeurs :\n\\- L’échelle humaine comme mesure de référence : cheminements et usages au cœur de l’identité du projet.\n\\- Une architecture qui par la qualité de sa matière et de ses volumes participe à la qualification pérenne du quartier.\n\\- La mise en place des conditions d’une mixité programmatique : dissocier clairement les entités afin de garantir leur modularité et de favoriser les échanges.\n1\\. Une architecture de chemins\nLa fabrique du paysage urbain à l’échelle de l’homme, significative dans la construction du quartier par le travail du « volume du piéton » est abordée dans le projet par un travail précis sur la porosité des rez-de chaussée et sur leur lisibilité. Cette démarche est poursuivie dans l’ensemble du projet en offrant un grand escalier qui non seulement garantit la potentialité publique des toitures en leur offrant un adressage sur rue, mais garantit aussi le caractère piéton des niveaux de parking.\n2\\. La matière de la ville\nLes matériaux utilisés s’intègrent comme première garantie d’un projet économe énergétiquement et financièrement :\n\\- La double peau en briques des bureaux SNCF permet de traiter efficacement les variations de porosité entre les locaux et l’extérieur\n\\- Le parking est construit selon des dispositifs structurels en béton rouge permettant sa transparence maximale et son éventuelle mutation future (éclairage naturel, hauteur sous dalle importante)\n\\- Les logements profitent d’une façade épaisse qui offrent sur toutes ses orientations un jeu subtil de nus extérieurs pour les espaces extérieurs protégés et de grand vitrage au nu intérieur des façades, en marquant la massivité du dispositif structurel.\n\nRetrouvez l'article et la plaquette de cette visite sur [le site web de l'ardepa ](https://www.lardepa.com/genese-20213-viseo/)\n",
+  "geolocalisation": [
+    47.216643,
+    -1.536066
+  ],
   "département": "44 Loire-Atlantique",
-  "en une": true,
+  "date": "2021",
+  "médias": [
+    {
+      "id": "rec08aeXrbCpBd1e9",
+      "fichiers": [
+        {
+          "id": "att0778XAqR60m22j",
+          "width": 2000,
+          "height": 2500,
+          "url": "https://dl.airtable.com/.attachments/22937bd76840084adcb6ecee1cb4d7a5/86a961cd/viseo1.jpg",
+          "filename": "viseo (1).jpg",
+          "size": 1344972,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/485892ec7fbaf26d56ea71b41e6c0bfc/62a78917",
+              "width": 29,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fafa653f939c45666422cadaff1fd895/549427a1",
+              "width": 512,
+              "height": 640
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/5256c878d3bb40f14363943fcb72c60f/bea6c6c3",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recXrmOzavWvTwx9T"
+      ],
+      "titre": "Viséo 2",
+      "credits": "RAUM"
+    },
+    {
+      "id": "recuNktTmZtpBugOG",
+      "fichiers": [
+        {
+          "id": "attprQyoNlMQSsSzr",
+          "width": 1500,
+          "height": 1875,
+          "url": "https://dl.airtable.com/.attachments/baed7ea57372f9d0bccfab210e2ff258/ed3e83e4/viseo1.tif",
+          "filename": "viseo (1).tif",
+          "size": 1030536,
+          "type": "image/tiff",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/6155ccd7894578c661ce7a47e53f76ca/30afd3b1.png",
+              "width": 29,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3eebfe7d7a0a98c6f35068c9f840ff39/aa3b8ce7.png",
+              "width": 512,
+              "height": 640
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/41685875f027cb121c683c3ab538c694/14f1ff92.png",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recXrmOzavWvTwx9T"
+      ],
+      "titre": "Viséo 3",
+      "credits": "RAUM"
+    },
+    {
+      "id": "recqg0TJwOko8Ui8W",
+      "fichiers": [
+        {
+          "id": "attYSxmmfLlUtGipI",
+          "url": "https://dl.airtable.com/.attachments/fb3e7b99d8edabba8212f25dedb008fd/2ae9a02b/plaquetteViseoa5.pdf",
+          "filename": "plaquette Viseo a5.pdf",
+          "size": 4345098,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/69d2acfcebbe25c53da9e8e50a0a0fdf/137eedc5",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/dabe55c93dd15e5abd0b4af244813b79/72312c35",
+              "width": 361,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recXrmOzavWvTwx9T"
+      ],
+      "titre": "Viseo plaquette visite",
+      "credits": "RAUM / Ardepa"
+    }
+  ],
   "dernière modification": "2021-10-04T08:13:14.000Z"
 }

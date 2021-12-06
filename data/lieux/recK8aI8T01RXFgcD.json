@@ -1,69 +1,147 @@
 {
   "id": "recK8aI8T01RXFgcD",
-  "nom": "Palais des sports de Beaulieu",
   "adresse": "7-9 Rue André Tardieu 44200 Nantes\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.209036,
-    -1.536462
+  "type": [
+    {
+      "id": "recVSbbcBxY2ydzDN",
+      "type_destination": "Équipement",
+      "destination": "Équipement sportif",
+      "lieux": [
+        "rechtsQSNXyvtp75c",
+        "recYQXv9Df1Bn5fTu",
+        "recK8aI8T01RXFgcD",
+        "receDNWxTooSTCLHo"
+      ]
+    }
   ],
-  "date": "1973",
   "maitre_oeuvre": [
     {
       "id": "recpjzCDWnnKxEpbk",
-      "nom": "Georges Evano architecte",
       "maitre_oeuvre": [
         "recqyWBYUvLlSsdix",
         "recK8aI8T01RXFgcD"
-      ]
+      ],
+      "nom": "Georges Evano architecte"
     },
     {
       "id": "recO52D5cD3JhPEJp",
-      "nom": "Jean-Luc Pellerin architecte",
       "maitre_oeuvre": [
         "recK8aI8T01RXFgcD"
-      ]
+      ],
+      "nom": "Jean-Luc Pellerin architecte"
     },
     {
       "id": "recNZ1FrE8vvoDqfk",
-      "nom": "Richard Dievolski Ingénieur",
       "maitre_oeuvre": [
         "recK8aI8T01RXFgcD"
-      ]
+      ],
+      "nom": "Richard Dievolski Ingénieur"
     },
     {
       "id": "recoMuGLEUNFA2DOQ",
-      "nom": "Louis Fruitet ingénieur",
       "maitre_oeuvre": [
         "recK8aI8T01RXFgcD"
-      ]
+      ],
+      "nom": "Louis Fruitet ingénieur"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recL4Vs8QCoqNKb4j",
-      "nom": "Ville de Nantes (44)",
       "maitre_ouvrage": [
         "receMWo5ARK964EuD",
         "recK8aI8T01RXFgcD",
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx"
+      ],
+      "nom": "Ville de Nantes (44)"
+    }
+  ],
+  "parcours": [
+    {
+      "id": "recit6lDBhqoxoJn9",
+      "nom": "Le bien-être en ville",
+      "status": "Publié",
+      "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
+      "médias": [
+        "recKe5H17rMJ2ezdf",
+        "recYDhDq2wZ1zWGhE",
+        "recaTHLX6YXDUfkh2"
+      ],
+      "en une": true,
+      "date": "2019-07-06",
+      "cover_media": [
+        "recBNHsKIkH2zYavH"
+      ],
+      "sous-titre": "Expédition urbaine 2019#2",
+      "type parcours": "Expédition",
+      "lieux": [
+        "recK8aI8T01RXFgcD",
+        "receDNWxTooSTCLHo",
+        "recKbU8dW7ri9Ihu9"
       ]
     }
   ],
+  "status": "Publié",
+  "présentation": "Prisme noir posé sur l’île Beaulieu à proximité de la Loire et face au stade Marcel Saupin, le Palais des sports a été dessiné en 1967 et 1968 mais réalisé en deux étapes (1969-1973 puis 1976-1979) pour des raisons de répartition des financements (4,6 millions de francs) accordées par l’État sur deux Plans successifs (sur un budget prévisionnel total de 12 millions de francs)\n\n**_Le successeur d’un bâtiment célèbre_**\n\nL’ancienne halle du Champs de Mars (édifiée en 1938) étant jugée trop exigüe pour accueillir le public des matches de basket et les manifestations internationales, la municipalité d’André Morice décide de construire une salle de 6 000 places, capacité rapidement ramenée à 5 000.\nGeorges Evano et Jean-Luc Pellerin imaginent une enveloppe de verre noir, portée par une structure métallique reposant sur les tribunes en béton. \nLa toiture est constituée d’une structure tridirectionnelle d’une portée record de 87 mètres, calculée selon un programme «électronique» mis au point par l’ingénieur Richard Dziewolski.\n\n**_Références et innovation_**\n\nS’inspirant de la disposition intérieure de la salle des concerts symphoniques de la Philharmonie de Berlin (2400 places, Hans Scharoun, 1963) et des pans de verre des édifices de l’architecte anglais James Stirling, le Palais introduit à Nantes une architecture de verre et métal que célèbreront de nombreuses publications et le Prix européen de l’architecture métallique 1977.\nElle est représentative d’une recherche de la diminution du poids de la matière nécessaire à la construction à laquelle se livrent alors architectes et ingénieurs, recherche que l’ingénieur nantais Robert Le Ricolais conduira à des sommets théoriques tandis que de nombreux professionnels travaillent sur les structures spatiales dont Stéphane du Château, l’ingénieur qui calcula la couverture de l’église des Dervallières.\n\n**_La lumière et l’acoustique_**\n\nLa mise en couleur radicale (noir et rouge pour l’extérieur, rouge blanc et « vert jardin » pour l’intérieur) conçue par Bernard Barto souligne l’organisation en couronne des différents locaux autour de la grande salle, disposition adoptée pour assurer une visibilité optimale quelle que soit la place.\nLa salle étant dévolue aux grandes manifestations sportives, les contraintes de la télévision couleur durent être prises en compte en vue « d’assurer l’éclairage uniforme des sportifs en évolution. »\nNéanmoins, les questions de l’isolation phonique et de l’isolation solaire se posèrent dès la mise en service de l’édifice. Si la première fut résolue rapidement, la seconde fit l’objet de recherches organisées autour de quatre thématiques : protéger sans assombrir, préserver l’esthétique d’ensemble et notamment la transparence de l’édifice vu depuis l’extérieur, éviter les effets miroir, préserver la facilité d’entretien. \nLa pose de lames de luxalon sur la face intérieure des parois vitrées, solution retenue, ne put être mise en œuvre en raison de son coût.\n\n**_De nouveaux développements_**\n\nEn dépit de ses deux faiblesses, ce stade inauguré un an après le Parc des Princes à Paris témoigne de la contribution permanente des édifices sportifs à l’évolution des formes architecturales du XXe siècle. \n\n_Texte : Nantes Métropole_\n\n_• L'ardepa a visité ce lieu le 06 juillet 2019, lors de **l'Expédition urbaine 2019#2 - Le bien-être en ville.**_\n\n",
+  "nom": "Palais des sports de Beaulieu",
+  "cover_media": {
+    "id": "recKe5H17rMJ2ezdf",
+    "fichiers": [
+      {
+        "id": "attpBVFoqXfmDDkix",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/55d6e588b60229a442663d08b5b4b08f/7aa31925/sportsbeaulieucover.jpg",
+        "filename": "sports beaulieu cover.jpg",
+        "size": 466210,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bf5a4bdba80e30b2dc463a1118859ae4/f5f5dbf0",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/95d431341a7bbdc8083fb7dffad1f5fa/8991982c",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/de57f30f9cf64612ea2ea48be160d422/caccfab7",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "parcours": [
+      "recit6lDBhqoxoJn9"
+    ],
+    "titre": "sports beaulieu cover",
+    "credits": "Valery Joncheray / Samoa",
+    "cover_lieux": [
+      "recK8aI8T01RXFgcD"
+    ]
+  },
   "périodes": [
     {
       "id": "recOTINF3xZD1l6uI",
-      "nom": "années 1970",
       "lieux": [
         "recK8aI8T01RXFgcD"
-      ]
+      ],
+      "nom": "années 1970"
     }
   ],
+  "geolocalisation": [
+    47.209036,
+    -1.536462
+  ],
+  "département": "44 Loire-Atlantique",
+  "date": "1973",
   "médias": [
     {
       "id": "rec6M7g5lZA7ce2h0",
-      "titre": "sport beaulieu photos",
       "fichiers": [
         {
           "id": "attX5FmYCipc1JYEe",
@@ -144,14 +222,14 @@
           }
         }
       ],
-      "credits": "Georges Evano / Ville de Nantes",
       "lieux": [
         "recK8aI8T01RXFgcD"
-      ]
+      ],
+      "titre": "sport beaulieu photos",
+      "credits": "Georges Evano / Ville de Nantes"
     },
     {
       "id": "rectCSY0RPTWlBn1Y",
-      "titre": "sports beaulieu docs",
       "fichiers": [
         {
           "id": "attlyhNG2LTM7OQFA",
@@ -206,14 +284,14 @@
           }
         }
       ],
-      "credits": "Eveno / Pellerin",
       "lieux": [
         "recK8aI8T01RXFgcD"
-      ]
+      ],
+      "titre": "sports beaulieu docs",
+      "credits": "Eveno / Pellerin"
     },
     {
       "id": "recotkbZH4BZFgqOk",
-      "titre": "sports beaulieu plaquette",
       "fichiers": [
         {
           "id": "attYztoLTmAlVbLnC",
@@ -235,91 +313,13 @@
           }
         }
       ],
-      "credits": "Nantes métropole / Ardepa",
       "lieux": [
         "recK8aI8T01RXFgcD",
         "receDNWxTooSTCLHo"
-      ]
+      ],
+      "titre": "sports beaulieu plaquette",
+      "credits": "Nantes métropole / Ardepa"
     }
   ],
-  "cover_media": {
-    "id": "recKe5H17rMJ2ezdf",
-    "titre": "sports beaulieu cover",
-    "fichiers": [
-      {
-        "id": "attpBVFoqXfmDDkix",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/55d6e588b60229a442663d08b5b4b08f/7aa31925/sportsbeaulieucover.jpg",
-        "filename": "sports beaulieu cover.jpg",
-        "size": 466210,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/bf5a4bdba80e30b2dc463a1118859ae4/f5f5dbf0",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/95d431341a7bbdc8083fb7dffad1f5fa/8991982c",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/de57f30f9cf64612ea2ea48be160d422/caccfab7",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "Valery Joncheray / Samoa",
-    "cover_lieux": [
-      "recK8aI8T01RXFgcD"
-    ],
-    "parcours": [
-      "recit6lDBhqoxoJn9"
-    ]
-  },
-  "type": [
-    {
-      "id": "recVSbbcBxY2ydzDN",
-      "destination": "Équipement sportif",
-      "type_destination": "Équipement",
-      "lieux": [
-        "rechtsQSNXyvtp75c",
-        "recYQXv9Df1Bn5fTu",
-        "recK8aI8T01RXFgcD",
-        "receDNWxTooSTCLHo"
-      ]
-    }
-  ],
-  "présentation": "Prisme noir posé sur l’île Beaulieu à proximité de la Loire et face au stade Marcel Saupin, le Palais des sports a été dessiné en 1967 et 1968 mais réalisé en deux étapes (1969-1973 puis 1976-1979) pour des raisons de répartition des financements (4,6 millions de francs) accordées par l’État sur deux Plans successifs (sur un budget prévisionnel total de 12 millions de francs)\n\n**_Le successeur d’un bâtiment célèbre_**\n\nL’ancienne halle du Champs de Mars (édifiée en 1938) étant jugée trop exigüe pour accueillir le public des matches de basket et les manifestations internationales, la municipalité d’André Morice décide de construire une salle de 6 000 places, capacité rapidement ramenée à 5 000.\nGeorges Evano et Jean-Luc Pellerin imaginent une enveloppe de verre noir, portée par une structure métallique reposant sur les tribunes en béton. \nLa toiture est constituée d’une structure tridirectionnelle d’une portée record de 87 mètres, calculée selon un programme «électronique» mis au point par l’ingénieur Richard Dziewolski.\n\n**_Références et innovation_**\n\nS’inspirant de la disposition intérieure de la salle des concerts symphoniques de la Philharmonie de Berlin (2400 places, Hans Scharoun, 1963) et des pans de verre des édifices de l’architecte anglais James Stirling, le Palais introduit à Nantes une architecture de verre et métal que célèbreront de nombreuses publications et le Prix européen de l’architecture métallique 1977.\nElle est représentative d’une recherche de la diminution du poids de la matière nécessaire à la construction à laquelle se livrent alors architectes et ingénieurs, recherche que l’ingénieur nantais Robert Le Ricolais conduira à des sommets théoriques tandis que de nombreux professionnels travaillent sur les structures spatiales dont Stéphane du Château, l’ingénieur qui calcula la couverture de l’église des Dervallières.\n\n**_La lumière et l’acoustique_**\n\nLa mise en couleur radicale (noir et rouge pour l’extérieur, rouge blanc et « vert jardin » pour l’intérieur) conçue par Bernard Barto souligne l’organisation en couronne des différents locaux autour de la grande salle, disposition adoptée pour assurer une visibilité optimale quelle que soit la place.\nLa salle étant dévolue aux grandes manifestations sportives, les contraintes de la télévision couleur durent être prises en compte en vue « d’assurer l’éclairage uniforme des sportifs en évolution. »\nNéanmoins, les questions de l’isolation phonique et de l’isolation solaire se posèrent dès la mise en service de l’édifice. Si la première fut résolue rapidement, la seconde fit l’objet de recherches organisées autour de quatre thématiques : protéger sans assombrir, préserver l’esthétique d’ensemble et notamment la transparence de l’édifice vu depuis l’extérieur, éviter les effets miroir, préserver la facilité d’entretien. \nLa pose de lames de luxalon sur la face intérieure des parois vitrées, solution retenue, ne put être mise en œuvre en raison de son coût.\n\n**_De nouveaux développements_**\n\nEn dépit de ses deux faiblesses, ce stade inauguré un an après le Parc des Princes à Paris témoigne de la contribution permanente des édifices sportifs à l’évolution des formes architecturales du XXe siècle. \n\n_Texte : Nantes Métropole_\n\n_• L'ardepa a visité ce lieu le 06 juillet 2019, lors de **l'Expédition urbaine 2019#2 - Le bien-être en ville.**_\n\n",
-  "parcours": [
-    {
-      "id": "recit6lDBhqoxoJn9",
-      "nom": "Le bien-être en ville",
-      "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
-      "status": "Publié",
-      "date": "2019-07-06",
-      "lieux": [
-        "recK8aI8T01RXFgcD",
-        "receDNWxTooSTCLHo",
-        "recKbU8dW7ri9Ihu9"
-      ],
-      "cover_media": [
-        "recBNHsKIkH2zYavH"
-      ],
-      "médias": [
-        "recKe5H17rMJ2ezdf",
-        "recYDhDq2wZ1zWGhE",
-        "recaTHLX6YXDUfkh2"
-      ],
-      "type parcours": "Expédition",
-      "sous-titre": "Expédition urbaine 2019#2",
-      "en une": true
-    }
-  ],
-  "département": "44 Loire-Atlantique",
   "dernière modification": "2021-10-07T14:51:02.000Z"
 }

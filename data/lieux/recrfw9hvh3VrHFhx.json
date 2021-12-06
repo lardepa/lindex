@@ -1,38 +1,47 @@
 {
   "id": "recrfw9hvh3VrHFhx",
-  "nom": "Quai des plantes",
   "adresse": "Quai de la Fosse 44100 Nantes\n",
-  "status": "En rédaction",
-  "geolocalisation": [
-    47.20830051278393,
-    -1.5685491667942395
-  ],
-  "date": "2019",
-  "maitre_oeuvre": [
+  "type": [
     {
-      "id": "rec6KmSOJptKguWYJ",
-      "nom": "Service des Espaces Verts et de l'Environnement (SEVE) de Nantes",
-      "maitre_oeuvre": [
-        "recrfw9hvh3VrHFhx"
-      ]
-    }
-  ],
-  "maitre_ouvrage": [
-    {
-      "id": "recL4Vs8QCoqNKb4j",
-      "nom": "Ville de Nantes (44)",
-      "maitre_ouvrage": [
-        "receMWo5ARK964EuD",
-        "recK8aI8T01RXFgcD",
+      "id": "recEWoJWizkQSrwEo",
+      "type_destination": "Espace public",
+      "destination": "Aménagement paysager",
+      "lieux": [
+        "recJgalSFcQX7dLe6",
+        "rec0tsNbxoh48H20l",
+        "recP6LOBOUBRRlLnt",
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx"
       ]
     }
   ],
+  "maitre_oeuvre": [
+    {
+      "id": "rec6KmSOJptKguWYJ",
+      "maitre_oeuvre": [
+        "recrfw9hvh3VrHFhx"
+      ],
+      "nom": "Service des Espaces Verts et de l'Environnement (SEVE) de Nantes"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recL4Vs8QCoqNKb4j",
+      "maitre_ouvrage": [
+        "receMWo5ARK964EuD",
+        "recK8aI8T01RXFgcD",
+        "recKbU8dW7ri9Ihu9",
+        "recrfw9hvh3VrHFhx"
+      ],
+      "nom": "Ville de Nantes (44)"
+    }
+  ],
+  "status": "En rédaction",
+  "présentation": "La pépinière éphémère à ciel ouvert de Quai des Plantes, proposée par le Service des Espaces Verts et de l'environnement (SEVE) de Nantes, prend racine du Pont Anne-de- Bretagne et s’étend jusqu’à la Gare Maritime. Elle offre une promenade verte d’environ 600 mètres, comprenant 1400 arbres de 200 variétés différentes issus de la pépinière municipale. L’aménagement du site comprend également : des bancs et chaises longues pour s’asseoir et se détendre face à la Loire, des tables de pique-nique, un verger, un potager, et la désormais célèbre guinguette « 40 pieds », au niveau du Maillé Brézé, qui propose rafraîchissements, petite restauration et chaque vendredi soir à l’heure de l’apéro, des concerts acoustiques de musiciens locaux.\nChaque année, entre 1300 et 1500 arbres sortent de la pépinière municipale du Grand Blottereau pour être plantés dans les 11 quartiers de Nantes. Cette initiative de la Ville, a pour premier objectif de valoriser auprès des habitants ce que représente concrètement, en terme de quantité, le nombre d’arbres plantés chaque année à Nantes, s’ils étaient regroupés en un seul lieu, et en terme de qualité, la diversité des essences du patrimoine arboré nantais. C’est également une manière de mettre en valeur les coulisses de la pépinière municipale, spécificité nantaise sauvegardée depuis près de 60 ans, pour préserver le savoir-faire nantais et continuer de produire des arbres localement.\nLe site « Quai des plantes » est une réponse aux attentes des habitants, qui dans le cadre du Grand débat « Nantes, la Loire et nous », ont exprimé le souhait de retrouver une proximité avec la Loire. C’est également une préfiguration des futures activités qui pourraient être mises en place sur les bords de Loire, toujours avec la volonté politique d’aménager plus d’espaces de nature en ville.\nL'espace de promenade (carrés d'arbres) entre le Pont Anne de Bretagne et le Passage de la Chézine (au niveau de la serre des vivaces), ainsi que les transats et bancs en bois, restent accessibles au public tout l'hiver.\n\n_Texte Le Voyage À Nantes_\n\n_• L'ardepa a visité ce lieu le 21 septembre 2019, lors de l**'Expédition urbaine 2019#3 - La possibilité d'un paysage nourricier.**_\n",
+  "nom": "Quai des plantes",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -85,24 +94,15 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
-  "type": [
-    {
-      "id": "recEWoJWizkQSrwEo",
-      "destination": "Aménagement paysager",
-      "type_destination": "Espace public",
-      "lieux": [
-        "recJgalSFcQX7dLe6",
-        "rec0tsNbxoh48H20l",
-        "recP6LOBOUBRRlLnt",
-        "recKbU8dW7ri9Ihu9",
-        "recrfw9hvh3VrHFhx"
-      ]
-    }
+  "geolocalisation": [
+    47.20830051278393,
+    -1.5685491667942395
   ],
-  "présentation": "La pépinière éphémère à ciel ouvert de Quai des Plantes, proposée par le Service des Espaces Verts et de l'environnement (SEVE) de Nantes, prend racine du Pont Anne-de- Bretagne et s’étend jusqu’à la Gare Maritime. Elle offre une promenade verte d’environ 600 mètres, comprenant 1400 arbres de 200 variétés différentes issus de la pépinière municipale. L’aménagement du site comprend également : des bancs et chaises longues pour s’asseoir et se détendre face à la Loire, des tables de pique-nique, un verger, un potager, et la désormais célèbre guinguette « 40 pieds », au niveau du Maillé Brézé, qui propose rafraîchissements, petite restauration et chaque vendredi soir à l’heure de l’apéro, des concerts acoustiques de musiciens locaux.\nChaque année, entre 1300 et 1500 arbres sortent de la pépinière municipale du Grand Blottereau pour être plantés dans les 11 quartiers de Nantes. Cette initiative de la Ville, a pour premier objectif de valoriser auprès des habitants ce que représente concrètement, en terme de quantité, le nombre d’arbres plantés chaque année à Nantes, s’ils étaient regroupés en un seul lieu, et en terme de qualité, la diversité des essences du patrimoine arboré nantais. C’est également une manière de mettre en valeur les coulisses de la pépinière municipale, spécificité nantaise sauvegardée depuis près de 60 ans, pour préserver le savoir-faire nantais et continuer de produire des arbres localement.\nLe site « Quai des plantes » est une réponse aux attentes des habitants, qui dans le cadre du Grand débat « Nantes, la Loire et nous », ont exprimé le souhait de retrouver une proximité avec la Loire. C’est également une préfiguration des futures activités qui pourraient être mises en place sur les bords de Loire, toujours avec la volonté politique d’aménager plus d’espaces de nature en ville.\nL'espace de promenade (carrés d'arbres) entre le Pont Anne de Bretagne et le Passage de la Chézine (au niveau de la serre des vivaces), ainsi que les transats et bancs en bois, restent accessibles au public tout l'hiver.\n\n_Texte Le Voyage À Nantes_\n\n_• L'ardepa a visité ce lieu le 21 septembre 2019, lors de l**'Expédition urbaine 2019#3 - La possibilité d'un paysage nourricier.**_\n",
   "département": "44 Loire-Atlantique",
+  "date": "2019",
   "dernière modification": "2021-10-07T15:16:55.000Z"
 }

@@ -1,37 +1,102 @@
 {
   "id": "recMKYgGVASf6j8rE",
-  "nom": "Désiré Colombe",
   "adresse": "8 Rue Arsène Leloup 44100 Nantes\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.212219,
-    -1.569499
+  "type": [
+    {
+      "id": "recutlOJwb5QQKd5c",
+      "type_destination": "Logement",
+      "destination": "Logements Collectifs",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "recdqD43kpp1pOv3x",
+        "rec72cuqtL80v3RYm",
+        "recjkXrXE0hZw6f4t",
+        "recP6LOBOUBRRlLnt",
+        "rec0Rwewbk2MMTQAD",
+        "recMKYgGVASf6j8rE"
+      ]
+    },
+    {
+      "id": "recgBvHbjDyN7yskz",
+      "type_destination": "Équipement",
+      "destination": "Crèche",
+      "lieux": [
+        "rechtsQSNXyvtp75c",
+        "recMKYgGVASf6j8rE"
+      ]
+    },
+    {
+      "id": "recafJDVUkElwmi2Y",
+      "type_destination": "Équipement",
+      "destination": "Pôle associatif",
+      "lieux": [
+        "recu65igj5DHRpC30",
+        "recMKYgGVASf6j8rE"
+      ]
+    }
   ],
-  "date": "2018",
   "maitre_oeuvre": [
     {
       "id": "rec6QZ9DdLRroDqFh",
-      "nom": "Leibar - Seigneurin Architectes",
-      "site_web": "https://leibarseigneurin.com/",
       "maitre_oeuvre": [
         "recMKYgGVASf6j8rE"
-      ]
+      ],
+      "site_web": "https://leibarseigneurin.com/",
+      "nom": "Leibar - Seigneurin Architectes"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recO0mgRjbzwkE5YB",
-      "nom": "Nantes Métropole Aménagement",
       "maitre_ouvrage": [
         "recXrmOzavWvTwx9T",
         "recMKYgGVASf6j8rE"
-      ]
+      ],
+      "nom": "Nantes Métropole Aménagement"
     }
   ],
+  "status": "Publié",
+  "présentation": "Pour ce projet, Nantes Métropole Aménagement a développé une solution sur mesure pour le compte de la Ville de Nantes, avec un concours d’architecture intégrant l’ensemble des programmes du site, remporté par l’agence d’architecture Leibar & Seigneurin en 2012, et en parallèle une consultation promoteurs à l’issue de laquelle le promoteur ADI a été retenu.\nLe projet associe des programmes publics sous maîtrise d’ouvrage Nantes Métropole Aménagement et des programmes privés sous maîtrise d’ouvrage ADI. Il est porté conjointement entre Nantes Métropole Aménagement et ADI dans le cadre d’un partenariat.\n**Le projet**\nLe Pôle Associatif Désiré Colombe\nLes anciens bâtiments de la Bourse du travail et de l’institut Livet ont fait l’objet d’une restauration lourde avec renforcement des fondations existantes, reconstitution de planchers et sciage de percements sur la façade rue Arsène-Leloup. L’étroitesse du bâtiment Livet a été compensée par la création d’un volume contemporain alternant béton blanc et failles vitrées. Les volumes élancés et la poésie des matériaux ont été mis en valeur. \nL’ensemble présente des espaces atypiques et des ambiances singulières, avec des pièces de grandes hauteurs et des murs chaulés laissant transparaître la pierre.\n**Le nouveau salon Mauduit**\nLe nouveau salon Mauduit constituera demain un équipement majeur destiné aux associations nantaises, mais aussi aux rencontres institutionnelles. Il sera géré par les agents municipaux du pôle associatif Désiré Colombe.\nLes bas-reliefs mythologiques en staff, les luminaires et les rampes de fer forgé art déco préservés vont retrouver place, cet été, dans le nouveau salon Mauduit.\nD’une configuration similaire à celle du salon d’origine, ce nouvel espace permettra une activité adaptée aux usages actuels, tout en maîtrisant l’acoustique.\nOuvert sur la cour Mauduit, le hall de l’Arche accueillera les visiteurs. Le laque « L’Arche de Noé » de Pierre Dunand sera installé sur le mur gauche, tandis que, sur le mur opposé, une mosaïque contemporaine de l’artiste nantaise Delphine Deltombe lui fera écho. Le buste de Jules Mauduit retrouvera une place d’honneur dans le hall.\nL’aménagement du nouveau salon Mauduit représente une réelle prouesse technique. Une structure mixte acier – béton permet de franchir une portée de plus de 18 mètres sans poteau, tout en supportant le poids de la toiture constituant la cour haute Désiré Colombe. Cette dalle béton, portée par des poutres de près d’un mètre de haut, permet d’assurer l’isolation acoustique et la reprise des charges. L’acoustique du lieu a été soigneusement étudiée, à la fois pour la qualité d’écoute du public et pour éviter une diffusion du bruit à l’extérieur. Ainsi, le salon Mauduit a été conçu tel « une boîte dans la boîte » avec un plancher sur dalle ressorts.\n**Le multi-accueil petite enfance**\nLe multi-accueil petite enfance prend place dans l’ancien pavillon des Mutuelles restauré et dans les deux premiers niveaux du bâtiment de logements donnant sur la rue Désiré-Colombe. La structure s’organise autour de trois unités de vie, avec au centre un patio agrémenté de jeux. A l’étage, l’unité de vie des bébés dispose d’une terrasse abritée et ouverte sur la ville. L’aménagement intérieur est pensé pour favoriser jeux et découvertes avec des rampes et recoins, des fenêtres à hauteur des enfants et des volumes alternant des hauteurs variées…\n**Le jardin Say**\nAu cœur de l’îlot, le jardin Say constitue un espace boisé remarquable qui sera demain ouvert aux habitants du quartier. Depuis la rue Désiré-Colombe, l’accès au jardin s’effectuera par un large porche. Le jardin sera traversé par un cheminement piéton qui rejoindra la rue Evariste-Luminais. L’aménagement du jardin est prévu courant 2018.\n**Des logements et des services innovants**\nLe projet Désiré Colombe contribue à développer un habitat de qualité en centre-ville et à favoriser la mixité sociale. 125 logements sont en construction par ADI, dont 48 en locatif social et abordable qui seront gérés par Nantes Métropole Habitat. Les logements dessinés par l’agence Leibar et Seigneurin s’inscrivent dans la continuité du patrimoine en prolongeant le bâtiment Bourse du Travail et s’organisent autour de cours intérieures. Cette conception permet de développer des logements traversants avec de larges loggias, ouverts sur la ville et sur des jardins d’agrément protégés.\nLa résidence s’est inscrite dans la démarche «qualité globale et environnementale» proposée par le GIP, groupement des industriels de la prescription. Cette fédération réunit 50 industriels du bâtiment, fournisseurs d’énergie et bureaux de contrôle, leaders dans leur secteur d’activité. Innover pour le confort d’usage et le bien-être des résidents, c’est le parti pris d’ADI sur ce programme immobilier haut de gamme.\n**221 places de parking**\nL’opération prévoit la réalisation d’un parking souterrain privé comprenant 129 places dédiées aux logements en accession, dont 15 ont été vendues aux riverains du projet, 92 places mutualisées dédiées aux logements locatifs et au Pôle associatif-nouveau salon Mauduit. Plus de 70 emplacements vélo sécurisés sont également créés pour les logements et 80 pour le pôle associatif et le multi-accueil.\n\n_Textes : Nantes Métropole Aménagement_\n\n_• L'ardepa a visité ce lieu le 15 juin 2018_\n",
+  "nom": "Désiré Colombe",
+  "cover_media": {
+    "id": "recmsm8IbDSnW0Rcv",
+    "fichiers": [
+      {
+        "id": "attduHwxVHqEFSJqh",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/45648243447c1f1468cab0e2d6219d70/b93b097d/dsircolombecover.jpg",
+        "filename": "désiré colombe cover.jpg",
+        "size": 233171,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8fbdfb6aff03038f5ca5cc1d6324f260/ee2765e8",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4d8af1cf77974ddb6155e36f5e35bdcb/746b33a7",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4f37026e0e66f145ac196314aaa43ce9/e2a0b8ee",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "Désiré Colombe cover",
+    "credits": "Leibar-Seigneurin",
+    "cover_lieux": [
+      "recMKYgGVASf6j8rE"
+    ]
+  },
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -84,13 +149,19 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
+  "geolocalisation": [
+    47.212219,
+    -1.569499
+  ],
+  "département": "44 Loire-Atlantique",
+  "date": "2018",
   "médias": [
     {
       "id": "rechzGtUTl4PLbLNN",
-      "titre": "Désiré colombe photos",
       "fichiers": [
         {
           "id": "attXkXnlUBMVyClKg",
@@ -145,14 +216,14 @@
           }
         }
       ],
-      "credits": "Leibar-Seigneurin",
       "lieux": [
         "recMKYgGVASf6j8rE"
-      ]
+      ],
+      "titre": "Désiré colombe photos",
+      "credits": "Leibar-Seigneurin"
     },
     {
       "id": "recDmlQa40EnnG6Fu",
-      "titre": "Désiré Colombe documents",
       "fichiers": [
         {
           "id": "att5AThwnZDvHvbUD",
@@ -174,14 +245,14 @@
           }
         }
       ],
-      "credits": "Leibar-Seigneurin",
       "lieux": [
         "recMKYgGVASf6j8rE"
-      ]
+      ],
+      "titre": "Désiré Colombe documents",
+      "credits": "Leibar-Seigneurin"
     },
     {
       "id": "recYp1uuSTCddKTu0",
-      "titre": "Désiré Colombe plaquette visite",
       "fichiers": [
         {
           "id": "attYtkKnlqy8qcpTC",
@@ -203,83 +274,12 @@
           }
         }
       ],
-      "credits": "Leibar-Seigneurin / Ardepa",
       "lieux": [
         "recMKYgGVASf6j8rE"
-      ]
+      ],
+      "titre": "Désiré Colombe plaquette visite",
+      "credits": "Leibar-Seigneurin / Ardepa"
     }
   ],
-  "cover_media": {
-    "id": "recmsm8IbDSnW0Rcv",
-    "titre": "Désiré Colombe cover",
-    "fichiers": [
-      {
-        "id": "attduHwxVHqEFSJqh",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/45648243447c1f1468cab0e2d6219d70/b93b097d/dsircolombecover.jpg",
-        "filename": "désiré colombe cover.jpg",
-        "size": 233171,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/8fbdfb6aff03038f5ca5cc1d6324f260/ee2765e8",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4d8af1cf77974ddb6155e36f5e35bdcb/746b33a7",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4f37026e0e66f145ac196314aaa43ce9/e2a0b8ee",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "Leibar-Seigneurin",
-    "cover_lieux": [
-      "recMKYgGVASf6j8rE"
-    ]
-  },
-  "type": [
-    {
-      "id": "recutlOJwb5QQKd5c",
-      "destination": "Logements Collectifs",
-      "type_destination": "Logement",
-      "lieux": [
-        "recXrmOzavWvTwx9T",
-        "recdqD43kpp1pOv3x",
-        "rec72cuqtL80v3RYm",
-        "recjkXrXE0hZw6f4t",
-        "recP6LOBOUBRRlLnt",
-        "rec0Rwewbk2MMTQAD",
-        "recMKYgGVASf6j8rE"
-      ]
-    },
-    {
-      "id": "recgBvHbjDyN7yskz",
-      "destination": "Crèche",
-      "type_destination": "Équipement",
-      "lieux": [
-        "rechtsQSNXyvtp75c",
-        "recMKYgGVASf6j8rE"
-      ]
-    },
-    {
-      "id": "recafJDVUkElwmi2Y",
-      "destination": "Pôle associatif",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recu65igj5DHRpC30",
-        "recMKYgGVASf6j8rE"
-      ]
-    }
-  ],
-  "présentation": "Pour ce projet, Nantes Métropole Aménagement a développé une solution sur mesure pour le compte de la Ville de Nantes, avec un concours d’architecture intégrant l’ensemble des programmes du site, remporté par l’agence d’architecture Leibar & Seigneurin en 2012, et en parallèle une consultation promoteurs à l’issue de laquelle le promoteur ADI a été retenu.\nLe projet associe des programmes publics sous maîtrise d’ouvrage Nantes Métropole Aménagement et des programmes privés sous maîtrise d’ouvrage ADI. Il est porté conjointement entre Nantes Métropole Aménagement et ADI dans le cadre d’un partenariat.\n**Le projet**\nLe Pôle Associatif Désiré Colombe\nLes anciens bâtiments de la Bourse du travail et de l’institut Livet ont fait l’objet d’une restauration lourde avec renforcement des fondations existantes, reconstitution de planchers et sciage de percements sur la façade rue Arsène-Leloup. L’étroitesse du bâtiment Livet a été compensée par la création d’un volume contemporain alternant béton blanc et failles vitrées. Les volumes élancés et la poésie des matériaux ont été mis en valeur. \nL’ensemble présente des espaces atypiques et des ambiances singulières, avec des pièces de grandes hauteurs et des murs chaulés laissant transparaître la pierre.\n**Le nouveau salon Mauduit**\nLe nouveau salon Mauduit constituera demain un équipement majeur destiné aux associations nantaises, mais aussi aux rencontres institutionnelles. Il sera géré par les agents municipaux du pôle associatif Désiré Colombe.\nLes bas-reliefs mythologiques en staff, les luminaires et les rampes de fer forgé art déco préservés vont retrouver place, cet été, dans le nouveau salon Mauduit.\nD’une configuration similaire à celle du salon d’origine, ce nouvel espace permettra une activité adaptée aux usages actuels, tout en maîtrisant l’acoustique.\nOuvert sur la cour Mauduit, le hall de l’Arche accueillera les visiteurs. Le laque « L’Arche de Noé » de Pierre Dunand sera installé sur le mur gauche, tandis que, sur le mur opposé, une mosaïque contemporaine de l’artiste nantaise Delphine Deltombe lui fera écho. Le buste de Jules Mauduit retrouvera une place d’honneur dans le hall.\nL’aménagement du nouveau salon Mauduit représente une réelle prouesse technique. Une structure mixte acier – béton permet de franchir une portée de plus de 18 mètres sans poteau, tout en supportant le poids de la toiture constituant la cour haute Désiré Colombe. Cette dalle béton, portée par des poutres de près d’un mètre de haut, permet d’assurer l’isolation acoustique et la reprise des charges. L’acoustique du lieu a été soigneusement étudiée, à la fois pour la qualité d’écoute du public et pour éviter une diffusion du bruit à l’extérieur. Ainsi, le salon Mauduit a été conçu tel « une boîte dans la boîte » avec un plancher sur dalle ressorts.\n**Le multi-accueil petite enfance**\nLe multi-accueil petite enfance prend place dans l’ancien pavillon des Mutuelles restauré et dans les deux premiers niveaux du bâtiment de logements donnant sur la rue Désiré-Colombe. La structure s’organise autour de trois unités de vie, avec au centre un patio agrémenté de jeux. A l’étage, l’unité de vie des bébés dispose d’une terrasse abritée et ouverte sur la ville. L’aménagement intérieur est pensé pour favoriser jeux et découvertes avec des rampes et recoins, des fenêtres à hauteur des enfants et des volumes alternant des hauteurs variées…\n**Le jardin Say**\nAu cœur de l’îlot, le jardin Say constitue un espace boisé remarquable qui sera demain ouvert aux habitants du quartier. Depuis la rue Désiré-Colombe, l’accès au jardin s’effectuera par un large porche. Le jardin sera traversé par un cheminement piéton qui rejoindra la rue Evariste-Luminais. L’aménagement du jardin est prévu courant 2018.\n**Des logements et des services innovants**\nLe projet Désiré Colombe contribue à développer un habitat de qualité en centre-ville et à favoriser la mixité sociale. 125 logements sont en construction par ADI, dont 48 en locatif social et abordable qui seront gérés par Nantes Métropole Habitat. Les logements dessinés par l’agence Leibar et Seigneurin s’inscrivent dans la continuité du patrimoine en prolongeant le bâtiment Bourse du Travail et s’organisent autour de cours intérieures. Cette conception permet de développer des logements traversants avec de larges loggias, ouverts sur la ville et sur des jardins d’agrément protégés.\nLa résidence s’est inscrite dans la démarche «qualité globale et environnementale» proposée par le GIP, groupement des industriels de la prescription. Cette fédération réunit 50 industriels du bâtiment, fournisseurs d’énergie et bureaux de contrôle, leaders dans leur secteur d’activité. Innover pour le confort d’usage et le bien-être des résidents, c’est le parti pris d’ADI sur ce programme immobilier haut de gamme.\n**221 places de parking**\nL’opération prévoit la réalisation d’un parking souterrain privé comprenant 129 places dédiées aux logements en accession, dont 15 ont été vendues aux riverains du projet, 92 places mutualisées dédiées aux logements locatifs et au Pôle associatif-nouveau salon Mauduit. Plus de 70 emplacements vélo sécurisés sont également créés pour les logements et 80 pour le pôle associatif et le multi-accueil.\n\n_Textes : Nantes Métropole Aménagement_\n\n_• L'ardepa a visité ce lieu le 15 juin 2018_\n",
-  "département": "44 Loire-Atlantique",
   "dernière modification": "2021-10-07T09:22:44.000Z"
 }

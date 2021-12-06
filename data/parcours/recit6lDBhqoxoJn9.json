@@ -1,76 +1,306 @@
 {
   "id": "recit6lDBhqoxoJn9",
   "nom": "Le bien-être en ville",
-  "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
   "status": "Publié",
+  "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
+  "médias": [
+    {
+      "id": "recKe5H17rMJ2ezdf",
+      "fichiers": [
+        {
+          "id": "attpBVFoqXfmDDkix",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/55d6e588b60229a442663d08b5b4b08f/7aa31925/sportsbeaulieucover.jpg",
+          "filename": "sports beaulieu cover.jpg",
+          "size": 466210,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/bf5a4bdba80e30b2dc463a1118859ae4/f5f5dbf0",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/95d431341a7bbdc8083fb7dffad1f5fa/8991982c",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/de57f30f9cf64612ea2ea48be160d422/caccfab7",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "parcours": [
+        "recit6lDBhqoxoJn9"
+      ],
+      "titre": "sports beaulieu cover",
+      "credits": "Valery Joncheray / Samoa",
+      "cover_lieux": [
+        "recK8aI8T01RXFgcD"
+      ]
+    },
+    {
+      "id": "recYDhDq2wZ1zWGhE",
+      "fichiers": [
+        {
+          "id": "attp3N1M5cRSWBqqj",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/22297308b11ec8c3a9f2f1c2f34c5607/03c7c179/DSC_3768.JPG",
+          "filename": "DSC_3768.JPG",
+          "size": 573005,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/779d06d9b9bee79879e03407bac1534b/0b5aea10",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cb4f72bc08fac63afb1f13b291559870/505891c5",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/9dd9eee8838efd4f4fb84fea7ba03b6b/965098ed",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "parcours": [
+        "recit6lDBhqoxoJn9"
+      ],
+      "titre": "berges cover",
+      "credits": "ardepa",
+      "cover_lieux": [
+        "recKbU8dW7ri9Ihu9"
+      ]
+    },
+    {
+      "id": "recaTHLX6YXDUfkh2",
+      "fichiers": [
+        {
+          "id": "att4RHX5nwnPiHkWU",
+          "url": "https://dl.airtable.com/.attachments/7f27868128b15a76e7203461b0ecba43/ee1a8687/plaquetteA5.pdf",
+          "filename": "plaquetteA5.pdf",
+          "size": 3896398,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3c00e5b2ff052643c91ca8282fda4fa8/d13a3966",
+              "width": 26,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c4fe4a1f66a8040ed1bc994ea1649206/9c5319ef",
+              "width": 368,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recKbU8dW7ri9Ihu9"
+      ],
+      "parcours": [
+        "recnSvIT9dWMKZF8x",
+        "recit6lDBhqoxoJn9"
+      ],
+      "titre": "expédition urbaine 2019-2 plaquette",
+      "credits": "Ardepa"
+    }
+  ],
+  "en une": true,
   "date": "2019-07-06",
+  "cover_media": {
+    "id": "recBNHsKIkH2zYavH",
+    "fichiers": [
+      {
+        "id": "attkepmiE6Ybo3Vqc",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/63d2b5f34830e56915b515673d5a948a/60d48fa0/DSC_3777.jpg",
+        "filename": "DSC_3777.jpg",
+        "size": 666061,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7ba5f9d0fc34b4503edf02bfb6032988/5d4e644e",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/42ff6059c8519ff3d63b56f844f81865/364c6edd",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/492c52843c3a7a84d8d2d6f32439850f/d6a654da",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "cover_parcours": [
+      "recit6lDBhqoxoJn9"
+    ],
+    "titre": "expé bien être cover",
+    "credits": "ardepa"
+  },
+  "sous-titre": "Expédition urbaine 2019#2",
+  "type parcours": "Expédition",
   "lieux": [
     {
       "id": "recK8aI8T01RXFgcD",
-      "nom": "Palais des sports de Beaulieu",
       "adresse": "7-9 Rue André Tardieu 44200 Nantes\n",
-      "status": "Publié",
-      "geolocalisation": [
-        47.209036,
-        -1.536462
+      "type": [
+        {
+          "id": "recVSbbcBxY2ydzDN",
+          "type_destination": "Équipement",
+          "destination": "Équipement sportif",
+          "lieux": [
+            "rechtsQSNXyvtp75c",
+            "recYQXv9Df1Bn5fTu",
+            "recK8aI8T01RXFgcD",
+            "receDNWxTooSTCLHo"
+          ]
+        }
       ],
-      "date": "1973",
       "maitre_oeuvre": [
         {
           "id": "recpjzCDWnnKxEpbk",
-          "nom": "Georges Evano architecte",
           "maitre_oeuvre": [
             "recqyWBYUvLlSsdix",
             "recK8aI8T01RXFgcD"
-          ]
+          ],
+          "nom": "Georges Evano architecte"
         },
         {
           "id": "recO52D5cD3JhPEJp",
-          "nom": "Jean-Luc Pellerin architecte",
           "maitre_oeuvre": [
             "recK8aI8T01RXFgcD"
-          ]
+          ],
+          "nom": "Jean-Luc Pellerin architecte"
         },
         {
           "id": "recNZ1FrE8vvoDqfk",
-          "nom": "Richard Dievolski Ingénieur",
           "maitre_oeuvre": [
             "recK8aI8T01RXFgcD"
-          ]
+          ],
+          "nom": "Richard Dievolski Ingénieur"
         },
         {
           "id": "recoMuGLEUNFA2DOQ",
-          "nom": "Louis Fruitet ingénieur",
           "maitre_oeuvre": [
             "recK8aI8T01RXFgcD"
-          ]
+          ],
+          "nom": "Louis Fruitet ingénieur"
         }
       ],
       "maitre_ouvrage": [
         {
           "id": "recL4Vs8QCoqNKb4j",
-          "nom": "Ville de Nantes (44)",
           "maitre_ouvrage": [
             "receMWo5ARK964EuD",
             "recK8aI8T01RXFgcD",
             "recKbU8dW7ri9Ihu9",
             "recrfw9hvh3VrHFhx"
+          ],
+          "nom": "Ville de Nantes (44)"
+        }
+      ],
+      "parcours": [
+        {
+          "id": "recit6lDBhqoxoJn9",
+          "nom": "Le bien-être en ville",
+          "status": "Publié",
+          "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
+          "médias": [
+            "recKe5H17rMJ2ezdf",
+            "recYDhDq2wZ1zWGhE",
+            "recaTHLX6YXDUfkh2"
+          ],
+          "en une": true,
+          "date": "2019-07-06",
+          "cover_media": [
+            "recBNHsKIkH2zYavH"
+          ],
+          "sous-titre": "Expédition urbaine 2019#2",
+          "type parcours": "Expédition",
+          "lieux": [
+            "recK8aI8T01RXFgcD",
+            "receDNWxTooSTCLHo",
+            "recKbU8dW7ri9Ihu9"
           ]
         }
       ],
+      "status": "Publié",
+      "présentation": "Prisme noir posé sur l’île Beaulieu à proximité de la Loire et face au stade Marcel Saupin, le Palais des sports a été dessiné en 1967 et 1968 mais réalisé en deux étapes (1969-1973 puis 1976-1979) pour des raisons de répartition des financements (4,6 millions de francs) accordées par l’État sur deux Plans successifs (sur un budget prévisionnel total de 12 millions de francs)\n\n**_Le successeur d’un bâtiment célèbre_**\n\nL’ancienne halle du Champs de Mars (édifiée en 1938) étant jugée trop exigüe pour accueillir le public des matches de basket et les manifestations internationales, la municipalité d’André Morice décide de construire une salle de 6 000 places, capacité rapidement ramenée à 5 000.\nGeorges Evano et Jean-Luc Pellerin imaginent une enveloppe de verre noir, portée par une structure métallique reposant sur les tribunes en béton. \nLa toiture est constituée d’une structure tridirectionnelle d’une portée record de 87 mètres, calculée selon un programme «électronique» mis au point par l’ingénieur Richard Dziewolski.\n\n**_Références et innovation_**\n\nS’inspirant de la disposition intérieure de la salle des concerts symphoniques de la Philharmonie de Berlin (2400 places, Hans Scharoun, 1963) et des pans de verre des édifices de l’architecte anglais James Stirling, le Palais introduit à Nantes une architecture de verre et métal que célèbreront de nombreuses publications et le Prix européen de l’architecture métallique 1977.\nElle est représentative d’une recherche de la diminution du poids de la matière nécessaire à la construction à laquelle se livrent alors architectes et ingénieurs, recherche que l’ingénieur nantais Robert Le Ricolais conduira à des sommets théoriques tandis que de nombreux professionnels travaillent sur les structures spatiales dont Stéphane du Château, l’ingénieur qui calcula la couverture de l’église des Dervallières.\n\n**_La lumière et l’acoustique_**\n\nLa mise en couleur radicale (noir et rouge pour l’extérieur, rouge blanc et « vert jardin » pour l’intérieur) conçue par Bernard Barto souligne l’organisation en couronne des différents locaux autour de la grande salle, disposition adoptée pour assurer une visibilité optimale quelle que soit la place.\nLa salle étant dévolue aux grandes manifestations sportives, les contraintes de la télévision couleur durent être prises en compte en vue « d’assurer l’éclairage uniforme des sportifs en évolution. »\nNéanmoins, les questions de l’isolation phonique et de l’isolation solaire se posèrent dès la mise en service de l’édifice. Si la première fut résolue rapidement, la seconde fit l’objet de recherches organisées autour de quatre thématiques : protéger sans assombrir, préserver l’esthétique d’ensemble et notamment la transparence de l’édifice vu depuis l’extérieur, éviter les effets miroir, préserver la facilité d’entretien. \nLa pose de lames de luxalon sur la face intérieure des parois vitrées, solution retenue, ne put être mise en œuvre en raison de son coût.\n\n**_De nouveaux développements_**\n\nEn dépit de ses deux faiblesses, ce stade inauguré un an après le Parc des Princes à Paris témoigne de la contribution permanente des édifices sportifs à l’évolution des formes architecturales du XXe siècle. \n\n_Texte : Nantes Métropole_\n\n_• L'ardepa a visité ce lieu le 06 juillet 2019, lors de **l'Expédition urbaine 2019#2 - Le bien-être en ville.**_\n\n",
+      "nom": "Palais des sports de Beaulieu",
+      "cover_media": {
+        "id": "recKe5H17rMJ2ezdf",
+        "fichiers": [
+          {
+            "id": "attpBVFoqXfmDDkix",
+            "width": 1920,
+            "height": 1080,
+            "url": "https://dl.airtable.com/.attachments/55d6e588b60229a442663d08b5b4b08f/7aa31925/sportsbeaulieucover.jpg",
+            "filename": "sports beaulieu cover.jpg",
+            "size": 466210,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bf5a4bdba80e30b2dc463a1118859ae4/f5f5dbf0",
+                "width": 64,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/95d431341a7bbdc8083fb7dffad1f5fa/8991982c",
+                "width": 910,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/de57f30f9cf64612ea2ea48be160d422/caccfab7",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "parcours": [
+          "recit6lDBhqoxoJn9"
+        ],
+        "titre": "sports beaulieu cover",
+        "credits": "Valery Joncheray / Samoa",
+        "cover_lieux": [
+          "recK8aI8T01RXFgcD"
+        ]
+      },
       "périodes": [
         {
           "id": "recOTINF3xZD1l6uI",
-          "nom": "années 1970",
           "lieux": [
             "recK8aI8T01RXFgcD"
-          ]
+          ],
+          "nom": "années 1970"
         }
       ],
+      "geolocalisation": [
+        47.209036,
+        -1.536462
+      ],
+      "département": "44 Loire-Atlantique",
+      "date": "1973",
       "médias": [
         {
           "id": "rec6M7g5lZA7ce2h0",
-          "titre": "sport beaulieu photos",
           "fichiers": [
             {
               "id": "attX5FmYCipc1JYEe",
@@ -151,14 +381,14 @@
               }
             }
           ],
-          "credits": "Georges Evano / Ville de Nantes",
           "lieux": [
             "recK8aI8T01RXFgcD"
-          ]
+          ],
+          "titre": "sport beaulieu photos",
+          "credits": "Georges Evano / Ville de Nantes"
         },
         {
           "id": "rectCSY0RPTWlBn1Y",
-          "titre": "sports beaulieu docs",
           "fichiers": [
             {
               "id": "attlyhNG2LTM7OQFA",
@@ -213,14 +443,14 @@
               }
             }
           ],
-          "credits": "Eveno / Pellerin",
           "lieux": [
             "recK8aI8T01RXFgcD"
-          ]
+          ],
+          "titre": "sports beaulieu docs",
+          "credits": "Eveno / Pellerin"
         },
         {
           "id": "recotkbZH4BZFgqOk",
-          "titre": "sports beaulieu plaquette",
           "fichiers": [
             {
               "id": "attYztoLTmAlVbLnC",
@@ -242,57 +472,24 @@
               }
             }
           ],
-          "credits": "Nantes métropole / Ardepa",
           "lieux": [
             "recK8aI8T01RXFgcD",
             "receDNWxTooSTCLHo"
-          ]
+          ],
+          "titre": "sports beaulieu plaquette",
+          "credits": "Nantes métropole / Ardepa"
         }
       ],
-      "cover_media": {
-        "id": "recKe5H17rMJ2ezdf",
-        "titre": "sports beaulieu cover",
-        "fichiers": [
-          {
-            "id": "attpBVFoqXfmDDkix",
-            "width": 1920,
-            "height": 1080,
-            "url": "https://dl.airtable.com/.attachments/55d6e588b60229a442663d08b5b4b08f/7aa31925/sportsbeaulieucover.jpg",
-            "filename": "sports beaulieu cover.jpg",
-            "size": 466210,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/bf5a4bdba80e30b2dc463a1118859ae4/f5f5dbf0",
-                "width": 64,
-                "height": 36
-              },
-              "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/95d431341a7bbdc8083fb7dffad1f5fa/8991982c",
-                "width": 910,
-                "height": 512
-              },
-              "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/de57f30f9cf64612ea2ea48be160d422/caccfab7",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "credits": "Valery Joncheray / Samoa",
-        "cover_lieux": [
-          "recK8aI8T01RXFgcD"
-        ],
-        "parcours": [
-          "recit6lDBhqoxoJn9"
-        ]
-      },
+      "dernière modification": "2021-10-07T14:51:02.000Z"
+    },
+    {
+      "id": "receDNWxTooSTCLHo",
+      "adresse": "7-9 Rue André Tardieu 44200 Nantes\n",
       "type": [
         {
           "id": "recVSbbcBxY2ydzDN",
-          "destination": "Équipement sportif",
           "type_destination": "Équipement",
+          "destination": "Équipement sportif",
           "lieux": [
             "rechtsQSNXyvtp75c",
             "recYQXv9Df1Bn5fTu",
@@ -301,72 +498,96 @@
           ]
         }
       ],
-      "présentation": "Prisme noir posé sur l’île Beaulieu à proximité de la Loire et face au stade Marcel Saupin, le Palais des sports a été dessiné en 1967 et 1968 mais réalisé en deux étapes (1969-1973 puis 1976-1979) pour des raisons de répartition des financements (4,6 millions de francs) accordées par l’État sur deux Plans successifs (sur un budget prévisionnel total de 12 millions de francs)\n\n**_Le successeur d’un bâtiment célèbre_**\n\nL’ancienne halle du Champs de Mars (édifiée en 1938) étant jugée trop exigüe pour accueillir le public des matches de basket et les manifestations internationales, la municipalité d’André Morice décide de construire une salle de 6 000 places, capacité rapidement ramenée à 5 000.\nGeorges Evano et Jean-Luc Pellerin imaginent une enveloppe de verre noir, portée par une structure métallique reposant sur les tribunes en béton. \nLa toiture est constituée d’une structure tridirectionnelle d’une portée record de 87 mètres, calculée selon un programme «électronique» mis au point par l’ingénieur Richard Dziewolski.\n\n**_Références et innovation_**\n\nS’inspirant de la disposition intérieure de la salle des concerts symphoniques de la Philharmonie de Berlin (2400 places, Hans Scharoun, 1963) et des pans de verre des édifices de l’architecte anglais James Stirling, le Palais introduit à Nantes une architecture de verre et métal que célèbreront de nombreuses publications et le Prix européen de l’architecture métallique 1977.\nElle est représentative d’une recherche de la diminution du poids de la matière nécessaire à la construction à laquelle se livrent alors architectes et ingénieurs, recherche que l’ingénieur nantais Robert Le Ricolais conduira à des sommets théoriques tandis que de nombreux professionnels travaillent sur les structures spatiales dont Stéphane du Château, l’ingénieur qui calcula la couverture de l’église des Dervallières.\n\n**_La lumière et l’acoustique_**\n\nLa mise en couleur radicale (noir et rouge pour l’extérieur, rouge blanc et « vert jardin » pour l’intérieur) conçue par Bernard Barto souligne l’organisation en couronne des différents locaux autour de la grande salle, disposition adoptée pour assurer une visibilité optimale quelle que soit la place.\nLa salle étant dévolue aux grandes manifestations sportives, les contraintes de la télévision couleur durent être prises en compte en vue « d’assurer l’éclairage uniforme des sportifs en évolution. »\nNéanmoins, les questions de l’isolation phonique et de l’isolation solaire se posèrent dès la mise en service de l’édifice. Si la première fut résolue rapidement, la seconde fit l’objet de recherches organisées autour de quatre thématiques : protéger sans assombrir, préserver l’esthétique d’ensemble et notamment la transparence de l’édifice vu depuis l’extérieur, éviter les effets miroir, préserver la facilité d’entretien. \nLa pose de lames de luxalon sur la face intérieure des parois vitrées, solution retenue, ne put être mise en œuvre en raison de son coût.\n\n**_De nouveaux développements_**\n\nEn dépit de ses deux faiblesses, ce stade inauguré un an après le Parc des Princes à Paris témoigne de la contribution permanente des édifices sportifs à l’évolution des formes architecturales du XXe siècle. \n\n_Texte : Nantes Métropole_\n\n_• L'ardepa a visité ce lieu le 06 juillet 2019, lors de **l'Expédition urbaine 2019#2 - Le bien-être en ville.**_\n\n",
-      "parcours": [
-        {
-          "id": "recit6lDBhqoxoJn9",
-          "nom": "Le bien-être en ville",
-          "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
-          "status": "Publié",
-          "date": "2019-07-06",
-          "lieux": [
-            "recK8aI8T01RXFgcD",
-            "receDNWxTooSTCLHo",
-            "recKbU8dW7ri9Ihu9"
-          ],
-          "cover_media": [
-            "recBNHsKIkH2zYavH"
-          ],
-          "médias": [
-            "recKe5H17rMJ2ezdf",
-            "recYDhDq2wZ1zWGhE",
-            "recaTHLX6YXDUfkh2"
-          ],
-          "type parcours": "Expédition",
-          "sous-titre": "Expédition urbaine 2019#2",
-          "en une": true
-        }
-      ],
-      "département": "44 Loire-Atlantique",
-      "dernière modification": "2021-10-07T14:51:02.000Z"
-    },
-    {
-      "id": "receDNWxTooSTCLHo",
-      "nom": "Extension du Palais des Sports",
-      "adresse": "7-9 Rue André Tardieu 44200 Nantes\n",
-      "status": "Publié",
-      "geolocalisation": [
-        47.209528,
-        -1.537994
-      ],
-      "date": "2019",
       "maitre_oeuvre": [
         {
           "id": "recxQj3xoNYuwDJbv",
-          "nom": "AURA architectes",
           "maitre_oeuvre": [
             "receDNWxTooSTCLHo"
-          ]
+          ],
+          "nom": "AURA architectes"
         }
       ],
       "maitre_ouvrage": [
         {
           "id": "recXVXVP3gQIykC61",
-          "nom": "Nantes Métropole (44)",
-          "site_web": "https://metropole.nantes.fr/",
           "maitre_ouvrage": [
             "recXIe49AgTTO1AuY",
             "receMWo5ARK964EuD",
             "recq4adxSr0wOfKMW",
             "recigl83FpciTgaw8",
             "receDNWxTooSTCLHo"
+          ],
+          "site_web": "https://metropole.nantes.fr/",
+          "nom": "Nantes Métropole (44)"
+        }
+      ],
+      "parcours": [
+        {
+          "id": "recit6lDBhqoxoJn9",
+          "nom": "Le bien-être en ville",
+          "status": "Publié",
+          "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
+          "médias": [
+            "recKe5H17rMJ2ezdf",
+            "recYDhDq2wZ1zWGhE",
+            "recaTHLX6YXDUfkh2"
+          ],
+          "en une": true,
+          "date": "2019-07-06",
+          "cover_media": [
+            "recBNHsKIkH2zYavH"
+          ],
+          "sous-titre": "Expédition urbaine 2019#2",
+          "type parcours": "Expédition",
+          "lieux": [
+            "recK8aI8T01RXFgcD",
+            "receDNWxTooSTCLHo",
+            "recKbU8dW7ri9Ihu9"
           ]
         }
       ],
+      "status": "Publié",
+      "présentation": "**_Une rénovation XXL_**\nLe chantier de réhabilitation du Palais des Sports de Beaulieu s’est attaché à respecter l’architecture remarquable du site classé au patrimoine nantais. Ainsi, les couleurs, les matériaux et les volumes imaginés par les architectes nantais Georges Evano et Jean-Luc Pellerin ont été préservés. Respecter la valeur patrimoniale de l’équipement tout en le modernisant et en l’adaptant aux besoins et aux pratiques du sport d’aujourd’hui a été le principal objectif des travaux qui ont notamment permis d’augmenter la jauge de la salle principale : 5 450 places contre 4 700 auparavant.\nPour améliorer le confort de tous les utilisateurs du Palais des Sports, sportifs professionnels, sportifs amateurs et spectateurs, le chantier de rénovation du Palais des Sports de Beaulieu a permis de créer 5 500 m² de nouveaux espaces : un hall d’entrée pour la salle principale, hall d’entrée pour la salle annexe et des espaces de réceptions sur trois niveaux.\n_Texte : Nantes Métropole_\n\n**_Les objectifs du projet :_**\n\n· Séparer les accueils joueurs/utilisateurs et spectateurs,\n· Proposer des espaces de réception, d’un office à disposition des traiteurs pour les besoins des salles VIP.\n· Créé des locaux connexes complétant l’équipement (vestiaires, sanitaires, stockage…) ainsi que d’un accès depuis l’extérieur vers les locaux de stockage.\n\nL’extension s’installe à l’est de l’équipement, à l’emplacement pressenti lors de la conception initiale du PSB.\n\nLe projet s’appuie sur les préconisations de l’aménageur (SAMOA) et du Service des Espaces Verts de la Ville de Nantes (interaction avec l’espace public), ainsi que sur les données du programme transmis par le Service des Sports (3 entités s’en dégagent : VIP/Accueil 5 000/Accueil 500).\n\n**_Implantation, organisation des nouvelles constructions_**\n\nTrois entités s’en dégagent :\n§ Une extension VIP (R + 2)\n§ Une extension en lien avec la salle 5 000 (R + 1)\n§ Une extension en lien avec la salle 500 (R + 1)\n\nL’extension VIP se dégage de l’existant afin de laisser visible au maximum les façades vitrées de la salle 5 000. Les extensions sont dans le prolongement de l’existant, elles abritent à l’étage les locaux techniques des centrales de traitement d’air et au rez-de-chaussée un point accueil billetterie pour les 2 volumes ainsi qu’une boutique pour l’entité 5 000 et une salle de convivialité pour l’entité 500.\n\nL’entité VIP abrite au RDC, une zone d’accueil, vestiaire, une salle de réception, des sanitaires publics, un espace de stockage et un office. Une liaison de plain-pied permet d’accéder à la salle 5 000 du PSB. Au R + 1, on trouve un nouvel espace de réception, des sanitaires publics et un espace en lien avec l’office. Une passerelle couverte permet de faire le lien au niveau des loges du PSB. Enfin, le R + 2 abrite un dernier espace de convivialité-bar, un bureau et une terrasse extérieure.\nL’emprise au sol de l’extension est de 2 125 m².\nLe projet prévoit de redessiner un parvis en lien avec les 3 entités. Celui-ci permet de guider le public par un jeu de calepinage au sol de pavé béton et d’affirmer ainsi les 3 accueils.\n\n_Texte extrait de la notice architecturale du Permis de Construire- agence AURA_\n\n_• L'ardepa a visité ce lieu le 06 juillet 2019, lors de l'Expédition urbaine 2019#2 - Le bien-être en ville._\n",
+      "nom": "Extension du Palais des Sports",
+      "cover_media": {
+        "id": "recJEnskAFziowZoO",
+        "fichiers": [
+          {
+            "id": "attpg9WcjaJ0bM5lY",
+            "width": 1920,
+            "height": 1080,
+            "url": "https://dl.airtable.com/.attachments/727d2775a635575ffe7976170a1a0756/8272a59b/extensionsportsbeaulieucover.jpg",
+            "filename": "extension sports beaulieu cover.jpg",
+            "size": 271660,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f23a123f09faabfd2ae60d647a07e856/e7e9b326",
+                "width": 64,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ea5459e2cd0bc36c10890488b4bb67fb/e8cbc6e8",
+                "width": 910,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2ad8a292353979fdd1e913d368d3e39d/76335709",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "titre": "extension sports beaulieu cover",
+        "credits": "Jean-Dominique Billaud / Samoa",
+        "cover_lieux": [
+          "receDNWxTooSTCLHo"
+        ]
+      },
       "périodes": [
         {
           "id": "rec0D9TkCH83ItF6j",
-          "nom": "années 2010",
           "lieux": [
             "recXIe49AgTTO1AuY",
             "rec4neQMuPblp8tuX",
@@ -419,13 +640,19 @@
             "recKbU8dW7ri9Ihu9",
             "recrfw9hvh3VrHFhx",
             "rech0NsUFIcIJYybV"
-          ]
+          ],
+          "nom": "années 2010"
         }
       ],
+      "geolocalisation": [
+        47.209528,
+        -1.537994
+      ],
+      "département": "44 Loire-Atlantique",
+      "date": "2019",
       "médias": [
         {
           "id": "recQqeYhgDlLZK837",
-          "titre": "sports beaulieu photos",
           "fichiers": [
             {
               "id": "attYlPmssaxAdulaq",
@@ -480,14 +707,14 @@
               }
             }
           ],
-          "credits": "Ardepa",
           "lieux": [
             "receDNWxTooSTCLHo"
-          ]
+          ],
+          "titre": "sports beaulieu photos",
+          "credits": "Ardepa"
         },
         {
           "id": "rec50pXcfN6uqj5Z1",
-          "titre": "extension sports beaulieu doc",
           "fichiers": [
             {
               "id": "attEK5v9q3hBJeOt4",
@@ -516,14 +743,14 @@
               }
             }
           ],
-          "credits": "AURA / Nantes métropole",
           "lieux": [
             "receDNWxTooSTCLHo"
-          ]
+          ],
+          "titre": "extension sports beaulieu doc",
+          "credits": "AURA / Nantes métropole"
         },
         {
           "id": "recotkbZH4BZFgqOk",
-          "titre": "sports beaulieu plaquette",
           "fichiers": [
             {
               "id": "attYztoLTmAlVbLnC",
@@ -545,144 +772,142 @@
               }
             }
           ],
-          "credits": "Nantes métropole / Ardepa",
           "lieux": [
             "recK8aI8T01RXFgcD",
             "receDNWxTooSTCLHo"
+          ],
+          "titre": "sports beaulieu plaquette",
+          "credits": "Nantes métropole / Ardepa"
+        }
+      ],
+      "dernière modification": "2021-10-07T14:51:06.000Z"
+    },
+    {
+      "id": "recKbU8dW7ri9Ihu9",
+      "adresse": "Boulevard Gaston Doumergue 44200 Nantes\n",
+      "type": [
+        {
+          "id": "recEWoJWizkQSrwEo",
+          "type_destination": "Espace public",
+          "destination": "Aménagement paysager",
+          "lieux": [
+            "recJgalSFcQX7dLe6",
+            "rec0tsNbxoh48H20l",
+            "recP6LOBOUBRRlLnt",
+            "recKbU8dW7ri9Ihu9",
+            "recrfw9hvh3VrHFhx"
           ]
         }
       ],
+      "maitre_oeuvre": [
+        {
+          "id": "reckxf0BZsd3PLu8Y",
+          "maitre_oeuvre": [
+            "recKbU8dW7ri9Ihu9"
+          ],
+          "site_web": "https://www.baseland.fr/",
+          "nom": "BASE paysage"
+        },
+        {
+          "id": "recRtIEn3AIlmzfx6",
+          "maitre_oeuvre": [
+            "recKbU8dW7ri9Ihu9"
+          ],
+          "site_web": "https://bruitdufrigo.com/",
+          "nom": "Bruit du Frigo"
+        }
+      ],
+      "maitre_ouvrage": [
+        {
+          "id": "recL4Vs8QCoqNKb4j",
+          "maitre_ouvrage": [
+            "receMWo5ARK964EuD",
+            "recK8aI8T01RXFgcD",
+            "recKbU8dW7ri9Ihu9",
+            "recrfw9hvh3VrHFhx"
+          ],
+          "nom": "Ville de Nantes (44)"
+        },
+        {
+          "id": "rec6zwotXGCBOq5C8",
+          "maitre_ouvrage": [
+            "recpN2hW8eG6SnkLe",
+            "recT5ti90aD2NTdCN",
+            "recKbU8dW7ri9Ihu9"
+          ],
+          "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique"
+        }
+      ],
+      "parcours": [
+        {
+          "id": "recit6lDBhqoxoJn9",
+          "nom": "Le bien-être en ville",
+          "status": "Publié",
+          "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
+          "médias": [
+            "recKe5H17rMJ2ezdf",
+            "recYDhDq2wZ1zWGhE",
+            "recaTHLX6YXDUfkh2"
+          ],
+          "en une": true,
+          "date": "2019-07-06",
+          "cover_media": [
+            "recBNHsKIkH2zYavH"
+          ],
+          "sous-titre": "Expédition urbaine 2019#2",
+          "type parcours": "Expédition",
+          "lieux": [
+            "recK8aI8T01RXFgcD",
+            "receDNWxTooSTCLHo",
+            "recKbU8dW7ri9Ihu9"
+          ]
+        }
+      ],
+      "status": "Publié",
+      "présentation": "Le réaménagement des bords de Loire est l’une des ambitions premières du projet urbain de l’île de Nantes. Et la transformation des berges du faubourg conclut la requalification de la rive nord de l’île.\n\n**_Assurer la continuité piétonne et cyclable des berges_**\n\nEn 2015, avant le démarrage des travaux sur les berges du faubourg, 7 km de berges ou de quais avaient déjà été réaménagés sur les 12 km du tour de l’île. Objectif : offrir une continuité piétonne et cyclable avec les aménagements déjà réalisés pour permettre de retrouver la Loire. C’est l’agence BASE paysagiste qui a hérité du projet des berges du faubourg, en coproduction avec les habitants. 90 personnes se sont engagées dans cette démarche de réflexion. Elles ont participé à travers une série de réunions pour déterminer des propositions et des réflexions sur les usages futurs des espaces aménagés.\n« Ce travail a fait émerger la volonté forte des habitants de se réapproprier le fleuve, mais aussi l’envie de retrouver des usages conviviaux sur les berges », observe le collectif qui a animé les ateliers.\n\n**_7 hectares d’espaces publics transfigurés_**\n\nLes berges du faubourg s’étendent depuis le pont Haudaudine jusqu’au pont Aristide-Briand. Ce sont plus de 7 hectares d’espaces publics pour 1 km de berges et de quais qui ont été réaménagés.\nPiétons et cyclistes peuvent ainsi circuler du parc du Crapa au parc des Chantiers sans quitter les bords du fleuve. Le projet de l’agence BASE se déploie de part et d’autre du pont du général Audibert.\n\n**_Quais Rhuys et Hoche : ambiance nature_**\n\nA l’ouest du pont du général Audibert, une attention toute particulière a été portée à la Loire et à l’existant. Une place prolongée par des gradins en béton s’avance sur le fleuve au niveau du quai Hoche. Elle se connecte à une promenade de caillebotis au bord de l’eau qui rejoint l’espace du balcon de Biesse, dédié aux loisirs (terrains de boules, jeux pour enfants, etc.), à l’est, et le quai André-Rhuys, à l’est. \n\n**_Des espaces de jeux et de rencontre pour tous les âges._**\n\nLe parvis des écoles, aménagé à l’angle des quais André-Rhuys et Hoche accueille des équipements tels que baby-foot, ping-pong et agrès sportifs. Le long de la promenade sur la berge du quai André-Rhuys, on retrouve aussi la pêcherie, singulière structure posée sur la Loire, en clin d’œil aux anciennes pêcheries de l’estuaire.\n\nCet espace de détente et de contemplation créé à l’initiative d’une démarche participative peut accueillir des événements de petit format ou des classes de plein air.\n\n\n**_Quai Doumergue : de multiples usages_**\n\nA l’est du pont du général Audibert, c’est la diversité des usages qui prime. Une guinguette s’intègre au paysage par sa large structure métallique. Accessible depuis le boulevard, le premier niveau abrite une terrasse en bois, un espace de buvette et petite restauration et des toilettes publiques. Au niveau de la berge, l’installation de grandes tables, d’établis et d’un espace de stockage permet l’organisation d’événements. \nD’autres espaces de loisirs jalonnent le quai à l’ouest de la guinguette. On retrouve des terrains destinés à la pratique du badminton ou du volley et même un skatepark. Au bord de l’eau, ce sont de grands espaces libres pour jouer, se détendre, flâner ou pique-niquer qui structurent l’espace. Enfin, à l’est, c’est un jardin partagé pour les habitants du quartier qui se déploie.\n\n**_Une circulation apaisée_**\n\nEn parallèle de l’aménagement des berges – rendues plus accessibles aux piétons, cyclistes et personnes à mobilité réduite – les travaux ont permis de repenser la circulation. Elargissement des trottoirs, limitation de vitesse et mise en sens unique de certaines voies ont contribué à apaiser les espaces de circulation.\n\n_Sources : www.iledenantes.com et www.nantes.fr pour les citations._\n\n_• L'ardepa a visité ces lieux le 06 juillet 2019, lors de l'Expédition urbaine 2019#2 - Le bien-être en ville. _\n",
+      "nom": "Les berges du faubourg",
       "cover_media": {
-        "id": "recJEnskAFziowZoO",
-        "titre": "extension sports beaulieu cover",
+        "id": "recYDhDq2wZ1zWGhE",
         "fichiers": [
           {
-            "id": "attpg9WcjaJ0bM5lY",
+            "id": "attp3N1M5cRSWBqqj",
             "width": 1920,
             "height": 1080,
-            "url": "https://dl.airtable.com/.attachments/727d2775a635575ffe7976170a1a0756/8272a59b/extensionsportsbeaulieucover.jpg",
-            "filename": "extension sports beaulieu cover.jpg",
-            "size": 271660,
+            "url": "https://dl.airtable.com/.attachments/22297308b11ec8c3a9f2f1c2f34c5607/03c7c179/DSC_3768.JPG",
+            "filename": "DSC_3768.JPG",
+            "size": 573005,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/f23a123f09faabfd2ae60d647a07e856/e7e9b326",
+                "url": "https://dl.airtable.com/.attachmentThumbnails/779d06d9b9bee79879e03407bac1534b/0b5aea10",
                 "width": 64,
                 "height": 36
               },
               "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/ea5459e2cd0bc36c10890488b4bb67fb/e8cbc6e8",
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cb4f72bc08fac63afb1f13b291559870/505891c5",
                 "width": 910,
                 "height": 512
               },
               "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/2ad8a292353979fdd1e913d368d3e39d/76335709",
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9dd9eee8838efd4f4fb84fea7ba03b6b/965098ed",
                 "width": 3000,
                 "height": 3000
               }
             }
           }
         ],
-        "credits": "Jean-Dominique Billaud / Samoa",
+        "parcours": [
+          "recit6lDBhqoxoJn9"
+        ],
+        "titre": "berges cover",
+        "credits": "ardepa",
         "cover_lieux": [
-          "receDNWxTooSTCLHo"
+          "recKbU8dW7ri9Ihu9"
         ]
       },
-      "type": [
-        {
-          "id": "recVSbbcBxY2ydzDN",
-          "destination": "Équipement sportif",
-          "type_destination": "Équipement",
-          "lieux": [
-            "rechtsQSNXyvtp75c",
-            "recYQXv9Df1Bn5fTu",
-            "recK8aI8T01RXFgcD",
-            "receDNWxTooSTCLHo"
-          ]
-        }
-      ],
-      "présentation": "**_Une rénovation XXL_**\nLe chantier de réhabilitation du Palais des Sports de Beaulieu s’est attaché à respecter l’architecture remarquable du site classé au patrimoine nantais. Ainsi, les couleurs, les matériaux et les volumes imaginés par les architectes nantais Georges Evano et Jean-Luc Pellerin ont été préservés. Respecter la valeur patrimoniale de l’équipement tout en le modernisant et en l’adaptant aux besoins et aux pratiques du sport d’aujourd’hui a été le principal objectif des travaux qui ont notamment permis d’augmenter la jauge de la salle principale : 5 450 places contre 4 700 auparavant.\nPour améliorer le confort de tous les utilisateurs du Palais des Sports, sportifs professionnels, sportifs amateurs et spectateurs, le chantier de rénovation du Palais des Sports de Beaulieu a permis de créer 5 500 m² de nouveaux espaces : un hall d’entrée pour la salle principale, hall d’entrée pour la salle annexe et des espaces de réceptions sur trois niveaux.\n_Texte : Nantes Métropole_\n\n**_Les objectifs du projet :_**\n\n· Séparer les accueils joueurs/utilisateurs et spectateurs,\n· Proposer des espaces de réception, d’un office à disposition des traiteurs pour les besoins des salles VIP.\n· Créé des locaux connexes complétant l’équipement (vestiaires, sanitaires, stockage…) ainsi que d’un accès depuis l’extérieur vers les locaux de stockage.\n\nL’extension s’installe à l’est de l’équipement, à l’emplacement pressenti lors de la conception initiale du PSB.\n\nLe projet s’appuie sur les préconisations de l’aménageur (SAMOA) et du Service des Espaces Verts de la Ville de Nantes (interaction avec l’espace public), ainsi que sur les données du programme transmis par le Service des Sports (3 entités s’en dégagent : VIP/Accueil 5 000/Accueil 500).\n\n**_Implantation, organisation des nouvelles constructions_**\n\nTrois entités s’en dégagent :\n§ Une extension VIP (R + 2)\n§ Une extension en lien avec la salle 5 000 (R + 1)\n§ Une extension en lien avec la salle 500 (R + 1)\n\nL’extension VIP se dégage de l’existant afin de laisser visible au maximum les façades vitrées de la salle 5 000. Les extensions sont dans le prolongement de l’existant, elles abritent à l’étage les locaux techniques des centrales de traitement d’air et au rez-de-chaussée un point accueil billetterie pour les 2 volumes ainsi qu’une boutique pour l’entité 5 000 et une salle de convivialité pour l’entité 500.\n\nL’entité VIP abrite au RDC, une zone d’accueil, vestiaire, une salle de réception, des sanitaires publics, un espace de stockage et un office. Une liaison de plain-pied permet d’accéder à la salle 5 000 du PSB. Au R + 1, on trouve un nouvel espace de réception, des sanitaires publics et un espace en lien avec l’office. Une passerelle couverte permet de faire le lien au niveau des loges du PSB. Enfin, le R + 2 abrite un dernier espace de convivialité-bar, un bureau et une terrasse extérieure.\nL’emprise au sol de l’extension est de 2 125 m².\nLe projet prévoit de redessiner un parvis en lien avec les 3 entités. Celui-ci permet de guider le public par un jeu de calepinage au sol de pavé béton et d’affirmer ainsi les 3 accueils.\n\n_Texte extrait de la notice architecturale du Permis de Construire- agence AURA_\n\n_• L'ardepa a visité ce lieu le 06 juillet 2019, lors de l'Expédition urbaine 2019#2 - Le bien-être en ville._\n",
-      "parcours": [
-        {
-          "id": "recit6lDBhqoxoJn9",
-          "nom": "Le bien-être en ville",
-          "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
-          "status": "Publié",
-          "date": "2019-07-06",
-          "lieux": [
-            "recK8aI8T01RXFgcD",
-            "receDNWxTooSTCLHo",
-            "recKbU8dW7ri9Ihu9"
-          ],
-          "cover_media": [
-            "recBNHsKIkH2zYavH"
-          ],
-          "médias": [
-            "recKe5H17rMJ2ezdf",
-            "recYDhDq2wZ1zWGhE",
-            "recaTHLX6YXDUfkh2"
-          ],
-          "type parcours": "Expédition",
-          "sous-titre": "Expédition urbaine 2019#2",
-          "en une": true
-        }
-      ],
-      "département": "44 Loire-Atlantique",
-      "dernière modification": "2021-10-07T14:51:06.000Z"
-    },
-    {
-      "id": "recKbU8dW7ri9Ihu9",
-      "nom": "Les berges du faubourg",
-      "adresse": "Boulevard Gaston Doumergue 44200 Nantes\n",
-      "status": "Publié",
-      "geolocalisation": [
-        47.2075283202251,
-        -1.5475056974357995
-      ],
-      "date": "2019",
-      "maitre_oeuvre": [
-        {
-          "id": "reckxf0BZsd3PLu8Y",
-          "nom": "BASE paysage",
-          "site_web": "https://www.baseland.fr/",
-          "maitre_oeuvre": [
-            "recKbU8dW7ri9Ihu9"
-          ]
-        },
-        {
-          "id": "recRtIEn3AIlmzfx6",
-          "nom": "Bruit du Frigo",
-          "site_web": "https://bruitdufrigo.com/",
-          "maitre_oeuvre": [
-            "recKbU8dW7ri9Ihu9"
-          ]
-        }
-      ],
-      "maitre_ouvrage": [
-        {
-          "id": "recL4Vs8QCoqNKb4j",
-          "nom": "Ville de Nantes (44)",
-          "maitre_ouvrage": [
-            "receMWo5ARK964EuD",
-            "recK8aI8T01RXFgcD",
-            "recKbU8dW7ri9Ihu9",
-            "recrfw9hvh3VrHFhx"
-          ]
-        },
-        {
-          "id": "rec6zwotXGCBOq5C8",
-          "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique",
-          "maitre_ouvrage": [
-            "recpN2hW8eG6SnkLe",
-            "recT5ti90aD2NTdCN",
-            "recKbU8dW7ri9Ihu9"
-          ]
-        }
-      ],
       "périodes": [
         {
           "id": "rec0D9TkCH83ItF6j",
-          "nom": "années 2010",
           "lieux": [
             "recXIe49AgTTO1AuY",
             "rec4neQMuPblp8tuX",
@@ -735,13 +960,19 @@
             "recKbU8dW7ri9Ihu9",
             "recrfw9hvh3VrHFhx",
             "rech0NsUFIcIJYybV"
-          ]
+          ],
+          "nom": "années 2010"
         }
       ],
+      "geolocalisation": [
+        47.2075283202251,
+        -1.5475056974357995
+      ],
+      "département": "44 Loire-Atlantique",
+      "date": "2019",
       "médias": [
         {
           "id": "recCFVzIKggFEfzkS",
-          "titre": "berges photo",
           "fichiers": [
             {
               "id": "attRobSyeIS9eFzVG",
@@ -796,14 +1027,14 @@
               }
             }
           ],
-          "credits": "BASE / Nantes métropole",
           "lieux": [
             "recKbU8dW7ri9Ihu9"
-          ]
+          ],
+          "titre": "berges photo",
+          "credits": "BASE / Nantes métropole"
         },
         {
           "id": "recaTHLX6YXDUfkh2",
-          "titre": "expédition urbaine 2019-2 plaquette",
           "fichiers": [
             {
               "id": "att4RHX5nwnPiHkWU",
@@ -825,249 +1056,18 @@
               }
             }
           ],
-          "credits": "Ardepa",
           "lieux": [
             "recKbU8dW7ri9Ihu9"
           ],
           "parcours": [
             "recnSvIT9dWMKZF8x",
             "recit6lDBhqoxoJn9"
-          ]
+          ],
+          "titre": "expédition urbaine 2019-2 plaquette",
+          "credits": "Ardepa"
         }
       ],
-      "cover_media": {
-        "id": "recYDhDq2wZ1zWGhE",
-        "titre": "berges cover",
-        "fichiers": [
-          {
-            "id": "attp3N1M5cRSWBqqj",
-            "width": 1920,
-            "height": 1080,
-            "url": "https://dl.airtable.com/.attachments/22297308b11ec8c3a9f2f1c2f34c5607/03c7c179/DSC_3768.JPG",
-            "filename": "DSC_3768.JPG",
-            "size": 573005,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/779d06d9b9bee79879e03407bac1534b/0b5aea10",
-                "width": 64,
-                "height": 36
-              },
-              "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/cb4f72bc08fac63afb1f13b291559870/505891c5",
-                "width": 910,
-                "height": 512
-              },
-              "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/9dd9eee8838efd4f4fb84fea7ba03b6b/965098ed",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "credits": "ardepa",
-        "cover_lieux": [
-          "recKbU8dW7ri9Ihu9"
-        ],
-        "parcours": [
-          "recit6lDBhqoxoJn9"
-        ]
-      },
-      "type": [
-        {
-          "id": "recEWoJWizkQSrwEo",
-          "destination": "Aménagement paysager",
-          "type_destination": "Espace public",
-          "lieux": [
-            "recJgalSFcQX7dLe6",
-            "rec0tsNbxoh48H20l",
-            "recP6LOBOUBRRlLnt",
-            "recKbU8dW7ri9Ihu9",
-            "recrfw9hvh3VrHFhx"
-          ]
-        }
-      ],
-      "présentation": "Le réaménagement des bords de Loire est l’une des ambitions premières du projet urbain de l’île de Nantes. Et la transformation des berges du faubourg conclut la requalification de la rive nord de l’île.\n\n**_Assurer la continuité piétonne et cyclable des berges_**\n\nEn 2015, avant le démarrage des travaux sur les berges du faubourg, 7 km de berges ou de quais avaient déjà été réaménagés sur les 12 km du tour de l’île. Objectif : offrir une continuité piétonne et cyclable avec les aménagements déjà réalisés pour permettre de retrouver la Loire. C’est l’agence BASE paysagiste qui a hérité du projet des berges du faubourg, en coproduction avec les habitants. 90 personnes se sont engagées dans cette démarche de réflexion. Elles ont participé à travers une série de réunions pour déterminer des propositions et des réflexions sur les usages futurs des espaces aménagés.\n« Ce travail a fait émerger la volonté forte des habitants de se réapproprier le fleuve, mais aussi l’envie de retrouver des usages conviviaux sur les berges », observe le collectif qui a animé les ateliers.\n\n**_7 hectares d’espaces publics transfigurés_**\n\nLes berges du faubourg s’étendent depuis le pont Haudaudine jusqu’au pont Aristide-Briand. Ce sont plus de 7 hectares d’espaces publics pour 1 km de berges et de quais qui ont été réaménagés.\nPiétons et cyclistes peuvent ainsi circuler du parc du Crapa au parc des Chantiers sans quitter les bords du fleuve. Le projet de l’agence BASE se déploie de part et d’autre du pont du général Audibert.\n\n**_Quais Rhuys et Hoche : ambiance nature_**\n\nA l’ouest du pont du général Audibert, une attention toute particulière a été portée à la Loire et à l’existant. Une place prolongée par des gradins en béton s’avance sur le fleuve au niveau du quai Hoche. Elle se connecte à une promenade de caillebotis au bord de l’eau qui rejoint l’espace du balcon de Biesse, dédié aux loisirs (terrains de boules, jeux pour enfants, etc.), à l’est, et le quai André-Rhuys, à l’est. \n\n**_Des espaces de jeux et de rencontre pour tous les âges._**\n\nLe parvis des écoles, aménagé à l’angle des quais André-Rhuys et Hoche accueille des équipements tels que baby-foot, ping-pong et agrès sportifs. Le long de la promenade sur la berge du quai André-Rhuys, on retrouve aussi la pêcherie, singulière structure posée sur la Loire, en clin d’œil aux anciennes pêcheries de l’estuaire.\n\nCet espace de détente et de contemplation créé à l’initiative d’une démarche participative peut accueillir des événements de petit format ou des classes de plein air.\n\n\n**_Quai Doumergue : de multiples usages_**\n\nA l’est du pont du général Audibert, c’est la diversité des usages qui prime. Une guinguette s’intègre au paysage par sa large structure métallique. Accessible depuis le boulevard, le premier niveau abrite une terrasse en bois, un espace de buvette et petite restauration et des toilettes publiques. Au niveau de la berge, l’installation de grandes tables, d’établis et d’un espace de stockage permet l’organisation d’événements. \nD’autres espaces de loisirs jalonnent le quai à l’ouest de la guinguette. On retrouve des terrains destinés à la pratique du badminton ou du volley et même un skatepark. Au bord de l’eau, ce sont de grands espaces libres pour jouer, se détendre, flâner ou pique-niquer qui structurent l’espace. Enfin, à l’est, c’est un jardin partagé pour les habitants du quartier qui se déploie.\n\n**_Une circulation apaisée_**\n\nEn parallèle de l’aménagement des berges – rendues plus accessibles aux piétons, cyclistes et personnes à mobilité réduite – les travaux ont permis de repenser la circulation. Elargissement des trottoirs, limitation de vitesse et mise en sens unique de certaines voies ont contribué à apaiser les espaces de circulation.\n\n_Sources : www.iledenantes.com et www.nantes.fr pour les citations._\n\n_• L'ardepa a visité ces lieux le 06 juillet 2019, lors de l'Expédition urbaine 2019#2 - Le bien-être en ville. _\n",
-      "parcours": [
-        {
-          "id": "recit6lDBhqoxoJn9",
-          "nom": "Le bien-être en ville",
-          "édito": "Le « bien-être » est une notion vaste dont il est nécessaire de définir les contours car si elle évoque une recherche personnelle d’épanouissement, de confort, de santé (...) le bien être en ville nous rappelle que nous existons de manière individuelle et collective au sein d’un espace partagé : la ville. Elle est aujourd’hui l’expression d’un projet collectif global contribuant ainsi à l’émergence d’un sentiment de bien «être» dans sa ville.\n\nNous profiterons de cette thématique pour découvrir différents équipements sur l’île de Nantes contribuant à cette notion de bien être, comme le Palais des Sports de Beaulieu, édifice a une double vocation : accueillir à la fois le sport amateur et le sport de haut niveau, puis les nouveaux aménagements des berges de Loire réalisés suite à la concertation habitante menée par la Samoa.\n\nComment se fabrique la ville aujourd’hui ? comment activer les espaces publics et encourager différentes appropriations ? C’est ce que nous tenterons de comprendre lors de cette expédition urbaine sur l’île de Nantes.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
-          "status": "Publié",
-          "date": "2019-07-06",
-          "lieux": [
-            "recK8aI8T01RXFgcD",
-            "receDNWxTooSTCLHo",
-            "recKbU8dW7ri9Ihu9"
-          ],
-          "cover_media": [
-            "recBNHsKIkH2zYavH"
-          ],
-          "médias": [
-            "recKe5H17rMJ2ezdf",
-            "recYDhDq2wZ1zWGhE",
-            "recaTHLX6YXDUfkh2"
-          ],
-          "type parcours": "Expédition",
-          "sous-titre": "Expédition urbaine 2019#2",
-          "en une": true
-        }
-      ],
-      "département": "44 Loire-Atlantique",
       "dernière modification": "2021-10-07T14:51:10.000Z"
     }
-  ],
-  "cover_media": {
-    "id": "recBNHsKIkH2zYavH",
-    "titre": "expé bien être cover",
-    "fichiers": [
-      {
-        "id": "attkepmiE6Ybo3Vqc",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/63d2b5f34830e56915b515673d5a948a/60d48fa0/DSC_3777.jpg",
-        "filename": "DSC_3777.jpg",
-        "size": 666061,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/7ba5f9d0fc34b4503edf02bfb6032988/5d4e644e",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/42ff6059c8519ff3d63b56f844f81865/364c6edd",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/492c52843c3a7a84d8d2d6f32439850f/d6a654da",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "ardepa",
-    "cover_parcours": [
-      "recit6lDBhqoxoJn9"
-    ]
-  },
-  "médias": [
-    {
-      "id": "recKe5H17rMJ2ezdf",
-      "titre": "sports beaulieu cover",
-      "fichiers": [
-        {
-          "id": "attpBVFoqXfmDDkix",
-          "width": 1920,
-          "height": 1080,
-          "url": "https://dl.airtable.com/.attachments/55d6e588b60229a442663d08b5b4b08f/7aa31925/sportsbeaulieucover.jpg",
-          "filename": "sports beaulieu cover.jpg",
-          "size": 466210,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/bf5a4bdba80e30b2dc463a1118859ae4/f5f5dbf0",
-              "width": 64,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/95d431341a7bbdc8083fb7dffad1f5fa/8991982c",
-              "width": 910,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/de57f30f9cf64612ea2ea48be160d422/caccfab7",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "credits": "Valery Joncheray / Samoa",
-      "cover_lieux": [
-        "recK8aI8T01RXFgcD"
-      ],
-      "parcours": [
-        "recit6lDBhqoxoJn9"
-      ]
-    },
-    {
-      "id": "recYDhDq2wZ1zWGhE",
-      "titre": "berges cover",
-      "fichiers": [
-        {
-          "id": "attp3N1M5cRSWBqqj",
-          "width": 1920,
-          "height": 1080,
-          "url": "https://dl.airtable.com/.attachments/22297308b11ec8c3a9f2f1c2f34c5607/03c7c179/DSC_3768.JPG",
-          "filename": "DSC_3768.JPG",
-          "size": 573005,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/779d06d9b9bee79879e03407bac1534b/0b5aea10",
-              "width": 64,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/cb4f72bc08fac63afb1f13b291559870/505891c5",
-              "width": 910,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/9dd9eee8838efd4f4fb84fea7ba03b6b/965098ed",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "credits": "ardepa",
-      "cover_lieux": [
-        "recKbU8dW7ri9Ihu9"
-      ],
-      "parcours": [
-        "recit6lDBhqoxoJn9"
-      ]
-    },
-    {
-      "id": "recaTHLX6YXDUfkh2",
-      "titre": "expédition urbaine 2019-2 plaquette",
-      "fichiers": [
-        {
-          "id": "att4RHX5nwnPiHkWU",
-          "url": "https://dl.airtable.com/.attachments/7f27868128b15a76e7203461b0ecba43/ee1a8687/plaquetteA5.pdf",
-          "filename": "plaquetteA5.pdf",
-          "size": 3896398,
-          "type": "application/pdf",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/3c00e5b2ff052643c91ca8282fda4fa8/d13a3966",
-              "width": 26,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/c4fe4a1f66a8040ed1bc994ea1649206/9c5319ef",
-              "width": 368,
-              "height": 512
-            }
-          }
-        }
-      ],
-      "credits": "Ardepa",
-      "lieux": [
-        "recKbU8dW7ri9Ihu9"
-      ],
-      "parcours": [
-        "recnSvIT9dWMKZF8x",
-        "recit6lDBhqoxoJn9"
-      ]
-    }
-  ],
-  "type parcours": "Expédition",
-  "sous-titre": "Expédition urbaine 2019#2",
-  "en une": true
+  ]
 }

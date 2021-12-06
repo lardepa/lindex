@@ -1,51 +1,94 @@
 {
   "id": "receMWo5ARK964EuD",
-  "nom": "Musée d'Arts de Nantes",
   "adresse": "10 Rue Georges Clemenceau, 44000 Nantes\n\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.219277,
-    -1.547096
+  "type": [
+    {
+      "id": "recpXtVGJnicjtjCe",
+      "type_destination": "Équipement",
+      "destination": "Musée",
+      "lieux": [
+        "recAIyOLNUx4kiPXv",
+        "receMWo5ARK964EuD",
+        "recq4adxSr0wOfKMW"
+      ]
+    }
   ],
-  "date": "2018",
   "maitre_oeuvre": [
     {
       "id": "recss1KNOCB4fZJ3N",
-      "nom": "Stanton Williams Architectes",
-      "site_web": "https://www.stantonwilliams.com/",
       "maitre_oeuvre": [
         "receMWo5ARK964EuD"
-      ]
+      ],
+      "site_web": "https://www.stantonwilliams.com/",
+      "nom": "Stanton Williams Architectes"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recL4Vs8QCoqNKb4j",
-      "nom": "Ville de Nantes (44)",
       "maitre_ouvrage": [
         "receMWo5ARK964EuD",
         "recK8aI8T01RXFgcD",
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx"
-      ]
+      ],
+      "nom": "Ville de Nantes (44)"
     },
     {
       "id": "recXVXVP3gQIykC61",
-      "nom": "Nantes Métropole (44)",
-      "site_web": "https://metropole.nantes.fr/",
       "maitre_ouvrage": [
         "recXIe49AgTTO1AuY",
         "receMWo5ARK964EuD",
         "recq4adxSr0wOfKMW",
         "recigl83FpciTgaw8",
         "receDNWxTooSTCLHo"
-      ]
+      ],
+      "site_web": "https://metropole.nantes.fr/",
+      "nom": "Nantes Métropole (44)"
     }
   ],
+  "status": "Publié",
+  "présentation": "**_Les Travaux de rénovation du Musée d'Arts en quelques dates et chiffres_**\n• 88,5 M€ : le budget global de l’opération (travaux d’aménagements extérieurs, de rénovation, d’extension, restauration des œuvres)\n• des aménagements extérieurs et intérieurs pour une meilleure accessibilité\n• le Palais datant du 19e siècle, ses façades et ses 3 500 m2. de verrières entièrement rénovés\n• 30% de surface d’exposition supplémentaires\n• 17 000 m²\n• le Cube : un nouveau bâtiment de 2 000 m2 dédié à l’art contemporain\n• un nouvel auditorium, des espaces pédagogiques, une bibliothèque et centre de\ndocumentation, un nouveau Cabinet d’arts graphiques, une librairie-boutique, un restaurant\n• des liaisons, dont une passerelle aérienne, permettant de relier le Cube au Palais et à la\nChapelle de l’Oratoire, offrant ainsi un parcours muséographique continu\n• 900 oeuvres exposées grâce au nouvel aménagement des espaces\n• plus de 150 oeuvres restaurées (peintures, sculptures, dessins)\n• une conservation des oeuvres performante, notamment grâce à l’amélioration\nhygrométrique\n• 185 acquisitions pendant la période de fermeture\n• plus de 13 000 oeuvres dans les collections dont environ la moitié antérieure à 1900,\net l’autre moitié postérieure\n• un dispositif multimédia à la pointe : des outils numériques personnalisables, pédagogiques et accessibles.\n_Texte : Ville de Nantes_\n\n**>> Plus d'infos dans la plaquette de visite (à la suite des photos)**\n\n_• L'ardepa a visité ce lieu le 29 juin 2018_\n",
+  "nom": "Musée d'Arts de Nantes",
+  "cover_media": {
+    "id": "recjHF8bzuX2jiLfO",
+    "fichiers": [
+      {
+        "id": "attJzJEMDH4d1ZBE1",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/b6168eae58e5168e93aa10c71fe57ca0/d6121a9e/museartscover.jpg",
+        "filename": "musée arts cover.jpg",
+        "size": 341030,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4a5b58a520755d4c007709f8f39cfb66/90b65010",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/773379d38354575d927c37f6d8530faf/e86d2d0f",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/bda987341c451b7c18bb98b78833b7f7/27b7874f",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "Musée arts cover",
+    "credits": "Stanton-Williams / Nantes Métropole",
+    "cover_lieux": [
+      "receMWo5ARK964EuD"
+    ]
+  },
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -98,13 +141,19 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
+  "geolocalisation": [
+    47.219277,
+    -1.547096
+  ],
+  "département": "44 Loire-Atlantique",
+  "date": "2018",
   "médias": [
     {
       "id": "recAwesDHDgxou0yd",
-      "titre": "musée arts photos",
       "fichiers": [
         {
           "id": "atthI140hgdaZyfwS",
@@ -185,14 +234,14 @@
           }
         }
       ],
-      "credits": "Stanton-Williams / Nantes Métropole",
       "lieux": [
         "receMWo5ARK964EuD"
-      ]
+      ],
+      "titre": "musée arts photos",
+      "credits": "Stanton-Williams / Nantes Métropole"
     },
     {
       "id": "recSpLTTZi5iTACOS",
-      "titre": "musée arts docs",
       "fichiers": [
         {
           "id": "attwgflYnlRhfJ6cR",
@@ -214,14 +263,14 @@
           }
         }
       ],
-      "credits": "Stanton-Williams / Nantes Métropole",
       "lieux": [
         "receMWo5ARK964EuD"
-      ]
+      ],
+      "titre": "musée arts docs",
+      "credits": "Stanton-Williams / Nantes Métropole"
     },
     {
       "id": "recsRRiCVq8GMGWIz",
-      "titre": "musée arts dossier de presse",
       "fichiers": [
         {
           "id": "attC8kP2Mc0aYlT1F",
@@ -243,14 +292,14 @@
           }
         }
       ],
-      "credits": "Stanton-Williams / Nantes Métropole",
       "lieux": [
         "receMWo5ARK964EuD"
-      ]
+      ],
+      "titre": "musée arts dossier de presse",
+      "credits": "Stanton-Williams / Nantes Métropole"
     },
     {
       "id": "recLrKggC7v7VDgDb",
-      "titre": "musée art plaquette de visite",
       "fichiers": [
         {
           "id": "attS18czfnwHSdZpO",
@@ -272,61 +321,12 @@
           }
         }
       ],
-      "credits": "Stanton-Williams / Nantes Métropole / Ardepa",
       "lieux": [
         "receMWo5ARK964EuD"
-      ]
+      ],
+      "titre": "musée art plaquette de visite",
+      "credits": "Stanton-Williams / Nantes Métropole / Ardepa"
     }
   ],
-  "cover_media": {
-    "id": "recjHF8bzuX2jiLfO",
-    "titre": "Musée arts cover",
-    "fichiers": [
-      {
-        "id": "attJzJEMDH4d1ZBE1",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/b6168eae58e5168e93aa10c71fe57ca0/d6121a9e/museartscover.jpg",
-        "filename": "musée arts cover.jpg",
-        "size": 341030,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4a5b58a520755d4c007709f8f39cfb66/90b65010",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/773379d38354575d927c37f6d8530faf/e86d2d0f",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/bda987341c451b7c18bb98b78833b7f7/27b7874f",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "Stanton-Williams / Nantes Métropole",
-    "cover_lieux": [
-      "receMWo5ARK964EuD"
-    ]
-  },
-  "type": [
-    {
-      "id": "recpXtVGJnicjtjCe",
-      "destination": "Musée",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recAIyOLNUx4kiPXv",
-        "receMWo5ARK964EuD",
-        "recq4adxSr0wOfKMW"
-      ]
-    }
-  ],
-  "présentation": "**_Les Travaux de rénovation du Musée d'Arts en quelques dates et chiffres_**\n• 88,5 M€ : le budget global de l’opération (travaux d’aménagements extérieurs, de rénovation, d’extension, restauration des œuvres)\n• des aménagements extérieurs et intérieurs pour une meilleure accessibilité\n• le Palais datant du 19e siècle, ses façades et ses 3 500 m2. de verrières entièrement rénovés\n• 30% de surface d’exposition supplémentaires\n• 17 000 m²\n• le Cube : un nouveau bâtiment de 2 000 m2 dédié à l’art contemporain\n• un nouvel auditorium, des espaces pédagogiques, une bibliothèque et centre de\ndocumentation, un nouveau Cabinet d’arts graphiques, une librairie-boutique, un restaurant\n• des liaisons, dont une passerelle aérienne, permettant de relier le Cube au Palais et à la\nChapelle de l’Oratoire, offrant ainsi un parcours muséographique continu\n• 900 oeuvres exposées grâce au nouvel aménagement des espaces\n• plus de 150 oeuvres restaurées (peintures, sculptures, dessins)\n• une conservation des oeuvres performante, notamment grâce à l’amélioration\nhygrométrique\n• 185 acquisitions pendant la période de fermeture\n• plus de 13 000 oeuvres dans les collections dont environ la moitié antérieure à 1900,\net l’autre moitié postérieure\n• un dispositif multimédia à la pointe : des outils numériques personnalisables, pédagogiques et accessibles.\n_Texte : Ville de Nantes_\n\n**>> Plus d'infos dans la plaquette de visite (à la suite des photos)**\n\n_• L'ardepa a visité ce lieu le 29 juin 2018_\n",
-  "département": "44 Loire-Atlantique",
   "dernière modification": "2021-10-07T09:22:53.000Z"
 }

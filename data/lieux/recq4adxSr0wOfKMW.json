@@ -1,64 +1,127 @@
 {
   "id": "recq4adxSr0wOfKMW",
-  "nom": "Le Chronographe",
   "adresse": "21 Rue Saint-Lupien 44400 Rezé\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.19183906095207,
-    -1.5647830776386644
+  "type": [
+    {
+      "id": "recpXtVGJnicjtjCe",
+      "type_destination": "Équipement",
+      "destination": "Musée",
+      "lieux": [
+        "recAIyOLNUx4kiPXv",
+        "receMWo5ARK964EuD",
+        "recq4adxSr0wOfKMW"
+      ]
+    },
+    {
+      "id": "recU0DF0Isnpt8rJ1",
+      "type_destination": "Équipement",
+      "destination": "Culture",
+      "lieux": [
+        "recq85i5LBfpWsp9R",
+        "recloEgKAuO4WjR2r",
+        "recT5ti90aD2NTdCN",
+        "recq4adxSr0wOfKMW"
+      ]
+    },
+    {
+      "id": "recOWK3c1cbm06Vqy",
+      "type_destination": "Équipement",
+      "destination": "Sciences",
+      "lieux": [
+        "recloEgKAuO4WjR2r",
+        "recq4adxSr0wOfKMW"
+      ]
+    }
   ],
-  "date": "2015",
   "maitre_oeuvre": [
     {
       "id": "recaGTVAxJlTQJ2lF",
-      "nom": "Berranger & Vincent Architectes",
-      "site_web": "https://www.berrangeretvincent.com/",
       "maitre_oeuvre": [
         "recq4adxSr0wOfKMW"
-      ]
+      ],
+      "site_web": "https://www.berrangeretvincent.com/",
+      "nom": "Berranger & Vincent Architectes"
     },
     {
       "id": "recA36FgRNMYK8WEz",
-      "nom": "A + R Paysage",
-      "site_web": "https://www.aplusrpaysages.com/",
       "maitre_oeuvre": [
         "recq4adxSr0wOfKMW"
-      ]
+      ],
+      "site_web": "https://www.aplusrpaysages.com/",
+      "nom": "A + R Paysage"
     },
     {
       "id": "recpjhTSvKvezvene",
-      "nom": "ASA - Atelier Sompairac architecture et scénographie",
-      "site_web": "https://www.sompairac-architectes.com/",
       "maitre_oeuvre": [
         "recq4adxSr0wOfKMW"
-      ]
+      ],
+      "site_web": "https://www.sompairac-architectes.com/",
+      "nom": "ASA - Atelier Sompairac architecture et scénographie"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recXVXVP3gQIykC61",
-      "nom": "Nantes Métropole (44)",
-      "site_web": "https://metropole.nantes.fr/",
       "maitre_ouvrage": [
         "recXIe49AgTTO1AuY",
         "receMWo5ARK964EuD",
         "recq4adxSr0wOfKMW",
         "recigl83FpciTgaw8",
         "receDNWxTooSTCLHo"
-      ]
+      ],
+      "site_web": "https://metropole.nantes.fr/",
+      "nom": "Nantes Métropole (44)"
     },
     {
       "id": "recI6W1YFKxFG3H6F",
-      "nom": "Ville de Rezé (44)",
       "maitre_ouvrage": [
         "recq4adxSr0wOfKMW"
-      ]
+      ],
+      "nom": "Ville de Rezé (44)"
     }
   ],
+  "status": "Publié",
+  "présentation": "**_LE CHRONOGRAPHE_**\nEnclencher le comptage, stopper, remettre à zéro, mesurer l’intervalle de temps écoulé, puis tout recommencer : telles sont les actions que permet le chronographe, cette montre capable d’indiquer la durée d’une observation. Après de longues délibérations, ce mot issu du vocabulaire de l’horlogerie fut choisi pour baptiser le centre d’interprétation archéologique de Saint-Lupien. Ce nouvel outil serait donc la métaphore d’une machine à remonter le temps, l’enrouler et le dérouler : une belle image pour dire l’écriture de l’Histoire, comprendre la fabrique d’une ville et d’un paysage, et saisir l’essence de la recherche en archéologie. \n**_UNE ARCHITECTURE SIGNÉE BERRANGER & VINCENT_**\nPour un architecte, intervenir sur un site archéologique constitue une vraie gageure : la question du bon ancrage, qui respecte les traces des vestiges antiques et s’insère dans la logique de l’ancien tissu urbain, se pose avec une acuité particulière, tant vis-à-vis du paysage que par la nature même du programme, car le bâtiment conçu par Jérôme Berranger et Stéphanie Vincent a pour mission première d’être un instrument de médiation, révélateur de contexte spatio-temporel.\n**_OBSERVER, ÊTRE TRAVERSÉ_**\nLe duo choisit la simplicité des volumes : deux parallélépipèdes s’équilibrent, l’un posé avec légèreté sur la pente du site, l’autre dressé vers le ciel, lorgnant à la fois vers l’esthétique industrielle de l’échafaudage métallique et celle, plus organique, de la cabane en bois. Berranger & Vincent évoquent l’image des observatoires de pêcheurs ou de chasseurs, des belvédères de campagne, ou des tours médiévales : autant d’espaces ouverts sur le monde qui en retour se voient traversés par le paysage alentour ; autant de structures plutôt précaires, non figées, qui ménagent de multiples possibilités d’observation, de contemplation et de projection. \nÀ l’intérieur de ses 800 m2 de surface, le Chronographe dispose d’un espace d’exposition permanente, un espace d’exposition temporaire, des bureaux et espaces logistiques, et deux ateliers pédagogiques. \nPartout priment la sobriété des volumes et la souplesse d’utilisation. L’idée de circulation l’emporte : au rez-de-jardin, l’exposition Temporaire se déploie dans un espace ouvert, libéré de point porteur. \nLes architectes ont ici privilégié la transparence, comme pour entrer en conversation avec la topographie proche. Ailleurs, le bâtiment souligne les perspectives qui révèlent la nature du site : la double trame irrégulière des façades du rez-de-chaussée, bardées de mélèze aux douces nuances argentées, offre ainsi plusieurs cadrages liés à la muséographie de l’exposition permanente. \nLe choix des ouvertures articule des séquences de regard : vues en contre-plongée sur les murets du jardin archéologique, cadrage précis sur la Chapelle St Lupien, percement contrôlé sur la Maison Radieuse... \nOutil de transmission, l’architecture orchestre de multiples étapes perceptives. \n\n_Texte : Eva Prouteau_\n\n_• L'ardepa a visité ce lieu le 10 février 2017_\n",
+  "nom": "Le Chronographe",
+  "cover_media": {
+    "id": "rechXGhXgMvAotC3B",
+    "fichiers": [
+      {
+        "id": "attIxwfRJdGvoMjUj",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/d63b37905035fcbf8941a08f92a6cfc5/0e6d9cd1/chronographecover.jpg",
+        "filename": "chronographe cover.jpg",
+        "size": 282760,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/70db58e3931fc77d5161235f734d99c2/8b95a528",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5d7ceb16cc9e1ce73c7d6b820ae80ba0/c46762db",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2d59ca611ed581fffbe7a9fd7e3df990/0527beb4",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "chronographe cover",
+    "credits": "Berranger & Vincent / Ardepa",
+    "cover_lieux": [
+      "recq4adxSr0wOfKMW"
+    ]
+  },
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -111,13 +174,19 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
+  "geolocalisation": [
+    47.19183906095207,
+    -1.5647830776386644
+  ],
+  "département": "44 Loire-Atlantique",
+  "date": "2015",
   "médias": [
     {
       "id": "recqzfqvMcWgsh3eh",
-      "titre": "chronographe photos 1",
       "fichiers": [
         {
           "id": "attpGSQgUpiYnKtcR",
@@ -172,14 +241,14 @@
           }
         }
       ],
-      "credits": "Berranger & Vincent / Ardepa",
       "lieux": [
         "recq4adxSr0wOfKMW"
-      ]
+      ],
+      "titre": "chronographe photos 1",
+      "credits": "Berranger & Vincent / Ardepa"
     },
     {
       "id": "recXb9oIm9jyNb0sF",
-      "titre": "chronographe documents",
       "fichiers": [
         {
           "id": "att21dIU84ILGwve9",
@@ -201,14 +270,14 @@
           }
         }
       ],
-      "credits": "Berranger & Vincent",
       "lieux": [
         "recq4adxSr0wOfKMW"
-      ]
+      ],
+      "titre": "chronographe documents",
+      "credits": "Berranger & Vincent"
     },
     {
       "id": "rec68yki3tqthtmSq",
-      "titre": "chronographe photos 2",
       "fichiers": [
         {
           "id": "attGSlWqCmu4SkoAG",
@@ -341,14 +410,14 @@
           }
         }
       ],
-      "credits": "Berranger & Vincent / Ardepa",
       "lieux": [
         "recq4adxSr0wOfKMW"
-      ]
+      ],
+      "titre": "chronographe photos 2",
+      "credits": "Berranger & Vincent / Ardepa"
     },
     {
       "id": "recMKEQl7WsyFtJjb",
-      "titre": "Chronographe plaquette de visite",
       "fichiers": [
         {
           "id": "attivkudmPdlzIewx",
@@ -370,81 +439,12 @@
           }
         }
       ],
-      "credits": "Berranger & Vincent / Ardepa",
       "lieux": [
         "recq4adxSr0wOfKMW"
-      ]
+      ],
+      "titre": "Chronographe plaquette de visite",
+      "credits": "Berranger & Vincent / Ardepa"
     }
   ],
-  "cover_media": {
-    "id": "rechXGhXgMvAotC3B",
-    "titre": "chronographe cover",
-    "fichiers": [
-      {
-        "id": "attIxwfRJdGvoMjUj",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/d63b37905035fcbf8941a08f92a6cfc5/0e6d9cd1/chronographecover.jpg",
-        "filename": "chronographe cover.jpg",
-        "size": 282760,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/70db58e3931fc77d5161235f734d99c2/8b95a528",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5d7ceb16cc9e1ce73c7d6b820ae80ba0/c46762db",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/2d59ca611ed581fffbe7a9fd7e3df990/0527beb4",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "Berranger & Vincent / Ardepa",
-    "cover_lieux": [
-      "recq4adxSr0wOfKMW"
-    ]
-  },
-  "type": [
-    {
-      "id": "recpXtVGJnicjtjCe",
-      "destination": "Musée",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recAIyOLNUx4kiPXv",
-        "receMWo5ARK964EuD",
-        "recq4adxSr0wOfKMW"
-      ]
-    },
-    {
-      "id": "recU0DF0Isnpt8rJ1",
-      "destination": "Culture",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recq85i5LBfpWsp9R",
-        "recloEgKAuO4WjR2r",
-        "recT5ti90aD2NTdCN",
-        "recq4adxSr0wOfKMW"
-      ]
-    },
-    {
-      "id": "recOWK3c1cbm06Vqy",
-      "destination": "Sciences",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recloEgKAuO4WjR2r",
-        "recq4adxSr0wOfKMW"
-      ]
-    }
-  ],
-  "présentation": "**_LE CHRONOGRAPHE_**\nEnclencher le comptage, stopper, remettre à zéro, mesurer l’intervalle de temps écoulé, puis tout recommencer : telles sont les actions que permet le chronographe, cette montre capable d’indiquer la durée d’une observation. Après de longues délibérations, ce mot issu du vocabulaire de l’horlogerie fut choisi pour baptiser le centre d’interprétation archéologique de Saint-Lupien. Ce nouvel outil serait donc la métaphore d’une machine à remonter le temps, l’enrouler et le dérouler : une belle image pour dire l’écriture de l’Histoire, comprendre la fabrique d’une ville et d’un paysage, et saisir l’essence de la recherche en archéologie. \n**_UNE ARCHITECTURE SIGNÉE BERRANGER & VINCENT_**\nPour un architecte, intervenir sur un site archéologique constitue une vraie gageure : la question du bon ancrage, qui respecte les traces des vestiges antiques et s’insère dans la logique de l’ancien tissu urbain, se pose avec une acuité particulière, tant vis-à-vis du paysage que par la nature même du programme, car le bâtiment conçu par Jérôme Berranger et Stéphanie Vincent a pour mission première d’être un instrument de médiation, révélateur de contexte spatio-temporel.\n**_OBSERVER, ÊTRE TRAVERSÉ_**\nLe duo choisit la simplicité des volumes : deux parallélépipèdes s’équilibrent, l’un posé avec légèreté sur la pente du site, l’autre dressé vers le ciel, lorgnant à la fois vers l’esthétique industrielle de l’échafaudage métallique et celle, plus organique, de la cabane en bois. Berranger & Vincent évoquent l’image des observatoires de pêcheurs ou de chasseurs, des belvédères de campagne, ou des tours médiévales : autant d’espaces ouverts sur le monde qui en retour se voient traversés par le paysage alentour ; autant de structures plutôt précaires, non figées, qui ménagent de multiples possibilités d’observation, de contemplation et de projection. \nÀ l’intérieur de ses 800 m2 de surface, le Chronographe dispose d’un espace d’exposition permanente, un espace d’exposition temporaire, des bureaux et espaces logistiques, et deux ateliers pédagogiques. \nPartout priment la sobriété des volumes et la souplesse d’utilisation. L’idée de circulation l’emporte : au rez-de-jardin, l’exposition Temporaire se déploie dans un espace ouvert, libéré de point porteur. \nLes architectes ont ici privilégié la transparence, comme pour entrer en conversation avec la topographie proche. Ailleurs, le bâtiment souligne les perspectives qui révèlent la nature du site : la double trame irrégulière des façades du rez-de-chaussée, bardées de mélèze aux douces nuances argentées, offre ainsi plusieurs cadrages liés à la muséographie de l’exposition permanente. \nLe choix des ouvertures articule des séquences de regard : vues en contre-plongée sur les murets du jardin archéologique, cadrage précis sur la Chapelle St Lupien, percement contrôlé sur la Maison Radieuse... \nOutil de transmission, l’architecture orchestre de multiples étapes perceptives. \n\n_Texte : Eva Prouteau_\n\n_• L'ardepa a visité ce lieu le 10 février 2017_\n",
-  "département": "44 Loire-Atlantique",
   "dernière modification": "2021-10-07T09:23:05.000Z"
 }

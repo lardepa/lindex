@@ -5,7 +5,6 @@
     "status": "Publié",
     "cover_media": {
       "id": "recgsgovOytQsNOoV",
-      "titre": "Viséo 1",
       "fichiers": [
         {
           "id": "attSkmVXTYh8LPbK5",
@@ -34,6 +33,7 @@
           }
         }
       ],
+      "titre": "Viséo 1",
       "credits": "RAUM",
       "cover_lieux": [
         "recXrmOzavWvTwx9T"
@@ -44,56 +44,11 @@
     "lastModification": "2021-10-04T08:13:14.000Z"
   },
   {
-    "id": "recahyhau12Ghaztg",
-    "type": "lieux",
-    "status": "Publié",
-    "cover_media": {
-      "id": "recb4mJElb1F79mLX",
-      "titre": "Relier les impasses",
-      "fichiers": [
-        {
-          "id": "att2fJ5Me4NAYQqEv",
-          "width": 1920,
-          "height": 1080,
-          "url": "https://dl.airtable.com/.attachments/0ec7a08154fa055b4b998eee7f381ce6/35409e96/bigre1.jpg",
-          "filename": "bigre 1.jpg",
-          "size": 659503,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/fd4cf9a102e5d93fc78a9655ff279439/38189f2d",
-              "width": 64,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/191a2fc536b90c3783a9d41bb6ccbe00/6dfa7d72",
-              "width": 910,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/00c5862cea72366515e7452986cadb76/4857a280",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "credits": "ardepa",
-      "cover_lieux": [
-        "recahyhau12Ghaztg"
-      ]
-    },
-    "title": "Relier les Impasses",
-    "subtitle": "Bigre ! Architecture",
-    "lastModification": "2021-10-04T08:13:45.000Z"
-  },
-  {
     "id": "recKLeXsRwBMLlMUR",
     "type": "selections",
     "status": "Publié",
     "cover_media": {
       "id": "recIwd1dZ2nHUd5WG",
-      "titre": "perso 2",
       "fichiers": [
         {
           "id": "attnnmekPdmMs2vWh",
@@ -124,10 +79,55 @@
       ],
       "sélections": [
         "recKLeXsRwBMLlMUR"
-      ]
+      ],
+      "titre": "perso 2"
     },
     "title": "Personnalité 2",
     "lastModification": "2021-10-07T15:01:46.000Z"
+  },
+  {
+    "id": "recahyhau12Ghaztg",
+    "type": "lieux",
+    "status": "Publié",
+    "cover_media": {
+      "id": "recb4mJElb1F79mLX",
+      "fichiers": [
+        {
+          "id": "att2fJ5Me4NAYQqEv",
+          "width": 1920,
+          "height": 1080,
+          "url": "https://dl.airtable.com/.attachments/0ec7a08154fa055b4b998eee7f381ce6/35409e96/bigre1.jpg",
+          "filename": "bigre 1.jpg",
+          "size": 659503,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fd4cf9a102e5d93fc78a9655ff279439/38189f2d",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/191a2fc536b90c3783a9d41bb6ccbe00/6dfa7d72",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/00c5862cea72366515e7452986cadb76/4857a280",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "titre": "Relier les impasses",
+      "credits": "ardepa",
+      "cover_lieux": [
+        "recahyhau12Ghaztg"
+      ]
+    },
+    "title": "Relier les Impasses",
+    "subtitle": "Bigre ! Architecture",
+    "lastModification": "2021-12-06T08:29:38.000Z"
   },
   {
     "id": "recit6lDBhqoxoJn9",
@@ -135,7 +135,6 @@
     "status": "Publié",
     "cover_media": {
       "id": "recBNHsKIkH2zYavH",
-      "titre": "expé bien être cover",
       "fichiers": [
         {
           "id": "attkepmiE6Ybo3Vqc",
@@ -164,10 +163,11 @@
           }
         }
       ],
-      "credits": "ardepa",
       "cover_parcours": [
         "recit6lDBhqoxoJn9"
-      ]
+      ],
+      "titre": "expé bien être cover",
+      "credits": "ardepa"
     },
     "title": "Le bien-être en ville",
     "subtitle": "samedi 6 juillet 2019"
@@ -178,7 +178,6 @@
     "status": "Publié",
     "cover_media": {
       "id": "recikqDR8r22npdW9",
-      "titre": "expédition urbaine 2019-2 cover",
       "fichiers": [
         {
           "id": "atthpU41nJNCK9nxN",
@@ -207,10 +206,11 @@
           }
         }
       ],
-      "credits": "Ardepa",
       "cover_parcours": [
         "recnSvIT9dWMKZF8x"
-      ]
+      ],
+      "titre": "expédition urbaine 2019-2 cover",
+      "credits": "Ardepa"
     },
     "title": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
     "subtitle": "samedi 16 novembre 2019"

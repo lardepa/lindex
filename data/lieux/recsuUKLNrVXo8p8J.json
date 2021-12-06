@@ -1,43 +1,63 @@
 {
   "id": "recsuUKLNrVXo8p8J",
-  "nom": "Restaurant d'entreprise \"Le Petit Lavallois\"",
   "adresse": "2 rue de l'Hermitage 53000 Laval\n",
-  "status": "Publié",
-  "geolocalisation": [
-    48.077381,
-    -0.771572
+  "type": [
+    {
+      "id": "recH814jY01CiGtUZ",
+      "type_destination": "Équipement",
+      "destination": "Restaurant d'entreprise",
+      "lieux": [
+        "recsuUKLNrVXo8p8J"
+      ]
+    }
   ],
-  "date": "2016",
   "maitre_oeuvre": [
     {
       "id": "reclfp6HLvEEmbP6e",
-      "nom": "Béatrice Oréal Architecture",
-      "site_web": "https://www.oreal.fr/",
       "maitre_oeuvre": [
         "recsuUKLNrVXo8p8J"
-      ]
+      ],
+      "site_web": "https://www.oreal.fr/",
+      "nom": "Béatrice Oréal Architecture"
     },
     {
       "id": "recleUhLiIBLOEkyG",
-      "nom": "Nathalie Chardon Architecture",
       "maitre_oeuvre": [
         "recsuUKLNrVXo8p8J"
-      ]
+      ],
+      "nom": "Nathalie Chardon Architecture"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recKgw2X4CLIXjXgU",
-      "nom": "Groupe Lactalis",
       "maitre_ouvrage": [
         "recsuUKLNrVXo8p8J"
+      ],
+      "nom": "Groupe Lactalis"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne 2014 (Catégorie Maîtrise d'Ouvrage Privée)\n",
+  "distinctions": [
+    {
+      "id": "rec3Xe5U2PVARPF2u",
+      "site_web": "https://www.caue53.com/page-grand-prix-public/",
+      "nom": "Grand prix départemental du cadre de vie (53)",
+      "description": "Le Grand prix Départemental du cadre de vie de Mayenne est remis tous les quatre ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Mayenne",
+      "lieux": [
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R"
       ]
     }
   ],
+  "nom": "Restaurant d'entreprise \"Le Petit Lavallois\"",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -90,35 +110,15 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
-  "type": [
-    {
-      "id": "recH814jY01CiGtUZ",
-      "destination": "Restaurant d'entreprise",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recsuUKLNrVXo8p8J"
-      ]
-    }
+  "geolocalisation": [
+    48.077381,
+    -0.771572
   ],
-  "distinctions": [
-    {
-      "id": "rec3Xe5U2PVARPF2u",
-      "nom": "Grand prix départemental du cadre de vie (53)",
-      "description": "Le Grand prix Départemental du cadre de vie de Mayenne est remis tous les quatre ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Mayenne",
-      "site_web": "https://www.caue53.com/page-grand-prix-public/",
-      "lieux": [
-        "rec4neQMuPblp8tuX",
-        "reczXyoM7GigrsPit",
-        "recsuUKLNrVXo8p8J",
-        "recdqD43kpp1pOv3x",
-        "recBxhZLsWO1HSu4R"
-      ]
-    }
-  ],
-  "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne 2014 (Catégorie Maîtrise d'Ouvrage Privée)\n",
   "département": "53 Mayenne",
+  "date": "2016",
   "dernière modification": "2021-09-27T16:13:00.000Z"
 }

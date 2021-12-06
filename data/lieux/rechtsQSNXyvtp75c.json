@@ -1,45 +1,89 @@
 {
   "id": "rechtsQSNXyvtp75c",
-  "nom": "Pôle d'excellence éducative Albert Camus",
   "adresse": "23 Rue de Paris, 72190 Coulaines\n",
-  "status": "Publié",
-  "geolocalisation": [
-    48.023798,
-    0.207591
-  ],
-  "date": "2013",
-  "maitre_oeuvre": [
+  "type": [
     {
-      "id": "recVkSOHmBeL4G9mV",
-      "nom": "Dietmar Feichtinger Architectes",
-      "site_web": "https://www.feichtingerarchitectes.com/projekte.php/3",
-      "maitre_oeuvre": [
-        "rechtsQSNXyvtp75c"
+      "id": "recXibaj44X2ckGlM",
+      "type_destination": "Équipement",
+      "destination": "École",
+      "lieux": [
+        "rechtsQSNXyvtp75c",
+        "rech0NsUFIcIJYybV",
+        "rec3sjAwggXRAkqGc"
       ]
     },
     {
+      "id": "recgBvHbjDyN7yskz",
+      "type_destination": "Équipement",
+      "destination": "Crèche",
+      "lieux": [
+        "rechtsQSNXyvtp75c",
+        "recMKYgGVASf6j8rE"
+      ]
+    },
+    {
+      "id": "recVSbbcBxY2ydzDN",
+      "type_destination": "Équipement",
+      "destination": "Équipement sportif",
+      "lieux": [
+        "rechtsQSNXyvtp75c",
+        "recYQXv9Df1Bn5fTu",
+        "recK8aI8T01RXFgcD",
+        "receDNWxTooSTCLHo"
+      ]
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "recVkSOHmBeL4G9mV",
+      "maitre_oeuvre": [
+        "rechtsQSNXyvtp75c"
+      ],
+      "site_web": "https://www.feichtingerarchitectes.com/projekte.php/3",
+      "nom": "Dietmar Feichtinger Architectes"
+    },
+    {
       "id": "recU9GUFDXK6m2xjj",
-      "nom": "Feuille à Feuille - aménagement urbain et paysage",
-      "site_web": "https://www.feuille-a-feuille.fr/",
       "maitre_oeuvre": [
         "rechtsQSNXyvtp75c",
         "recuIUUMuCMw2rrHn"
-      ]
+      ],
+      "site_web": "https://www.feuille-a-feuille.fr/",
+      "nom": "Feuille à Feuille - aménagement urbain et paysage"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "reclrlg5wctVfBRYh",
-      "nom": "Commune de Coulaines (72)",
       "maitre_ouvrage": [
         "rechtsQSNXyvtp75c"
+      ],
+      "nom": "Commune de Coulaines (72)"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 (Catégorie Architecture)\n",
+  "distinctions": [
+    {
+      "id": "recmk2YRhgfa5q8Dj",
+      "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+      "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+      "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.\nIl a été remplacé en 2021 par le prix \"Aperçus Sarthe\"",
+      "lieux": [
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recq85i5LBfpWsp9R",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r"
       ]
     }
   ],
+  "nom": "Pôle d'excellence éducative Albert Camus",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -92,59 +136,15 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
-  "type": [
-    {
-      "id": "recXibaj44X2ckGlM",
-      "destination": "École",
-      "type_destination": "Équipement",
-      "lieux": [
-        "rechtsQSNXyvtp75c",
-        "rech0NsUFIcIJYybV",
-        "rec3sjAwggXRAkqGc"
-      ]
-    },
-    {
-      "id": "recgBvHbjDyN7yskz",
-      "destination": "Crèche",
-      "type_destination": "Équipement",
-      "lieux": [
-        "rechtsQSNXyvtp75c",
-        "recMKYgGVASf6j8rE"
-      ]
-    },
-    {
-      "id": "recVSbbcBxY2ydzDN",
-      "destination": "Équipement sportif",
-      "type_destination": "Équipement",
-      "lieux": [
-        "rechtsQSNXyvtp75c",
-        "recYQXv9Df1Bn5fTu",
-        "recK8aI8T01RXFgcD",
-        "receDNWxTooSTCLHo"
-      ]
-    }
+  "geolocalisation": [
+    48.023798,
+    0.207591
   ],
-  "distinctions": [
-    {
-      "id": "recmk2YRhgfa5q8Dj",
-      "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
-      "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.\nIl a été remplacé en 2021 par le prix \"Aperçus Sarthe\"",
-      "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
-      "lieux": [
-        "rechtsQSNXyvtp75c",
-        "recuIUUMuCMw2rrHn",
-        "rec72cuqtL80v3RYm",
-        "recXNuzkB4wj0g0H4",
-        "recq85i5LBfpWsp9R",
-        "recM6PpcEu5bvmzwd",
-        "recmanFMpSvbjFW6r"
-      ]
-    }
-  ],
-  "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 (Catégorie Architecture)\n",
   "département": "72 Sarthe",
+  "date": "2013",
   "dernière modification": "2021-09-27T16:12:49.000Z"
 }

@@ -1,46 +1,68 @@
 {
   "id": "recuIUUMuCMw2rrHn",
-  "nom": "Extension de Cimetière à Auvers-le-Hamon",
   "adresse": "Rue Charnacé, 72300 Auvers-le-Hamon\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.90477123647374,
-    -0.35441273973473375
+  "type": [
+    {
+      "id": "recwFLzRxncgHgTIt",
+      "type_destination": "Équipement",
+      "destination": "Cimetière",
+      "lieux": [
+        "recuIUUMuCMw2rrHn"
+      ]
+    }
   ],
-  "date": "2015",
   "maitre_oeuvre": [
     {
       "id": "recU9GUFDXK6m2xjj",
-      "nom": "Feuille à Feuille - aménagement urbain et paysage",
-      "site_web": "https://www.feuille-a-feuille.fr/",
       "maitre_oeuvre": [
         "rechtsQSNXyvtp75c",
         "recuIUUMuCMw2rrHn"
-      ]
+      ],
+      "site_web": "https://www.feuille-a-feuille.fr/",
+      "nom": "Feuille à Feuille - aménagement urbain et paysage"
     },
     {
       "id": "rec8xc1z26ogg2vT6",
-      "nom": "Lorraine Bapst Architecture",
-      "site_web": "http://lorrainebapstarchitecture.viabloga.com/",
       "maitre_oeuvre": [
         "recuIUUMuCMw2rrHn",
         "recmanFMpSvbjFW6r"
-      ]
+      ],
+      "site_web": "http://lorrainebapstarchitecture.viabloga.com/",
+      "nom": "Lorraine Bapst Architecture"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recQtnbWbIbEVFXwj",
-      "nom": "Commune d'Auvers-le-Hamon (72)",
       "maitre_ouvrage": [
         "recuIUUMuCMw2rrHn"
+      ],
+      "nom": "Commune d'Auvers-le-Hamon (72)"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 (Catégorie Aménagement)\n",
+  "distinctions": [
+    {
+      "id": "recmk2YRhgfa5q8Dj",
+      "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
+      "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
+      "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.\nIl a été remplacé en 2021 par le prix \"Aperçus Sarthe\"",
+      "lieux": [
+        "rechtsQSNXyvtp75c",
+        "recuIUUMuCMw2rrHn",
+        "rec72cuqtL80v3RYm",
+        "recXNuzkB4wj0g0H4",
+        "recq85i5LBfpWsp9R",
+        "recM6PpcEu5bvmzwd",
+        "recmanFMpSvbjFW6r"
       ]
     }
   ],
+  "nom": "Extension de Cimetière à Auvers-le-Hamon",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -93,37 +115,15 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
-  "type": [
-    {
-      "id": "recwFLzRxncgHgTIt",
-      "destination": "Cimetière",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recuIUUMuCMw2rrHn"
-      ]
-    }
+  "geolocalisation": [
+    47.90477123647374,
+    -0.35441273973473375
   ],
-  "distinctions": [
-    {
-      "id": "recmk2YRhgfa5q8Dj",
-      "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
-      "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.\nIl a été remplacé en 2021 par le prix \"Aperçus Sarthe\"",
-      "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
-      "lieux": [
-        "rechtsQSNXyvtp75c",
-        "recuIUUMuCMw2rrHn",
-        "rec72cuqtL80v3RYm",
-        "recXNuzkB4wj0g0H4",
-        "recq85i5LBfpWsp9R",
-        "recM6PpcEu5bvmzwd",
-        "recmanFMpSvbjFW6r"
-      ]
-    }
-  ],
-  "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2016 (Catégorie Aménagement)\n",
   "département": "72 Sarthe",
+  "date": "2015",
   "dernière modification": "2021-09-30T07:30:49.000Z"
 }

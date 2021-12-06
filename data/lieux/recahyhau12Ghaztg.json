@@ -1,34 +1,88 @@
 {
   "id": "recahyhau12Ghaztg",
-  "nom": "Relier les Impasses",
   "adresse": "Impasse Audran, 44000 Nantes\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.22072308491577,
-    -1.5497541027019928
+  "sélections": [
+    {
+      "id": "recBb6NHdfNisYSjI",
+      "portrait": [
+        "recxCPsnbbOskIBtT"
+      ],
+      "invité": "Personnalité 1",
+      "lieux": [
+        "recahyhau12Ghaztg",
+        "recXrmOzavWvTwx9T",
+        "recXIe49AgTTO1AuY",
+        "recu65igj5DHRpC30"
+      ],
+      "status": "Publié",
+      "introduction": "Perso 1 est un célèbre TEXTE texte texte texte texte v TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte",
+      "édito": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam \n",
+      "dernière modification": "2021-10-07T14:58:06.000Z"
+    },
+    {
+      "id": "recy2MjKNYdzWUD4A",
+      "portrait": [
+        "recRdC4relvqeUWdb"
+      ],
+      "invité": "Personnalité 3",
+      "lieux": [
+        "recahyhau12Ghaztg",
+        "recRlloApjtcScitR",
+        "recRFuKGP2zlHup3A",
+        "recu65igj5DHRpC30"
+      ],
+      "status": "Publié",
+      "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
+      "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+      "dernière modification": "2021-10-07T14:51:49.000Z"
+    }
   ],
-  "date": "2021",
+  "type": [
+    {
+      "id": "recYSw9aAndSU9UZ7",
+      "type_destination": "Logement",
+      "destination": "Logements individuels",
+      "lieux": [
+        "recahyhau12Ghaztg",
+        "recP6LOBOUBRRlLnt",
+        "recqyWBYUvLlSsdix"
+      ]
+    },
+    {
+      "id": "recjX9ygJ9VA81LG6",
+      "type_destination": "Équipement",
+      "destination": "Bureaux",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "rec4neQMuPblp8tuX",
+        "recahyhau12Ghaztg",
+        "recpN2hW8eG6SnkLe",
+        "recVoRhrrPKCDBNwW",
+        "recIsRYGFH3wqqTYC",
+        "recTaYdefmJUHsBOi"
+      ]
+    }
+  ],
   "maitre_oeuvre": [
     {
       "id": "reci7nejW0v42laGT",
-      "nom": "Bigre ! Architecture",
-      "site_web": "https://www.bigre.archi/",
       "maitre_oeuvre": [
         "recahyhau12Ghaztg"
-      ]
+      ],
+      "site_web": "https://www.bigre.archi/",
+      "nom": "Bigre ! Architecture"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recWg3kFRSoRDlday",
-      "nom": "SCI Bougres",
       "maitre_ouvrage": [
         "recahyhau12Ghaztg"
-      ]
+      ],
+      "nom": "SCI Bougres"
     },
     {
       "id": "recXT4TItsP1IuLWU",
-      "nom": "Privé",
       "maitre_ouvrage": [
         "recHVehEvNmwXAJIO",
         "rechFw6KIHy4PVSUb",
@@ -40,130 +94,16 @@
         "recLD9rnkZv8VOOLu",
         "recrkntJi6bURIOSA",
         "recwnakX0XGMKhW3V"
-      ]
+      ],
+      "nom": "Privé"
     }
   ],
-  "périodes": [
-    {
-      "id": "recrOfcUS3a0toY0i",
-      "nom": "années 2020",
-      "lieux": [
-        "recTr9BzAt1jG9yaJ",
-        "recRlloApjtcScitR",
-        "recXrmOzavWvTwx9T",
-        "recahyhau12Ghaztg",
-        "recT5ti90aD2NTdCN",
-        "reclKHqSQhv9rHQQ4",
-        "rec3sjAwggXRAkqGc"
-      ]
-    }
-  ],
-  "médias": [
-    {
-      "id": "recBKSSgfhS6nSZ5z",
-      "titre": "Relier les impasses 2",
-      "fichiers": [
-        {
-          "id": "attSY6RQ7BJpQ1jfn",
-          "width": 4608,
-          "height": 2592,
-          "url": "https://dl.airtable.com/.attachments/9ee98040206e44d36bfc50b2398d7ffb/d8bbf3f7/relierlesimpasses3.jpg",
-          "filename": "relier les impasses (3).jpg",
-          "size": 3362176,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/c0f5e2e6ecc69302162a80624261d754/e21343b7",
-              "width": 64,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/281bad33f894c5e52957b6f24f54257c/dd638ee6",
-              "width": 910,
-              "height": 512
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/39010ec69d180ec63a4e494ee6728373/2552a674",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "credits": "ardepa",
-      "lieux": [
-        "recahyhau12Ghaztg"
-      ]
-    },
-    {
-      "id": "rec6wMJAx7ZiOhcle",
-      "titre": "Relier les impasses 3",
-      "fichiers": [
-        {
-          "id": "attqsmebYFbW2O8Te",
-          "width": 4032,
-          "height": 2268,
-          "url": "https://dl.airtable.com/.attachments/010f6e66924d9ae9b10b94bf3d8e45b8/0a499b6d/relierlesimpasses1.jpg",
-          "filename": "relier les impasses (1).jpg",
-          "size": 3253682,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/04580638487d50e1ab6fad5728b1f516/1f135370",
-              "width": 20,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/58613c9d77b6289acb9f11829ca508f7/f00dc20a",
-              "width": 512,
-              "height": 910
-            },
-            "full": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/cf60d9033de718dd63d90da09b2b9a30/a5d29830",
-              "width": 3000,
-              "height": 3000
-            }
-          }
-        }
-      ],
-      "credits": "ardepa",
-      "lieux": [
-        "recahyhau12Ghaztg"
-      ]
-    },
-    {
-      "id": "rec1PuVHGZWNHh7Eq",
-      "titre": "relier les impasses plaquette de visite",
-      "fichiers": [
-        {
-          "id": "attK30PLc1yf63wQk",
-          "url": "https://dl.airtable.com/.attachments/8b643a392b3379ce1a463b93fcccac8e/ffc29c1e/ardepaplaquettebigreA5.pdf",
-          "filename": "ardepa plaquette bigre A5.pdf",
-          "size": 548689,
-          "type": "application/pdf",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/7a6acf32f364b5197ada0b29ae7c60f3/2fd92d51",
-              "width": 25,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/ae3a66991ee5af519bd8486dbd8c4040/8d56f7fa",
-              "width": 361,
-              "height": 512
-            }
-          }
-        }
-      ],
-      "credits": "Bigre ! / Ardepa",
-      "lieux": [
-        "recahyhau12Ghaztg"
-      ]
-    }
-  ],
+  "status": "Publié",
+  "présentation": "Ce projet se situe à Nantes, à proximité de la Cathédrale. Cette parcelle se situe en second rideau, donnant à l’Ouest au fond de l’impasse Audran et au Nord sur une cour intérieure accessible par l’impasse Vignolle. La cour est entourée de plusieurs habitations individuelles basses, avec aménagement de terrasses et jardinières donnant sur la cour. La cour comprend de nombreuses bordures plantées d’arbustes bas et de plantes grimpantes. La parcelle concernée par le projet est presque intégralement couverte par une série de hangars bardés en bois et couvert de tôles ondulées. L’ensemble est en mauvais état de façade et de structure. Les hangars coupent toute liaison entre l’impasse Audran et l’impasse Vignolle. \nLe projet comprend la démolition des hangars et la construction de 3 habitations individuelles de typologies et volumétries équivalentes aux constructions sur cour (prolongement des hauteurs d’égouts et faitage lorsque les bâtiments sont adossés ou proches). Sur l’impasse Audran, le projet prévoit la construction de notre atelier reconstituant une façade au fond de l’impasse Audran tout en libérant un passage piéton et un porche entre les impasses Vignolle et Audran. Les constructions basses et implantées de manière relativement denses, sont séparées par de petits espaces verts ou cours minérales dans l’esprit des courettes visibles depuis l’impasse Vignolle. \nCes volumétries et implantation de constructions de tailles modestes mais relativement denses s’articulent autour de courettes, terrasses et jardinets, s’intègrent dans un tissu urbain traditionnel d’intérieur d’îlot. L’implantation des maisons permet de libérer la vue sur la façade ordonnancée de la limite Est et de couvrir le pignon aveugle de la cour. L’atelier reprend les héberges d’une construction plus ancienne en venant s’adosser sur le pignon et la façade aveugle de l’immeuble adjacent. Il n’est pas prévu de clôture en limite de parcelle. \nLes maisons et notre atelier sont couverts en ardoise naturelle. Les terrasses accessibles sont traitées en bois naturel. Les terrasses accessibles sont bardées verticalement en bois naturel. Le bardage de notre atelier est réalisé en bois brulé de couleur noire posée verticalement. L’ensemble des menuiseries du projet sont en aluminium. \nLe terrain sera composé d’espaces verts, ainsi que de cheminements doux en sable et de bordures plantées dans l’esprit des petits massifs présent dans l’environnement proche. Quelques petits arbres ou arbustes seront plantés dans ces jardinets. La cour ainsi agrandie conserve son caractère minéral. Au centre de cette dernière, un arbre haut sera planté. \n\nRetrouvez l'article et la plaquette de cette visite sur[ le site web de l'ardepa](https://www.lardepa.com/visite-genese-20212-relier-les-impasses/)\n",
+  "en une": true,
+  "nom": "Relier les Impasses",
   "cover_media": {
     "id": "recb4mJElb1F79mLX",
-    "titre": "Relier les impasses",
     "fichiers": [
       {
         "id": "att2fJ5Me4NAYQqEv",
@@ -192,75 +132,151 @@
         }
       }
     ],
+    "titre": "Relier les impasses",
     "credits": "ardepa",
     "cover_lieux": [
       "recahyhau12Ghaztg"
     ]
   },
-  "type": [
+  "périodes": [
     {
-      "id": "recYSw9aAndSU9UZ7",
-      "destination": "Logements individuels",
-      "type_destination": "Logement",
+      "id": "recrOfcUS3a0toY0i",
       "lieux": [
-        "recahyhau12Ghaztg",
-        "recP6LOBOUBRRlLnt",
-        "recqyWBYUvLlSsdix"
-      ]
-    },
-    {
-      "id": "recjX9ygJ9VA81LG6",
-      "destination": "Bureaux",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recXrmOzavWvTwx9T",
-        "rec4neQMuPblp8tuX",
-        "recahyhau12Ghaztg",
-        "recpN2hW8eG6SnkLe",
-        "recVoRhrrPKCDBNwW",
-        "recIsRYGFH3wqqTYC",
-        "recTaYdefmJUHsBOi"
-      ]
-    }
-  ],
-  "sélections": [
-    {
-      "id": "recBb6NHdfNisYSjI",
-      "invité": "Personnalité 1",
-      "portrait": [
-        "recxCPsnbbOskIBtT"
-      ],
-      "status": "Publié",
-      "introduction": "Perso 1 est un célèbre TEXTE texte texte texte texte v TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte",
-      "édito": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam \n",
-      "lieux": [
-        "recahyhau12Ghaztg",
-        "recXrmOzavWvTwx9T",
-        "recXIe49AgTTO1AuY",
-        "recu65igj5DHRpC30"
-      ],
-      "dernière modification": "2021-10-07T14:58:06.000Z"
-    },
-    {
-      "id": "recy2MjKNYdzWUD4A",
-      "invité": "Personnalité 3",
-      "portrait": [
-        "recRdC4relvqeUWdb"
-      ],
-      "status": "Publié",
-      "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
-      "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-      "lieux": [
-        "recahyhau12Ghaztg",
+        "recTr9BzAt1jG9yaJ",
         "recRlloApjtcScitR",
-        "recRFuKGP2zlHup3A",
-        "recu65igj5DHRpC30"
+        "recXrmOzavWvTwx9T",
+        "recahyhau12Ghaztg",
+        "recT5ti90aD2NTdCN",
+        "reclKHqSQhv9rHQQ4",
+        "rec3sjAwggXRAkqGc"
       ],
-      "dernière modification": "2021-10-07T14:51:49.000Z"
+      "nom": "années 2020"
     }
   ],
-  "présentation": "Ce projet se situe à Nantes, à proximité de la Cathédrale. Cette parcelle se situe en second rideau, donnant à l’Ouest au fond de l’impasse Audran et au Nord sur une cour intérieure accessible par l’impasse Vignolle. La cour est entourée de plusieurs habitations individuelles basses, avec aménagement de terrasses et jardinières donnant sur la cour. La cour comprend de nombreuses bordures plantées d’arbustes bas et de plantes grimpantes. La parcelle concernée par le projet est presque intégralement couverte par une série de hangars bardés en bois et couvert de tôles ondulées. L’ensemble est en mauvais état de façade et de structure. Les hangars coupent toute liaison entre l’impasse Audran et l’impasse Vignolle. \nLe projet comprend la démolition des hangars et la construction de 3 habitations individuelles de typologies et volumétries équivalentes aux constructions sur cour (prolongement des hauteurs d’égouts et faitage lorsque les bâtiments sont adossés ou proches). Sur l’impasse Audran, le projet prévoit la construction de notre atelier reconstituant une façade au fond de l’impasse Audran tout en libérant un passage piéton et un porche entre les impasses Vignolle et Audran. Les constructions basses et implantées de manière relativement denses, sont séparées par de petits espaces verts ou cours minérales dans l’esprit des courettes visibles depuis l’impasse Vignolle. \nCes volumétries et implantation de constructions de tailles modestes mais relativement denses s’articulent autour de courettes, terrasses et jardinets, s’intègrent dans un tissu urbain traditionnel d’intérieur d’îlot. L’implantation des maisons permet de libérer la vue sur la façade ordonnancée de la limite Est et de couvrir le pignon aveugle de la cour. L’atelier reprend les héberges d’une construction plus ancienne en venant s’adosser sur le pignon et la façade aveugle de l’immeuble adjacent. Il n’est pas prévu de clôture en limite de parcelle. \nLes maisons et notre atelier sont couverts en ardoise naturelle. Les terrasses accessibles sont traitées en bois naturel. Les terrasses accessibles sont bardées verticalement en bois naturel. Le bardage de notre atelier est réalisé en bois brulé de couleur noire posée verticalement. L’ensemble des menuiseries du projet sont en aluminium. \nLe terrain sera composé d’espaces verts, ainsi que de cheminements doux en sable et de bordures plantées dans l’esprit des petits massifs présent dans l’environnement proche. Quelques petits arbres ou arbustes seront plantés dans ces jardinets. La cour ainsi agrandie conserve son caractère minéral. Au centre de cette dernière, un arbre haut sera planté. \n\nRetrouvez l'article et la plaquette de cette visite sur[ le site web de l'ardepa](https://www.lardepa.com/visite-genese-20212-relier-les-impasses/)\n",
+  "geolocalisation": [
+    47.22072308491577,
+    -1.5497541027019928
+  ],
   "département": "44 Loire-Atlantique",
-  "en une": true,
-  "dernière modification": "2021-10-04T08:13:45.000Z"
+  "date": "2021",
+  "médias": [
+    {
+      "id": "recBKSSgfhS6nSZ5z",
+      "fichiers": [
+        {
+          "id": "attSY6RQ7BJpQ1jfn",
+          "width": 4608,
+          "height": 2592,
+          "url": "https://dl.airtable.com/.attachments/9ee98040206e44d36bfc50b2398d7ffb/d8bbf3f7/relierlesimpasses3.jpg",
+          "filename": "relier les impasses (3).jpg",
+          "size": 3362176,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c0f5e2e6ecc69302162a80624261d754/e21343b7",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/281bad33f894c5e52957b6f24f54257c/dd638ee6",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/39010ec69d180ec63a4e494ee6728373/2552a674",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recahyhau12Ghaztg"
+      ],
+      "titre": "Relier les impasses 2",
+      "credits": "ardepa"
+    },
+    {
+      "id": "rec6wMJAx7ZiOhcle",
+      "fichiers": [
+        {
+          "id": "attqsmebYFbW2O8Te",
+          "width": 4032,
+          "height": 2268,
+          "url": "https://dl.airtable.com/.attachments/010f6e66924d9ae9b10b94bf3d8e45b8/0a499b6d/relierlesimpasses1.jpg",
+          "filename": "relier les impasses (1).jpg",
+          "size": 3253682,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/04580638487d50e1ab6fad5728b1f516/1f135370",
+              "width": 20,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/58613c9d77b6289acb9f11829ca508f7/f00dc20a",
+              "width": 512,
+              "height": 910
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/cf60d9033de718dd63d90da09b2b9a30/a5d29830",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recahyhau12Ghaztg"
+      ],
+      "titre": "Relier les impasses 3",
+      "credits": "ardepa"
+    },
+    {
+      "id": "rec1PuVHGZWNHh7Eq",
+      "fichiers": [
+        {
+          "id": "attK30PLc1yf63wQk",
+          "url": "https://dl.airtable.com/.attachments/8b643a392b3379ce1a463b93fcccac8e/ffc29c1e/ardepaplaquettebigreA5.pdf",
+          "filename": "ardepa plaquette bigre A5.pdf",
+          "size": 548689,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/7a6acf32f364b5197ada0b29ae7c60f3/2fd92d51",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ae3a66991ee5af519bd8486dbd8c4040/8d56f7fa",
+              "width": 361,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recahyhau12Ghaztg"
+      ],
+      "titre": "relier les impasses plaquette de visite",
+      "credits": "Bigre ! / Ardepa"
+    },
+    {
+      "id": "rec5D9rOWxCfR1zSN",
+      "url": "https://youtu.be/8ZRWHCDn_z0",
+      "lieux": [
+        "recahyhau12Ghaztg"
+      ],
+      "titre": "youtube 1 impasses"
+    },
+    {
+      "id": "recEnf138bRjqm3v5",
+      "url": "https://youtu.be/EFY16dW8N-E",
+      "lieux": [
+        "recahyhau12Ghaztg"
+      ],
+      "titre": "youtube 2 impasses"
+    }
+  ],
+  "dernière modification": "2021-12-06T08:29:38.000Z"
 }

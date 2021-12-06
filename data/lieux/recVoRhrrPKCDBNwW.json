@@ -1,26 +1,111 @@
 {
   "id": "recVoRhrrPKCDBNwW",
-  "nom": "DY10",
   "adresse": "5bis Boulevard Léon Bureau, 44200 Nantes\n",
+  "type": [
+    {
+      "id": "recjX9ygJ9VA81LG6",
+      "type_destination": "Équipement",
+      "destination": "Bureaux",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "rec4neQMuPblp8tuX",
+        "recahyhau12Ghaztg",
+        "recpN2hW8eG6SnkLe",
+        "recVoRhrrPKCDBNwW",
+        "recIsRYGFH3wqqTYC",
+        "recTaYdefmJUHsBOi"
+      ]
+    },
+    {
+      "id": "reccvYGuIVsYicPss",
+      "type_destination": "Équipement",
+      "destination": "Urbanisme transitoire",
+      "lieux": [
+        "recVoRhrrPKCDBNwW",
+        "recT5ti90aD2NTdCN"
+      ]
+    }
+  ],
+  "parcours": [
+    {
+      "id": "recnSvIT9dWMKZF8x",
+      "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
+      "status": "Publié",
+      "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
+      "médias": [
+        "recaTHLX6YXDUfkh2"
+      ],
+      "en une": true,
+      "date": "2019-11-16",
+      "cover_media": [
+        "recikqDR8r22npdW9"
+      ],
+      "sous-titre": "Expédition urbaine 2019#5",
+      "type parcours": "Expédition",
+      "lieux": [
+        "recVoRhrrPKCDBNwW",
+        "recT5ti90aD2NTdCN",
+        "recpN2hW8eG6SnkLe"
+      ]
+    }
+  ],
   "status": "Publié",
+  "présentation": "Ce bunker est un vestige de la Seconde Guerre mondiale dont la construction a été mise en chantier après les premiers bombardements de 1941 sur la ville ou ceux des 16 et 23 septembre 1943, qui marquent une intensification et une généralisation des destructions sur la ville. \nLe nom de « DY10 » sont les références cadastrales du terrain sur lequel il a été construit, et qui appartenait en partie au diocèse de Nantes (l’autre partie dépendait d’une propriété privée).\nL’ouvrage, composée de deux parties jumelles divisées en plusieurs pièces, sert à abriter les troupes allemandes et les ouvriers travaillant sur les Chantiers Dubigeon tout proches.\n\nDans les années 1950 et 1960, les marches d’accès au blockhaus deviennent un lieu de rassemblement du mouvement ouvrier.\nEn 1996, il fut occupé, en toute illégalité, par un collectif d’élèves de l’école d’architecture, qui le firent connaître pour son implication dans la vie culturelle alternative nantaise.\nLe groupe de punk-hardcore Die Hölle y a enregistré son premier album le 11 septembre 2005.\nDes concerts y étaient ponctuellement organisés.\n\n_• L'ardepa a visité ce lieu le 16 novembre 2019, lors de l'Expédition urbaine \"La culture urbaine et l’urbanisme transitoire sur l’île de Nantes\"_\n",
+  "nom": "DY10",
+  "cover_media": {
+    "id": "rec9afvuhJDhSDt0e",
+    "fichiers": [
+      {
+        "id": "atttehrZnOqKc9QKC",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/f41515d393e7c1b30df7f62f8f428a4f/b9005727/dy100.jpg",
+        "filename": "dy10 0.jpg",
+        "size": 267020,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8324ef48b6535589cecd9db5f3823e29/89eba66d",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/9e38198416d17773dbc4502fb6dfe134/c3bf97df",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/5ef3d627a92b9ce415ae86ae4eb7f55f/405811a4",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "DY10 cover",
+    "credits": "Ardepa",
+    "cover_lieux": [
+      "recVoRhrrPKCDBNwW"
+    ]
+  },
+  "périodes": [
+    {
+      "id": "rec49ra2Jb8NhV3cl",
+      "lieux": [
+        "recVoRhrrPKCDBNwW"
+      ],
+      "nom": "années 1990"
+    }
+  ],
   "geolocalisation": [
     47.206824,
     -1.5644
   ],
+  "département": "44 Loire-Atlantique",
   "date": "1993",
-  "périodes": [
-    {
-      "id": "rec49ra2Jb8NhV3cl",
-      "nom": "années 1990",
-      "lieux": [
-        "recVoRhrrPKCDBNwW"
-      ]
-    }
-  ],
   "médias": [
     {
       "id": "recgkJCaf3IklFdpO",
-      "titre": "DY10 photos",
       "fichiers": [
         {
           "id": "attBMJEgIBZRXu0rT",
@@ -101,97 +186,12 @@
           }
         }
       ],
-      "credits": "Association DY10",
       "lieux": [
         "recVoRhrrPKCDBNwW"
-      ]
+      ],
+      "titre": "DY10 photos",
+      "credits": "Association DY10"
     }
   ],
-  "cover_media": {
-    "id": "rec9afvuhJDhSDt0e",
-    "titre": "DY10 cover",
-    "fichiers": [
-      {
-        "id": "atttehrZnOqKc9QKC",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/f41515d393e7c1b30df7f62f8f428a4f/b9005727/dy100.jpg",
-        "filename": "dy10 0.jpg",
-        "size": 267020,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/8324ef48b6535589cecd9db5f3823e29/89eba66d",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/9e38198416d17773dbc4502fb6dfe134/c3bf97df",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/5ef3d627a92b9ce415ae86ae4eb7f55f/405811a4",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "Ardepa",
-    "cover_lieux": [
-      "recVoRhrrPKCDBNwW"
-    ]
-  },
-  "type": [
-    {
-      "id": "recjX9ygJ9VA81LG6",
-      "destination": "Bureaux",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recXrmOzavWvTwx9T",
-        "rec4neQMuPblp8tuX",
-        "recahyhau12Ghaztg",
-        "recpN2hW8eG6SnkLe",
-        "recVoRhrrPKCDBNwW",
-        "recIsRYGFH3wqqTYC",
-        "recTaYdefmJUHsBOi"
-      ]
-    },
-    {
-      "id": "reccvYGuIVsYicPss",
-      "destination": "Urbanisme transitoire",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recVoRhrrPKCDBNwW",
-        "recT5ti90aD2NTdCN"
-      ]
-    }
-  ],
-  "présentation": "Ce bunker est un vestige de la Seconde Guerre mondiale dont la construction a été mise en chantier après les premiers bombardements de 1941 sur la ville ou ceux des 16 et 23 septembre 1943, qui marquent une intensification et une généralisation des destructions sur la ville. \nLe nom de « DY10 » sont les références cadastrales du terrain sur lequel il a été construit, et qui appartenait en partie au diocèse de Nantes (l’autre partie dépendait d’une propriété privée).\nL’ouvrage, composée de deux parties jumelles divisées en plusieurs pièces, sert à abriter les troupes allemandes et les ouvriers travaillant sur les Chantiers Dubigeon tout proches.\n\nDans les années 1950 et 1960, les marches d’accès au blockhaus deviennent un lieu de rassemblement du mouvement ouvrier.\nEn 1996, il fut occupé, en toute illégalité, par un collectif d’élèves de l’école d’architecture, qui le firent connaître pour son implication dans la vie culturelle alternative nantaise.\nLe groupe de punk-hardcore Die Hölle y a enregistré son premier album le 11 septembre 2005.\nDes concerts y étaient ponctuellement organisés.\n\n_• L'ardepa a visité ce lieu le 16 novembre 2019, lors de l'Expédition urbaine \"La culture urbaine et l’urbanisme transitoire sur l’île de Nantes\"_\n",
-  "parcours": [
-    {
-      "id": "recnSvIT9dWMKZF8x",
-      "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
-      "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
-      "status": "Publié",
-      "date": "2019-11-16",
-      "lieux": [
-        "recVoRhrrPKCDBNwW",
-        "recT5ti90aD2NTdCN",
-        "recpN2hW8eG6SnkLe"
-      ],
-      "cover_media": [
-        "recikqDR8r22npdW9"
-      ],
-      "médias": [
-        "recaTHLX6YXDUfkh2"
-      ],
-      "type parcours": "Expédition",
-      "sous-titre": "Expédition urbaine 2019#5",
-      "en une": true
-    }
-  ],
-  "département": "44 Loire-Atlantique",
   "dernière modification": "2021-10-07T09:22:15.000Z"
 }

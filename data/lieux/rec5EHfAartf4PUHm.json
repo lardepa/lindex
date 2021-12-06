@@ -1,28 +1,38 @@
 {
   "id": "rec5EHfAartf4PUHm",
-  "nom": "Maison du Limonier",
   "adresse": "Impasse du limonier 44100 Nantes\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.21813296518351,
-    -1.5750681195571572
+  "type": [
+    {
+      "id": "recrpFA9KQQobRh6X",
+      "type_destination": "Logement",
+      "destination": "Maison",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V"
+      ]
+    }
   ],
-  "date": "2019",
   "maitre_oeuvre": [
     {
       "id": "rec11l6RyBToGd7kz",
-      "nom": "0101 Architectes",
-      "site_web": "https://0101.archi/",
       "maitre_oeuvre": [
         "recT5ti90aD2NTdCN",
         "rec5EHfAartf4PUHm"
-      ]
+      ],
+      "site_web": "https://0101.archi/",
+      "nom": "0101 Architectes"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recXT4TItsP1IuLWU",
-      "nom": "Privé",
       "maitre_ouvrage": [
         "recHVehEvNmwXAJIO",
         "rechFw6KIHy4PVSUb",
@@ -34,13 +44,52 @@
         "recLD9rnkZv8VOOLu",
         "recrkntJi6bURIOSA",
         "recwnakX0XGMKhW3V"
-      ]
+      ],
+      "nom": "Privé"
     }
   ],
+  "status": "Publié",
+  "présentation": "Le Val de Chézine est un paysage nantais à part entière. Ce ruisseau connecte différents parcs de la métropole et compose une promenade de plusieurs kilomètres largement végétalisée, refuge de la biodiversité en ville. La situation du projet était une opportunité pour profiter de ce paysage original tout en bénéficiant des atouts du centre-ville. \nLa maison existante étant petite et structurellement inadaptée à une surélévation, le projet d’agrandissement s’est rapidement orienté vers une démolition-reconstruction. Le nouveau bâtiment en ossature bois conserve l’implantation d’origine en y intégrant ses extensions successives (appentis et véranda). Le principal objectif a été d’optimiser le rapport aux espaces extérieurs, malgré les dimensions réduites de la parcelle et tout en respectant le programme initial. Au rez-de-chaussée, le plan est réparti entre les espaces techniques au nord, accessibles par une large porte sectionnelle depuis l’impasse, et la pièce de vie au sud, entièrement vitrée sur le jardin. Au premier étage se trouvent les chambres et les salles de bains, tandis que le toit est aménagé en terrasse accessible. \nLe toit terrasse permet, avec le jardin, d’utiliser toute la surface de la parcelle comme un extérieur accessible, et crée un belvédère sur le sillage des grands arbres qui bordent le cours d’eau. \nDe l’extérieur la nouvelle maison se présente comme une accumulation de strates : les murs mitoyens en pierres conservés, la partie intermédiaire en bardage bois, et la carrosserie métallique de l’élément supérieur, sorte de cabriolet ouvert sur le ciel.\n\n_Texte : 0101 Architectes_\n\n_• L'ardepa a visité ce lieu le 18 octobre 2019_\n",
+  "nom": "Maison du Limonier",
+  "cover_media": {
+    "id": "reciv8bfPNthlpiJO",
+    "fichiers": [
+      {
+        "id": "attYTwM1SBFHVIM8J",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/0a65c8dc7744d8f31e77bf7614d941ff/d982084a/maisonlimoniercover.jpg",
+        "filename": "maison limonier cover.jpg",
+        "size": 370738,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/35e95fd508e6722cffddcb24edc6bcfe/4d0774dc",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/86ccbc7de46378bb311520c7e30915d7/df505826",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/db47ce7bf98114e0a8963ec35040392f/ce27d68e",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "maison limonier coiver",
+    "credits": "0101 Architectes",
+    "cover_lieux": [
+      "rec5EHfAartf4PUHm"
+    ]
+  },
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -93,13 +142,19 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
+  "geolocalisation": [
+    47.21813296518351,
+    -1.5750681195571572
+  ],
+  "département": "44 Loire-Atlantique",
+  "date": "2019",
   "médias": [
     {
       "id": "recad0uhdP8X2hbTL",
-      "titre": "maison limonier photos 1",
       "fichiers": [
         {
           "id": "attDcwMAMayAlFzfs",
@@ -154,14 +209,14 @@
           }
         }
       ],
-      "credits": "0101 Architectes",
       "lieux": [
         "rec5EHfAartf4PUHm"
-      ]
+      ],
+      "titre": "maison limonier photos 1",
+      "credits": "0101 Architectes"
     },
     {
       "id": "recdR3EqrEvt0nubM",
-      "titre": "0101 architectes extrait portfolio",
       "fichiers": [
         {
           "id": "attFV4WPEm5u3liqo",
@@ -183,14 +238,14 @@
           }
         }
       ],
-      "credits": "0101 Architectes",
       "lieux": [
         "rec5EHfAartf4PUHm"
-      ]
+      ],
+      "titre": "0101 architectes extrait portfolio",
+      "credits": "0101 Architectes"
     },
     {
       "id": "rec5c9kmol0sTZSXz",
-      "titre": "limonier photos 2",
       "fichiers": [
         {
           "id": "att0WPiQ3j3Wkg7kA",
@@ -245,14 +300,14 @@
           }
         }
       ],
-      "credits": "0101 Architectes",
       "lieux": [
         "rec5EHfAartf4PUHm"
-      ]
+      ],
+      "titre": "limonier photos 2",
+      "credits": "0101 Architectes"
     },
     {
       "id": "rec8YraVY0nhsW3R1",
-      "titre": "limonier plaquette visite",
       "fichiers": [
         {
           "id": "attyAXilRDGc6r8cj",
@@ -274,67 +329,12 @@
           }
         }
       ],
-      "credits": "0101 Architectes / Ardepa",
       "lieux": [
         "rec5EHfAartf4PUHm"
-      ]
+      ],
+      "titre": "limonier plaquette visite",
+      "credits": "0101 Architectes / Ardepa"
     }
   ],
-  "cover_media": {
-    "id": "reciv8bfPNthlpiJO",
-    "titre": "maison limonier coiver",
-    "fichiers": [
-      {
-        "id": "attYTwM1SBFHVIM8J",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/0a65c8dc7744d8f31e77bf7614d941ff/d982084a/maisonlimoniercover.jpg",
-        "filename": "maison limonier cover.jpg",
-        "size": 370738,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/35e95fd508e6722cffddcb24edc6bcfe/4d0774dc",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/86ccbc7de46378bb311520c7e30915d7/df505826",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/db47ce7bf98114e0a8963ec35040392f/ce27d68e",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "0101 Architectes",
-    "cover_lieux": [
-      "rec5EHfAartf4PUHm"
-    ]
-  },
-  "type": [
-    {
-      "id": "recrpFA9KQQobRh6X",
-      "destination": "Maison",
-      "type_destination": "Logement",
-      "lieux": [
-        "recTr9BzAt1jG9yaJ",
-        "recHVehEvNmwXAJIO",
-        "rechFw6KIHy4PVSUb",
-        "recRFuKGP2zlHup3A",
-        "rec5EHfAartf4PUHm",
-        "recATsZWxsng7iDNK",
-        "recLD9rnkZv8VOOLu",
-        "recrkntJi6bURIOSA",
-        "recwnakX0XGMKhW3V"
-      ]
-    }
-  ],
-  "présentation": "Le Val de Chézine est un paysage nantais à part entière. Ce ruisseau connecte différents parcs de la métropole et compose une promenade de plusieurs kilomètres largement végétalisée, refuge de la biodiversité en ville. La situation du projet était une opportunité pour profiter de ce paysage original tout en bénéficiant des atouts du centre-ville. \nLa maison existante étant petite et structurellement inadaptée à une surélévation, le projet d’agrandissement s’est rapidement orienté vers une démolition-reconstruction. Le nouveau bâtiment en ossature bois conserve l’implantation d’origine en y intégrant ses extensions successives (appentis et véranda). Le principal objectif a été d’optimiser le rapport aux espaces extérieurs, malgré les dimensions réduites de la parcelle et tout en respectant le programme initial. Au rez-de-chaussée, le plan est réparti entre les espaces techniques au nord, accessibles par une large porte sectionnelle depuis l’impasse, et la pièce de vie au sud, entièrement vitrée sur le jardin. Au premier étage se trouvent les chambres et les salles de bains, tandis que le toit est aménagé en terrasse accessible. \nLe toit terrasse permet, avec le jardin, d’utiliser toute la surface de la parcelle comme un extérieur accessible, et crée un belvédère sur le sillage des grands arbres qui bordent le cours d’eau. \nDe l’extérieur la nouvelle maison se présente comme une accumulation de strates : les murs mitoyens en pierres conservés, la partie intermédiaire en bardage bois, et la carrosserie métallique de l’élément supérieur, sorte de cabriolet ouvert sur le ciel.\n\n_Texte : 0101 Architectes_\n\n_• L'ardepa a visité ce lieu le 18 octobre 2019_\n",
-  "département": "44 Loire-Atlantique",
   "dernière modification": "2021-10-07T09:22:22.000Z"
 }

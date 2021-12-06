@@ -1,37 +1,57 @@
 {
   "id": "recelyrNTkM7l50Jd",
-  "nom": "Lycée Général et Technologique Agricole Nature",
   "adresse": "Allée des druides, 85000 La Roche sur Yon\n",
-  "status": "Publié",
-  "geolocalisation": [
-    46.66494619522824,
-    -1.3800621975826315
+  "type": [
+    {
+      "id": "recs5EEjFEqR1pMAv",
+      "type_destination": "Équipement",
+      "destination": "Lycée",
+      "lieux": [
+        "recelyrNTkM7l50Jd"
+      ]
+    }
   ],
-  "date": "2015",
   "maitre_oeuvre": [
     {
       "id": "rec3PromkKzrrBM83",
-      "nom": "DLW architectes",
-      "site_web": "http://www.dlw-architectes.fr/",
       "maitre_oeuvre": [
         "recelyrNTkM7l50Jd"
-      ]
+      ],
+      "site_web": "http://www.dlw-architectes.fr/",
+      "nom": "DLW architectes"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "rec2Idw8ioulj1RGI",
-      "nom": "Conseil Régional des Pays de la Loire",
       "maitre_ouvrage": [
         "recloEgKAuO4WjR2r",
         "recelyrNTkM7l50Jd"
+      ],
+      "nom": "Conseil Régional des Pays de la Loire"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
+  "distinctions": [
+    {
+      "id": "recWC2OSlyx1EQjFm",
+      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
+      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
+      "lieux": [
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt"
       ]
     }
   ],
+  "nom": "Lycée Général et Technologique Agricole Nature",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -84,35 +104,15 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
-  "type": [
-    {
-      "id": "recs5EEjFEqR1pMAv",
-      "destination": "Lycée",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recelyrNTkM7l50Jd"
-      ]
-    }
+  "geolocalisation": [
+    46.66494619522824,
+    -1.3800621975826315
   ],
-  "distinctions": [
-    {
-      "id": "recWC2OSlyx1EQjFm",
-      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
-      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
-      "lieux": [
-        "recY5jgLHC0792Lr0",
-        "recloEgKAuO4WjR2r",
-        "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd",
-        "recMsOSrCEl9x1F2V",
-        "recP6LOBOUBRRlLnt"
-      ]
-    }
-  ],
-  "présentation": "Prix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 3eme prix Ex Aequo)\n",
   "département": "85 Vendée",
+  "date": "2015",
   "dernière modification": "2021-09-29T15:49:16.000Z"
 }

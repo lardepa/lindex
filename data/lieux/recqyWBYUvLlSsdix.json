@@ -1,52 +1,101 @@
 {
   "id": "recqyWBYUvLlSsdix",
-  "nom": "Villagexpo de Nantes",
   "adresse": "Rue d'Avranche 44000 Nantes\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.2158991667668,
-    -1.617667399566115
+  "type": [
+    {
+      "id": "recYSw9aAndSU9UZ7",
+      "type_destination": "Logement",
+      "destination": "Logements individuels",
+      "lieux": [
+        "recahyhau12Ghaztg",
+        "recP6LOBOUBRRlLnt",
+        "recqyWBYUvLlSsdix"
+      ]
+    }
   ],
-  "date": "1968",
   "maitre_oeuvre": [
     {
       "id": "recRc1cQ0NqjqHJpZ",
-      "nom": "Marcel Favraud",
       "maitre_oeuvre": [
         "recqyWBYUvLlSsdix"
-      ]
+      ],
+      "nom": "Marcel Favraud"
     },
     {
       "id": "recpjzCDWnnKxEpbk",
-      "nom": "Georges Evano architecte",
       "maitre_oeuvre": [
         "recqyWBYUvLlSsdix",
         "recK8aI8T01RXFgcD"
-      ]
+      ],
+      "nom": "Georges Evano architecte"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recxs3HdBxI9nzo5P",
-      "nom": "Société Coopérative HLM La Maison Familiale",
       "maitre_ouvrage": [
         "recqyWBYUvLlSsdix"
-      ]
+      ],
+      "nom": "Société Coopérative HLM La Maison Familiale"
     }
   ],
+  "status": "Publié",
+  "présentation": "Le « villagexpo » se voulait être une démonstration à l’échelle 1 que l’on peut concilier la qualité de l’habitat individuel (ce sont des maisons HLM) et la réalisation d’opérations groupées de modèles industrialisés.\nLe Villagexpo de Saint-Herblain est le premier réalisé hors région parisienne. L’exposition qui dura du 13 juin au 14 juillet 1968 connut un véritable succès.\n\nPlus d'infos dans la plaquette de visite (à télécharger ICI)\n\n_• L'ardepa a visité ce lieu lors des Journées du Patrimoine 2015_\n",
+  "nom": "Villagexpo de Nantes",
+  "cover_media": {
+    "id": "rec5SJ5oRPAtFuCX5",
+    "fichiers": [
+      {
+        "id": "att0arZbiu8jCZstm",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/432ce655833b96fdfed8d13da558d6e7/c711afa5/villaexpocover.jpg",
+        "filename": "villaexpo cover.jpg",
+        "size": 386436,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ad5e880e9880a1c3a7d10ae340eec97b/4af6673b",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/a67d3764834684a461ecd8cdfd5d8cbf/b52ec736",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/4c316ba0529666591d24a66969e228e6/87a47684",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "villagexpocover",
+    "credits": "SCHLM La Maison Familiale / Ardepa",
+    "cover_lieux": [
+      "recqyWBYUvLlSsdix"
+    ]
+  },
   "périodes": [
     {
       "id": "recoq00NAUf4eKDs0",
-      "nom": "années 1960",
       "lieux": [
         "recqyWBYUvLlSsdix"
-      ]
+      ],
+      "nom": "années 1960"
     }
   ],
+  "geolocalisation": [
+    47.2158991667668,
+    -1.617667399566115
+  ],
+  "département": "44 Loire-Atlantique",
+  "date": "1968",
   "médias": [
     {
       "id": "recJ1SB6CFPO9h6XW",
-      "titre": "villagexpo photos",
       "fichiers": [
         {
           "id": "attiGwtTsZRX8WcJh",
@@ -101,14 +150,14 @@
           }
         }
       ],
-      "credits": "SCHLM La Maison Familiale / Ardepa",
       "lieux": [
         "recqyWBYUvLlSsdix"
-      ]
+      ],
+      "titre": "villagexpo photos",
+      "credits": "SCHLM La Maison Familiale / Ardepa"
     },
     {
       "id": "reczjd2tuQWbOlPZz",
-      "titre": "village expo plaquette visite",
       "fichiers": [
         {
           "id": "att6RUyAYlwdUDlmc",
@@ -130,61 +179,12 @@
           }
         }
       ],
-      "credits": "SCHLM La Maison Familiale / Ardepa",
       "lieux": [
         "recqyWBYUvLlSsdix"
-      ]
+      ],
+      "titre": "village expo plaquette visite",
+      "credits": "SCHLM La Maison Familiale / Ardepa"
     }
   ],
-  "cover_media": {
-    "id": "rec5SJ5oRPAtFuCX5",
-    "titre": "villagexpocover",
-    "fichiers": [
-      {
-        "id": "att0arZbiu8jCZstm",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/432ce655833b96fdfed8d13da558d6e7/c711afa5/villaexpocover.jpg",
-        "filename": "villaexpo cover.jpg",
-        "size": 386436,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/ad5e880e9880a1c3a7d10ae340eec97b/4af6673b",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/a67d3764834684a461ecd8cdfd5d8cbf/b52ec736",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/4c316ba0529666591d24a66969e228e6/87a47684",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "SCHLM La Maison Familiale / Ardepa",
-    "cover_lieux": [
-      "recqyWBYUvLlSsdix"
-    ]
-  },
-  "type": [
-    {
-      "id": "recYSw9aAndSU9UZ7",
-      "destination": "Logements individuels",
-      "type_destination": "Logement",
-      "lieux": [
-        "recahyhau12Ghaztg",
-        "recP6LOBOUBRRlLnt",
-        "recqyWBYUvLlSsdix"
-      ]
-    }
-  ],
-  "présentation": "Le « villagexpo » se voulait être une démonstration à l’échelle 1 que l’on peut concilier la qualité de l’habitat individuel (ce sont des maisons HLM) et la réalisation d’opérations groupées de modèles industrialisés.\nLe Villagexpo de Saint-Herblain est le premier réalisé hors région parisienne. L’exposition qui dura du 13 juin au 14 juillet 1968 connut un véritable succès.\n\nPlus d'infos dans la plaquette de visite (à télécharger ICI)\n\n_• L'ardepa a visité ce lieu lors des Journées du Patrimoine 2015_\n",
-  "département": "44 Loire-Atlantique",
   "dernière modification": "2021-10-07T09:23:13.000Z"
 }

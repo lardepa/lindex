@@ -1,37 +1,84 @@
 {
   "id": "rec0Rwewbk2MMTQAD",
-  "nom": "La promenade des Nefs ",
   "adresse": "43 rue du Bois Hercé 44100 Nantes\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.208040856736005,
-    -1.591524224806077
+  "type": [
+    {
+      "id": "recutlOJwb5QQKd5c",
+      "type_destination": "Logement",
+      "destination": "Logements Collectifs",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "recdqD43kpp1pOv3x",
+        "rec72cuqtL80v3RYm",
+        "recjkXrXE0hZw6f4t",
+        "recP6LOBOUBRRlLnt",
+        "rec0Rwewbk2MMTQAD",
+        "recMKYgGVASf6j8rE"
+      ]
+    }
   ],
-  "date": "2015",
   "maitre_oeuvre": [
     {
       "id": "recHLFIPmSHRXkUfj",
-      "nom": "PADW - Pellegrino Associés Design Workshop",
-      "site_web": "http://www.pa-dw.fr/",
       "maitre_oeuvre": [
         "recP6LOBOUBRRlLnt",
         "rec0Rwewbk2MMTQAD"
-      ]
+      ],
+      "site_web": "http://www.pa-dw.fr/",
+      "nom": "PADW - Pellegrino Associés Design Workshop"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recX1nhf5TDMAY0rr",
-      "nom": "Ataraxia Promotion",
       "maitre_ouvrage": [
         "rec0Rwewbk2MMTQAD"
-      ]
+      ],
+      "nom": "Ataraxia Promotion"
     }
   ],
+  "status": "Publié",
+  "présentation": "S’inscrivant dans l’existant, le projet s’est construit autour de la volonté d’ouvrir le cœur d’îlot, de privilégier les chemins piétons et de construire un programme à échelle humaine. L’implantation des bâtiments et les aménagements paysagers s’organisent autour d’une nouvelle voie de desserte. Au nord, en limite de parcelle, un bâtiment collectif est destiné au bailleur social Nantes Habitat. En cœur d’îlot, sont installés deux petits collectifs. Au sud, le projet met en scène la structure métallique existante des nefs.\nAprès dépose du bardage et de la couverture, quatre plots de logements intermédiaires et individuels s’inscrivent entre ses trames. Longés par la voie d’opportunité, deux bâtiments en R+2+attique émergent de la structure ; deux autres plots en RdC et R+1+attique s’y insèrent. Une partie de la nef est couverte, offrant ainsi des espaces de circulation abrités reliant les différents bâtiments. Afin de faire écho à l’ancienne volumétrie des nefs, des toitures à double pente viennent s’intercaler entre les différentes toitures terrasses.\nL’ensemble des logements a été conçu de façon à posséder une double orientation et avoir une vue sur un espace vert. Toutes les toitures terrasses des bâtiments en RdC et R+1 sont ainsi végétalisées. Le site de la Marseillaise offre aujourd’hui un cadre de vie verdoyant en cœur de ville, source de bien-être, d’échange et de partage.\nL’organisation générale des bâtiments s’appuie sur l’ambition de répondre aux enjeux de la qualité de vie des logements. En effet, pour profiter au maximum de l’orientation sud et/ou d’une ouverture sur des espaces paysagés, le projet propose des espaces extérieurs qui prolongent les logements (balcons, terrasses, à tous niveaux).\nL’aménagement paysager se structure autour de trois espaces singuliers. Sous les nefs, un jardin exotique constitue un cocon pour les maisons et petits collectifs logés sous la structure. Dans l’axe central, une colonne piétonne donne accès au site ; c’est également une voie d’opportunité traitée en chemin bordé de massifs et de pavés engazonnés mais permettant le passage de certains véhicules (déménagement, entretien,…). Enserré entre les collectifs, le jardin ouest est un cœur d’îlot à part entière, propice aux jeux et à la flânerie. \nEn limite d’un parking de supermarché, une grande fresque a été réalisée par le collectif 100 Pression reprenant l’histoire du site sur le thème du monde ouvrier.\n\n_Texte des architectes_\n\n_• L'ardepa a visité ce lieu le 12 janvier 2018_\n",
+  "nom": "La promenade des Nefs ",
+  "cover_media": {
+    "id": "recyG56HK7rSIt4rz",
+    "fichiers": [
+      {
+        "id": "attOsK30r7BMUZFLm",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/da2e17c9b3bb78a9795570ad440bdd8a/3ec66130/promenadenefscover.jpg",
+        "filename": "promenade nefs cover.jpg",
+        "size": 507350,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1a5d4bc18a3b10951523210f742393da/0bb45f8b",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/72c070147e78d3511e19c66d68a6c582/861f654b",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/cafc7be865965c5e21f4daf2ce404a5c/73efbc64",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "promenade des nefs cover",
+    "credits": "PADW / Ardepa",
+    "cover_lieux": [
+      "rec0Rwewbk2MMTQAD"
+    ]
+  },
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -84,13 +131,19 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
+  "geolocalisation": [
+    47.208040856736005,
+    -1.591524224806077
+  ],
+  "département": "44 Loire-Atlantique",
+  "date": "2015",
   "médias": [
     {
       "id": "recTYB3iSebxFYDGg",
-      "titre": "promenade des nefs photos",
       "fichiers": [
         {
           "id": "attlo7H1n9WJJjCxY",
@@ -223,21 +276,21 @@
           }
         }
       ],
-      "credits": "PADW",
       "lieux": [
         "rec0Rwewbk2MMTQAD"
-      ]
+      ],
+      "titre": "promenade des nefs photos",
+      "credits": "PADW"
     },
     {
       "id": "reco6DHT6T2CGeNcp",
-      "titre": "promenade des nefs ",
       "lieux": [
         "rec0Rwewbk2MMTQAD"
-      ]
+      ],
+      "titre": "promenade des nefs "
     },
     {
       "id": "rec8UaHaRpQZCzUr7",
-      "titre": "promenade des nefs documents",
       "fichiers": [
         {
           "id": "att95HgWf9ckpdlJC",
@@ -259,14 +312,14 @@
           }
         }
       ],
-      "credits": "PADW",
       "lieux": [
         "rec0Rwewbk2MMTQAD"
-      ]
+      ],
+      "titre": "promenade des nefs documents",
+      "credits": "PADW"
     },
     {
       "id": "reczTNvWG1E0nZ7dP",
-      "titre": "promenade des nefs plaquette visite",
       "fichiers": [
         {
           "id": "attXffagvUOcbiXrh",
@@ -288,65 +341,12 @@
           }
         }
       ],
-      "credits": "PADW / Ardepa",
       "lieux": [
         "rec0Rwewbk2MMTQAD"
-      ]
+      ],
+      "titre": "promenade des nefs plaquette visite",
+      "credits": "PADW / Ardepa"
     }
   ],
-  "cover_media": {
-    "id": "recyG56HK7rSIt4rz",
-    "titre": "promenade des nefs cover",
-    "fichiers": [
-      {
-        "id": "attOsK30r7BMUZFLm",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/da2e17c9b3bb78a9795570ad440bdd8a/3ec66130/promenadenefscover.jpg",
-        "filename": "promenade nefs cover.jpg",
-        "size": 507350,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/1a5d4bc18a3b10951523210f742393da/0bb45f8b",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/72c070147e78d3511e19c66d68a6c582/861f654b",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/cafc7be865965c5e21f4daf2ce404a5c/73efbc64",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "PADW / Ardepa",
-    "cover_lieux": [
-      "rec0Rwewbk2MMTQAD"
-    ]
-  },
-  "type": [
-    {
-      "id": "recutlOJwb5QQKd5c",
-      "destination": "Logements Collectifs",
-      "type_destination": "Logement",
-      "lieux": [
-        "recXrmOzavWvTwx9T",
-        "recdqD43kpp1pOv3x",
-        "rec72cuqtL80v3RYm",
-        "recjkXrXE0hZw6f4t",
-        "recP6LOBOUBRRlLnt",
-        "rec0Rwewbk2MMTQAD",
-        "recMKYgGVASf6j8rE"
-      ]
-    }
-  ],
-  "présentation": "S’inscrivant dans l’existant, le projet s’est construit autour de la volonté d’ouvrir le cœur d’îlot, de privilégier les chemins piétons et de construire un programme à échelle humaine. L’implantation des bâtiments et les aménagements paysagers s’organisent autour d’une nouvelle voie de desserte. Au nord, en limite de parcelle, un bâtiment collectif est destiné au bailleur social Nantes Habitat. En cœur d’îlot, sont installés deux petits collectifs. Au sud, le projet met en scène la structure métallique existante des nefs.\nAprès dépose du bardage et de la couverture, quatre plots de logements intermédiaires et individuels s’inscrivent entre ses trames. Longés par la voie d’opportunité, deux bâtiments en R+2+attique émergent de la structure ; deux autres plots en RdC et R+1+attique s’y insèrent. Une partie de la nef est couverte, offrant ainsi des espaces de circulation abrités reliant les différents bâtiments. Afin de faire écho à l’ancienne volumétrie des nefs, des toitures à double pente viennent s’intercaler entre les différentes toitures terrasses.\nL’ensemble des logements a été conçu de façon à posséder une double orientation et avoir une vue sur un espace vert. Toutes les toitures terrasses des bâtiments en RdC et R+1 sont ainsi végétalisées. Le site de la Marseillaise offre aujourd’hui un cadre de vie verdoyant en cœur de ville, source de bien-être, d’échange et de partage.\nL’organisation générale des bâtiments s’appuie sur l’ambition de répondre aux enjeux de la qualité de vie des logements. En effet, pour profiter au maximum de l’orientation sud et/ou d’une ouverture sur des espaces paysagés, le projet propose des espaces extérieurs qui prolongent les logements (balcons, terrasses, à tous niveaux).\nL’aménagement paysager se structure autour de trois espaces singuliers. Sous les nefs, un jardin exotique constitue un cocon pour les maisons et petits collectifs logés sous la structure. Dans l’axe central, une colonne piétonne donne accès au site ; c’est également une voie d’opportunité traitée en chemin bordé de massifs et de pavés engazonnés mais permettant le passage de certains véhicules (déménagement, entretien,…). Enserré entre les collectifs, le jardin ouest est un cœur d’îlot à part entière, propice aux jeux et à la flânerie. \nEn limite d’un parking de supermarché, une grande fresque a été réalisée par le collectif 100 Pression reprenant l’histoire du site sur le thème du monde ouvrier.\n\n_Texte des architectes_\n\n_• L'ardepa a visité ce lieu le 12 janvier 2018_\n",
-  "département": "44 Loire-Atlantique",
   "dernière modification": "2021-10-07T09:22:28.000Z"
 }

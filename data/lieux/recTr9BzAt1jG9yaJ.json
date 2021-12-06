@@ -1,36 +1,134 @@
 {
   "id": "recTr9BzAt1jG9yaJ",
-  "nom": "Little Atlantique Brewery",
   "adresse": "23 Bd de Chantenay, 44100 Nantes\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.196917,
-    -1.589358
+  "sélections": [
+    {
+      "id": "recNOfjWkwIQ7wPig",
+      "portrait": [
+        "rec09fZqSVXpUydK2"
+      ],
+      "invité": "Paul Girard",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recLVrdGzklj7mmLE"
+      ],
+      "status": "Publié",
+      "introduction": "L'Ardepa a invité Paul Girard pour faire une sélection bla bla bal bal albalbalbalablablba",
+      "édito": "Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+      "dernière modification": "2021-09-30T13:34:31.000Z"
+    }
   ],
-  "date": "vers 2020",
+  "type": [
+    {
+      "id": "recrpFA9KQQobRh6X",
+      "type_destination": "Logement",
+      "destination": "Maison",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V"
+      ]
+    }
+  ],
   "maitre_oeuvre": [
     {
       "id": "rec40dPyedNC61z9q",
-      "nom": "Christophe Theilmann Architecte Scénographe ",
       "maitre_oeuvre": [
         "recTr9BzAt1jG9yaJ"
-      ]
+      ],
+      "nom": "Christophe Theilmann Architecte Scénographe "
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "rechiBdHUNYbVyQlT",
-      "nom": "SAS Les Brasseries de l’Atlantique",
-      "site_web": "https://little-atlantique-brewery.fr/",
       "maitre_ouvrage": [
+        "recTr9BzAt1jG9yaJ"
+      ],
+      "site_web": "https://little-atlantique-brewery.fr/",
+      "nom": "SAS Les Brasseries de l’Atlantique"
+    }
+  ],
+  "parcours": [
+    {
+      "id": "recyxl64SW35uLcjC",
+      "nom": "Du hangar à Banane à la Brasserie Little Atlantique Brewery",
+      "status": "Publié",
+      "édito": "**Du champ à l’assiette**, de la chapelle au marché, de l’étal à la marmite… cette année le fil rouge que nous suivrons tout au long du cycle 2020 des expéditions urbaines sera le nourricier.\n\nCette thématique prend toute son importance dans le contexte sanitaire et social que nous sommes en train de vivre. En effet l’épidémie de coronavirus nous questionne sur la résilience de nos systèmes alimentaires, de notre autonomie et nous fait prendre conscience de notre dépendance liée à l’approvisionnement.\n\nCes expéditions urbaines nous permettront d’explorer différents enjeux de cette thématique, à différentes échelles. Les restrictions liées au déconfinement nous poussent à nous réinventer et à vous proposer un format dématérialisé où vous serez autonomes dans votre exploration.\n\nLe territoire nantais a un réel passé industriel dans le domaine agro-alimentaire, entre l’île de Nantes avec le MIN, l’usine Beghin-Say, le Hangar à Bananes, puis sur l’autre rive de la Loire, le Bas-Chantenay avec les conserveries, la brasserie de la Meuse, les Moulins de Loire...\nLa loire etait un réel atout pour le transpor t de toutes ces marchandises. Nous pourrons l’emprunter grâce à la nouvelle liaison Navibus gérée par Nantes métropole et la TAN qui relie depuis le début de l’année la pointe Ouest de l’ile de Nantes et le bas Chantenay et ainsi découvrir toutes les traces de ces diverses activitées et en comprendre les transformations à venir avec Vincent Morandeau, chargé de projet du Bas-Chantenay.\nDepuis décembre 2019, à quelques mètres de l’ancienne cale Dubigeon (aujourd’hui chantier naval de l’ Esclain), la brasserie ar tisanale « Little Atlantique Brewery » a ouver t ses portes dans une imposante bâtisse du XIXe siècle. Dans cette ancienne huilerie devenue savonnerie, les investisseurs comptent « renouer avec le passé brassicole » de la cité des ducs. C’est avec Christophe Theilmann, l’architecte de cette réhabilitation que nous découvrirons ce nouveau lieu hybride, révélateur du mode de vie actuel : les gens y mangent et boivent, y travaillent, se cultivent. C’est une réalité sociétale ou le besoin d’être ensemble, d’éviter l’isolement dans la ville devient vital.\n",
+      "médias": [
+        "recDuI24dJpt5WXsB",
+        "rec0LseZElWit1Xb7"
+      ],
+      "date": "2020-10-17",
+      "cover_media": [
+        "recF5As2SEQr2DHuF"
+      ],
+      "sous-titre": "Expédition urbaine 2020#2",
+      "type parcours": "Expédition",
+      "lieux": [
+        "recLVrdGzklj7mmLE",
         "recTr9BzAt1jG9yaJ"
       ]
     }
   ],
+  "status": "Publié",
+  "présentation": "Au Bas Chantenay, tout près du Chantier Naval de l’Esclain, et sur les bords de Loire, un nouveau lieu a ouver t ses portes fin d’année 2019. Une implantation dans un quartier historique . . .\nLittle Atlantique Brewery est une microbrasserie ar tisanale située dans un bâtiment historique du 19ème siècle. A l’origine de cette aventure deux entrepreneurs, Jérôme et Gregory, dont le pari était de réimplanter une brasserie au coeur du quartier du Bas Chantenay, où les Brasseries de la Meuse produisaient de la bière depuis le 18e siècle avant de fermer définitivement dans les années 1980.\nAu coeur de la cale Dubigeon La cale Dubigeon constitue le centre historique de la plaine industrielle du Bas- Chantenay. Un coeur bien vivant avec l’activité de plusieurs entreprises et associations, dont le chantier naval de l’Esclain créé il y a 25 ans. Le pôle d’activités Dubigeon va se renforcer avec la création des Docks de Chantenay, un nouveau lieu de vie ouver t à tous. Depuis janvier 2020, une navette fluviale part des Docks de Chantenay pour rejoindre l’île de Nantes.\n_Sources : Nantes Métropole Aménagement_\n_Les investisseurs comptent « renouer avec le passé brassicole » de la cité des ducs, installés dans une bâtisse datant de 1856, une ancienne huilerie devenue savonnerie. A quelques centaines de mètres se situaient en effet les Brasseries de la Meuse où des milliers de litres ont abreuvé les Nantais jusqu’au milieu des années 80. « C’est un lieu artisanal, qui a une âme. Et dans un quartier de Chantenay en pleine mutation, avec une vie ar tistique », se félicite Jérôme Pallier. Nous sommes fiers de redonner ici ses lettres de noblesse à la bière nantaise. Avec son associé australien, il a mis 3,3 millions d’euros sur la table pour réhabiliter le bâtiment de 3000 m². Lieu hybride La façade en pierres et briques a été conservée, le lieu peut désormais accueillir jusqu’à 650 personnes sur trois niveaux._\n_A l’étage supérieur, une salle de réception avec bar et espace traiteur est louée aux entreprises pour des séminaires. Cerise sur le gâteau : un balcon… avec vue sur la Loire. C’est d’ailleurs le concept. Ici, tout est ouvert. On boit de la bière mais on voit comment elle est fabriquée : derrière le comptoir trônent deux cuves de fermentation. Même chose en cuisine où des salariés en réinsertion ont été recrutés._\n_Sources : actu.fr/pays-de-la-loire_\n_Le bâtiment d’origine disposant de peu d’ouver tures, est prolongé vers le Sud, face à la Loire, par une extension en charpente bois visible et intégralement vitrée. Une porte coulissante monumentale permet d’ouvrir la moitié de la façade. Les espaces et leur organisation exploitent la composition originale des bâtiments. La conservation des ouvrages existants et sains a constitué un préalable à toute autre approche environnementale. Les poutres en pichepin originaires des Etats-Unis, ont ainsi été conservées, ainsi que les solives et planchers sains. Matériaux simples et bruts, bois massif, béton, acier et verre, conjuguent les différentes époques habillement mises en valeur par l’architecte._\n",
+  "distinctions": [
+    {
+      "id": "rectTOye18UHf0K0H",
+      "site_web": "https://www.prixnational-boisconstruction.org/",
+      "nom": "Prix national de la construction bois",
+      "description": "Prix décerné par FIBOIS France qui regroupe et fédère 12 interprofessions régionales ou départementales de la filière forêt bois française.",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ"
+      ]
+    }
+  ],
+  "nom": "Little Atlantique Brewery",
+  "cover_media": {
+    "id": "recTm9l1b9USK625B",
+    "fichiers": [
+      {
+        "id": "attcc8TB1q3eSBQAH",
+        "width": 1080,
+        "height": 675,
+        "url": "https://dl.airtable.com/.attachments/08d2f8f1750a3e1d603ae80d391c8ca3/63ac8975/yoga-music-little-atlantique-yoga-nantes-1-1080x675.jpg",
+        "filename": "yoga-music-little-atlantique-yoga-nantes-1-1080x675.jpg",
+        "size": 101735,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/56eb44641f4bb6caea67480c3d7f6e2c/96acca41",
+            "width": 58,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/1a1a5d3338bb0bf910a8ebe52be989d8/c595cf9a",
+            "width": 819,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/3c0d47f07008190f9ae3abaaf4516792/790b4047",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "façade",
+    "cover_lieux": [
+      "recTr9BzAt1jG9yaJ"
+    ]
+  },
   "périodes": [
     {
       "id": "recrOfcUS3a0toY0i",
-      "nom": "années 2020",
       "lieux": [
         "recTr9BzAt1jG9yaJ",
         "recRlloApjtcScitR",
@@ -39,13 +137,19 @@
         "recT5ti90aD2NTdCN",
         "reclKHqSQhv9rHQQ4",
         "rec3sjAwggXRAkqGc"
-      ]
+      ],
+      "nom": "années 2020"
     }
   ],
+  "geolocalisation": [
+    47.196917,
+    -1.589358
+  ],
+  "département": "44 Loire-Atlantique",
+  "date": "vers 2020",
   "médias": [
     {
       "id": "recDuI24dJpt5WXsB",
-      "titre": "expédition banane - brasserie",
       "url": "https://vimeo.com/492137201",
       "lieux": [
         "recTr9BzAt1jG9yaJ",
@@ -53,7 +157,8 @@
       ],
       "parcours": [
         "recyxl64SW35uLcjC"
-      ]
+      ],
+      "titre": "expédition banane - brasserie"
     },
     {
       "id": "rechw9M38kNeCsbK3",
@@ -85,14 +190,13 @@
           }
         }
       ],
-      "credits": "Philippe Orel",
       "lieux": [
         "recTr9BzAt1jG9yaJ"
-      ]
+      ],
+      "credits": "Philippe Orel"
     },
     {
       "id": "reciQiKc6ZjKoNX2E",
-      "titre": "Formulaire d'adhésion",
       "fichiers": [
         {
           "id": "att7UUcDUqziE18qt",
@@ -114,14 +218,14 @@
           }
         }
       ],
-      "credits": "L'Ardepa",
       "lieux": [
         "recTr9BzAt1jG9yaJ"
-      ]
+      ],
+      "titre": "Formulaire d'adhésion",
+      "credits": "L'Ardepa"
     },
     {
       "id": "recjGz63Hv79VBMPA",
-      "titre": "test PDf paysage",
       "fichiers": [
         {
           "id": "attnu1naoe2aOrlcG",
@@ -146,13 +250,13 @@
       "lieux": [
         "recTr9BzAt1jG9yaJ"
       ],
+      "titre": "test PDf paysage",
       "cover_lieux": [
         "recLVrdGzklj7mmLE"
       ]
     },
     {
       "id": "recF5As2SEQr2DHuF",
-      "titre": "Visite du chantier LAB",
       "fichiers": [
         {
           "id": "att1oYvXYxpMGP5Nv",
@@ -181,119 +285,15 @@
           }
         }
       ],
-      "credits": "L'ARDEPA",
-      "lieux": [
-        "recTr9BzAt1jG9yaJ"
-      ],
       "cover_parcours": [
         "recyxl64SW35uLcjC"
-      ]
-    }
-  ],
-  "cover_media": {
-    "id": "recTm9l1b9USK625B",
-    "titre": "façade",
-    "fichiers": [
-      {
-        "id": "attcc8TB1q3eSBQAH",
-        "width": 1080,
-        "height": 675,
-        "url": "https://dl.airtable.com/.attachments/08d2f8f1750a3e1d603ae80d391c8ca3/63ac8975/yoga-music-little-atlantique-yoga-nantes-1-1080x675.jpg",
-        "filename": "yoga-music-little-atlantique-yoga-nantes-1-1080x675.jpg",
-        "size": 101735,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/56eb44641f4bb6caea67480c3d7f6e2c/96acca41",
-            "width": 58,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/1a1a5d3338bb0bf910a8ebe52be989d8/c595cf9a",
-            "width": 819,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/3c0d47f07008190f9ae3abaaf4516792/790b4047",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "cover_lieux": [
-      "recTr9BzAt1jG9yaJ"
-    ]
-  },
-  "type": [
-    {
-      "id": "recrpFA9KQQobRh6X",
-      "destination": "Maison",
-      "type_destination": "Logement",
-      "lieux": [
-        "recTr9BzAt1jG9yaJ",
-        "recHVehEvNmwXAJIO",
-        "rechFw6KIHy4PVSUb",
-        "recRFuKGP2zlHup3A",
-        "rec5EHfAartf4PUHm",
-        "recATsZWxsng7iDNK",
-        "recLD9rnkZv8VOOLu",
-        "recrkntJi6bURIOSA",
-        "recwnakX0XGMKhW3V"
-      ]
-    }
-  ],
-  "sélections": [
-    {
-      "id": "recNOfjWkwIQ7wPig",
-      "invité": "Paul Girard",
-      "portrait": [
-        "rec09fZqSVXpUydK2"
       ],
-      "status": "Publié",
-      "introduction": "L'Ardepa a invité Paul Girard pour faire une sélection bla bla bal bal albalbalbalablablba",
-      "édito": "Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-      "lieux": [
-        "recTr9BzAt1jG9yaJ",
-        "recLVrdGzklj7mmLE"
-      ],
-      "dernière modification": "2021-09-30T13:34:31.000Z"
-    }
-  ],
-  "distinctions": [
-    {
-      "id": "rectTOye18UHf0K0H",
-      "nom": "Prix national de la construction bois",
-      "description": "Prix décerné par FIBOIS France qui regroupe et fédère 12 interprofessions régionales ou départementales de la filière forêt bois française.",
-      "site_web": "https://www.prixnational-boisconstruction.org/",
       "lieux": [
         "recTr9BzAt1jG9yaJ"
-      ]
+      ],
+      "titre": "Visite du chantier LAB",
+      "credits": "L'ARDEPA"
     }
   ],
-  "présentation": "Au Bas Chantenay, tout près du Chantier Naval de l’Esclain, et sur les bords de Loire, un nouveau lieu a ouver t ses portes fin d’année 2019. Une implantation dans un quartier historique . . .\nLittle Atlantique Brewery est une microbrasserie ar tisanale située dans un bâtiment historique du 19ème siècle. A l’origine de cette aventure deux entrepreneurs, Jérôme et Gregory, dont le pari était de réimplanter une brasserie au coeur du quartier du Bas Chantenay, où les Brasseries de la Meuse produisaient de la bière depuis le 18e siècle avant de fermer définitivement dans les années 1980.\nAu coeur de la cale Dubigeon La cale Dubigeon constitue le centre historique de la plaine industrielle du Bas- Chantenay. Un coeur bien vivant avec l’activité de plusieurs entreprises et associations, dont le chantier naval de l’Esclain créé il y a 25 ans. Le pôle d’activités Dubigeon va se renforcer avec la création des Docks de Chantenay, un nouveau lieu de vie ouver t à tous. Depuis janvier 2020, une navette fluviale part des Docks de Chantenay pour rejoindre l’île de Nantes.\n_Sources : Nantes Métropole Aménagement_\n_Les investisseurs comptent « renouer avec le passé brassicole » de la cité des ducs, installés dans une bâtisse datant de 1856, une ancienne huilerie devenue savonnerie. A quelques centaines de mètres se situaient en effet les Brasseries de la Meuse où des milliers de litres ont abreuvé les Nantais jusqu’au milieu des années 80. « C’est un lieu artisanal, qui a une âme. Et dans un quartier de Chantenay en pleine mutation, avec une vie ar tistique », se félicite Jérôme Pallier. Nous sommes fiers de redonner ici ses lettres de noblesse à la bière nantaise. Avec son associé australien, il a mis 3,3 millions d’euros sur la table pour réhabiliter le bâtiment de 3000 m². Lieu hybride La façade en pierres et briques a été conservée, le lieu peut désormais accueillir jusqu’à 650 personnes sur trois niveaux._\n_A l’étage supérieur, une salle de réception avec bar et espace traiteur est louée aux entreprises pour des séminaires. Cerise sur le gâteau : un balcon… avec vue sur la Loire. C’est d’ailleurs le concept. Ici, tout est ouvert. On boit de la bière mais on voit comment elle est fabriquée : derrière le comptoir trônent deux cuves de fermentation. Même chose en cuisine où des salariés en réinsertion ont été recrutés._\n_Sources : actu.fr/pays-de-la-loire_\n_Le bâtiment d’origine disposant de peu d’ouver tures, est prolongé vers le Sud, face à la Loire, par une extension en charpente bois visible et intégralement vitrée. Une porte coulissante monumentale permet d’ouvrir la moitié de la façade. Les espaces et leur organisation exploitent la composition originale des bâtiments. La conservation des ouvrages existants et sains a constitué un préalable à toute autre approche environnementale. Les poutres en pichepin originaires des Etats-Unis, ont ainsi été conservées, ainsi que les solives et planchers sains. Matériaux simples et bruts, bois massif, béton, acier et verre, conjuguent les différentes époques habillement mises en valeur par l’architecte._\n",
-  "parcours": [
-    {
-      "id": "recyxl64SW35uLcjC",
-      "nom": "Du hangar à Banane à la Brasserie Little Atlantique Brewery",
-      "édito": "**Du champ à l’assiette**, de la chapelle au marché, de l’étal à la marmite… cette année le fil rouge que nous suivrons tout au long du cycle 2020 des expéditions urbaines sera le nourricier.\n\nCette thématique prend toute son importance dans le contexte sanitaire et social que nous sommes en train de vivre. En effet l’épidémie de coronavirus nous questionne sur la résilience de nos systèmes alimentaires, de notre autonomie et nous fait prendre conscience de notre dépendance liée à l’approvisionnement.\n\nCes expéditions urbaines nous permettront d’explorer différents enjeux de cette thématique, à différentes échelles. Les restrictions liées au déconfinement nous poussent à nous réinventer et à vous proposer un format dématérialisé où vous serez autonomes dans votre exploration.\n\nLe territoire nantais a un réel passé industriel dans le domaine agro-alimentaire, entre l’île de Nantes avec le MIN, l’usine Beghin-Say, le Hangar à Bananes, puis sur l’autre rive de la Loire, le Bas-Chantenay avec les conserveries, la brasserie de la Meuse, les Moulins de Loire...\nLa loire etait un réel atout pour le transpor t de toutes ces marchandises. Nous pourrons l’emprunter grâce à la nouvelle liaison Navibus gérée par Nantes métropole et la TAN qui relie depuis le début de l’année la pointe Ouest de l’ile de Nantes et le bas Chantenay et ainsi découvrir toutes les traces de ces diverses activitées et en comprendre les transformations à venir avec Vincent Morandeau, chargé de projet du Bas-Chantenay.\nDepuis décembre 2019, à quelques mètres de l’ancienne cale Dubigeon (aujourd’hui chantier naval de l’ Esclain), la brasserie ar tisanale « Little Atlantique Brewery » a ouver t ses portes dans une imposante bâtisse du XIXe siècle. Dans cette ancienne huilerie devenue savonnerie, les investisseurs comptent « renouer avec le passé brassicole » de la cité des ducs. C’est avec Christophe Theilmann, l’architecte de cette réhabilitation que nous découvrirons ce nouveau lieu hybride, révélateur du mode de vie actuel : les gens y mangent et boivent, y travaillent, se cultivent. C’est une réalité sociétale ou le besoin d’être ensemble, d’éviter l’isolement dans la ville devient vital.\n",
-      "status": "Publié",
-      "date": "2020-10-17",
-      "lieux": [
-        "recLVrdGzklj7mmLE",
-        "recTr9BzAt1jG9yaJ"
-      ],
-      "cover_media": [
-        "recF5As2SEQr2DHuF"
-      ],
-      "médias": [
-        "recDuI24dJpt5WXsB",
-        "rec0LseZElWit1Xb7"
-      ],
-      "type parcours": "Expédition",
-      "sous-titre": "Expédition urbaine 2020#2"
-    }
-  ],
-  "département": "44 Loire-Atlantique",
   "dernière modification": "2021-10-07T09:19:19.000Z"
 }

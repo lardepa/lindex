@@ -1,37 +1,61 @@
 {
   "id": "recYQXv9Df1Bn5fTu",
-  "nom": "Tribune Colombier du Stade Raymond Kopa",
   "adresse": "Rue du Colombier, 49000 Angers\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.46016289625379,
-    -0.5297945444305144
+  "type": [
+    {
+      "id": "recVSbbcBxY2ydzDN",
+      "type_destination": "Équipement",
+      "destination": "Équipement sportif",
+      "lieux": [
+        "rechtsQSNXyvtp75c",
+        "recYQXv9Df1Bn5fTu",
+        "recK8aI8T01RXFgcD",
+        "receDNWxTooSTCLHo"
+      ]
+    }
   ],
-  "date": "2018",
   "maitre_oeuvre": [
     {
       "id": "recnlsgaTUOFgxUft",
-      "nom": "SABH Studio d'Architecture Bruno Huet",
-      "site_web": "http://www.sabh.fr/",
       "maitre_oeuvre": [
         "recHVehEvNmwXAJIO",
         "recYQXv9Df1Bn5fTu"
-      ]
+      ],
+      "site_web": "http://www.sabh.fr/",
+      "nom": "SABH Studio d'Architecture Bruno Huet"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recQcA5r5FV4LQ8LC",
-      "nom": "Ville d'Angers (49)",
       "maitre_ouvrage": [
+        "recYQXv9Df1Bn5fTu"
+      ],
+      "nom": "Ville d'Angers (49)"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Prix Aperçus Maine et Loire en 2019 (Catégorie Architecture - 3ème prix)\n",
+  "distinctions": [
+    {
+      "id": "recZpmWI8aJAmlsmQ",
+      "site_web": "https://www.apercus49.fr/",
+      "nom": "Prix Aperçus Maine et Loire",
+      "description": "Le prix Aperçus 49 est remis tous les deux ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Maine et Loire.",
+      "lieux": [
+        "recjkXrXE0hZw6f4t",
+        "recQh9bPlaf7FDpmG",
+        "recGXesDW1kGxSoxQ",
+        "recJgalSFcQX7dLe6",
+        "recHVehEvNmwXAJIO",
         "recYQXv9Df1Bn5fTu"
       ]
     }
   ],
+  "nom": "Tribune Colombier du Stade Raymond Kopa",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -84,39 +108,15 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
-  "type": [
-    {
-      "id": "recVSbbcBxY2ydzDN",
-      "destination": "Équipement sportif",
-      "type_destination": "Équipement",
-      "lieux": [
-        "rechtsQSNXyvtp75c",
-        "recYQXv9Df1Bn5fTu",
-        "recK8aI8T01RXFgcD",
-        "receDNWxTooSTCLHo"
-      ]
-    }
+  "geolocalisation": [
+    47.46016289625379,
+    -0.5297945444305144
   ],
-  "distinctions": [
-    {
-      "id": "recZpmWI8aJAmlsmQ",
-      "nom": "Prix Aperçus Maine et Loire",
-      "description": "Le prix Aperçus 49 est remis tous les deux ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Maine et Loire.",
-      "site_web": "https://www.apercus49.fr/",
-      "lieux": [
-        "recjkXrXE0hZw6f4t",
-        "recQh9bPlaf7FDpmG",
-        "recGXesDW1kGxSoxQ",
-        "recJgalSFcQX7dLe6",
-        "recHVehEvNmwXAJIO",
-        "recYQXv9Df1Bn5fTu"
-      ]
-    }
-  ],
-  "présentation": "Prix Aperçus Maine et Loire en 2019 (Catégorie Architecture - 3ème prix)\n",
   "département": "49 Maine-et-Loire",
+  "date": "2018",
   "dernière modification": "2021-09-28T09:39:40.000Z"
 }

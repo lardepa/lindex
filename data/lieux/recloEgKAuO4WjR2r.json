@@ -1,38 +1,70 @@
 {
   "id": "recloEgKAuO4WjR2r",
-  "nom": "Centre Beautour de découverte, de culture scientifique et de recherche sur l'environnement et la biodiversité",
   "adresse": "Rond-point de Beautour, 85000 La Roche-sur-Yon\n",
-  "status": "Publié",
-  "geolocalisation": [
-    46.662995597968134,
-    -1.3578095378216828
+  "type": [
+    {
+      "id": "recU0DF0Isnpt8rJ1",
+      "type_destination": "Équipement",
+      "destination": "Culture",
+      "lieux": [
+        "recq85i5LBfpWsp9R",
+        "recloEgKAuO4WjR2r",
+        "recT5ti90aD2NTdCN",
+        "recq4adxSr0wOfKMW"
+      ]
+    },
+    {
+      "id": "recOWK3c1cbm06Vqy",
+      "type_destination": "Équipement",
+      "destination": "Sciences",
+      "lieux": [
+        "recloEgKAuO4WjR2r",
+        "recq4adxSr0wOfKMW"
+      ]
+    }
   ],
-  "date": "2014",
   "maitre_oeuvre": [
     {
       "id": "recOl6lYjNOuOGchX",
-      "nom": "Guinée*Potin Architecture",
-      "site_web": "http://www.guineepotin.fr/",
       "maitre_oeuvre": [
         "recRlloApjtcScitR",
         "recloEgKAuO4WjR2r"
-      ]
+      ],
+      "site_web": "http://www.guineepotin.fr/",
+      "nom": "Guinée*Potin Architecture"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "rec2Idw8ioulj1RGI",
-      "nom": "Conseil Régional des Pays de la Loire",
       "maitre_ouvrage": [
         "recloEgKAuO4WjR2r",
         "recelyrNTkM7l50Jd"
+      ],
+      "nom": "Conseil Régional des Pays de la Loire"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Rénovation d’une maison de maître, création d’une extension et aménagement d’un parc, regroupant salles d’expositions, ateliers pédagogiques, laboratoires, accueil, bureaux, serre pédagogique, jardins et parcours pédagogiques.\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 2eme prix)\n",
+  "distinctions": [
+    {
+      "id": "recWC2OSlyx1EQjFm",
+      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
+      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
+      "lieux": [
+        "recY5jgLHC0792Lr0",
+        "recloEgKAuO4WjR2r",
+        "recelyrNTkM7l50Jd",
+        "recL8sEqdH9C2gWvd",
+        "recMsOSrCEl9x1F2V",
+        "recP6LOBOUBRRlLnt"
       ]
     }
   ],
+  "nom": "Centre Beautour de découverte, de culture scientifique et de recherche sur l'environnement et la biodiversité",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -85,47 +117,15 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
-  "type": [
-    {
-      "id": "recU0DF0Isnpt8rJ1",
-      "destination": "Culture",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recq85i5LBfpWsp9R",
-        "recloEgKAuO4WjR2r",
-        "recT5ti90aD2NTdCN",
-        "recq4adxSr0wOfKMW"
-      ]
-    },
-    {
-      "id": "recOWK3c1cbm06Vqy",
-      "destination": "Sciences",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recloEgKAuO4WjR2r",
-        "recq4adxSr0wOfKMW"
-      ]
-    }
+  "geolocalisation": [
+    46.662995597968134,
+    -1.3578095378216828
   ],
-  "distinctions": [
-    {
-      "id": "recWC2OSlyx1EQjFm",
-      "nom": "Prix départemental d'Architecture et d'Aménagement de la Vendée",
-      "description": "Prix départemental d'Architecture et d'Aménagement 85 était un prix remis tous les 4 ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Vendée.\n\nIl a été remplacé en 2020 par le prix Aperçus Vendée",
-      "lieux": [
-        "recY5jgLHC0792Lr0",
-        "recloEgKAuO4WjR2r",
-        "recelyrNTkM7l50Jd",
-        "recL8sEqdH9C2gWvd",
-        "recMsOSrCEl9x1F2V",
-        "recP6LOBOUBRRlLnt"
-      ]
-    }
-  ],
-  "présentation": "Rénovation d’une maison de maître, création d’une extension et aménagement d’un parc, regroupant salles d’expositions, ateliers pédagogiques, laboratoires, accueil, bureaux, serre pédagogique, jardins et parcours pédagogiques.\n\nPrix départemental d'Architecture et d'Aménagement de la Vendée 2016 (Catégorie Architecture - 2eme prix)\n",
   "département": "85 Vendée",
+  "date": "2014",
   "dernière modification": "2021-09-30T15:52:12.000Z"
 }

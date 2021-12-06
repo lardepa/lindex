@@ -1,33 +1,192 @@
 {
   "id": "recnSvIT9dWMKZF8x",
   "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
-  "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
   "status": "Publié",
+  "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
+  "médias": [
+    {
+      "id": "recaTHLX6YXDUfkh2",
+      "fichiers": [
+        {
+          "id": "att4RHX5nwnPiHkWU",
+          "url": "https://dl.airtable.com/.attachments/7f27868128b15a76e7203461b0ecba43/ee1a8687/plaquetteA5.pdf",
+          "filename": "plaquetteA5.pdf",
+          "size": 3896398,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3c00e5b2ff052643c91ca8282fda4fa8/d13a3966",
+              "width": 26,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c4fe4a1f66a8040ed1bc994ea1649206/9c5319ef",
+              "width": 368,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "lieux": [
+        "recKbU8dW7ri9Ihu9"
+      ],
+      "parcours": [
+        "recnSvIT9dWMKZF8x",
+        "recit6lDBhqoxoJn9"
+      ],
+      "titre": "expédition urbaine 2019-2 plaquette",
+      "credits": "Ardepa"
+    }
+  ],
+  "en une": true,
   "date": "2019-11-16",
+  "cover_media": {
+    "id": "recikqDR8r22npdW9",
+    "fichiers": [
+      {
+        "id": "atthpU41nJNCK9nxN",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/08b6e41fb6a2ff65ea9a00b79ffe14d9/7469e20b/expe2019-5cover.jpg",
+        "filename": "expe 2019-5 cover.jpg",
+        "size": 328596,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/83bb0500e22bf9f8e90136fc03bc6289/f83e4d0d",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/90e433f137937165971357116c78c09e/5062bbfa",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/34062a4da03b5beea01a6427294f7f1c/268c526a",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "cover_parcours": [
+      "recnSvIT9dWMKZF8x"
+    ],
+    "titre": "expédition urbaine 2019-2 cover",
+    "credits": "Ardepa"
+  },
+  "sous-titre": "Expédition urbaine 2019#5",
+  "type parcours": "Expédition",
   "lieux": [
     {
       "id": "recVoRhrrPKCDBNwW",
-      "nom": "DY10",
       "adresse": "5bis Boulevard Léon Bureau, 44200 Nantes\n",
+      "type": [
+        {
+          "id": "recjX9ygJ9VA81LG6",
+          "type_destination": "Équipement",
+          "destination": "Bureaux",
+          "lieux": [
+            "recXrmOzavWvTwx9T",
+            "rec4neQMuPblp8tuX",
+            "recahyhau12Ghaztg",
+            "recpN2hW8eG6SnkLe",
+            "recVoRhrrPKCDBNwW",
+            "recIsRYGFH3wqqTYC",
+            "recTaYdefmJUHsBOi"
+          ]
+        },
+        {
+          "id": "reccvYGuIVsYicPss",
+          "type_destination": "Équipement",
+          "destination": "Urbanisme transitoire",
+          "lieux": [
+            "recVoRhrrPKCDBNwW",
+            "recT5ti90aD2NTdCN"
+          ]
+        }
+      ],
+      "parcours": [
+        {
+          "id": "recnSvIT9dWMKZF8x",
+          "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
+          "status": "Publié",
+          "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
+          "médias": [
+            "recaTHLX6YXDUfkh2"
+          ],
+          "en une": true,
+          "date": "2019-11-16",
+          "cover_media": [
+            "recikqDR8r22npdW9"
+          ],
+          "sous-titre": "Expédition urbaine 2019#5",
+          "type parcours": "Expédition",
+          "lieux": [
+            "recVoRhrrPKCDBNwW",
+            "recT5ti90aD2NTdCN",
+            "recpN2hW8eG6SnkLe"
+          ]
+        }
+      ],
       "status": "Publié",
+      "présentation": "Ce bunker est un vestige de la Seconde Guerre mondiale dont la construction a été mise en chantier après les premiers bombardements de 1941 sur la ville ou ceux des 16 et 23 septembre 1943, qui marquent une intensification et une généralisation des destructions sur la ville. \nLe nom de « DY10 » sont les références cadastrales du terrain sur lequel il a été construit, et qui appartenait en partie au diocèse de Nantes (l’autre partie dépendait d’une propriété privée).\nL’ouvrage, composée de deux parties jumelles divisées en plusieurs pièces, sert à abriter les troupes allemandes et les ouvriers travaillant sur les Chantiers Dubigeon tout proches.\n\nDans les années 1950 et 1960, les marches d’accès au blockhaus deviennent un lieu de rassemblement du mouvement ouvrier.\nEn 1996, il fut occupé, en toute illégalité, par un collectif d’élèves de l’école d’architecture, qui le firent connaître pour son implication dans la vie culturelle alternative nantaise.\nLe groupe de punk-hardcore Die Hölle y a enregistré son premier album le 11 septembre 2005.\nDes concerts y étaient ponctuellement organisés.\n\n_• L'ardepa a visité ce lieu le 16 novembre 2019, lors de l'Expédition urbaine \"La culture urbaine et l’urbanisme transitoire sur l’île de Nantes\"_\n",
+      "nom": "DY10",
+      "cover_media": {
+        "id": "rec9afvuhJDhSDt0e",
+        "fichiers": [
+          {
+            "id": "atttehrZnOqKc9QKC",
+            "width": 1920,
+            "height": 1080,
+            "url": "https://dl.airtable.com/.attachments/f41515d393e7c1b30df7f62f8f428a4f/b9005727/dy100.jpg",
+            "filename": "dy10 0.jpg",
+            "size": 267020,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8324ef48b6535589cecd9db5f3823e29/89eba66d",
+                "width": 64,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9e38198416d17773dbc4502fb6dfe134/c3bf97df",
+                "width": 910,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5ef3d627a92b9ce415ae86ae4eb7f55f/405811a4",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "titre": "DY10 cover",
+        "credits": "Ardepa",
+        "cover_lieux": [
+          "recVoRhrrPKCDBNwW"
+        ]
+      },
+      "périodes": [
+        {
+          "id": "rec49ra2Jb8NhV3cl",
+          "lieux": [
+            "recVoRhrrPKCDBNwW"
+          ],
+          "nom": "années 1990"
+        }
+      ],
       "geolocalisation": [
         47.206824,
         -1.5644
       ],
+      "département": "44 Loire-Atlantique",
       "date": "1993",
-      "périodes": [
-        {
-          "id": "rec49ra2Jb8NhV3cl",
-          "nom": "années 1990",
-          "lieux": [
-            "recVoRhrrPKCDBNwW"
-          ]
-        }
-      ],
       "médias": [
         {
           "id": "recgkJCaf3IklFdpO",
-          "titre": "DY10 photos",
           "fichiers": [
             {
               "id": "attBMJEgIBZRXu0rT",
@@ -108,136 +267,137 @@
               }
             }
           ],
-          "credits": "Association DY10",
           "lieux": [
             "recVoRhrrPKCDBNwW"
+          ],
+          "titre": "DY10 photos",
+          "credits": "Association DY10"
+        }
+      ],
+      "dernière modification": "2021-10-07T09:22:15.000Z"
+    },
+    {
+      "id": "recT5ti90aD2NTdCN",
+      "adresse": "51 Bd Gustave Roch, 44200 Nantes\n",
+      "type": [
+        {
+          "id": "reccvYGuIVsYicPss",
+          "type_destination": "Équipement",
+          "destination": "Urbanisme transitoire",
+          "lieux": [
+            "recVoRhrrPKCDBNwW",
+            "recT5ti90aD2NTdCN"
+          ]
+        },
+        {
+          "id": "recvYQkJNzMNb10UF",
+          "type_destination": "Équipement",
+          "destination": "Restauration",
+          "lieux": [
+            "recLVrdGzklj7mmLE",
+            "recT5ti90aD2NTdCN",
+            "recTaYdefmJUHsBOi"
+          ]
+        },
+        {
+          "id": "recU0DF0Isnpt8rJ1",
+          "type_destination": "Équipement",
+          "destination": "Culture",
+          "lieux": [
+            "recq85i5LBfpWsp9R",
+            "recloEgKAuO4WjR2r",
+            "recT5ti90aD2NTdCN",
+            "recq4adxSr0wOfKMW"
           ]
         }
       ],
+      "maitre_oeuvre": [
+        {
+          "id": "rec11l6RyBToGd7kz",
+          "maitre_oeuvre": [
+            "recT5ti90aD2NTdCN",
+            "rec5EHfAartf4PUHm"
+          ],
+          "site_web": "https://0101.archi/",
+          "nom": "0101 Architectes"
+        }
+      ],
+      "maitre_ouvrage": [
+        {
+          "id": "rec6zwotXGCBOq5C8",
+          "maitre_ouvrage": [
+            "recpN2hW8eG6SnkLe",
+            "recT5ti90aD2NTdCN",
+            "recKbU8dW7ri9Ihu9"
+          ],
+          "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique"
+        }
+      ],
+      "parcours": [
+        {
+          "id": "recnSvIT9dWMKZF8x",
+          "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
+          "status": "Publié",
+          "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
+          "médias": [
+            "recaTHLX6YXDUfkh2"
+          ],
+          "en une": true,
+          "date": "2019-11-16",
+          "cover_media": [
+            "recikqDR8r22npdW9"
+          ],
+          "sous-titre": "Expédition urbaine 2019#5",
+          "type parcours": "Expédition",
+          "lieux": [
+            "recVoRhrrPKCDBNwW",
+            "recT5ti90aD2NTdCN",
+            "recpN2hW8eG6SnkLe"
+          ]
+        }
+      ],
+      "status": "Publié",
+      "présentation": "L’ancien magasin de matériel de cuisine doit être transformé en espace d’exposition et de communication ouvert au public. \nLa rénovation doit mettre le bâtiment aux normes avec ses nouveaux usages.\nUn travail en équipe avec les scénographes et l’exploitant du restaurant doit permettre de donner une nouvelle identité à ce lieu atypique et idéalement situé au coeur de la rénovation urbaine de l’île de Nantes.\n\n_Texte : 0101 Architectes_\n\n_• L'ardepa a visité ce lieu le 16 novembre 2019, lors de l'Expédition urbaine \"La culture urbaine et l’urbanisme transitoire sur l’île de Nantes\"_\n",
+      "nom": "Labo Diva",
       "cover_media": {
-        "id": "rec9afvuhJDhSDt0e",
-        "titre": "DY10 cover",
+        "id": "recdeHjCwMxrdDcAk",
         "fichiers": [
           {
-            "id": "atttehrZnOqKc9QKC",
+            "id": "attcdMBMIWzB0vsOX",
             "width": 1920,
             "height": 1080,
-            "url": "https://dl.airtable.com/.attachments/f41515d393e7c1b30df7f62f8f428a4f/b9005727/dy100.jpg",
-            "filename": "dy10 0.jpg",
-            "size": 267020,
+            "url": "https://dl.airtable.com/.attachments/29583ce1c5cf633d6f1d01fdb637a5d0/6da34b44/labodiva0.jpg",
+            "filename": "labo diva 0.jpg",
+            "size": 330945,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/8324ef48b6535589cecd9db5f3823e29/89eba66d",
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1cca84b939f15d75927110cf4f045583/dce8b2c7",
                 "width": 64,
                 "height": 36
               },
               "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/9e38198416d17773dbc4502fb6dfe134/c3bf97df",
+                "url": "https://dl.airtable.com/.attachmentThumbnails/1c9f7bdc8a3265b3b848b8bd2b0261cc/36aefb8a",
                 "width": 910,
                 "height": 512
               },
               "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/5ef3d627a92b9ce415ae86ae4eb7f55f/405811a4",
+                "url": "https://dl.airtable.com/.attachmentThumbnails/d830efdd2a10426184abcca7bc6bd4f0/719310c3",
                 "width": 3000,
                 "height": 3000
               }
             }
           }
         ],
-        "credits": "Ardepa",
+        "titre": "labo diva cover",
+        "credits": "0101 Architectes",
         "cover_lieux": [
-          "recVoRhrrPKCDBNwW"
+          "recT5ti90aD2NTdCN"
         ]
       },
-      "type": [
-        {
-          "id": "recjX9ygJ9VA81LG6",
-          "destination": "Bureaux",
-          "type_destination": "Équipement",
-          "lieux": [
-            "recXrmOzavWvTwx9T",
-            "rec4neQMuPblp8tuX",
-            "recahyhau12Ghaztg",
-            "recpN2hW8eG6SnkLe",
-            "recVoRhrrPKCDBNwW",
-            "recIsRYGFH3wqqTYC",
-            "recTaYdefmJUHsBOi"
-          ]
-        },
-        {
-          "id": "reccvYGuIVsYicPss",
-          "destination": "Urbanisme transitoire",
-          "type_destination": "Équipement",
-          "lieux": [
-            "recVoRhrrPKCDBNwW",
-            "recT5ti90aD2NTdCN"
-          ]
-        }
-      ],
-      "présentation": "Ce bunker est un vestige de la Seconde Guerre mondiale dont la construction a été mise en chantier après les premiers bombardements de 1941 sur la ville ou ceux des 16 et 23 septembre 1943, qui marquent une intensification et une généralisation des destructions sur la ville. \nLe nom de « DY10 » sont les références cadastrales du terrain sur lequel il a été construit, et qui appartenait en partie au diocèse de Nantes (l’autre partie dépendait d’une propriété privée).\nL’ouvrage, composée de deux parties jumelles divisées en plusieurs pièces, sert à abriter les troupes allemandes et les ouvriers travaillant sur les Chantiers Dubigeon tout proches.\n\nDans les années 1950 et 1960, les marches d’accès au blockhaus deviennent un lieu de rassemblement du mouvement ouvrier.\nEn 1996, il fut occupé, en toute illégalité, par un collectif d’élèves de l’école d’architecture, qui le firent connaître pour son implication dans la vie culturelle alternative nantaise.\nLe groupe de punk-hardcore Die Hölle y a enregistré son premier album le 11 septembre 2005.\nDes concerts y étaient ponctuellement organisés.\n\n_• L'ardepa a visité ce lieu le 16 novembre 2019, lors de l'Expédition urbaine \"La culture urbaine et l’urbanisme transitoire sur l’île de Nantes\"_\n",
-      "parcours": [
-        {
-          "id": "recnSvIT9dWMKZF8x",
-          "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
-          "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
-          "status": "Publié",
-          "date": "2019-11-16",
-          "lieux": [
-            "recVoRhrrPKCDBNwW",
-            "recT5ti90aD2NTdCN",
-            "recpN2hW8eG6SnkLe"
-          ],
-          "cover_media": [
-            "recikqDR8r22npdW9"
-          ],
-          "médias": [
-            "recaTHLX6YXDUfkh2"
-          ],
-          "type parcours": "Expédition",
-          "sous-titre": "Expédition urbaine 2019#5",
-          "en une": true
-        }
-      ],
-      "département": "44 Loire-Atlantique",
-      "dernière modification": "2021-10-07T09:22:15.000Z"
-    },
-    {
-      "id": "recT5ti90aD2NTdCN",
-      "nom": "Labo Diva",
-      "adresse": "51 Bd Gustave Roch, 44200 Nantes\n",
-      "status": "Publié",
-      "geolocalisation": [
-        47.201941,
-        -1.553842
-      ],
-      "date": "2021",
-      "maitre_oeuvre": [
-        {
-          "id": "rec11l6RyBToGd7kz",
-          "nom": "0101 Architectes",
-          "site_web": "https://0101.archi/",
-          "maitre_oeuvre": [
-            "recT5ti90aD2NTdCN",
-            "rec5EHfAartf4PUHm"
-          ]
-        }
-      ],
-      "maitre_ouvrage": [
-        {
-          "id": "rec6zwotXGCBOq5C8",
-          "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique",
-          "maitre_ouvrage": [
-            "recpN2hW8eG6SnkLe",
-            "recT5ti90aD2NTdCN",
-            "recKbU8dW7ri9Ihu9"
-          ]
-        }
-      ],
       "périodes": [
         {
           "id": "recrOfcUS3a0toY0i",
-          "nom": "années 2020",
           "lieux": [
             "recTr9BzAt1jG9yaJ",
             "recRlloApjtcScitR",
@@ -246,13 +406,19 @@
             "recT5ti90aD2NTdCN",
             "reclKHqSQhv9rHQQ4",
             "rec3sjAwggXRAkqGc"
-          ]
+          ],
+          "nom": "années 2020"
         }
       ],
+      "geolocalisation": [
+        47.201941,
+        -1.553842
+      ],
+      "département": "44 Loire-Atlantique",
+      "date": "2021",
       "médias": [
         {
           "id": "rec09sEvadCPUSVlq",
-          "titre": "labo diva photos",
           "fichiers": [
             {
               "id": "attbigSwuzt3BfMsO",
@@ -411,150 +577,128 @@
               }
             }
           ],
-          "credits": "0101 Architectes",
           "lieux": [
             "recT5ti90aD2NTdCN"
+          ],
+          "titre": "labo diva photos",
+          "credits": "0101 Architectes"
+        }
+      ],
+      "dernière modification": "2021-10-07T09:22:19.000Z"
+    },
+    {
+      "id": "recpN2hW8eG6SnkLe",
+      "adresse": "6 Rue St Domingue, 44200 Nantes\n",
+      "type": [
+        {
+          "id": "recjX9ygJ9VA81LG6",
+          "type_destination": "Équipement",
+          "destination": "Bureaux",
+          "lieux": [
+            "recXrmOzavWvTwx9T",
+            "rec4neQMuPblp8tuX",
+            "recahyhau12Ghaztg",
+            "recpN2hW8eG6SnkLe",
+            "recVoRhrrPKCDBNwW",
+            "recIsRYGFH3wqqTYC",
+            "recTaYdefmJUHsBOi"
           ]
         }
       ],
+      "maitre_oeuvre": [
+        {
+          "id": "recY1VMNmbKdEqskI",
+          "maitre_oeuvre": [
+            "recpN2hW8eG6SnkLe"
+          ],
+          "site_web": "https://www.essentiel.archi/",
+          "nom": "Essentiel Architectes"
+        },
+        {
+          "id": "recsLoAkSoJyc6yCl",
+          "maitre_oeuvre": [
+            "recpN2hW8eG6SnkLe"
+          ],
+          "site_web": "https://oandj.fr/",
+          "nom": "O&J Design & Architecture"
+        }
+      ],
+      "maitre_ouvrage": [
+        {
+          "id": "rec6zwotXGCBOq5C8",
+          "maitre_ouvrage": [
+            "recpN2hW8eG6SnkLe",
+            "recT5ti90aD2NTdCN",
+            "recKbU8dW7ri9Ihu9"
+          ],
+          "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique"
+        }
+      ],
+      "parcours": [
+        {
+          "id": "recnSvIT9dWMKZF8x",
+          "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
+          "status": "Publié",
+          "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
+          "médias": [
+            "recaTHLX6YXDUfkh2"
+          ],
+          "en une": true,
+          "date": "2019-11-16",
+          "cover_media": [
+            "recikqDR8r22npdW9"
+          ],
+          "sous-titre": "Expédition urbaine 2019#5",
+          "type parcours": "Expédition",
+          "lieux": [
+            "recVoRhrrPKCDBNwW",
+            "recT5ti90aD2NTdCN",
+            "recpN2hW8eG6SnkLe"
+          ]
+        }
+      ],
+      "status": "Publié",
+      "présentation": "L’ancien Karting situé à la pointe ouest de l’île de Nantes a été réhabilité par la Samoa pour accueillir une quarantaine d’entreprises créatives. \nCet hôtel d’entreprise créatives est aujourd’hui géré par la Creative Factory, l’agence de développement économique de la Samoa.\nDans la perspective du démarrage du chantier de transformation des halles Alstom, plusieurs sites vacants ont été identifiés par la Samoa pour accueillir des acteurs des industries créatives et culturelles. \nL’objectif : constituer un pôle économique autour du réseau de la Creative Factory et du Quartier de la création. Le Karting accueille aujourd’hui une quarantaine d’entreprises du secteur des industries culturelles et créatives, ce qui représente environ 150 emplois.\nLe Karting accueille 1200 m² réparties en 12 surfaces modulables allant de 12 m² à 96 m², en fonction du besoin des occupants. Le développement durable et le prix de sortie maîtrisé ont été les idées forces du projet.\nLe Karting, un éco-concept pour les startups créatives\nDans sa conception globale, le projet NOW – pour New Office Workshop – s’appuie sur l’idée d’un “design minimal”. Il s’attache à produire un dessin préalable le plus précis possible pour limiter le gâchis et toutes formes d’interventions supplémentaires sur les matériaux.\nL’équipe de conception, particulièrement attentive à la réduction des contraintes économiques et écologiques liées aux transports, a permis que les locaux modulables soient transportables et déplaçables dans leur totalité sur un unique semi-remorque.\nEn parallèle, la construction des bureaux modulaires s’appuie sur la promotion d’un circuit économique “court”, faisant jouer les avantages de la proximité en mettant en activité des acteurs de la région : la filière bois locale à travers Atlanbois et l’exploitation du bois des forêts de la région.\n\n**_Ecossolies, Chapidock, ateliers d’artistes…_**\nA proximité, d’autres sites connaissent des aménagements provisoires profitant d’une période de transition : le site du Solilab accueille Les Ecossolies, qui regroupe des entreprises et associations issues de l’économie sociale et solidaire, l’école du cirque Chapidock sous un chapiteau dans le même secteur, certains hangars du quai des Antilles (propriété du Grand port de Nantes Saint-Nazaire), etc.\n\n_Textes : Samoa_\n\n_• L'ardepa a visité ce lieu le 16 novembre 2019, lors de l'Expédition urbaine \"La culture urbaine et l’urbanisme transitoire sur l’île de Nantes\"_\n",
+      "nom": "Le Karting",
       "cover_media": {
-        "id": "recdeHjCwMxrdDcAk",
-        "titre": "labo diva cover",
+        "id": "recVa6K1jeeI7r71h",
         "fichiers": [
           {
-            "id": "attcdMBMIWzB0vsOX",
+            "id": "attbN556OZbSjL7cp",
             "width": 1920,
             "height": 1080,
-            "url": "https://dl.airtable.com/.attachments/29583ce1c5cf633d6f1d01fdb637a5d0/6da34b44/labodiva0.jpg",
-            "filename": "labo diva 0.jpg",
-            "size": 330945,
+            "url": "https://dl.airtable.com/.attachments/2e5166a091d22ba276d0476988415ea0/7cdbb421/karting0.jpg",
+            "filename": "karting 0.jpg",
+            "size": 518670,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/1cca84b939f15d75927110cf4f045583/dce8b2c7",
+                "url": "https://dl.airtable.com/.attachmentThumbnails/29ff9fda3ce974c59055c924d268c0ef/c97e6d94",
                 "width": 64,
                 "height": 36
               },
               "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/1c9f7bdc8a3265b3b848b8bd2b0261cc/36aefb8a",
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4d340c7af77a799e4bbf087fd9e5d1b0/1daaaa47",
                 "width": 910,
                 "height": 512
               },
               "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/d830efdd2a10426184abcca7bc6bd4f0/719310c3",
+                "url": "https://dl.airtable.com/.attachmentThumbnails/27eef8097794b343375cbb72e52540e8/b533c2d2",
                 "width": 3000,
                 "height": 3000
               }
             }
           }
         ],
-        "credits": "0101 Architectes",
+        "titre": "karting nantes cover",
+        "credits": "Jean Dominique Billaud / SAMOA",
         "cover_lieux": [
-          "recT5ti90aD2NTdCN"
+          "recpN2hW8eG6SnkLe"
         ]
       },
-      "type": [
-        {
-          "id": "reccvYGuIVsYicPss",
-          "destination": "Urbanisme transitoire",
-          "type_destination": "Équipement",
-          "lieux": [
-            "recVoRhrrPKCDBNwW",
-            "recT5ti90aD2NTdCN"
-          ]
-        },
-        {
-          "id": "recvYQkJNzMNb10UF",
-          "destination": "Restauration",
-          "type_destination": "Équipement",
-          "lieux": [
-            "recLVrdGzklj7mmLE",
-            "recT5ti90aD2NTdCN",
-            "recTaYdefmJUHsBOi"
-          ]
-        },
-        {
-          "id": "recU0DF0Isnpt8rJ1",
-          "destination": "Culture",
-          "type_destination": "Équipement",
-          "lieux": [
-            "recq85i5LBfpWsp9R",
-            "recloEgKAuO4WjR2r",
-            "recT5ti90aD2NTdCN",
-            "recq4adxSr0wOfKMW"
-          ]
-        }
-      ],
-      "présentation": "L’ancien magasin de matériel de cuisine doit être transformé en espace d’exposition et de communication ouvert au public. \nLa rénovation doit mettre le bâtiment aux normes avec ses nouveaux usages.\nUn travail en équipe avec les scénographes et l’exploitant du restaurant doit permettre de donner une nouvelle identité à ce lieu atypique et idéalement situé au coeur de la rénovation urbaine de l’île de Nantes.\n\n_Texte : 0101 Architectes_\n\n_• L'ardepa a visité ce lieu le 16 novembre 2019, lors de l'Expédition urbaine \"La culture urbaine et l’urbanisme transitoire sur l’île de Nantes\"_\n",
-      "parcours": [
-        {
-          "id": "recnSvIT9dWMKZF8x",
-          "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
-          "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
-          "status": "Publié",
-          "date": "2019-11-16",
-          "lieux": [
-            "recVoRhrrPKCDBNwW",
-            "recT5ti90aD2NTdCN",
-            "recpN2hW8eG6SnkLe"
-          ],
-          "cover_media": [
-            "recikqDR8r22npdW9"
-          ],
-          "médias": [
-            "recaTHLX6YXDUfkh2"
-          ],
-          "type parcours": "Expédition",
-          "sous-titre": "Expédition urbaine 2019#5",
-          "en une": true
-        }
-      ],
-      "département": "44 Loire-Atlantique",
-      "dernière modification": "2021-10-07T09:22:19.000Z"
-    },
-    {
-      "id": "recpN2hW8eG6SnkLe",
-      "nom": "Le Karting",
-      "adresse": "6 Rue St Domingue, 44200 Nantes\n",
-      "status": "Publié",
-      "geolocalisation": [
-        47.200728,
-        -1.571643
-      ],
-      "date": "2012",
-      "maitre_oeuvre": [
-        {
-          "id": "recY1VMNmbKdEqskI",
-          "nom": "Essentiel Architectes",
-          "site_web": "https://www.essentiel.archi/",
-          "maitre_oeuvre": [
-            "recpN2hW8eG6SnkLe"
-          ]
-        },
-        {
-          "id": "recsLoAkSoJyc6yCl",
-          "nom": "O&J Design & Architecture",
-          "site_web": "https://oandj.fr/",
-          "maitre_oeuvre": [
-            "recpN2hW8eG6SnkLe"
-          ]
-        }
-      ],
-      "maitre_ouvrage": [
-        {
-          "id": "rec6zwotXGCBOq5C8",
-          "nom": "SAMOA - Société d'Aménagement de la Métropole Ouest Atlantique",
-          "maitre_ouvrage": [
-            "recpN2hW8eG6SnkLe",
-            "recT5ti90aD2NTdCN",
-            "recKbU8dW7ri9Ihu9"
-          ]
-        }
-      ],
       "périodes": [
         {
           "id": "rec0D9TkCH83ItF6j",
-          "nom": "années 2010",
           "lieux": [
             "recXIe49AgTTO1AuY",
             "rec4neQMuPblp8tuX",
@@ -607,13 +751,19 @@
             "recKbU8dW7ri9Ihu9",
             "recrfw9hvh3VrHFhx",
             "rech0NsUFIcIJYybV"
-          ]
+          ],
+          "nom": "années 2010"
         }
       ],
+      "geolocalisation": [
+        47.200728,
+        -1.571643
+      ],
+      "département": "44 Loire-Atlantique",
+      "date": "2012",
       "médias": [
         {
           "id": "receByTmmPjR8MqOe",
-          "titre": "karting nantes photos",
           "fichiers": [
             {
               "id": "attgpXg3lorHlODqu",
@@ -720,164 +870,14 @@
               }
             }
           ],
-          "credits": "Jean Dominique Billaud / SAMOA",
           "lieux": [
             "recpN2hW8eG6SnkLe"
-          ]
+          ],
+          "titre": "karting nantes photos",
+          "credits": "Jean Dominique Billaud / SAMOA"
         }
       ],
-      "cover_media": {
-        "id": "recVa6K1jeeI7r71h",
-        "titre": "karting nantes cover",
-        "fichiers": [
-          {
-            "id": "attbN556OZbSjL7cp",
-            "width": 1920,
-            "height": 1080,
-            "url": "https://dl.airtable.com/.attachments/2e5166a091d22ba276d0476988415ea0/7cdbb421/karting0.jpg",
-            "filename": "karting 0.jpg",
-            "size": 518670,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/29ff9fda3ce974c59055c924d268c0ef/c97e6d94",
-                "width": 64,
-                "height": 36
-              },
-              "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/4d340c7af77a799e4bbf087fd9e5d1b0/1daaaa47",
-                "width": 910,
-                "height": 512
-              },
-              "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/27eef8097794b343375cbb72e52540e8/b533c2d2",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "credits": "Jean Dominique Billaud / SAMOA",
-        "cover_lieux": [
-          "recpN2hW8eG6SnkLe"
-        ]
-      },
-      "type": [
-        {
-          "id": "recjX9ygJ9VA81LG6",
-          "destination": "Bureaux",
-          "type_destination": "Équipement",
-          "lieux": [
-            "recXrmOzavWvTwx9T",
-            "rec4neQMuPblp8tuX",
-            "recahyhau12Ghaztg",
-            "recpN2hW8eG6SnkLe",
-            "recVoRhrrPKCDBNwW",
-            "recIsRYGFH3wqqTYC",
-            "recTaYdefmJUHsBOi"
-          ]
-        }
-      ],
-      "présentation": "L’ancien Karting situé à la pointe ouest de l’île de Nantes a été réhabilité par la Samoa pour accueillir une quarantaine d’entreprises créatives. \nCet hôtel d’entreprise créatives est aujourd’hui géré par la Creative Factory, l’agence de développement économique de la Samoa.\nDans la perspective du démarrage du chantier de transformation des halles Alstom, plusieurs sites vacants ont été identifiés par la Samoa pour accueillir des acteurs des industries créatives et culturelles. \nL’objectif : constituer un pôle économique autour du réseau de la Creative Factory et du Quartier de la création. Le Karting accueille aujourd’hui une quarantaine d’entreprises du secteur des industries culturelles et créatives, ce qui représente environ 150 emplois.\nLe Karting accueille 1200 m² réparties en 12 surfaces modulables allant de 12 m² à 96 m², en fonction du besoin des occupants. Le développement durable et le prix de sortie maîtrisé ont été les idées forces du projet.\nLe Karting, un éco-concept pour les startups créatives\nDans sa conception globale, le projet NOW – pour New Office Workshop – s’appuie sur l’idée d’un “design minimal”. Il s’attache à produire un dessin préalable le plus précis possible pour limiter le gâchis et toutes formes d’interventions supplémentaires sur les matériaux.\nL’équipe de conception, particulièrement attentive à la réduction des contraintes économiques et écologiques liées aux transports, a permis que les locaux modulables soient transportables et déplaçables dans leur totalité sur un unique semi-remorque.\nEn parallèle, la construction des bureaux modulaires s’appuie sur la promotion d’un circuit économique “court”, faisant jouer les avantages de la proximité en mettant en activité des acteurs de la région : la filière bois locale à travers Atlanbois et l’exploitation du bois des forêts de la région.\n\n**_Ecossolies, Chapidock, ateliers d’artistes…_**\nA proximité, d’autres sites connaissent des aménagements provisoires profitant d’une période de transition : le site du Solilab accueille Les Ecossolies, qui regroupe des entreprises et associations issues de l’économie sociale et solidaire, l’école du cirque Chapidock sous un chapiteau dans le même secteur, certains hangars du quai des Antilles (propriété du Grand port de Nantes Saint-Nazaire), etc.\n\n_Textes : Samoa_\n\n_• L'ardepa a visité ce lieu le 16 novembre 2019, lors de l'Expédition urbaine \"La culture urbaine et l’urbanisme transitoire sur l’île de Nantes\"_\n",
-      "parcours": [
-        {
-          "id": "recnSvIT9dWMKZF8x",
-          "nom": "La culture urbaine et l’urbanisme transitoire sur l’île de Nantes",
-          "édito": "La culture, expression revendiquée des jeunes citoyens dans leurs diversités socioculturelles, est un médiant puissant de la ville Européenne pour son renouvellement. Il est un poste avancé des renouveaux artistiques et de leurs inspirations participatives à la ville.\nSur l’île de Nantes, depuis la première réutilisation des anciennes Halles Alstom, la Samoa a progressivement développé des tiers-lieu (espace de travail partagé, d’échange et de rencontre doté d’une forte dimension sociale). \nCette volonté part du constat que de nombreux artistes, associations ou start-up rencontrent des difficultés pour trouver des locaux adaptés à leurs besoins et à leurs moyens financiers. \nL’occupation transitoire de friches permet ainsi de répondre, au moins dans un premier temps, aux besoins de ces structures qui cherchent des locaux à des loyers ajustés à leur modèle économique et au déploiement de solutions alternatives. \nLes occupants apprécient également d’autres avantages qui émergent de ce type d’aménagement : un environnement qui facilite une mutualisation des moyens humains et techniques ainsi que des espaces communs propices à générer des frictions créatives entre les acteurs et activités qui les partagent. Pour la Samoa, ces aménagements transitoires et occupations temporaires permettent également d’activer et d’animer un quartier pour (r)amener de la vie avant l’arrivée des nouveaux habitants. Et de développer une activité économique émergente. Pour cette dernière expédition urbaine, nous irons visiter ces lieux inédits où la culture s’invite.\n\n---\n\nLa saison 2019 des cinq expéditions urbaines se consacre aux questions contemporaines de société dans des registres croisés avec les inspirations des publics, des notions environnementales, des nouvelles pratiques urbaines et des questions sociétales :\n• La première mobilise la question de l’eau et de ses enjeux\n• La seconde évoque le bien-être et ses pratiques collectives\n• La troisième convoque le « nourricier » et la mémoire pour déployer ces inventions\n• La quatrième tente d’aborder le genre de la ville et ses imparfaits de droit de cité\n• La cinquième raconte les formes d’expressions culturelles revendiquées comme hors champs institutionnels.\nCes questions sont au coeur des actualités et nous avons choisis un médium renouvelé pour accueillir les publics. Les lieux de rencontres seront assez secrets pour découvrir des inédits de la ville et le festif sera aussi d’invitation. À chaque lieu son registre, précédé d’une séance théorique pour construire une vision à partager et à débattre.\n",
-          "status": "Publié",
-          "date": "2019-11-16",
-          "lieux": [
-            "recVoRhrrPKCDBNwW",
-            "recT5ti90aD2NTdCN",
-            "recpN2hW8eG6SnkLe"
-          ],
-          "cover_media": [
-            "recikqDR8r22npdW9"
-          ],
-          "médias": [
-            "recaTHLX6YXDUfkh2"
-          ],
-          "type parcours": "Expédition",
-          "sous-titre": "Expédition urbaine 2019#5",
-          "en une": true
-        }
-      ],
-      "département": "44 Loire-Atlantique",
       "dernière modification": "2021-10-07T09:22:04.000Z"
     }
-  ],
-  "cover_media": {
-    "id": "recikqDR8r22npdW9",
-    "titre": "expédition urbaine 2019-2 cover",
-    "fichiers": [
-      {
-        "id": "atthpU41nJNCK9nxN",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/08b6e41fb6a2ff65ea9a00b79ffe14d9/7469e20b/expe2019-5cover.jpg",
-        "filename": "expe 2019-5 cover.jpg",
-        "size": 328596,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/83bb0500e22bf9f8e90136fc03bc6289/f83e4d0d",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/90e433f137937165971357116c78c09e/5062bbfa",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/34062a4da03b5beea01a6427294f7f1c/268c526a",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "Ardepa",
-    "cover_parcours": [
-      "recnSvIT9dWMKZF8x"
-    ]
-  },
-  "médias": [
-    {
-      "id": "recaTHLX6YXDUfkh2",
-      "titre": "expédition urbaine 2019-2 plaquette",
-      "fichiers": [
-        {
-          "id": "att4RHX5nwnPiHkWU",
-          "url": "https://dl.airtable.com/.attachments/7f27868128b15a76e7203461b0ecba43/ee1a8687/plaquetteA5.pdf",
-          "filename": "plaquetteA5.pdf",
-          "size": 3896398,
-          "type": "application/pdf",
-          "thumbnails": {
-            "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/3c00e5b2ff052643c91ca8282fda4fa8/d13a3966",
-              "width": 26,
-              "height": 36
-            },
-            "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/c4fe4a1f66a8040ed1bc994ea1649206/9c5319ef",
-              "width": 368,
-              "height": 512
-            }
-          }
-        }
-      ],
-      "credits": "Ardepa",
-      "lieux": [
-        "recKbU8dW7ri9Ihu9"
-      ],
-      "parcours": [
-        "recnSvIT9dWMKZF8x",
-        "recit6lDBhqoxoJn9"
-      ]
-    }
-  ],
-  "type parcours": "Expédition",
-  "sous-titre": "Expédition urbaine 2019#5",
-  "en une": true
+  ]
 }

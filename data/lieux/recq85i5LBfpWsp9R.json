@@ -1,46 +1,11 @@
 {
   "id": "recq85i5LBfpWsp9R",
-  "nom": "Espace de diffusion culturelle à Domfront-en-Champagne",
   "adresse": "3 chemin du pressoir, 72119 Domfront-en-Champagne\n",
-  "status": "Publié",
-  "geolocalisation": [
-    48.106156,
-    0.026757
-  ],
-  "date": "2009",
-  "maitre_oeuvre": [
-    {
-      "id": "rec8r73AaBFcWgkdQ",
-      "nom": "Xavier Ménard Architecte",
-      "maitre_oeuvre": [
-        "recq85i5LBfpWsp9R"
-      ]
-    }
-  ],
-  "maitre_ouvrage": [
-    {
-      "id": "recTedn3N7A0RKkXU",
-      "nom": "Commune de Domfront-en-Champagne (72)",
-      "maitre_ouvrage": [
-        "recq85i5LBfpWsp9R"
-      ]
-    }
-  ],
-  "périodes": [
-    {
-      "id": "recAnX6ahvGJYvz0M",
-      "nom": "années 2000",
-      "lieux": [
-        "recLVrdGzklj7mmLE",
-        "recq85i5LBfpWsp9R"
-      ]
-    }
-  ],
   "type": [
     {
       "id": "recU0DF0Isnpt8rJ1",
-      "destination": "Culture",
       "type_destination": "Équipement",
+      "destination": "Culture",
       "lieux": [
         "recq85i5LBfpWsp9R",
         "recloEgKAuO4WjR2r",
@@ -49,12 +14,32 @@
       ]
     }
   ],
+  "maitre_oeuvre": [
+    {
+      "id": "rec8r73AaBFcWgkdQ",
+      "maitre_oeuvre": [
+        "recq85i5LBfpWsp9R"
+      ],
+      "nom": "Xavier Ménard Architecte"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recTedn3N7A0RKkXU",
+      "maitre_ouvrage": [
+        "recq85i5LBfpWsp9R"
+      ],
+      "nom": "Commune de Domfront-en-Champagne (72)"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Architecture)\n",
   "distinctions": [
     {
       "id": "recmk2YRhgfa5q8Dj",
+      "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
       "nom": "Prix départemental de l'architecture, de l'aménagement et du patrimoine (72)",
       "description": "Le Prix Départemental de l'architecture, de l'aménagement et du patrimoine a été remis en 2016 par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Sarthe.\nIl a été remplacé en 2021 par le prix \"Aperçus Sarthe\"",
-      "site_web": "https://www.caue-sarthe.com/prix-departemental-2016-de-larchitecture-de-lamenagement-et-du-patrimoine-de-la-sarthe/",
       "lieux": [
         "rechtsQSNXyvtp75c",
         "recuIUUMuCMw2rrHn",
@@ -66,7 +51,22 @@
       ]
     }
   ],
-  "présentation": "Prix Départemental de l'architecture, de l'aménagement et du patrimoine 2012 (Catégorie Architecture)\n",
+  "nom": "Espace de diffusion culturelle à Domfront-en-Champagne",
+  "périodes": [
+    {
+      "id": "recAnX6ahvGJYvz0M",
+      "lieux": [
+        "recLVrdGzklj7mmLE",
+        "recq85i5LBfpWsp9R"
+      ],
+      "nom": "années 2000"
+    }
+  ],
+  "geolocalisation": [
+    48.106156,
+    0.026757
+  ],
   "département": "72 Sarthe",
+  "date": "2009",
   "dernière modification": "2021-09-30T07:30:33.000Z"
 }

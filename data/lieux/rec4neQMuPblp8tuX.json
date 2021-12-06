@@ -1,36 +1,71 @@
 {
   "id": "rec4neQMuPblp8tuX",
-  "nom": "Hôtel des entreprises innovantes \"La Licorne\"",
   "adresse": "106 avenue Pierre de Couvertin 53130 Laval\n",
-  "status": "Publié",
-  "geolocalisation": [
-    48.081351,
-    -0.757244
+  "type": [
+    {
+      "id": "recjX9ygJ9VA81LG6",
+      "type_destination": "Équipement",
+      "destination": "Bureaux",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "rec4neQMuPblp8tuX",
+        "recahyhau12Ghaztg",
+        "recpN2hW8eG6SnkLe",
+        "recVoRhrrPKCDBNwW",
+        "recIsRYGFH3wqqTYC",
+        "recTaYdefmJUHsBOi"
+      ]
+    },
+    {
+      "id": "recpmZv90qfrbo9DK",
+      "type_destination": "Équipement",
+      "destination": "Commerce",
+      "lieux": [
+        "rec4neQMuPblp8tuX",
+        "recY5jgLHC0792Lr0"
+      ]
+    }
   ],
-  "date": "2016",
   "maitre_oeuvre": [
     {
       "id": "recIlRRPhQlArn587",
-      "nom": "Périphériques - Martin + Trottin Architectes",
-      "site_web": "http://www.marin-trottin.com/",
       "maitre_oeuvre": [
         "rec4neQMuPblp8tuX"
-      ]
+      ],
+      "site_web": "http://www.marin-trottin.com/",
+      "nom": "Périphériques - Martin + Trottin Architectes"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recYN1GObPbFyoxvj",
-      "nom": "SEM Laval Mayenne Aménagements (53)",
       "maitre_ouvrage": [
         "rec4neQMuPblp8tuX"
+      ],
+      "nom": "SEM Laval Mayenne Aménagements (53)"
+    }
+  ],
+  "status": "Publié",
+  "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne (Grand Prix)\n",
+  "distinctions": [
+    {
+      "id": "rec3Xe5U2PVARPF2u",
+      "site_web": "https://www.caue53.com/page-grand-prix-public/",
+      "nom": "Grand prix départemental du cadre de vie (53)",
+      "description": "Le Grand prix Départemental du cadre de vie de Mayenne est remis tous les quatre ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Mayenne",
+      "lieux": [
+        "rec4neQMuPblp8tuX",
+        "reczXyoM7GigrsPit",
+        "recsuUKLNrVXo8p8J",
+        "recdqD43kpp1pOv3x",
+        "recBxhZLsWO1HSu4R"
       ]
     }
   ],
+  "nom": "Hôtel des entreprises innovantes \"La Licorne\"",
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -83,50 +118,15 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
-  "type": [
-    {
-      "id": "recjX9ygJ9VA81LG6",
-      "destination": "Bureaux",
-      "type_destination": "Équipement",
-      "lieux": [
-        "recXrmOzavWvTwx9T",
-        "rec4neQMuPblp8tuX",
-        "recahyhau12Ghaztg",
-        "recpN2hW8eG6SnkLe",
-        "recVoRhrrPKCDBNwW",
-        "recIsRYGFH3wqqTYC",
-        "recTaYdefmJUHsBOi"
-      ]
-    },
-    {
-      "id": "recpmZv90qfrbo9DK",
-      "destination": "Commerce",
-      "type_destination": "Équipement",
-      "lieux": [
-        "rec4neQMuPblp8tuX",
-        "recY5jgLHC0792Lr0"
-      ]
-    }
+  "geolocalisation": [
+    48.081351,
+    -0.757244
   ],
-  "distinctions": [
-    {
-      "id": "rec3Xe5U2PVARPF2u",
-      "nom": "Grand prix départemental du cadre de vie (53)",
-      "description": "Le Grand prix Départemental du cadre de vie de Mayenne est remis tous les quatre ans par le Conseil en Architecture, Urbanisme et Environnement (CAUE) de Mayenne",
-      "site_web": "https://www.caue53.com/page-grand-prix-public/",
-      "lieux": [
-        "rec4neQMuPblp8tuX",
-        "reczXyoM7GigrsPit",
-        "recsuUKLNrVXo8p8J",
-        "recdqD43kpp1pOv3x",
-        "recBxhZLsWO1HSu4R"
-      ]
-    }
-  ],
-  "présentation": "Distinction : Grand Prix du cadre de vie de Mayenne (Grand Prix)\n",
   "département": "53 Mayenne",
+  "date": "2016",
   "dernière modification": "2021-09-24T14:48:10.000Z"
 }

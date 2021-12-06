@@ -1,9 +1,7 @@
 {
   "id": "recy2MjKNYdzWUD4A",
-  "invité": "Personnalité 3",
   "portrait": {
     "id": "recRdC4relvqeUWdb",
-    "titre": "perso 3",
     "fichiers": [
       {
         "id": "attrs2LZm9Y5XwCoB",
@@ -34,43 +32,96 @@
     ],
     "sélections": [
       "recy2MjKNYdzWUD4A"
-    ]
+    ],
+    "titre": "perso 3"
   },
-  "status": "Publié",
-  "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
-  "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+  "invité": "Personnalité 3",
   "lieux": [
     {
       "id": "recahyhau12Ghaztg",
-      "nom": "Relier les Impasses",
       "adresse": "Impasse Audran, 44000 Nantes\n",
-      "status": "Publié",
-      "geolocalisation": [
-        47.22072308491577,
-        -1.5497541027019928
+      "sélections": [
+        {
+          "id": "recBb6NHdfNisYSjI",
+          "portrait": [
+            "recxCPsnbbOskIBtT"
+          ],
+          "invité": "Personnalité 1",
+          "lieux": [
+            "recahyhau12Ghaztg",
+            "recXrmOzavWvTwx9T",
+            "recXIe49AgTTO1AuY",
+            "recu65igj5DHRpC30"
+          ],
+          "status": "Publié",
+          "introduction": "Perso 1 est un célèbre TEXTE texte texte texte texte v TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte",
+          "édito": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam \n",
+          "dernière modification": "2021-10-07T14:58:06.000Z"
+        },
+        {
+          "id": "recy2MjKNYdzWUD4A",
+          "portrait": [
+            "recRdC4relvqeUWdb"
+          ],
+          "invité": "Personnalité 3",
+          "lieux": [
+            "recahyhau12Ghaztg",
+            "recRlloApjtcScitR",
+            "recRFuKGP2zlHup3A",
+            "recu65igj5DHRpC30"
+          ],
+          "status": "Publié",
+          "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
+          "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+          "dernière modification": "2021-10-07T14:51:49.000Z"
+        }
       ],
-      "date": "2021",
+      "type": [
+        {
+          "id": "recYSw9aAndSU9UZ7",
+          "type_destination": "Logement",
+          "destination": "Logements individuels",
+          "lieux": [
+            "recahyhau12Ghaztg",
+            "recP6LOBOUBRRlLnt",
+            "recqyWBYUvLlSsdix"
+          ]
+        },
+        {
+          "id": "recjX9ygJ9VA81LG6",
+          "type_destination": "Équipement",
+          "destination": "Bureaux",
+          "lieux": [
+            "recXrmOzavWvTwx9T",
+            "rec4neQMuPblp8tuX",
+            "recahyhau12Ghaztg",
+            "recpN2hW8eG6SnkLe",
+            "recVoRhrrPKCDBNwW",
+            "recIsRYGFH3wqqTYC",
+            "recTaYdefmJUHsBOi"
+          ]
+        }
+      ],
       "maitre_oeuvre": [
         {
           "id": "reci7nejW0v42laGT",
-          "nom": "Bigre ! Architecture",
-          "site_web": "https://www.bigre.archi/",
           "maitre_oeuvre": [
             "recahyhau12Ghaztg"
-          ]
+          ],
+          "site_web": "https://www.bigre.archi/",
+          "nom": "Bigre ! Architecture"
         }
       ],
       "maitre_ouvrage": [
         {
           "id": "recWg3kFRSoRDlday",
-          "nom": "SCI Bougres",
           "maitre_ouvrage": [
             "recahyhau12Ghaztg"
-          ]
+          ],
+          "nom": "SCI Bougres"
         },
         {
           "id": "recXT4TItsP1IuLWU",
-          "nom": "Privé",
           "maitre_ouvrage": [
             "recHVehEvNmwXAJIO",
             "rechFw6KIHy4PVSUb",
@@ -82,130 +133,16 @@
             "recLD9rnkZv8VOOLu",
             "recrkntJi6bURIOSA",
             "recwnakX0XGMKhW3V"
-          ]
+          ],
+          "nom": "Privé"
         }
       ],
-      "périodes": [
-        {
-          "id": "recrOfcUS3a0toY0i",
-          "nom": "années 2020",
-          "lieux": [
-            "recTr9BzAt1jG9yaJ",
-            "recRlloApjtcScitR",
-            "recXrmOzavWvTwx9T",
-            "recahyhau12Ghaztg",
-            "recT5ti90aD2NTdCN",
-            "reclKHqSQhv9rHQQ4",
-            "rec3sjAwggXRAkqGc"
-          ]
-        }
-      ],
-      "médias": [
-        {
-          "id": "recBKSSgfhS6nSZ5z",
-          "titre": "Relier les impasses 2",
-          "fichiers": [
-            {
-              "id": "attSY6RQ7BJpQ1jfn",
-              "width": 4608,
-              "height": 2592,
-              "url": "https://dl.airtable.com/.attachments/9ee98040206e44d36bfc50b2398d7ffb/d8bbf3f7/relierlesimpasses3.jpg",
-              "filename": "relier les impasses (3).jpg",
-              "size": 3362176,
-              "type": "image/jpeg",
-              "thumbnails": {
-                "small": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/c0f5e2e6ecc69302162a80624261d754/e21343b7",
-                  "width": 64,
-                  "height": 36
-                },
-                "large": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/281bad33f894c5e52957b6f24f54257c/dd638ee6",
-                  "width": 910,
-                  "height": 512
-                },
-                "full": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/39010ec69d180ec63a4e494ee6728373/2552a674",
-                  "width": 3000,
-                  "height": 3000
-                }
-              }
-            }
-          ],
-          "credits": "ardepa",
-          "lieux": [
-            "recahyhau12Ghaztg"
-          ]
-        },
-        {
-          "id": "rec6wMJAx7ZiOhcle",
-          "titre": "Relier les impasses 3",
-          "fichiers": [
-            {
-              "id": "attqsmebYFbW2O8Te",
-              "width": 4032,
-              "height": 2268,
-              "url": "https://dl.airtable.com/.attachments/010f6e66924d9ae9b10b94bf3d8e45b8/0a499b6d/relierlesimpasses1.jpg",
-              "filename": "relier les impasses (1).jpg",
-              "size": 3253682,
-              "type": "image/jpeg",
-              "thumbnails": {
-                "small": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/04580638487d50e1ab6fad5728b1f516/1f135370",
-                  "width": 20,
-                  "height": 36
-                },
-                "large": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/58613c9d77b6289acb9f11829ca508f7/f00dc20a",
-                  "width": 512,
-                  "height": 910
-                },
-                "full": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/cf60d9033de718dd63d90da09b2b9a30/a5d29830",
-                  "width": 3000,
-                  "height": 3000
-                }
-              }
-            }
-          ],
-          "credits": "ardepa",
-          "lieux": [
-            "recahyhau12Ghaztg"
-          ]
-        },
-        {
-          "id": "rec1PuVHGZWNHh7Eq",
-          "titre": "relier les impasses plaquette de visite",
-          "fichiers": [
-            {
-              "id": "attK30PLc1yf63wQk",
-              "url": "https://dl.airtable.com/.attachments/8b643a392b3379ce1a463b93fcccac8e/ffc29c1e/ardepaplaquettebigreA5.pdf",
-              "filename": "ardepa plaquette bigre A5.pdf",
-              "size": 548689,
-              "type": "application/pdf",
-              "thumbnails": {
-                "small": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/7a6acf32f364b5197ada0b29ae7c60f3/2fd92d51",
-                  "width": 25,
-                  "height": 36
-                },
-                "large": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/ae3a66991ee5af519bd8486dbd8c4040/8d56f7fa",
-                  "width": 361,
-                  "height": 512
-                }
-              }
-            }
-          ],
-          "credits": "Bigre ! / Ardepa",
-          "lieux": [
-            "recahyhau12Ghaztg"
-          ]
-        }
-      ],
+      "status": "Publié",
+      "présentation": "Ce projet se situe à Nantes, à proximité de la Cathédrale. Cette parcelle se situe en second rideau, donnant à l’Ouest au fond de l’impasse Audran et au Nord sur une cour intérieure accessible par l’impasse Vignolle. La cour est entourée de plusieurs habitations individuelles basses, avec aménagement de terrasses et jardinières donnant sur la cour. La cour comprend de nombreuses bordures plantées d’arbustes bas et de plantes grimpantes. La parcelle concernée par le projet est presque intégralement couverte par une série de hangars bardés en bois et couvert de tôles ondulées. L’ensemble est en mauvais état de façade et de structure. Les hangars coupent toute liaison entre l’impasse Audran et l’impasse Vignolle. \nLe projet comprend la démolition des hangars et la construction de 3 habitations individuelles de typologies et volumétries équivalentes aux constructions sur cour (prolongement des hauteurs d’égouts et faitage lorsque les bâtiments sont adossés ou proches). Sur l’impasse Audran, le projet prévoit la construction de notre atelier reconstituant une façade au fond de l’impasse Audran tout en libérant un passage piéton et un porche entre les impasses Vignolle et Audran. Les constructions basses et implantées de manière relativement denses, sont séparées par de petits espaces verts ou cours minérales dans l’esprit des courettes visibles depuis l’impasse Vignolle. \nCes volumétries et implantation de constructions de tailles modestes mais relativement denses s’articulent autour de courettes, terrasses et jardinets, s’intègrent dans un tissu urbain traditionnel d’intérieur d’îlot. L’implantation des maisons permet de libérer la vue sur la façade ordonnancée de la limite Est et de couvrir le pignon aveugle de la cour. L’atelier reprend les héberges d’une construction plus ancienne en venant s’adosser sur le pignon et la façade aveugle de l’immeuble adjacent. Il n’est pas prévu de clôture en limite de parcelle. \nLes maisons et notre atelier sont couverts en ardoise naturelle. Les terrasses accessibles sont traitées en bois naturel. Les terrasses accessibles sont bardées verticalement en bois naturel. Le bardage de notre atelier est réalisé en bois brulé de couleur noire posée verticalement. L’ensemble des menuiseries du projet sont en aluminium. \nLe terrain sera composé d’espaces verts, ainsi que de cheminements doux en sable et de bordures plantées dans l’esprit des petits massifs présent dans l’environnement proche. Quelques petits arbres ou arbustes seront plantés dans ces jardinets. La cour ainsi agrandie conserve son caractère minéral. Au centre de cette dernière, un arbre haut sera planté. \n\nRetrouvez l'article et la plaquette de cette visite sur[ le site web de l'ardepa](https://www.lardepa.com/visite-genese-20212-relier-les-impasses/)\n",
+      "en une": true,
+      "nom": "Relier les Impasses",
       "cover_media": {
         "id": "recb4mJElb1F79mLX",
-        "titre": "Relier les impasses",
         "fichiers": [
           {
             "id": "att2fJ5Me4NAYQqEv",
@@ -234,120 +171,15 @@
             }
           }
         ],
+        "titre": "Relier les impasses",
         "credits": "ardepa",
         "cover_lieux": [
           "recahyhau12Ghaztg"
         ]
       },
-      "type": [
-        {
-          "id": "recYSw9aAndSU9UZ7",
-          "destination": "Logements individuels",
-          "type_destination": "Logement",
-          "lieux": [
-            "recahyhau12Ghaztg",
-            "recP6LOBOUBRRlLnt",
-            "recqyWBYUvLlSsdix"
-          ]
-        },
-        {
-          "id": "recjX9ygJ9VA81LG6",
-          "destination": "Bureaux",
-          "type_destination": "Équipement",
-          "lieux": [
-            "recXrmOzavWvTwx9T",
-            "rec4neQMuPblp8tuX",
-            "recahyhau12Ghaztg",
-            "recpN2hW8eG6SnkLe",
-            "recVoRhrrPKCDBNwW",
-            "recIsRYGFH3wqqTYC",
-            "recTaYdefmJUHsBOi"
-          ]
-        }
-      ],
-      "sélections": [
-        {
-          "id": "recBb6NHdfNisYSjI",
-          "invité": "Personnalité 1",
-          "portrait": [
-            "recxCPsnbbOskIBtT"
-          ],
-          "status": "Publié",
-          "introduction": "Perso 1 est un célèbre TEXTE texte texte texte texte v TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte",
-          "édito": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam \n",
-          "lieux": [
-            "recahyhau12Ghaztg",
-            "recXrmOzavWvTwx9T",
-            "recXIe49AgTTO1AuY",
-            "recu65igj5DHRpC30"
-          ],
-          "dernière modification": "2021-10-07T14:58:06.000Z"
-        },
-        {
-          "id": "recy2MjKNYdzWUD4A",
-          "invité": "Personnalité 3",
-          "portrait": [
-            "recRdC4relvqeUWdb"
-          ],
-          "status": "Publié",
-          "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
-          "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-          "lieux": [
-            "recahyhau12Ghaztg",
-            "recRlloApjtcScitR",
-            "recRFuKGP2zlHup3A",
-            "recu65igj5DHRpC30"
-          ],
-          "dernière modification": "2021-10-07T14:51:49.000Z"
-        }
-      ],
-      "présentation": "Ce projet se situe à Nantes, à proximité de la Cathédrale. Cette parcelle se situe en second rideau, donnant à l’Ouest au fond de l’impasse Audran et au Nord sur une cour intérieure accessible par l’impasse Vignolle. La cour est entourée de plusieurs habitations individuelles basses, avec aménagement de terrasses et jardinières donnant sur la cour. La cour comprend de nombreuses bordures plantées d’arbustes bas et de plantes grimpantes. La parcelle concernée par le projet est presque intégralement couverte par une série de hangars bardés en bois et couvert de tôles ondulées. L’ensemble est en mauvais état de façade et de structure. Les hangars coupent toute liaison entre l’impasse Audran et l’impasse Vignolle. \nLe projet comprend la démolition des hangars et la construction de 3 habitations individuelles de typologies et volumétries équivalentes aux constructions sur cour (prolongement des hauteurs d’égouts et faitage lorsque les bâtiments sont adossés ou proches). Sur l’impasse Audran, le projet prévoit la construction de notre atelier reconstituant une façade au fond de l’impasse Audran tout en libérant un passage piéton et un porche entre les impasses Vignolle et Audran. Les constructions basses et implantées de manière relativement denses, sont séparées par de petits espaces verts ou cours minérales dans l’esprit des courettes visibles depuis l’impasse Vignolle. \nCes volumétries et implantation de constructions de tailles modestes mais relativement denses s’articulent autour de courettes, terrasses et jardinets, s’intègrent dans un tissu urbain traditionnel d’intérieur d’îlot. L’implantation des maisons permet de libérer la vue sur la façade ordonnancée de la limite Est et de couvrir le pignon aveugle de la cour. L’atelier reprend les héberges d’une construction plus ancienne en venant s’adosser sur le pignon et la façade aveugle de l’immeuble adjacent. Il n’est pas prévu de clôture en limite de parcelle. \nLes maisons et notre atelier sont couverts en ardoise naturelle. Les terrasses accessibles sont traitées en bois naturel. Les terrasses accessibles sont bardées verticalement en bois naturel. Le bardage de notre atelier est réalisé en bois brulé de couleur noire posée verticalement. L’ensemble des menuiseries du projet sont en aluminium. \nLe terrain sera composé d’espaces verts, ainsi que de cheminements doux en sable et de bordures plantées dans l’esprit des petits massifs présent dans l’environnement proche. Quelques petits arbres ou arbustes seront plantés dans ces jardinets. La cour ainsi agrandie conserve son caractère minéral. Au centre de cette dernière, un arbre haut sera planté. \n\nRetrouvez l'article et la plaquette de cette visite sur[ le site web de l'ardepa](https://www.lardepa.com/visite-genese-20212-relier-les-impasses/)\n",
-      "département": "44 Loire-Atlantique",
-      "en une": true,
-      "dernière modification": "2021-10-04T08:13:45.000Z"
-    },
-    {
-      "id": "recRlloApjtcScitR",
-      "nom": "Le Pré Commun",
-      "status": "Publié",
-      "geolocalisation": [
-        47.180246,
-        -1.67942
-      ],
-      "date": "2021",
-      "maitre_oeuvre": [
-        {
-          "id": "recOl6lYjNOuOGchX",
-          "nom": "Guinée*Potin Architecture",
-          "site_web": "http://www.guineepotin.fr/",
-          "maitre_oeuvre": [
-            "recRlloApjtcScitR",
-            "recloEgKAuO4WjR2r"
-          ]
-        },
-        {
-          "id": "reciNctuIqiIP1F3N",
-          "nom": "La forme et l'usage Paysage",
-          "site_web": "https://laformeetlusage.com/",
-          "maitre_oeuvre": [
-            "recRlloApjtcScitR"
-          ]
-        }
-      ],
-      "maitre_ouvrage": [
-        {
-          "id": "recgzi6JEpvrTHInV",
-          "nom": "La pré commun - Collectif d'habitants",
-          "site_web": "https://www.leprecommun.fr/",
-          "maitre_ouvrage": [
-            "recRlloApjtcScitR"
-          ]
-        }
-      ],
       "périodes": [
         {
           "id": "recrOfcUS3a0toY0i",
-          "nom": "années 2020",
           "lieux": [
             "recTr9BzAt1jG9yaJ",
             "recRlloApjtcScitR",
@@ -356,86 +188,220 @@
             "recT5ti90aD2NTdCN",
             "reclKHqSQhv9rHQQ4",
             "rec3sjAwggXRAkqGc"
-          ]
+          ],
+          "nom": "années 2020"
         }
       ],
+      "geolocalisation": [
+        47.22072308491577,
+        -1.5497541027019928
+      ],
+      "département": "44 Loire-Atlantique",
+      "date": "2021",
       "médias": [
         {
-          "id": "recTi1UryVHsdCMWP",
-          "titre": "pré commun 2",
+          "id": "recBKSSgfhS6nSZ5z",
           "fichiers": [
             {
-              "id": "attpUI0sYwCu7rvGj",
-              "width": 768,
-              "height": 1024,
-              "url": "https://dl.airtable.com/.attachments/5632a7321e01f0313e386030c7914d83/e22f08a1/prcommun2.jpg",
-              "filename": "pré commun 2.jpg",
-              "size": 242363,
+              "id": "attSY6RQ7BJpQ1jfn",
+              "width": 4608,
+              "height": 2592,
+              "url": "https://dl.airtable.com/.attachments/9ee98040206e44d36bfc50b2398d7ffb/d8bbf3f7/relierlesimpasses3.jpg",
+              "filename": "relier les impasses (3).jpg",
+              "size": 3362176,
               "type": "image/jpeg",
               "thumbnails": {
                 "small": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/380990a8b610aec79c95adc2451df89b/07524363",
-                  "width": 27,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/c0f5e2e6ecc69302162a80624261d754/e21343b7",
+                  "width": 64,
                   "height": 36
                 },
                 "large": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/1711139e3bddf779c80c24f73061ff46/f1108696",
-                  "width": 512,
-                  "height": 683
-                },
-                "full": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/f1dbf4d4e6cbae2fc4454e0e636dd56e/6227b8bd",
-                  "width": 3000,
-                  "height": 3000
-                }
-              }
-            }
-          ],
-          "credits": "Pré Commun",
-          "lieux": [
-            "recRlloApjtcScitR"
-          ]
-        },
-        {
-          "id": "recgpuQRm4fkqYmhF",
-          "titre": "Pré Commun 3",
-          "fichiers": [
-            {
-              "id": "attrxzUYfyflWXz1Z",
-              "width": 1024,
-              "height": 768,
-              "url": "https://dl.airtable.com/.attachments/a37885ebcebd161b596c60bf6d74edad/83b38e38/prcommun3.jpg",
-              "filename": "pré commun 3.jpg",
-              "size": 252534,
-              "type": "image/jpeg",
-              "thumbnails": {
-                "small": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/1a32d9468b63f3b0336f797ce42eb536/05c3a8e3",
-                  "width": 48,
-                  "height": 36
-                },
-                "large": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/5f0fc5439466159ef11a69648933928f/d7056cbc",
-                  "width": 683,
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/281bad33f894c5e52957b6f24f54257c/dd638ee6",
+                  "width": 910,
                   "height": 512
                 },
                 "full": {
-                  "url": "https://dl.airtable.com/.attachmentThumbnails/6c34006d3f82d106b161da3a6caba428/82c071ec",
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/39010ec69d180ec63a4e494ee6728373/2552a674",
                   "width": 3000,
                   "height": 3000
                 }
               }
             }
           ],
-          "credits": "Pré Commun",
+          "lieux": [
+            "recahyhau12Ghaztg"
+          ],
+          "titre": "Relier les impasses 2",
+          "credits": "ardepa"
+        },
+        {
+          "id": "rec6wMJAx7ZiOhcle",
+          "fichiers": [
+            {
+              "id": "attqsmebYFbW2O8Te",
+              "width": 4032,
+              "height": 2268,
+              "url": "https://dl.airtable.com/.attachments/010f6e66924d9ae9b10b94bf3d8e45b8/0a499b6d/relierlesimpasses1.jpg",
+              "filename": "relier les impasses (1).jpg",
+              "size": 3253682,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/04580638487d50e1ab6fad5728b1f516/1f135370",
+                  "width": 20,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/58613c9d77b6289acb9f11829ca508f7/f00dc20a",
+                  "width": 512,
+                  "height": 910
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/cf60d9033de718dd63d90da09b2b9a30/a5d29830",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "lieux": [
+            "recahyhau12Ghaztg"
+          ],
+          "titre": "Relier les impasses 3",
+          "credits": "ardepa"
+        },
+        {
+          "id": "rec1PuVHGZWNHh7Eq",
+          "fichiers": [
+            {
+              "id": "attK30PLc1yf63wQk",
+              "url": "https://dl.airtable.com/.attachments/8b643a392b3379ce1a463b93fcccac8e/ffc29c1e/ardepaplaquettebigreA5.pdf",
+              "filename": "ardepa plaquette bigre A5.pdf",
+              "size": 548689,
+              "type": "application/pdf",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/7a6acf32f364b5197ada0b29ae7c60f3/2fd92d51",
+                  "width": 25,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/ae3a66991ee5af519bd8486dbd8c4040/8d56f7fa",
+                  "width": 361,
+                  "height": 512
+                }
+              }
+            }
+          ],
+          "lieux": [
+            "recahyhau12Ghaztg"
+          ],
+          "titre": "relier les impasses plaquette de visite",
+          "credits": "Bigre ! / Ardepa"
+        },
+        {
+          "id": "rec5D9rOWxCfR1zSN",
+          "url": "https://youtu.be/8ZRWHCDn_z0",
+          "lieux": [
+            "recahyhau12Ghaztg"
+          ],
+          "titre": "youtube 1 impasses"
+        },
+        {
+          "id": "recEnf138bRjqm3v5",
+          "url": "https://youtu.be/EFY16dW8N-E",
+          "lieux": [
+            "recahyhau12Ghaztg"
+          ],
+          "titre": "youtube 2 impasses"
+        }
+      ],
+      "dernière modification": "2021-12-06T08:29:38.000Z"
+    },
+    {
+      "id": "recRlloApjtcScitR",
+      "sélections": [
+        {
+          "id": "recKLeXsRwBMLlMUR",
+          "portrait": [
+            "recIwd1dZ2nHUd5WG"
+          ],
+          "invité": "Personnalité 2",
+          "lieux": [
+            "recRlloApjtcScitR",
+            "recXrmOzavWvTwx9T",
+            "recRFuKGP2zlHup3A",
+            "recXIe49AgTTO1AuY"
+          ],
+          "status": "Publié",
+          "introduction": "On a fait appel à Perso 2 parceque :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
+          "en une": true,
+          "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\ncommodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+          "dernière modification": "2021-10-07T15:01:46.000Z"
+        },
+        {
+          "id": "recy2MjKNYdzWUD4A",
+          "portrait": [
+            "recRdC4relvqeUWdb"
+          ],
+          "invité": "Personnalité 3",
+          "lieux": [
+            "recahyhau12Ghaztg",
+            "recRlloApjtcScitR",
+            "recRFuKGP2zlHup3A",
+            "recu65igj5DHRpC30"
+          ],
+          "status": "Publié",
+          "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
+          "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+          "dernière modification": "2021-10-07T14:51:49.000Z"
+        }
+      ],
+      "type": [
+        {
+          "id": "recNke3kjEMK03uS4",
+          "type_destination": "Logement",
+          "destination": "Habitat participatif",
           "lieux": [
             "recRlloApjtcScitR"
           ]
         }
       ],
+      "maitre_oeuvre": [
+        {
+          "id": "recOl6lYjNOuOGchX",
+          "maitre_oeuvre": [
+            "recRlloApjtcScitR",
+            "recloEgKAuO4WjR2r"
+          ],
+          "site_web": "http://www.guineepotin.fr/",
+          "nom": "Guinée*Potin Architecture"
+        },
+        {
+          "id": "reciNctuIqiIP1F3N",
+          "maitre_oeuvre": [
+            "recRlloApjtcScitR"
+          ],
+          "site_web": "https://laformeetlusage.com/",
+          "nom": "La forme et l'usage Paysage"
+        }
+      ],
+      "maitre_ouvrage": [
+        {
+          "id": "recgzi6JEpvrTHInV",
+          "maitre_ouvrage": [
+            "recRlloApjtcScitR"
+          ],
+          "site_web": "https://www.leprecommun.fr/",
+          "nom": "La pré commun - Collectif d'habitants"
+        }
+      ],
+      "status": "Publié",
+      "présentation": "Comment (re)trouver du plaisir à habiter ensemble ? Comment permettre les rencontres sans les imposer ? Comment disposer d’espaces flexibles, polyvalents mais aussi généreux ? L’habitat participatif soulève plusieurs débats qui interrogent à la fois individuellement et collectivement.\n Qu’en est-il de notre capacité à interagir selon un modèle plus horizontal ?\n De quelle manière pouvons-nous inventer ensemble une autre manière d’habiter ? En effet «habiter» dépasse la simple cellule de vie et renvoie à une réalité économique, architecturale, sociale, urbaine, humaine ou encore quotidienne… Si chaque opération d’habitat participatif est unique car intimement liée à ses initiateurs et concepteurs, ce modèle a le mérite de reposer la question de «l’habiter» et cela nous intéresse d’autant plus dans le contexte actuel.\nLe Pré Commun est une opération de 12 logements à la Montagne réalisée par les architectes de l’agence Guinée\\*Potin.\n Accompagnés par Bruno Suner, habitant et également président de HEN (Habitats, Energies, Naturels), ainsi que par Hervé Potin, architecte de l’opération, nous découvrirons ensemble comment le projet du Pré Commun a été rendu possible, entre la constitution d’un groupe, le montage financier et la participation active du groupe au projet d’architecture…\n Découvrons ensemble comment le collectif rend plus fort !\n",
+      "nom": "Le Pré Commun",
       "cover_media": {
         "id": "recgTCGhnV7JPI85T",
-        "titre": "Pré Commun",
         "fichiers": [
           {
             "id": "attGqOKHpEMCVmmW3",
@@ -464,89 +430,207 @@
             }
           }
         ],
+        "titre": "Pré Commun",
         "credits": "Arthur Doret",
         "cover_lieux": [
           "recRlloApjtcScitR"
         ]
       },
-      "type": [
+      "périodes": [
         {
-          "id": "recNke3kjEMK03uS4",
-          "destination": "Habitat participatif",
-          "type_destination": "Logement",
+          "id": "recrOfcUS3a0toY0i",
           "lieux": [
-            "recRlloApjtcScitR"
-          ]
+            "recTr9BzAt1jG9yaJ",
+            "recRlloApjtcScitR",
+            "recXrmOzavWvTwx9T",
+            "recahyhau12Ghaztg",
+            "recT5ti90aD2NTdCN",
+            "reclKHqSQhv9rHQQ4",
+            "rec3sjAwggXRAkqGc"
+          ],
+          "nom": "années 2020"
         }
       ],
+      "geolocalisation": [
+        47.180246,
+        -1.67942
+      ],
+      "département": "44 Loire-Atlantique",
+      "date": "2021",
+      "médias": [
+        {
+          "id": "recTi1UryVHsdCMWP",
+          "fichiers": [
+            {
+              "id": "attpUI0sYwCu7rvGj",
+              "width": 768,
+              "height": 1024,
+              "url": "https://dl.airtable.com/.attachments/5632a7321e01f0313e386030c7914d83/e22f08a1/prcommun2.jpg",
+              "filename": "pré commun 2.jpg",
+              "size": 242363,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/380990a8b610aec79c95adc2451df89b/07524363",
+                  "width": 27,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1711139e3bddf779c80c24f73061ff46/f1108696",
+                  "width": 512,
+                  "height": 683
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/f1dbf4d4e6cbae2fc4454e0e636dd56e/6227b8bd",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "lieux": [
+            "recRlloApjtcScitR"
+          ],
+          "titre": "pré commun 2",
+          "credits": "Pré Commun"
+        },
+        {
+          "id": "recgpuQRm4fkqYmhF",
+          "fichiers": [
+            {
+              "id": "attrxzUYfyflWXz1Z",
+              "width": 1024,
+              "height": 768,
+              "url": "https://dl.airtable.com/.attachments/a37885ebcebd161b596c60bf6d74edad/83b38e38/prcommun3.jpg",
+              "filename": "pré commun 3.jpg",
+              "size": 252534,
+              "type": "image/jpeg",
+              "thumbnails": {
+                "small": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/1a32d9468b63f3b0336f797ce42eb536/05c3a8e3",
+                  "width": 48,
+                  "height": 36
+                },
+                "large": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/5f0fc5439466159ef11a69648933928f/d7056cbc",
+                  "width": 683,
+                  "height": 512
+                },
+                "full": {
+                  "url": "https://dl.airtable.com/.attachmentThumbnails/6c34006d3f82d106b161da3a6caba428/82c071ec",
+                  "width": 3000,
+                  "height": 3000
+                }
+              }
+            }
+          ],
+          "lieux": [
+            "recRlloApjtcScitR"
+          ],
+          "titre": "Pré Commun 3",
+          "credits": "Pré Commun"
+        },
+        {
+          "id": "recpEtpFalevsDEoZ",
+          "url": "https://vimeo.com/590989040",
+          "lieux": [
+            "recRlloApjtcScitR"
+          ],
+          "titre": "vimeo 1 pre commun"
+        },
+        {
+          "id": "rec5C77W6HFgRKRqH",
+          "url": "https://vimeo.com/590998911",
+          "lieux": [
+            "recRlloApjtcScitR"
+          ],
+          "titre": "vimeo 2 pre commun"
+        },
+        {
+          "id": "recRoQqDZ08VixHep",
+          "url": "https://vimeo.com/590991693",
+          "lieux": [
+            "recRlloApjtcScitR"
+          ],
+          "titre": "vimeo 3 pre commun"
+        }
+      ],
+      "dernière modification": "2021-12-06T08:31:04.000Z"
+    },
+    {
+      "id": "recRFuKGP2zlHup3A",
+      "adresse": "6 rue Molac, 44000 Nantes\n",
       "sélections": [
         {
           "id": "recKLeXsRwBMLlMUR",
-          "invité": "Personnalité 2",
           "portrait": [
             "recIwd1dZ2nHUd5WG"
           ],
-          "status": "Publié",
-          "introduction": "On a fait appel à Perso 2 parceque :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
-          "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\ncommodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+          "invité": "Personnalité 2",
           "lieux": [
             "recRlloApjtcScitR",
             "recXrmOzavWvTwx9T",
             "recRFuKGP2zlHup3A",
             "recXIe49AgTTO1AuY"
           ],
+          "status": "Publié",
+          "introduction": "On a fait appel à Perso 2 parceque :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
           "en une": true,
+          "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\ncommodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
           "dernière modification": "2021-10-07T15:01:46.000Z"
         },
         {
           "id": "recy2MjKNYdzWUD4A",
-          "invité": "Personnalité 3",
           "portrait": [
             "recRdC4relvqeUWdb"
           ],
-          "status": "Publié",
-          "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
-          "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+          "invité": "Personnalité 3",
           "lieux": [
             "recahyhau12Ghaztg",
             "recRlloApjtcScitR",
             "recRFuKGP2zlHup3A",
             "recu65igj5DHRpC30"
           ],
+          "status": "Publié",
+          "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
+          "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
           "dernière modification": "2021-10-07T14:51:49.000Z"
         }
       ],
-      "présentation": "Comment (re)trouver du plaisir à habiter ensemble ? Comment permettre les rencontres sans les imposer ? Comment disposer d’espaces flexibles, polyvalents mais aussi généreux ? L’habitat participatif soulève plusieurs débats qui interrogent à la fois individuellement et collectivement.\n Qu’en est-il de notre capacité à interagir selon un modèle plus horizontal ?\n De quelle manière pouvons-nous inventer ensemble une autre manière d’habiter ? En effet «habiter» dépasse la simple cellule de vie et renvoie à une réalité économique, architecturale, sociale, urbaine, humaine ou encore quotidienne… Si chaque opération d’habitat participatif est unique car intimement liée à ses initiateurs et concepteurs, ce modèle a le mérite de reposer la question de «l’habiter» et cela nous intéresse d’autant plus dans le contexte actuel.\nLe Pré Commun est une opération de 12 logements à la Montagne réalisée par les architectes de l’agence Guinée\\*Potin.\n Accompagnés par Bruno Suner, habitant et également président de HEN (Habitats, Energies, Naturels), ainsi que par Hervé Potin, architecte de l’opération, nous découvrirons ensemble comment le projet du Pré Commun a été rendu possible, entre la constitution d’un groupe, le montage financier et la participation active du groupe au projet d’architecture…\n Découvrons ensemble comment le collectif rend plus fort !\n",
-      "département": "44 Loire-Atlantique",
-      "dernière modification": "2021-10-07T14:52:01.000Z"
-    },
-    {
-      "id": "recRFuKGP2zlHup3A",
-      "nom": "Maison MB",
-      "adresse": "6 rue Molac, 44000 Nantes\n",
-      "status": "Publié",
-      "geolocalisation": [
-        47.225484,
-        -1.560287
+      "type": [
+        {
+          "id": "recrpFA9KQQobRh6X",
+          "type_destination": "Logement",
+          "destination": "Maison",
+          "lieux": [
+            "recTr9BzAt1jG9yaJ",
+            "recHVehEvNmwXAJIO",
+            "rechFw6KIHy4PVSUb",
+            "recRFuKGP2zlHup3A",
+            "rec5EHfAartf4PUHm",
+            "recATsZWxsng7iDNK",
+            "recLD9rnkZv8VOOLu",
+            "recrkntJi6bURIOSA",
+            "recwnakX0XGMKhW3V"
+          ]
+        }
       ],
-      "date": "XIXème siècle / 2018",
       "maitre_oeuvre": [
         {
           "id": "rec5Hv3G4xYoddlcE",
-          "nom": "Forma6",
-          "site_web": "http://www.forma6.net/",
           "maitre_oeuvre": [
             "recJgalSFcQX7dLe6",
             "recRFuKGP2zlHup3A",
             "recIsRYGFH3wqqTYC",
             "rec01yhWP2aoRq5jj"
-          ]
+          ],
+          "site_web": "http://www.forma6.net/",
+          "nom": "Forma6"
         }
       ],
       "maitre_ouvrage": [
         {
           "id": "recXT4TItsP1IuLWU",
-          "nom": "Privé",
           "maitre_ouvrage": [
             "recHVehEvNmwXAJIO",
             "rechFw6KIHy4PVSUb",
@@ -558,13 +642,52 @@
             "recLD9rnkZv8VOOLu",
             "recrkntJi6bURIOSA",
             "recwnakX0XGMKhW3V"
-          ]
+          ],
+          "nom": "Privé"
         }
       ],
+      "status": "Publié",
+      "présentation": "Dans le centre-ville de Nantes, la maison existante sur deux étages est de la fin du XIXème siècle mais sans grand intérêt architectural. En alignement sur la rue qu’elle domine, elle est de plain-pied sur un jardin paysagé à l’arrière dont elle ne profite pas. Ses particularités sont la base de la conception de l’extension :\n\\- Discontinuité et multiplicité de niveaux : au niveau de la rue et encaissé par rapport au jardin, un garage en mitoyenneté et en rez-de-chaussée crée une discontinuité dans l’épannelage et l’alignement urbain.\n\\- Volumétrie et fragmentation : Au niveau du jardin, le volume à une pente de la cuisine se greffe en appentis sur la maison existante peu profonde.\nLe projet d’extension : Le par ti-pris du projet est l’enroulement. L’extension à rez-de-chaussée sur jardin vient s’aligner sur la cuisine en appentis en doublant l’épaisseur de la maison existante, se retourne sur le garage puis s’élève côté rue pour recoudre l’épannelage, aller chercher le soleil et se protéger des vis à vis. La réalisation de l’extension en structure bois préfabriquée prend son sens dans l’étroitesse de la rue de centre-ville, dans la complexité volumétrique du projet et dans la volonté de construire durable et biosourcé. La dichotomie entre rue étroite et jardin luxuriant et entre existant sévère et neuf en mouvement s’affirme dans le traitement des façades. La maison existante est seulement peinte alors que l’extension, immergée dans le jardin, reçoit un bardage en fascines de châtaignier non écorcées lui donnant un esprit végétal.\nEn plan, à la multiplicité des volumes et des niveaux existants répond une multiplicité de niveaux en extension afin d’adoucir le passage de l’un à l’autre et d’offrir une pluralité de points de vue et d’ouver tures vers l’extérieur.\n\n_Texte de Catherine Malleret._\n\n_• L'ardepa a visité ce lieu le 16 octobre 2020_\n",
+      "nom": "Maison MB",
+      "cover_media": {
+        "id": "recyprUwCGW4mOuSA",
+        "fichiers": [
+          {
+            "id": "attap20pAiWDT35dR",
+            "width": 1920,
+            "height": 1080,
+            "url": "https://dl.airtable.com/.attachments/66f9fa387a9d84527ba23f6be1ef5d3d/dd03e969/maisonMB0.jpg",
+            "filename": "maison MB 0.jpg",
+            "size": 268067,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4dfb3b54526fbbb9841cc54ec70d0e75/c1681ff9",
+                "width": 64,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a8d4307e5f528b8f5355311d0ba74ee0/fa08a82a",
+                "width": 910,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/86dcfd71854035bac9679df63b127552/a2343a06",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "titre": "Maison MB cover",
+        "credits": "Ardepa",
+        "cover_lieux": [
+          "recRFuKGP2zlHup3A"
+        ]
+      },
       "périodes": [
         {
           "id": "rec0D9TkCH83ItF6j",
-          "nom": "années 2010",
           "lieux": [
             "recXIe49AgTTO1AuY",
             "rec4neQMuPblp8tuX",
@@ -617,13 +740,19 @@
             "recKbU8dW7ri9Ihu9",
             "recrfw9hvh3VrHFhx",
             "rech0NsUFIcIJYybV"
-          ]
+          ],
+          "nom": "années 2010"
         }
       ],
+      "geolocalisation": [
+        47.225484,
+        -1.560287
+      ],
+      "département": "44 Loire-Atlantique",
+      "date": "XIXème siècle / 2018",
       "médias": [
         {
           "id": "recidnY0zHa7KYsc0",
-          "titre": "Maison MB photos",
           "fichiers": [
             {
               "id": "attN8qOhpTf2xrVlE",
@@ -808,14 +937,14 @@
               }
             }
           ],
-          "credits": "Ardepa",
           "lieux": [
             "recRFuKGP2zlHup3A"
-          ]
+          ],
+          "titre": "Maison MB photos",
+          "credits": "Ardepa"
         },
         {
           "id": "recYWBvYrV83gjwGi",
-          "titre": "Maison MB plans et coupes",
           "fichiers": [
             {
               "id": "attID39olu67dRpyQ",
@@ -837,14 +966,14 @@
               }
             }
           ],
-          "credits": "Forma 6",
           "lieux": [
             "recRFuKGP2zlHup3A"
-          ]
+          ],
+          "titre": "Maison MB plans et coupes",
+          "credits": "Forma 6"
         },
         {
           "id": "recPD9jckOKyynovA",
-          "titre": "maison MB plaquette de visite",
           "fichiers": [
             {
               "id": "attz8FEw4VR1dJST3",
@@ -866,141 +995,146 @@
               }
             }
           ],
-          "credits": "Forma 6 / Ardepa",
           "lieux": [
             "recRFuKGP2zlHup3A"
-          ]
+          ],
+          "titre": "maison MB plaquette de visite",
+          "credits": "Forma 6 / Ardepa"
         }
       ],
-      "cover_media": {
-        "id": "recyprUwCGW4mOuSA",
-        "titre": "Maison MB cover",
-        "fichiers": [
-          {
-            "id": "attap20pAiWDT35dR",
-            "width": 1920,
-            "height": 1080,
-            "url": "https://dl.airtable.com/.attachments/66f9fa387a9d84527ba23f6be1ef5d3d/dd03e969/maisonMB0.jpg",
-            "filename": "maison MB 0.jpg",
-            "size": 268067,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/4dfb3b54526fbbb9841cc54ec70d0e75/c1681ff9",
-                "width": 64,
-                "height": 36
-              },
-              "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/a8d4307e5f528b8f5355311d0ba74ee0/fa08a82a",
-                "width": 910,
-                "height": 512
-              },
-              "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/86dcfd71854035bac9679df63b127552/a2343a06",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "credits": "Ardepa",
-        "cover_lieux": [
-          "recRFuKGP2zlHup3A"
-        ]
-      },
-      "type": [
-        {
-          "id": "recrpFA9KQQobRh6X",
-          "destination": "Maison",
-          "type_destination": "Logement",
-          "lieux": [
-            "recTr9BzAt1jG9yaJ",
-            "recHVehEvNmwXAJIO",
-            "rechFw6KIHy4PVSUb",
-            "recRFuKGP2zlHup3A",
-            "rec5EHfAartf4PUHm",
-            "recATsZWxsng7iDNK",
-            "recLD9rnkZv8VOOLu",
-            "recrkntJi6bURIOSA",
-            "recwnakX0XGMKhW3V"
-          ]
-        }
-      ],
+      "dernière modification": "2021-10-07T09:22:08.000Z"
+    },
+    {
+      "id": "recu65igj5DHRpC30",
+      "adresse": "Rue des Pierres Blanches, 44640 Saint-Jean-de-Boiseau\n",
       "sélections": [
         {
-          "id": "recKLeXsRwBMLlMUR",
-          "invité": "Personnalité 2",
+          "id": "recBb6NHdfNisYSjI",
           "portrait": [
-            "recIwd1dZ2nHUd5WG"
+            "recxCPsnbbOskIBtT"
+          ],
+          "invité": "Personnalité 1",
+          "lieux": [
+            "recahyhau12Ghaztg",
+            "recXrmOzavWvTwx9T",
+            "recXIe49AgTTO1AuY",
+            "recu65igj5DHRpC30"
           ],
           "status": "Publié",
-          "introduction": "On a fait appel à Perso 2 parceque :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla ",
-          "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\ncommodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-          "lieux": [
-            "recRlloApjtcScitR",
-            "recXrmOzavWvTwx9T",
-            "recRFuKGP2zlHup3A",
-            "recXIe49AgTTO1AuY"
-          ],
-          "en une": true,
-          "dernière modification": "2021-10-07T15:01:46.000Z"
+          "introduction": "Perso 1 est un célèbre TEXTE texte texte texte texte v TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte",
+          "édito": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam \n",
+          "dernière modification": "2021-10-07T14:58:06.000Z"
         },
         {
           "id": "recy2MjKNYdzWUD4A",
-          "invité": "Personnalité 3",
           "portrait": [
             "recRdC4relvqeUWdb"
           ],
-          "status": "Publié",
-          "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
-          "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
+          "invité": "Personnalité 3",
           "lieux": [
             "recahyhau12Ghaztg",
             "recRlloApjtcScitR",
             "recRFuKGP2zlHup3A",
             "recu65igj5DHRpC30"
           ],
+          "status": "Publié",
+          "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
+          "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
           "dernière modification": "2021-10-07T14:51:49.000Z"
         }
       ],
-      "présentation": "Dans le centre-ville de Nantes, la maison existante sur deux étages est de la fin du XIXème siècle mais sans grand intérêt architectural. En alignement sur la rue qu’elle domine, elle est de plain-pied sur un jardin paysagé à l’arrière dont elle ne profite pas. Ses particularités sont la base de la conception de l’extension :\n\\- Discontinuité et multiplicité de niveaux : au niveau de la rue et encaissé par rapport au jardin, un garage en mitoyenneté et en rez-de-chaussée crée une discontinuité dans l’épannelage et l’alignement urbain.\n\\- Volumétrie et fragmentation : Au niveau du jardin, le volume à une pente de la cuisine se greffe en appentis sur la maison existante peu profonde.\nLe projet d’extension : Le par ti-pris du projet est l’enroulement. L’extension à rez-de-chaussée sur jardin vient s’aligner sur la cuisine en appentis en doublant l’épaisseur de la maison existante, se retourne sur le garage puis s’élève côté rue pour recoudre l’épannelage, aller chercher le soleil et se protéger des vis à vis. La réalisation de l’extension en structure bois préfabriquée prend son sens dans l’étroitesse de la rue de centre-ville, dans la complexité volumétrique du projet et dans la volonté de construire durable et biosourcé. La dichotomie entre rue étroite et jardin luxuriant et entre existant sévère et neuf en mouvement s’affirme dans le traitement des façades. La maison existante est seulement peinte alors que l’extension, immergée dans le jardin, reçoit un bardage en fascines de châtaignier non écorcées lui donnant un esprit végétal.\nEn plan, à la multiplicité des volumes et des niveaux existants répond une multiplicité de niveaux en extension afin d’adoucir le passage de l’un à l’autre et d’offrir une pluralité de points de vue et d’ouver tures vers l’extérieur.\n\n_Texte de Catherine Malleret._\n\n_• L'ardepa a visité ce lieu le 16 octobre 2020_\n",
-      "département": "44 Loire-Atlantique",
-      "dernière modification": "2021-10-07T09:22:08.000Z"
-    },
-    {
-      "id": "recu65igj5DHRpC30",
-      "nom": "Espace culturel des Pierres Blanches",
-      "adresse": "Rue des Pierres Blanches, 44640 Saint-Jean-de-Boiseau\n",
-      "status": "Publié",
-      "geolocalisation": [
-        47.1884727571585,
-        -1.7108406692787714
+      "type": [
+        {
+          "id": "recKP6wfnZHFsOOtJ",
+          "type_destination": "Équipement",
+          "destination": "Salle Polyvalente",
+          "lieux": [
+            "recu65igj5DHRpC30"
+          ]
+        },
+        {
+          "id": "recafJDVUkElwmi2Y",
+          "type_destination": "Équipement",
+          "destination": "Pôle associatif",
+          "lieux": [
+            "recu65igj5DHRpC30",
+            "recMKYgGVASf6j8rE"
+          ]
+        }
       ],
-      "date": "2019",
       "maitre_oeuvre": [
         {
           "id": "recAzaWtKKkvowDI3",
-          "nom": "RAUM architectes",
-          "site_web": "https://raum.fr/",
           "maitre_oeuvre": [
             "recXrmOzavWvTwx9T",
             "recu65igj5DHRpC30"
-          ]
+          ],
+          "site_web": "https://raum.fr/",
+          "nom": "RAUM architectes"
         }
       ],
       "maitre_ouvrage": [
         {
           "id": "rechhS8irFNqoOKVH",
-          "nom": "Ville de Saint-Jean-de-Boiseau (44)",
           "maitre_ouvrage": [
+            "recu65igj5DHRpC30"
+          ],
+          "nom": "Ville de Saint-Jean-de-Boiseau (44)"
+        }
+      ],
+      "status": "Publié",
+      "présentation": "Une intégration paysagère douce qui accompagne le développement de la commune.\nNi au centre de la commune, ni véritablement en périphérie au regard de l’extension urbaine en cours au nord de la rue des pierres blanches, la situation du projet d’espace festif et culturel offre l’opportunité de conforter le développement de la ville par l’affirmation du caractère public des aménagements et des équipements.\nLa contemporanéité d’une écriture architecturale sobre et événementielle.\nAu delà de la nouvelle offre publique offerte par la nouvelle salle, sa forme et sa volumétrie doivent offrir une insertion douce dans son environnement tout en proposant une identité au caractère événementiel affirmé.\nL’usage de matériaux bruts et durables (terre cuite, béton, bois) permet de réduire au maximum les coûts d’entretien et de maintenance mais s’intègrent surtout comme outil de proposition d’une architecture contemporaine sobre et intemporelle.\nLa qualité de ces matériaux est au centre des ambiances proposées, tant à l’intérieur qu’à l’extérieur et participe pleinement à singulariser le projet et son «atmosphère» : la sobriété des matières nobles utilisées confère aux espaces le caractère solennel que nécessite certains des usages et permet de mettre en avant la qualité des dispositifs spatiaux.\nAinsi les espaces de réception majeurs (salle, hall d’accueil, salle de réunion, salle de musique) profitent de hauteurs sous plafond très importantes ainsi que de cadrages particuliers sur le paysage, en offrant la lecture de grandes porosités et d’espaces extérieurs aux qualité d’usage différenciées. \nCes deux dispositifs, jeux de volumes et de matières, participent pleinement à la proposition d’une hétérogénéité volumétrique cohérente, qui offre dans un volume très compact une lecture géographique des fonctions et des usages.\nTexte extrait du dossier de presse, RAUM\n\nRetrouvez l'article et la plaquette de cette visite sur le **[site web de l'ardepa !](https://www.lardepa.com/genese-2020-1-espace-culturel-des-pierres-blanches/)**\n\nL'Espace culturel des Pierres Blanches a été lauréat dans la catégorie Culture, Jeunesse et Sport lors du prix Équerre d'Argent 2019.\n\n• L'ardepa a visité ce lieu le 16 mars 2020\n",
+      "distinctions": [
+        {
+          "id": "recp0W1AeapKvzlxk",
+          "site_web": "https://www.amc-archi.com/equerre-d-argent/",
+          "nom": "Équerre d'Argent",
+          "description": "Le \"prix de l'Équerre d'argent d’Architecture du Moniteur\" est remis chaque année par un jury composé d'architectes, de critiques d'architecture et de promoteurs, mis en place par la revue Le Moniteur des travaux publics et du bâtiment ainsi que le titre AMC Le Moniteur Architecture. C'est un prix qui récompense une équipe composée du maître d'ouvrage et du maître d'œuvre (architecte et ingénieurs) qui a contribué à la construction d'un bâtiment sur le sol français (bâtiment terminé dans l'année)\nLe jury délivre le prix de l'Équerre d'Argent, un prix spécial du jury, et récompense un lauréat dans cinq catégories :\n- Habitat\n- Culture, Jeunesse et Sport,\n- Activités\n- Ouvrages d'Art\n- Première Oeuvre",
+          "lieux": [
             "recu65igj5DHRpC30"
           ]
         }
       ],
+      "nom": "Espace culturel des Pierres Blanches",
+      "cover_media": {
+        "id": "rec0bZiqOCsirkfJJ",
+        "fichiers": [
+          {
+            "id": "att5KgPl11prTK9CN",
+            "width": 1920,
+            "height": 1080,
+            "url": "https://dl.airtable.com/.attachments/c3d2d750113b9cc137e3f8f1186fb061/1f53f440/sallefestive1.jpg",
+            "filename": "salle festive 1.jpg",
+            "size": 352269,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/780372114497ae9d9e78489cb2f2a883/06d35a1b",
+                "width": 64,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a5c3249e4be39eaced804594ba496439/6c21cb63",
+                "width": 910,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/45b020f6e388cad0d0b3c3d7567e3077/f053ee87",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "titre": "Espace culturel des pierres blanches couv",
+        "credits": "Ardepa",
+        "cover_lieux": [
+          "recu65igj5DHRpC30"
+        ]
+      },
       "périodes": [
         {
           "id": "rec0D9TkCH83ItF6j",
-          "nom": "années 2010",
           "lieux": [
             "recXIe49AgTTO1AuY",
             "rec4neQMuPblp8tuX",
@@ -1053,13 +1187,19 @@
             "recKbU8dW7ri9Ihu9",
             "recrfw9hvh3VrHFhx",
             "rech0NsUFIcIJYybV"
-          ]
+          ],
+          "nom": "années 2010"
         }
       ],
+      "geolocalisation": [
+        47.1884727571585,
+        -1.7108406692787714
+      ],
+      "département": "44 Loire-Atlantique",
+      "date": "2019",
       "médias": [
         {
           "id": "recUO74Vf8JIvjxXU",
-          "titre": "Espace culturel des pierres blanches - photos",
           "fichiers": [
             {
               "id": "att3zBcu9jpyvrUOz",
@@ -1192,14 +1332,14 @@
               }
             }
           ],
-          "credits": "ardepa",
           "lieux": [
             "recu65igj5DHRpC30"
-          ]
+          ],
+          "titre": "Espace culturel des pierres blanches - photos",
+          "credits": "ardepa"
         },
         {
           "id": "rec3mIzOYnShpQiG9",
-          "titre": "Espace culturel des pierres blanches - plan",
           "fichiers": [
             {
               "id": "attMvAqRGDA4VDrtR",
@@ -1221,14 +1361,14 @@
               }
             }
           ],
-          "credits": "RAUM",
           "lieux": [
             "recu65igj5DHRpC30"
-          ]
+          ],
+          "titre": "Espace culturel des pierres blanches - plan",
+          "credits": "RAUM"
         },
         {
           "id": "recViOqaMsCxLG3Q5",
-          "titre": "Espace culturel des pierres blanches - dossier de presse",
           "fichiers": [
             {
               "id": "attlhSep8COwjnsYB",
@@ -1250,14 +1390,14 @@
               }
             }
           ],
-          "credits": "RAUM",
           "lieux": [
             "recu65igj5DHRpC30"
-          ]
+          ],
+          "titre": "Espace culturel des pierres blanches - dossier de presse",
+          "credits": "RAUM"
         },
         {
           "id": "recOVH81y49dbw93D",
-          "titre": "pierres banches plaquette de visite",
           "fichiers": [
             {
               "id": "att9EkA4dfAslo8xN",
@@ -1279,118 +1419,18 @@
               }
             }
           ],
-          "credits": "RAUM / Ardepa",
           "lieux": [
-            "recu65igj5DHRpC30"
-          ]
-        }
-      ],
-      "cover_media": {
-        "id": "rec0bZiqOCsirkfJJ",
-        "titre": "Espace culturel des pierres blanches couv",
-        "fichiers": [
-          {
-            "id": "att5KgPl11prTK9CN",
-            "width": 1920,
-            "height": 1080,
-            "url": "https://dl.airtable.com/.attachments/c3d2d750113b9cc137e3f8f1186fb061/1f53f440/sallefestive1.jpg",
-            "filename": "salle festive 1.jpg",
-            "size": 352269,
-            "type": "image/jpeg",
-            "thumbnails": {
-              "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/780372114497ae9d9e78489cb2f2a883/06d35a1b",
-                "width": 64,
-                "height": 36
-              },
-              "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/a5c3249e4be39eaced804594ba496439/6c21cb63",
-                "width": 910,
-                "height": 512
-              },
-              "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/45b020f6e388cad0d0b3c3d7567e3077/f053ee87",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "credits": "Ardepa",
-        "cover_lieux": [
-          "recu65igj5DHRpC30"
-        ]
-      },
-      "type": [
-        {
-          "id": "recKP6wfnZHFsOOtJ",
-          "destination": "Salle Polyvalente",
-          "type_destination": "Équipement",
-          "lieux": [
-            "recu65igj5DHRpC30"
-          ]
-        },
-        {
-          "id": "recafJDVUkElwmi2Y",
-          "destination": "Pôle associatif",
-          "type_destination": "Équipement",
-          "lieux": [
-            "recu65igj5DHRpC30",
-            "recMKYgGVASf6j8rE"
-          ]
-        }
-      ],
-      "sélections": [
-        {
-          "id": "recBb6NHdfNisYSjI",
-          "invité": "Personnalité 1",
-          "portrait": [
-            "recxCPsnbbOskIBtT"
-          ],
-          "status": "Publié",
-          "introduction": "Perso 1 est un célèbre TEXTE texte texte texte texte v TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte texte texte texte",
-          "édito": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi. \n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam \n",
-          "lieux": [
-            "recahyhau12Ghaztg",
-            "recXrmOzavWvTwx9T",
-            "recXIe49AgTTO1AuY",
             "recu65igj5DHRpC30"
           ],
-          "dernière modification": "2021-10-07T14:58:06.000Z"
-        },
-        {
-          "id": "recy2MjKNYdzWUD4A",
-          "invité": "Personnalité 3",
-          "portrait": [
-            "recRdC4relvqeUWdb"
-          ],
-          "status": "Publié",
-          "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
-          "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
-          "lieux": [
-            "recahyhau12Ghaztg",
-            "recRlloApjtcScitR",
-            "recRFuKGP2zlHup3A",
-            "recu65igj5DHRpC30"
-          ],
-          "dernière modification": "2021-10-07T14:51:49.000Z"
+          "titre": "pierres banches plaquette de visite",
+          "credits": "RAUM / Ardepa"
         }
       ],
-      "distinctions": [
-        {
-          "id": "recp0W1AeapKvzlxk",
-          "nom": "Équerre d'Argent",
-          "description": "Le \"prix de l'Équerre d'argent d’Architecture du Moniteur\" est remis chaque année par un jury composé d'architectes, de critiques d'architecture et de promoteurs, mis en place par la revue Le Moniteur des travaux publics et du bâtiment ainsi que le titre AMC Le Moniteur Architecture. C'est un prix qui récompense une équipe composée du maître d'ouvrage et du maître d'œuvre (architecte et ingénieurs) qui a contribué à la construction d'un bâtiment sur le sol français (bâtiment terminé dans l'année)\nLe jury délivre le prix de l'Équerre d'Argent, un prix spécial du jury, et récompense un lauréat dans cinq catégories :\n- Habitat\n- Culture, Jeunesse et Sport,\n- Activités\n- Ouvrages d'Art\n- Première Oeuvre",
-          "site_web": "https://www.amc-archi.com/equerre-d-argent/",
-          "lieux": [
-            "recu65igj5DHRpC30"
-          ]
-        }
-      ],
-      "présentation": "Une intégration paysagère douce qui accompagne le développement de la commune.\nNi au centre de la commune, ni véritablement en périphérie au regard de l’extension urbaine en cours au nord de la rue des pierres blanches, la situation du projet d’espace festif et culturel offre l’opportunité de conforter le développement de la ville par l’affirmation du caractère public des aménagements et des équipements.\nLa contemporanéité d’une écriture architecturale sobre et événementielle.\nAu delà de la nouvelle offre publique offerte par la nouvelle salle, sa forme et sa volumétrie doivent offrir une insertion douce dans son environnement tout en proposant une identité au caractère événementiel affirmé.\nL’usage de matériaux bruts et durables (terre cuite, béton, bois) permet de réduire au maximum les coûts d’entretien et de maintenance mais s’intègrent surtout comme outil de proposition d’une architecture contemporaine sobre et intemporelle.\nLa qualité de ces matériaux est au centre des ambiances proposées, tant à l’intérieur qu’à l’extérieur et participe pleinement à singulariser le projet et son «atmosphère» : la sobriété des matières nobles utilisées confère aux espaces le caractère solennel que nécessite certains des usages et permet de mettre en avant la qualité des dispositifs spatiaux.\nAinsi les espaces de réception majeurs (salle, hall d’accueil, salle de réunion, salle de musique) profitent de hauteurs sous plafond très importantes ainsi que de cadrages particuliers sur le paysage, en offrant la lecture de grandes porosités et d’espaces extérieurs aux qualité d’usage différenciées. \nCes deux dispositifs, jeux de volumes et de matières, participent pleinement à la proposition d’une hétérogénéité volumétrique cohérente, qui offre dans un volume très compact une lecture géographique des fonctions et des usages.\nTexte extrait du dossier de presse, RAUM\n\nRetrouvez l'article et la plaquette de cette visite sur le **[site web de l'ardepa !](https://www.lardepa.com/genese-2020-1-espace-culturel-des-pierres-blanches/)**\n\nL'Espace culturel des Pierres Blanches a été lauréat dans la catégorie Culture, Jeunesse et Sport lors du prix Équerre d'Argent 2019.\n\n• L'ardepa a visité ce lieu le 16 mars 2020\n",
-      "département": "44 Loire-Atlantique",
       "dernière modification": "2021-10-07T08:44:13.000Z"
     }
   ],
+  "status": "Publié",
+  "introduction": "On a fait appel à Perso 3 parceque : TEXTE texte tbla bla bla bla bla exte texte texte v TEXTE texte textebla bla bla bla bla  texte texte TEXTbla bla bla bla bla E texte texte texte texte TEXTE texte texte tebla bla bla bla bbla bla bla bla bla la xte texte TEXTE texte texte texte texte TEXTE texte texte textebla bla bla bla bla  texte bla bla bla bla bla TEXTE texte texte texte texte TEXTE texte texte texte texte TEXTE texte bla bla bla bla bla texte texte texte TEXTE texte texte texte texte TEXTE textebla bla bla bla bla  texte tebla bla bla bla bla xte texte TEXTE texte texte texte texte TEXTE texte texte texte tebla bla bla bla bla xte TEXTE textebla bla bla bla bla  texte texte texte TEXTEbla bla bla bla bla  texte texte texte textebla bla bla bla bla ",
+  "édito": "commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor. \n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\nInteger cursus lectus sapien, et consequat nibh tristique ut. Sed hendrerit metus metus, in commodo massa ornare porttitor. Aenean viverra urna justo, hendrerit fringilla quam laoreet et. Suspendisse tristique augue mi, quis aliquet eros consectetur quis. Proin aliquet quis turpis ut pulvinar. Fusce varius elementum lacus sit amet bibendum. Nulla facilisi.\n\nUt in congue velit. Curabitur fringilla purus vel elit commodo efficitur. Integer laoreet tincidunt tortor a scelerisque. Nulla non luctus mi. Cras et cursus magna, vel ornare leo. Nam est turpis, efficitur ut lectus ut, semper tincidunt nunc. Donec vitae diam commodo, cursus urna ut, fringilla diam. Mauris felis lorem, sodales sed aliquet ac, eleifend eu urna. Etiam ornare erat non magna rhoncus fringilla. Fusce ut facilisis ex, vitae tempus ante. Nulla mattis porta felis, nec vestibulum nunc vulputate vitae. Suspendisse sollicitudin risus quis lectus luctus porttitor.\n\nSuspendisse gravida dolor in velit bibendum, euismod placerat tortor condimentum. Mauris tincidunt orci nisi, eget tempor est sagittis vitae. Suspendisse potenti. Proin faucibus facilisis purus eu hendrerit. Vestibulum aliquam felis elit, id maximus purus suscipit in. Morbi imperdiet in lectus quis varius. Cras sagittis, libero in condimentum semper, neque risus malesuada purus, eget venenatis dui est ullamcorper est. Integer eget urna nec arcu blandit tristique. Mauris et ante eu leo consequat tempus. Nunc bibendum urna in semper scelerisque. Ut sit amet maximus quam, in aliquam sem. Integer sit amet lacinia tortor. Vivamus finibus metus non mi viverra eleifend. Vivamus at est posuere sapien pharetra commodo. Quisque placerat ultrices nisi, nec tristique sem porta at. Integer eget dolor congue diam semper malesuada eu eget diam. Duis accumsan vel eros nec imperdiet. Vivamus bibendum ligula tortor, id consequat nisi elementum a. Vestibulum ac luctus risus. Nulla aliquet justo in augue facilisis varius. Nam vel facilisis metus.\n",
   "dernière modification": "2021-10-07T14:51:49.000Z"
 }

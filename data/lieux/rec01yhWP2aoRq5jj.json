@@ -1,39 +1,80 @@
 {
   "id": "rec01yhWP2aoRq5jj",
-  "nom": "Institut public La Persagotière",
   "adresse": "2 rue René Dunan 44200 Nantes\n",
-  "status": "Publié",
-  "geolocalisation": [
-    47.193398,
-    -1.537883
+  "type": [
+    {
+      "id": "rec0MFGGo0LBcztlB",
+      "type_destination": "Équipement",
+      "destination": "Établissement médico-social",
+      "lieux": [
+        "rec01yhWP2aoRq5jj"
+      ]
+    }
   ],
-  "date": "2016",
   "maitre_oeuvre": [
     {
       "id": "rec5Hv3G4xYoddlcE",
-      "nom": "Forma6",
-      "site_web": "http://www.forma6.net/",
       "maitre_oeuvre": [
         "recJgalSFcQX7dLe6",
         "recRFuKGP2zlHup3A",
         "recIsRYGFH3wqqTYC",
         "rec01yhWP2aoRq5jj"
-      ]
+      ],
+      "site_web": "http://www.forma6.net/",
+      "nom": "Forma6"
     }
   ],
   "maitre_ouvrage": [
     {
       "id": "recKIPoNLtWslh3Yz",
-      "nom": "Institut la Persagotière",
       "maitre_ouvrage": [
         "rec01yhWP2aoRq5jj"
-      ]
+      ],
+      "nom": "Institut la Persagotière"
     }
   ],
+  "status": "Publié",
+  "présentation": "Ce projet s’inscrit dans une démarche urbaine globale de requalification du site des bâtiments de l’institut de la Persagotière en bord de Sèvre à Nantes.\nIl lui faut à la fois garder le lien avec le patrimoine naturel et construit, offrir les nouveaux atouts d’un équipement performant et s’adapter à un handicap ciblé, celui de la surdité totale ou partielle.\n**_Parti urbain et paysager :_**\nProlonger le parc en s’appuyant sur les nouvelles lignes directrices.\nL’aménagement projeté du site est celui d’un parc habité. Le projet s’implante au milieu d’un écrin végétal reconstitué et densifié. Par un jeu d’inflexions et de fragmentation des volumes, des espaces extérieurs spécifiques sont ménagés : préau, cour de récréation, parvis assurant une séparation claire des flux piétons et voitures. Les stationnements sont gérés tels des clairières dans l’écrin vert. Cet équipement a été conçu comme un 3e élément remarquable au sein du parc, en dialogue avec la chapelle et le château.\n**_Parti architectural :_**\nConcevoir un volume unitaire et repérable offrant un cœur ouvert.\nLe projet articule trois volumes qui par leur assemblage génèrent une richesse d’espaces interstitiels tel le hall commun transparent et traversant. L’implantation des deux volumes côté parvis symbolise des bras ouverts, renforçant la qualité d’accueil et la convivialité. Le bâtiment est résolument ouvert sur l’extérieur et sur l’intérieur, privilégiant la fluidité, tant sur le plan visuel que sur le plan circulatoire.\nLes matériaux utilisés résonnent avec ce parti volumétrique, ainsi sur les extérieurs, les façades tournées vers le parc sont en béton préfabriqué, matricé et lasuré en écho aux façades minérales des éléments remarquables que sont l’église et le château. Les façades donnant sur le cœur du projet sont en bardage verrier coloré, générant une intériorité riche et ludique apportant chaleur et gaieté.\n**_Parti fonctionnel :_**\nFavoriser transparence et lumière, respiration et perspective tout en préservant l’intimité.\nL’accès au hall s’effectue dans le prolongement direct du parvis couvert qui longe le centre de documentation. La desserte des différentes entités s’effectue alors en étoile. Véritable cœur du projet, ludique, coloré, « _organique_ » et sensuel, le hall a été conçu comme un lieu de convivialité et de repérage, facilitant les échanges. Depuis ce hall transparent et lumineux, l’extérieur (parvis et parking) est immédiatement préhensible par le regard.\nLa circulation verticale principale occupe une place centrale, elle est systématiquement en prise avec les halls d’étage, qui sont un relais du hall principal. D’une manière générale, toutes les circulations débouchent sur des cadrages sur le paysage. Le repérage par la vue a été privilégié prenant en compte que le malentendant s’accroche plus particulièrement à ce qu’il voit.\nNotre positionnement architectural consiste à nous inscrire de manière contemporaine dans un site tout en mettant en avant ses composantes. Nous nous sommes attachés à concilier les demandes spécifiques d’un programme et les données multiples d’un site, le tout passé au crible du développement durable.\n\n_Texte : Forma6_\n\n_• L'ardepa a visité ce lieu le 17 juin 2016_\n",
+  "nom": "Institut public La Persagotière",
+  "cover_media": {
+    "id": "rec7obdFSUpPHsyQV",
+    "fichiers": [
+      {
+        "id": "attmgp0R6ptdwaEwW",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/c850b9cc4eed9abd1775adef9ac902e2/15089022/persagotierecover.jpg",
+        "filename": "persagotiere cover.jpg",
+        "size": 390271,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/6be5a0f3a13cf87d4e50badb9ab038da/27e76095",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d17dea9e268ecb9f9112bb1b76eebebf/e95be567",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/98904f1e8222ae0d7d88044faf13f43b/1db29fe5",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "persagotière cover",
+    "credits": "Forma6",
+    "cover_lieux": [
+      "rec01yhWP2aoRq5jj"
+    ]
+  },
   "périodes": [
     {
       "id": "rec0D9TkCH83ItF6j",
-      "nom": "années 2010",
       "lieux": [
         "recXIe49AgTTO1AuY",
         "rec4neQMuPblp8tuX",
@@ -86,13 +127,19 @@
         "recKbU8dW7ri9Ihu9",
         "recrfw9hvh3VrHFhx",
         "rech0NsUFIcIJYybV"
-      ]
+      ],
+      "nom": "années 2010"
     }
   ],
+  "geolocalisation": [
+    47.193398,
+    -1.537883
+  ],
+  "département": "44 Loire-Atlantique",
+  "date": "2016",
   "médias": [
     {
       "id": "recwVarAR5Rk5mvJB",
-      "titre": "persagotière photo",
       "fichiers": [
         {
           "id": "attm5JXyBWyKfHT80",
@@ -121,14 +168,14 @@
           }
         }
       ],
-      "credits": "Forma6",
       "lieux": [
         "rec01yhWP2aoRq5jj"
-      ]
+      ],
+      "titre": "persagotière photo",
+      "credits": "Forma6"
     },
     {
       "id": "recdmvjKbmgaZPcDx",
-      "titre": "persagotière documents",
       "fichiers": [
         {
           "id": "attQUjXpDiFmQUpH8",
@@ -150,14 +197,14 @@
           }
         }
       ],
-      "credits": "Forma6",
       "lieux": [
         "rec01yhWP2aoRq5jj"
-      ]
+      ],
+      "titre": "persagotière documents",
+      "credits": "Forma6"
     },
     {
       "id": "recZyIaijCtpbQFq9",
-      "titre": "persagotière plaquette visiter",
       "fichiers": [
         {
           "id": "attzmz6YRIpiwmxro",
@@ -179,59 +226,12 @@
           }
         }
       ],
-      "credits": "Forma6 / ARDEPA",
       "lieux": [
         "rec01yhWP2aoRq5jj"
-      ]
+      ],
+      "titre": "persagotière plaquette visiter",
+      "credits": "Forma6 / ARDEPA"
     }
   ],
-  "cover_media": {
-    "id": "rec7obdFSUpPHsyQV",
-    "titre": "persagotière cover",
-    "fichiers": [
-      {
-        "id": "attmgp0R6ptdwaEwW",
-        "width": 1920,
-        "height": 1080,
-        "url": "https://dl.airtable.com/.attachments/c850b9cc4eed9abd1775adef9ac902e2/15089022/persagotierecover.jpg",
-        "filename": "persagotiere cover.jpg",
-        "size": 390271,
-        "type": "image/jpeg",
-        "thumbnails": {
-          "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/6be5a0f3a13cf87d4e50badb9ab038da/27e76095",
-            "width": 64,
-            "height": 36
-          },
-          "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d17dea9e268ecb9f9112bb1b76eebebf/e95be567",
-            "width": 910,
-            "height": 512
-          },
-          "full": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/98904f1e8222ae0d7d88044faf13f43b/1db29fe5",
-            "width": 3000,
-            "height": 3000
-          }
-        }
-      }
-    ],
-    "credits": "Forma6",
-    "cover_lieux": [
-      "rec01yhWP2aoRq5jj"
-    ]
-  },
-  "type": [
-    {
-      "id": "rec0MFGGo0LBcztlB",
-      "destination": "Établissement médico-social",
-      "type_destination": "Équipement",
-      "lieux": [
-        "rec01yhWP2aoRq5jj"
-      ]
-    }
-  ],
-  "présentation": "Ce projet s’inscrit dans une démarche urbaine globale de requalification du site des bâtiments de l’institut de la Persagotière en bord de Sèvre à Nantes.\nIl lui faut à la fois garder le lien avec le patrimoine naturel et construit, offrir les nouveaux atouts d’un équipement performant et s’adapter à un handicap ciblé, celui de la surdité totale ou partielle.\n**_Parti urbain et paysager :_**\nProlonger le parc en s’appuyant sur les nouvelles lignes directrices.\nL’aménagement projeté du site est celui d’un parc habité. Le projet s’implante au milieu d’un écrin végétal reconstitué et densifié. Par un jeu d’inflexions et de fragmentation des volumes, des espaces extérieurs spécifiques sont ménagés : préau, cour de récréation, parvis assurant une séparation claire des flux piétons et voitures. Les stationnements sont gérés tels des clairières dans l’écrin vert. Cet équipement a été conçu comme un 3e élément remarquable au sein du parc, en dialogue avec la chapelle et le château.\n**_Parti architectural :_**\nConcevoir un volume unitaire et repérable offrant un cœur ouvert.\nLe projet articule trois volumes qui par leur assemblage génèrent une richesse d’espaces interstitiels tel le hall commun transparent et traversant. L’implantation des deux volumes côté parvis symbolise des bras ouverts, renforçant la qualité d’accueil et la convivialité. Le bâtiment est résolument ouvert sur l’extérieur et sur l’intérieur, privilégiant la fluidité, tant sur le plan visuel que sur le plan circulatoire.\nLes matériaux utilisés résonnent avec ce parti volumétrique, ainsi sur les extérieurs, les façades tournées vers le parc sont en béton préfabriqué, matricé et lasuré en écho aux façades minérales des éléments remarquables que sont l’église et le château. Les façades donnant sur le cœur du projet sont en bardage verrier coloré, générant une intériorité riche et ludique apportant chaleur et gaieté.\n**_Parti fonctionnel :_**\nFavoriser transparence et lumière, respiration et perspective tout en préservant l’intimité.\nL’accès au hall s’effectue dans le prolongement direct du parvis couvert qui longe le centre de documentation. La desserte des différentes entités s’effectue alors en étoile. Véritable cœur du projet, ludique, coloré, « _organique_ » et sensuel, le hall a été conçu comme un lieu de convivialité et de repérage, facilitant les échanges. Depuis ce hall transparent et lumineux, l’extérieur (parvis et parking) est immédiatement préhensible par le regard.\nLa circulation verticale principale occupe une place centrale, elle est systématiquement en prise avec les halls d’étage, qui sont un relais du hall principal. D’une manière générale, toutes les circulations débouchent sur des cadrages sur le paysage. Le repérage par la vue a été privilégié prenant en compte que le malentendant s’accroche plus particulièrement à ce qu’il voit.\nNotre positionnement architectural consiste à nous inscrire de manière contemporaine dans un site tout en mettant en avant ses composantes. Nous nous sommes attachés à concilier les demandes spécifiques d’un programme et les données multiples d’un site, le tout passé au crible du développement durable.\n\n_Texte : Forma6_\n\n_• L'ardepa a visité ce lieu le 17 juin 2016_\n",
-  "département": "44 Loire-Atlantique",
   "dernière modification": "2021-10-07T09:23:09.000Z"
 }
