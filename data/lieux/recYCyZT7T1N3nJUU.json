@@ -1,0 +1,80 @@
+{
+  "id": "recYCyZT7T1N3nJUU",
+  "nom": "DY25 Rive Gauche",
+  "dernière modification": "2022-04-11T08:13:38.000Z",
+  "geolocalisation": [
+    47.207707,
+    -1.558556
+  ],
+  "département": "44 Loire-Atlantique",
+  "adresse": "8 Quai François Mitterrand, 44200 Nantes\n",
+  "type": [
+    {
+      "id": "recutlOJwb5QQKd5c",
+      "type_destination": "Logement",
+      "destination": "Logements Collectifs",
+      "lieux": [
+        "recXrmOzavWvTwx9T",
+        "recdqD43kpp1pOv3x",
+        "rec72cuqtL80v3RYm",
+        "recjkXrXE0hZw6f4t",
+        "recP6LOBOUBRRlLnt",
+        "rec0Rwewbk2MMTQAD",
+        "recMKYgGVASf6j8rE",
+        "recYCyZT7T1N3nJUU"
+      ]
+    }
+  ],
+  "date": "2007",
+  "périodes": [
+    {
+      "id": "recAnX6ahvGJYvz0M",
+      "lieux": [
+        "recLVrdGzklj7mmLE",
+        "recq85i5LBfpWsp9R",
+        "recYCyZT7T1N3nJUU",
+        "rec66AkRp5IKwpx8e",
+        "rec7sRoLrqcLTfCUD"
+      ],
+      "nom": "années 2000"
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "recOrPAW4klTOAUsW",
+      "maitre_oeuvre": [
+        "recYCyZT7T1N3nJUU"
+      ],
+      "nom": "Hervé Baudouin - Benoît Engel - Architectes"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recf5jrbDwjtG6rzT",
+      "maitre_ouvrage": [
+        "recYCyZT7T1N3nJUU"
+      ],
+      "nom": "ADI logements"
+    }
+  ],
+  "status": "Publié",
+  "sélections": [
+    {
+      "id": "rec5X8si05LRKyMUD",
+      "invité": "Antoine Corbineau",
+      "dernière modification": "2022-04-11T08:16:11.000Z",
+      "édito": "Ces quelques lieux qui me tiennent à cœur ont certainement pour point commun une forme de dépaysement, une double identité. Le végétal et le minéral, la transposition de cultures lointaines, la nature qui voyage et le fleuve qui les transportent. Chacun de ces lieux est à la fois concret et diffus, présent et absent. Ils me semblent compléter le paysage, l'enrichir, le diversifier, plutôt que de tenter de se fondre dedans.\n",
+      "lieux": [
+        "recYCyZT7T1N3nJUU",
+        "rec66AkRp5IKwpx8e",
+        "rec6MZxevbNGiJ90H",
+        "rec7sRoLrqcLTfCUD",
+        "recf5C827P1uSq4ZR"
+      ],
+      "status": "Publié",
+      "portrait": [
+        "recwnRENqV3eCr8TS"
+      ]
+    }
+  ]
+}

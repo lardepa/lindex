@@ -1,4 +1,11 @@
 {
+  "rec060ExeVbC1zGPp": {
+    "id": "rec060ExeVbC1zGPp",
+    "maitre_oeuvre": [
+      "rec6MZxevbNGiJ90H"
+    ],
+    "nom": "Alexandre Marcel"
+  },
   "rec11l6RyBToGd7kz": {
     "id": "rec11l6RyBToGd7kz",
     "maitre_oeuvre": [
@@ -31,6 +38,13 @@
     ],
     "site_web": "https://titan.archi/fr/",
     "nom": "TITAN architectes"
+  },
+  "rec39ILTrLWzyr6OZ": {
+    "id": "rec39ILTrLWzyr6OZ",
+    "maitre_oeuvre": [
+      "rec6MZxevbNGiJ90H"
+    ],
+    "nom": "Alphonse Duveau"
   },
   "rec3PromkKzrrBM83": {
     "id": "rec3PromkKzrrBM83",
@@ -314,6 +328,13 @@
     "site_web": "http://www.guineepotin.fr/",
     "nom": "Guinée*Potin Architecture"
   },
+  "recOrPAW4klTOAUsW": {
+    "id": "recOrPAW4klTOAUsW",
+    "maitre_oeuvre": [
+      "recYCyZT7T1N3nJUU"
+    ],
+    "nom": "Hervé Baudouin - Benoît Engel - Architectes"
+  },
   "recPCJ3pXohRNtaEY": {
     "id": "recPCJ3pXohRNtaEY",
     "maitre_oeuvre": [
@@ -488,7 +509,8 @@
       "recATsZWxsng7iDNK",
       "recLD9rnkZv8VOOLu",
       "recrkntJi6bURIOSA",
-      "recwnakX0XGMKhW3V"
+      "recwnakX0XGMKhW3V",
+      "rec6MZxevbNGiJ90H"
     ],
     "nom": "Privé"
   },
@@ -534,6 +556,13 @@
     ],
     "site_web": "https://www.atelierbelenfantdaubas.org/",
     "nom": "Atelier Belenfant Daubas"
+  },
+  "recZ0j0rUPx4AFwW3": {
+    "id": "recZ0j0rUPx4AFwW3",
+    "maitre_ouvrage": [
+      "rec66AkRp5IKwpx8e"
+    ],
+    "nom": "Paroisse Orthodoxe Saint-Basile"
   },
   "recZwurvY5RuxsRyi": {
     "id": "recZwurvY5RuxsRyi",
@@ -602,6 +631,13 @@
       "recLVrdGzklj7mmLE"
     ],
     "nom": "Néo Promotion (concession du Port Autonome Nantes St-Nazaire)"
+  },
+  "recf5jrbDwjtG6rzT": {
+    "id": "recf5jrbDwjtG6rzT",
+    "maitre_ouvrage": [
+      "recYCyZT7T1N3nJUU"
+    ],
+    "nom": "ADI logements"
   },
   "recfLctdMIdhMbPr7": {
     "id": "recfLctdMIdhMbPr7",

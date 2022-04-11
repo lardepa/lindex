@@ -104,10 +104,10 @@
     "périodes": [
       "recrOfcUS3a0toY0i"
     ],
-    "geolocalisation": "47°50'34.1\"N 1°02'40.8\"W",
+    "geolocalisation": "47.842941,-1.044333",
     "département": "53 Mayenne",
     "date": "2022",
-    "dernière modification": "2021-10-19T15:51:47.000Z"
+    "dernière modification": "2022-04-11T08:04:15.000Z"
   },
   "rec4neQMuPblp8tuX": {
     "id": "rec4neQMuPblp8tuX",
@@ -168,6 +168,54 @@
     ],
     "dernière modification": "2021-10-07T09:22:22.000Z"
   },
+  "rec66AkRp5IKwpx8e": {
+    "id": "rec66AkRp5IKwpx8e",
+    "nom": "Église orthodoxe Saint-Basile-de-Césarée",
+    "dernière modification": "2022-04-11T08:13:42.000Z",
+    "adresse": "53 Boulevard de la Beaujoire 44000 Nantes\n",
+    "geolocalisation": "47.258242,-1.522349",
+    "département": "44 Loire-Atlantique",
+    "type": [
+      "recVInw9NjTvZ1X63"
+    ],
+    "date": "2006",
+    "périodes": [
+      "recAnX6ahvGJYvz0M"
+    ],
+    "maitre_ouvrage": [
+      "recZ0j0rUPx4AFwW3"
+    ],
+    "status": "Publié",
+    "sélections": [
+      "rec5X8si05LRKyMUD"
+    ]
+  },
+  "rec6MZxevbNGiJ90H": {
+    "id": "rec6MZxevbNGiJ90H",
+    "nom": "Parc oriental de Maulevrier",
+    "dernière modification": "2022-04-11T08:13:51.000Z",
+    "département": "49 Maine-et-Loire",
+    "geolocalisation": "47.005711, -0.744597",
+    "type": [
+      "recSeb3dAa0pY6eHi"
+    ],
+    "date": "1890",
+    "périodes": [
+      "recVhrl84dZwOGR7N"
+    ],
+    "status": "Publié",
+    "maitre_oeuvre": [
+      "rec060ExeVbC1zGPp",
+      "rec39ILTrLWzyr6OZ"
+    ],
+    "maitre_ouvrage": [
+      "recXT4TItsP1IuLWU"
+    ],
+    "adresse": "Route de Mauléon, 49360 Maulevrier\n",
+    "sélections": [
+      "rec5X8si05LRKyMUD"
+    ]
+  },
   "rec72cuqtL80v3RYm": {
     "id": "rec72cuqtL80v3RYm",
     "adresse": "Rue de Suisse, 72000 Le Mans\n",
@@ -221,6 +269,25 @@
     "département": "85 Vendée",
     "date": "2016",
     "dernière modification": "2021-09-28T08:49:20.000Z"
+  },
+  "rec7sRoLrqcLTfCUD": {
+    "id": "rec7sRoLrqcLTfCUD",
+    "nom": "Observatoire Ornithologique",
+    "dernière modification": "2022-04-11T08:13:56.000Z",
+    "geolocalisation": "47.096405, -1.646841",
+    "département": "44 Loire-Atlantique",
+    "adresse": "Place des Pêcheurs  44118 La Chevrolière\n",
+    "type": [
+      "recOWK3c1cbm06Vqy"
+    ],
+    "date": "2008",
+    "périodes": [
+      "recAnX6ahvGJYvz0M"
+    ],
+    "status": "Publié",
+    "sélections": [
+      "rec5X8si05LRKyMUD"
+    ]
   },
   "recAIyOLNUx4kiPXv": {
     "id": "recAIyOLNUx4kiPXv",
@@ -1118,6 +1185,31 @@
     "date": "2014",
     "dernière modification": "2021-09-29T15:43:21.000Z"
   },
+  "recYCyZT7T1N3nJUU": {
+    "id": "recYCyZT7T1N3nJUU",
+    "nom": "DY25 Rive Gauche",
+    "dernière modification": "2022-04-11T08:13:38.000Z",
+    "geolocalisation": "47.207707,-1.558556",
+    "département": "44 Loire-Atlantique",
+    "adresse": "8 Quai François Mitterrand, 44200 Nantes\n",
+    "type": [
+      "recutlOJwb5QQKd5c"
+    ],
+    "date": "2007",
+    "périodes": [
+      "recAnX6ahvGJYvz0M"
+    ],
+    "maitre_oeuvre": [
+      "recOrPAW4klTOAUsW"
+    ],
+    "maitre_ouvrage": [
+      "recf5jrbDwjtG6rzT"
+    ],
+    "status": "Publié",
+    "sélections": [
+      "rec5X8si05LRKyMUD"
+    ]
+  },
   "recYQXv9Df1Bn5fTu": {
     "id": "recYQXv9Df1Bn5fTu",
     "adresse": "Rue du Colombier, 49000 Angers\n",
@@ -1334,6 +1426,21 @@
     "département": "85 Vendée",
     "date": "2015",
     "dernière modification": "2021-09-29T15:49:16.000Z"
+  },
+  "recf5C827P1uSq4ZR": {
+    "id": "recf5C827P1uSq4ZR",
+    "nom": "Pavillon Chinois de Chantenay",
+    "dernière modification": "2022-04-11T08:13:59.000Z",
+    "adresse": "Rue Blanqui, 44200 Nantes\n",
+    "geolocalisation": "47.210219,-1.584401",
+    "département": "44 Loire-Atlantique",
+    "status": "Publié",
+    "type": [
+      "recrpFA9KQQobRh6X"
+    ],
+    "sélections": [
+      "rec5X8si05LRKyMUD"
+    ]
   },
   "rech0NsUFIcIJYybV": {
     "id": "rech0NsUFIcIJYybV",

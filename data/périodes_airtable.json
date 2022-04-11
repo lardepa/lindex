@@ -67,7 +67,10 @@
     "id": "recAnX6ahvGJYvz0M",
     "lieux": [
       "recLVrdGzklj7mmLE",
-      "recq85i5LBfpWsp9R"
+      "recq85i5LBfpWsp9R",
+      "recYCyZT7T1N3nJUU",
+      "rec66AkRp5IKwpx8e",
+      "rec7sRoLrqcLTfCUD"
     ],
     "nom": "années 2000"
   },
@@ -83,6 +86,15 @@
     "début": "1945-01-01",
     "fin": "1975-01-01",
     "nom": "30 glorieuses"
+  },
+  "recVhrl84dZwOGR7N": {
+    "id": "recVhrl84dZwOGR7N",
+    "lieux": [
+      "rec6MZxevbNGiJ90H"
+    ],
+    "nom": "XIXème siècle",
+    "début": "1800-01-01",
+    "fin": "1899-12-31"
   },
   "recWiHCG46dlpbgdo": {
     "id": "recWiHCG46dlpbgdo",

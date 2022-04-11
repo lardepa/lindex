@@ -1,0 +1,57 @@
+{
+  "id": "rec7sRoLrqcLTfCUD",
+  "nom": "Observatoire Ornithologique",
+  "dernière modification": "2022-04-11T08:13:56.000Z",
+  "geolocalisation": [
+    47.096405,
+    -1.646841
+  ],
+  "département": "44 Loire-Atlantique",
+  "adresse": "Place des Pêcheurs  44118 La Chevrolière\n",
+  "type": [
+    {
+      "id": "recOWK3c1cbm06Vqy",
+      "type_destination": "Équipement",
+      "destination": "Sciences",
+      "lieux": [
+        "recloEgKAuO4WjR2r",
+        "recq4adxSr0wOfKMW",
+        "rec7sRoLrqcLTfCUD"
+      ]
+    }
+  ],
+  "date": "2008",
+  "périodes": [
+    {
+      "id": "recAnX6ahvGJYvz0M",
+      "lieux": [
+        "recLVrdGzklj7mmLE",
+        "recq85i5LBfpWsp9R",
+        "recYCyZT7T1N3nJUU",
+        "rec66AkRp5IKwpx8e",
+        "rec7sRoLrqcLTfCUD"
+      ],
+      "nom": "années 2000"
+    }
+  ],
+  "status": "Publié",
+  "sélections": [
+    {
+      "id": "rec5X8si05LRKyMUD",
+      "invité": "Antoine Corbineau",
+      "dernière modification": "2022-04-11T08:16:11.000Z",
+      "édito": "Ces quelques lieux qui me tiennent à cœur ont certainement pour point commun une forme de dépaysement, une double identité. Le végétal et le minéral, la transposition de cultures lointaines, la nature qui voyage et le fleuve qui les transportent. Chacun de ces lieux est à la fois concret et diffus, présent et absent. Ils me semblent compléter le paysage, l'enrichir, le diversifier, plutôt que de tenter de se fondre dedans.\n",
+      "lieux": [
+        "recYCyZT7T1N3nJUU",
+        "rec66AkRp5IKwpx8e",
+        "rec6MZxevbNGiJ90H",
+        "rec7sRoLrqcLTfCUD",
+        "recf5C827P1uSq4ZR"
+      ],
+      "status": "Publié",
+      "portrait": [
+        "recwnRENqV3eCr8TS"
+      ]
+    }
+  ]
+}

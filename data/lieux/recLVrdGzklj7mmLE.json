@@ -84,18 +84,18 @@
     "fichiers": [
       {
         "id": "attnu1naoe2aOrlcG",
-        "url": "https://dl.airtable.com/.attachments/8861e9e16292aa34ba0f61f1b9d2f3ab/4e054c87/2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf",
+        "url": "https://dl.airtable.com/.attachments/8861e9e16292aa34ba0f61f1b9d2f3ab/4e054c87/2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf?ts=1649665121&userId=usrSG16S5bZ5oJVrY&cs=5a7eb1be6e627b5c",
         "filename": "2021_2022_doc_familles_arts_plastiques_maj_23_06_2021.pdf",
         "size": 698455,
         "type": "application/pdf",
         "thumbnails": {
           "small": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/d49eeb89e1c1ce3d71b84c5e8d9d0f8f/970f4087",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/d49eeb89e1c1ce3d71b84c5e8d9d0f8f/970f4087?ts=1649665121&userId=usrSG16S5bZ5oJVrY&cs=f76a789c84d8bbf7",
             "width": 51,
             "height": 36
           },
           "large": {
-            "url": "https://dl.airtable.com/.attachmentThumbnails/2ad7ca22fe1f882a88e8c798b6bec31c/6fc9b918",
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2ad7ca22fe1f882a88e8c798b6bec31c/6fc9b918?ts=1649665121&userId=usrSG16S5bZ5oJVrY&cs=25e05913dbf8d261",
             "width": 512,
             "height": 362
           }
@@ -115,7 +115,10 @@
       "id": "recAnX6ahvGJYvz0M",
       "lieux": [
         "recLVrdGzklj7mmLE",
-        "recq85i5LBfpWsp9R"
+        "recq85i5LBfpWsp9R",
+        "recYCyZT7T1N3nJUU",
+        "rec66AkRp5IKwpx8e",
+        "rec7sRoLrqcLTfCUD"
       ],
       "nom": "années 2000"
     }
@@ -144,18 +147,18 @@
       "fichiers": [
         {
           "id": "att4NYvS29N3xV1gd",
-          "url": "https://dl.airtable.com/.attachments/66aab8e9b98b215854e9564de20870fa/4d211f58/guide_imuse_0.pdf",
+          "url": "https://dl.airtable.com/.attachments/66aab8e9b98b215854e9564de20870fa/4d211f58/guide_imuse_0.pdf?ts=1649665121&userId=usrSG16S5bZ5oJVrY&cs=da132a93d98b72d2",
           "filename": "guide_imuse_0.pdf",
           "size": 2407902,
           "type": "application/pdf",
           "thumbnails": {
             "small": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/3af3506cf3caa4368a6b8356341f944e/b43d3959",
+              "url": "https://dl.airtable.com/.attachmentThumbnails/3af3506cf3caa4368a6b8356341f944e/b43d3959?ts=1649665121&userId=usrSG16S5bZ5oJVrY&cs=352909ecdc6018f6",
               "width": 25,
               "height": 36
             },
             "large": {
-              "url": "https://dl.airtable.com/.attachmentThumbnails/e8c6a3cca9040bb7712789858025f5e1/5996bf43",
+              "url": "https://dl.airtable.com/.attachmentThumbnails/e8c6a3cca9040bb7712789858025f5e1/5996bf43?ts=1649665121&userId=usrSG16S5bZ5oJVrY&cs=95513037abcab5fa",
               "width": 362,
               "height": 512
             }

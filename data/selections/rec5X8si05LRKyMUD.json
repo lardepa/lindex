@@ -1,0 +1,385 @@
+{
+  "id": "rec5X8si05LRKyMUD",
+  "invité": "Antoine Corbineau",
+  "dernière modification": "2022-04-11T08:16:11.000Z",
+  "édito": "Ces quelques lieux qui me tiennent à cœur ont certainement pour point commun une forme de dépaysement, une double identité. Le végétal et le minéral, la transposition de cultures lointaines, la nature qui voyage et le fleuve qui les transportent. Chacun de ces lieux est à la fois concret et diffus, présent et absent. Ils me semblent compléter le paysage, l'enrichir, le diversifier, plutôt que de tenter de se fondre dedans.\n",
+  "lieux": [
+    {
+      "id": "recYCyZT7T1N3nJUU",
+      "nom": "DY25 Rive Gauche",
+      "dernière modification": "2022-04-11T08:13:38.000Z",
+      "geolocalisation": [
+        47.207707,
+        -1.558556
+      ],
+      "département": "44 Loire-Atlantique",
+      "adresse": "8 Quai François Mitterrand, 44200 Nantes\n",
+      "type": [
+        {
+          "id": "recutlOJwb5QQKd5c",
+          "type_destination": "Logement",
+          "destination": "Logements Collectifs",
+          "lieux": [
+            "recXrmOzavWvTwx9T",
+            "recdqD43kpp1pOv3x",
+            "rec72cuqtL80v3RYm",
+            "recjkXrXE0hZw6f4t",
+            "recP6LOBOUBRRlLnt",
+            "rec0Rwewbk2MMTQAD",
+            "recMKYgGVASf6j8rE",
+            "recYCyZT7T1N3nJUU"
+          ]
+        }
+      ],
+      "date": "2007",
+      "périodes": [
+        {
+          "id": "recAnX6ahvGJYvz0M",
+          "lieux": [
+            "recLVrdGzklj7mmLE",
+            "recq85i5LBfpWsp9R",
+            "recYCyZT7T1N3nJUU",
+            "rec66AkRp5IKwpx8e",
+            "rec7sRoLrqcLTfCUD"
+          ],
+          "nom": "années 2000"
+        }
+      ],
+      "maitre_oeuvre": [
+        {
+          "id": "recOrPAW4klTOAUsW",
+          "maitre_oeuvre": [
+            "recYCyZT7T1N3nJUU"
+          ],
+          "nom": "Hervé Baudouin - Benoît Engel - Architectes"
+        }
+      ],
+      "maitre_ouvrage": [
+        {
+          "id": "recf5jrbDwjtG6rzT",
+          "maitre_ouvrage": [
+            "recYCyZT7T1N3nJUU"
+          ],
+          "nom": "ADI logements"
+        }
+      ],
+      "status": "Publié",
+      "sélections": [
+        {
+          "id": "rec5X8si05LRKyMUD",
+          "invité": "Antoine Corbineau",
+          "dernière modification": "2022-04-11T08:16:11.000Z",
+          "édito": "Ces quelques lieux qui me tiennent à cœur ont certainement pour point commun une forme de dépaysement, une double identité. Le végétal et le minéral, la transposition de cultures lointaines, la nature qui voyage et le fleuve qui les transportent. Chacun de ces lieux est à la fois concret et diffus, présent et absent. Ils me semblent compléter le paysage, l'enrichir, le diversifier, plutôt que de tenter de se fondre dedans.\n",
+          "lieux": [
+            "recYCyZT7T1N3nJUU",
+            "rec66AkRp5IKwpx8e",
+            "rec6MZxevbNGiJ90H",
+            "rec7sRoLrqcLTfCUD",
+            "recf5C827P1uSq4ZR"
+          ],
+          "status": "Publié",
+          "portrait": [
+            "recwnRENqV3eCr8TS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rec66AkRp5IKwpx8e",
+      "nom": "Église orthodoxe Saint-Basile-de-Césarée",
+      "dernière modification": "2022-04-11T08:13:42.000Z",
+      "adresse": "53 Boulevard de la Beaujoire 44000 Nantes\n",
+      "geolocalisation": [
+        47.258242,
+        -1.522349
+      ],
+      "département": "44 Loire-Atlantique",
+      "type": [
+        {
+          "id": "recVInw9NjTvZ1X63",
+          "destination": "Église",
+          "lieux": [
+            "recXNuzkB4wj0g0H4",
+            "reccVHejspOWs8dm2",
+            "rec66AkRp5IKwpx8e"
+          ]
+        }
+      ],
+      "date": "2006",
+      "périodes": [
+        {
+          "id": "recAnX6ahvGJYvz0M",
+          "lieux": [
+            "recLVrdGzklj7mmLE",
+            "recq85i5LBfpWsp9R",
+            "recYCyZT7T1N3nJUU",
+            "rec66AkRp5IKwpx8e",
+            "rec7sRoLrqcLTfCUD"
+          ],
+          "nom": "années 2000"
+        }
+      ],
+      "maitre_ouvrage": [
+        {
+          "id": "recZ0j0rUPx4AFwW3",
+          "maitre_ouvrage": [
+            "rec66AkRp5IKwpx8e"
+          ],
+          "nom": "Paroisse Orthodoxe Saint-Basile"
+        }
+      ],
+      "status": "Publié",
+      "sélections": [
+        {
+          "id": "rec5X8si05LRKyMUD",
+          "invité": "Antoine Corbineau",
+          "dernière modification": "2022-04-11T08:16:11.000Z",
+          "édito": "Ces quelques lieux qui me tiennent à cœur ont certainement pour point commun une forme de dépaysement, une double identité. Le végétal et le minéral, la transposition de cultures lointaines, la nature qui voyage et le fleuve qui les transportent. Chacun de ces lieux est à la fois concret et diffus, présent et absent. Ils me semblent compléter le paysage, l'enrichir, le diversifier, plutôt que de tenter de se fondre dedans.\n",
+          "lieux": [
+            "recYCyZT7T1N3nJUU",
+            "rec66AkRp5IKwpx8e",
+            "rec6MZxevbNGiJ90H",
+            "rec7sRoLrqcLTfCUD",
+            "recf5C827P1uSq4ZR"
+          ],
+          "status": "Publié",
+          "portrait": [
+            "recwnRENqV3eCr8TS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rec6MZxevbNGiJ90H",
+      "nom": "Parc oriental de Maulevrier",
+      "dernière modification": "2022-04-11T08:13:51.000Z",
+      "département": "49 Maine-et-Loire",
+      "geolocalisation": [
+        47.005711,
+        -0.744597
+      ],
+      "type": [
+        {
+          "id": "recSeb3dAa0pY6eHi",
+          "lieux": [
+            "rec6MZxevbNGiJ90H"
+          ],
+          "destination": "Parc",
+          "type_destination": "Espace public"
+        }
+      ],
+      "date": "1890",
+      "périodes": [
+        {
+          "id": "recVhrl84dZwOGR7N",
+          "lieux": [
+            "rec6MZxevbNGiJ90H"
+          ],
+          "nom": "XIXème siècle",
+          "début": "1800-01-01",
+          "fin": "1899-12-31"
+        }
+      ],
+      "status": "Publié",
+      "maitre_oeuvre": [
+        {
+          "id": "rec060ExeVbC1zGPp",
+          "maitre_oeuvre": [
+            "rec6MZxevbNGiJ90H"
+          ],
+          "nom": "Alexandre Marcel"
+        },
+        {
+          "id": "rec39ILTrLWzyr6OZ",
+          "maitre_oeuvre": [
+            "rec6MZxevbNGiJ90H"
+          ],
+          "nom": "Alphonse Duveau"
+        }
+      ],
+      "maitre_ouvrage": [
+        {
+          "id": "recXT4TItsP1IuLWU",
+          "maitre_ouvrage": [
+            "recHVehEvNmwXAJIO",
+            "rechFw6KIHy4PVSUb",
+            "recahyhau12Ghaztg",
+            "recY5jgLHC0792Lr0",
+            "recRFuKGP2zlHup3A",
+            "rec5EHfAartf4PUHm",
+            "recATsZWxsng7iDNK",
+            "recLD9rnkZv8VOOLu",
+            "recrkntJi6bURIOSA",
+            "recwnakX0XGMKhW3V",
+            "rec6MZxevbNGiJ90H"
+          ],
+          "nom": "Privé"
+        }
+      ],
+      "adresse": "Route de Mauléon, 49360 Maulevrier\n",
+      "sélections": [
+        {
+          "id": "rec5X8si05LRKyMUD",
+          "invité": "Antoine Corbineau",
+          "dernière modification": "2022-04-11T08:16:11.000Z",
+          "édito": "Ces quelques lieux qui me tiennent à cœur ont certainement pour point commun une forme de dépaysement, une double identité. Le végétal et le minéral, la transposition de cultures lointaines, la nature qui voyage et le fleuve qui les transportent. Chacun de ces lieux est à la fois concret et diffus, présent et absent. Ils me semblent compléter le paysage, l'enrichir, le diversifier, plutôt que de tenter de se fondre dedans.\n",
+          "lieux": [
+            "recYCyZT7T1N3nJUU",
+            "rec66AkRp5IKwpx8e",
+            "rec6MZxevbNGiJ90H",
+            "rec7sRoLrqcLTfCUD",
+            "recf5C827P1uSq4ZR"
+          ],
+          "status": "Publié",
+          "portrait": [
+            "recwnRENqV3eCr8TS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rec7sRoLrqcLTfCUD",
+      "nom": "Observatoire Ornithologique",
+      "dernière modification": "2022-04-11T08:13:56.000Z",
+      "geolocalisation": [
+        47.096405,
+        -1.646841
+      ],
+      "département": "44 Loire-Atlantique",
+      "adresse": "Place des Pêcheurs  44118 La Chevrolière\n",
+      "type": [
+        {
+          "id": "recOWK3c1cbm06Vqy",
+          "type_destination": "Équipement",
+          "destination": "Sciences",
+          "lieux": [
+            "recloEgKAuO4WjR2r",
+            "recq4adxSr0wOfKMW",
+            "rec7sRoLrqcLTfCUD"
+          ]
+        }
+      ],
+      "date": "2008",
+      "périodes": [
+        {
+          "id": "recAnX6ahvGJYvz0M",
+          "lieux": [
+            "recLVrdGzklj7mmLE",
+            "recq85i5LBfpWsp9R",
+            "recYCyZT7T1N3nJUU",
+            "rec66AkRp5IKwpx8e",
+            "rec7sRoLrqcLTfCUD"
+          ],
+          "nom": "années 2000"
+        }
+      ],
+      "status": "Publié",
+      "sélections": [
+        {
+          "id": "rec5X8si05LRKyMUD",
+          "invité": "Antoine Corbineau",
+          "dernière modification": "2022-04-11T08:16:11.000Z",
+          "édito": "Ces quelques lieux qui me tiennent à cœur ont certainement pour point commun une forme de dépaysement, une double identité. Le végétal et le minéral, la transposition de cultures lointaines, la nature qui voyage et le fleuve qui les transportent. Chacun de ces lieux est à la fois concret et diffus, présent et absent. Ils me semblent compléter le paysage, l'enrichir, le diversifier, plutôt que de tenter de se fondre dedans.\n",
+          "lieux": [
+            "recYCyZT7T1N3nJUU",
+            "rec66AkRp5IKwpx8e",
+            "rec6MZxevbNGiJ90H",
+            "rec7sRoLrqcLTfCUD",
+            "recf5C827P1uSq4ZR"
+          ],
+          "status": "Publié",
+          "portrait": [
+            "recwnRENqV3eCr8TS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recf5C827P1uSq4ZR",
+      "nom": "Pavillon Chinois de Chantenay",
+      "dernière modification": "2022-04-11T08:13:59.000Z",
+      "adresse": "Rue Blanqui, 44200 Nantes\n",
+      "geolocalisation": [
+        47.210219,
+        -1.584401
+      ],
+      "département": "44 Loire-Atlantique",
+      "status": "Publié",
+      "type": [
+        {
+          "id": "recrpFA9KQQobRh6X",
+          "type_destination": "Logement",
+          "destination": "Maison",
+          "lieux": [
+            "recTr9BzAt1jG9yaJ",
+            "recHVehEvNmwXAJIO",
+            "rechFw6KIHy4PVSUb",
+            "recRFuKGP2zlHup3A",
+            "rec5EHfAartf4PUHm",
+            "recATsZWxsng7iDNK",
+            "recLD9rnkZv8VOOLu",
+            "recrkntJi6bURIOSA",
+            "recwnakX0XGMKhW3V",
+            "recf5C827P1uSq4ZR"
+          ]
+        }
+      ],
+      "sélections": [
+        {
+          "id": "rec5X8si05LRKyMUD",
+          "invité": "Antoine Corbineau",
+          "dernière modification": "2022-04-11T08:16:11.000Z",
+          "édito": "Ces quelques lieux qui me tiennent à cœur ont certainement pour point commun une forme de dépaysement, une double identité. Le végétal et le minéral, la transposition de cultures lointaines, la nature qui voyage et le fleuve qui les transportent. Chacun de ces lieux est à la fois concret et diffus, présent et absent. Ils me semblent compléter le paysage, l'enrichir, le diversifier, plutôt que de tenter de se fondre dedans.\n",
+          "lieux": [
+            "recYCyZT7T1N3nJUU",
+            "rec66AkRp5IKwpx8e",
+            "rec6MZxevbNGiJ90H",
+            "rec7sRoLrqcLTfCUD",
+            "recf5C827P1uSq4ZR"
+          ],
+          "status": "Publié",
+          "portrait": [
+            "recwnRENqV3eCr8TS"
+          ]
+        }
+      ]
+    }
+  ],
+  "status": "Publié",
+  "portrait": {
+    "id": "recwnRENqV3eCr8TS",
+    "sélections": [
+      "rec5X8si05LRKyMUD"
+    ],
+    "titre": "Antoine Corbineau",
+    "fichiers": [
+      {
+        "id": "attDp2JwteVliucGU",
+        "width": 1920,
+        "height": 1080,
+        "url": "https://dl.airtable.com/.attachments/b796b00697e92627abccb4806b6d1d51/970e24b8/antoinecorbineau.jpg?ts=1649665121&userId=usrSG16S5bZ5oJVrY&cs=91c1654d1aeb9ffc",
+        "filename": "antoine corbineau.jpg",
+        "size": 684822,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/99e2515106911703e7d4cbbd00e92a1e/83721ba8?ts=1649665121&userId=usrSG16S5bZ5oJVrY&cs=e0bfaad6efdbd36f",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/2d9874db02c60bf6900feb6f859e5429/fdd5a416?ts=1649665121&userId=usrSG16S5bZ5oJVrY&cs=90f0cac3d7e72ca8",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/ff51b82139b88de1ae731cfa428897c5/01cd8d51?ts=1649665121&userId=usrSG16S5bZ5oJVrY&cs=b8dcf6a267513dfe",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Antoine Corbineau"
+  }
+}

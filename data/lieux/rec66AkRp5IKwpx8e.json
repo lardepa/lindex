@@ -1,0 +1,65 @@
+{
+  "id": "rec66AkRp5IKwpx8e",
+  "nom": "Église orthodoxe Saint-Basile-de-Césarée",
+  "dernière modification": "2022-04-11T08:13:42.000Z",
+  "adresse": "53 Boulevard de la Beaujoire 44000 Nantes\n",
+  "geolocalisation": [
+    47.258242,
+    -1.522349
+  ],
+  "département": "44 Loire-Atlantique",
+  "type": [
+    {
+      "id": "recVInw9NjTvZ1X63",
+      "destination": "Église",
+      "lieux": [
+        "recXNuzkB4wj0g0H4",
+        "reccVHejspOWs8dm2",
+        "rec66AkRp5IKwpx8e"
+      ]
+    }
+  ],
+  "date": "2006",
+  "périodes": [
+    {
+      "id": "recAnX6ahvGJYvz0M",
+      "lieux": [
+        "recLVrdGzklj7mmLE",
+        "recq85i5LBfpWsp9R",
+        "recYCyZT7T1N3nJUU",
+        "rec66AkRp5IKwpx8e",
+        "rec7sRoLrqcLTfCUD"
+      ],
+      "nom": "années 2000"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recZ0j0rUPx4AFwW3",
+      "maitre_ouvrage": [
+        "rec66AkRp5IKwpx8e"
+      ],
+      "nom": "Paroisse Orthodoxe Saint-Basile"
+    }
+  ],
+  "status": "Publié",
+  "sélections": [
+    {
+      "id": "rec5X8si05LRKyMUD",
+      "invité": "Antoine Corbineau",
+      "dernière modification": "2022-04-11T08:16:11.000Z",
+      "édito": "Ces quelques lieux qui me tiennent à cœur ont certainement pour point commun une forme de dépaysement, une double identité. Le végétal et le minéral, la transposition de cultures lointaines, la nature qui voyage et le fleuve qui les transportent. Chacun de ces lieux est à la fois concret et diffus, présent et absent. Ils me semblent compléter le paysage, l'enrichir, le diversifier, plutôt que de tenter de se fondre dedans.\n",
+      "lieux": [
+        "recYCyZT7T1N3nJUU",
+        "rec66AkRp5IKwpx8e",
+        "rec6MZxevbNGiJ90H",
+        "rec7sRoLrqcLTfCUD",
+        "recf5C827P1uSq4ZR"
+      ],
+      "status": "Publié",
+      "portrait": [
+        "recwnRENqV3eCr8TS"
+      ]
+    }
+  ]
+}

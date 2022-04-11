@@ -92,7 +92,8 @@
     "destination": "Sciences",
     "lieux": [
       "recloEgKAuO4WjR2r",
-      "recq4adxSr0wOfKMW"
+      "recq4adxSr0wOfKMW",
+      "rec7sRoLrqcLTfCUD"
     ]
   },
   "recQIJ15w7Yc15eNf": {
@@ -103,6 +104,14 @@
       "recdqD43kpp1pOv3x",
       "recMsOSrCEl9x1F2V"
     ]
+  },
+  "recSeb3dAa0pY6eHi": {
+    "id": "recSeb3dAa0pY6eHi",
+    "lieux": [
+      "rec6MZxevbNGiJ90H"
+    ],
+    "destination": "Parc",
+    "type_destination": "Espace public"
   },
   "recU0DF0Isnpt8rJ1": {
     "id": "recU0DF0Isnpt8rJ1",
@@ -120,7 +129,8 @@
     "destination": "Église",
     "lieux": [
       "recXNuzkB4wj0g0H4",
-      "reccVHejspOWs8dm2"
+      "reccVHejspOWs8dm2",
+      "rec66AkRp5IKwpx8e"
     ]
   },
   "recVSbbcBxY2ydzDN": {
@@ -255,7 +265,8 @@
       "recATsZWxsng7iDNK",
       "recLD9rnkZv8VOOLu",
       "recrkntJi6bURIOSA",
-      "recwnakX0XGMKhW3V"
+      "recwnakX0XGMKhW3V",
+      "recf5C827P1uSq4ZR"
     ]
   },
   "recs5EEjFEqR1pMAv": {
@@ -286,7 +297,8 @@
       "recjkXrXE0hZw6f4t",
       "recP6LOBOUBRRlLnt",
       "rec0Rwewbk2MMTQAD",
-      "recMKYgGVASf6j8rE"
+      "recMKYgGVASf6j8rE",
+      "recYCyZT7T1N3nJUU"
     ]
   },
   "recvYQkJNzMNb10UF": {
