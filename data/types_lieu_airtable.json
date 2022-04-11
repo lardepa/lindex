@@ -107,11 +107,11 @@
   },
   "recSeb3dAa0pY6eHi": {
     "id": "recSeb3dAa0pY6eHi",
+    "type_destination": "Espace public",
+    "destination": "Parc",
     "lieux": [
       "rec6MZxevbNGiJ90H"
-    ],
-    "destination": "Parc",
-    "type_destination": "Espace public"
+    ]
   },
   "recU0DF0Isnpt8rJ1": {
     "id": "recU0DF0Isnpt8rJ1",

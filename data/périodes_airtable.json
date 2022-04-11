@@ -89,12 +89,12 @@
   },
   "recVhrl84dZwOGR7N": {
     "id": "recVhrl84dZwOGR7N",
+    "début": "1800-01-01",
+    "fin": "1899-12-31",
     "lieux": [
       "rec6MZxevbNGiJ90H"
     ],
-    "nom": "XIXème siècle",
-    "début": "1800-01-01",
-    "fin": "1899-12-31"
+    "nom": "XIXème siècle"
   },
   "recWiHCG46dlpbgdo": {
     "id": "recWiHCG46dlpbgdo",

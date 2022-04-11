@@ -1,35 +1,36 @@
 {
   "id": "rec6MZxevbNGiJ90H",
-  "nom": "Parc oriental de Maulevrier",
-  "dernière modification": "2022-04-11T08:13:51.000Z",
-  "département": "49 Maine-et-Loire",
-  "geolocalisation": [
-    47.005711,
-    -0.744597
+  "adresse": "Route de Mauléon, 49360 Maulevrier\n",
+  "sélections": [
+    {
+      "id": "rec5X8si05LRKyMUD",
+      "portrait": [
+        "recwnRENqV3eCr8TS"
+      ],
+      "invité": "Antoine Corbineau",
+      "lieux": [
+        "recYCyZT7T1N3nJUU",
+        "rec66AkRp5IKwpx8e",
+        "rec6MZxevbNGiJ90H",
+        "rec7sRoLrqcLTfCUD",
+        "recf5C827P1uSq4ZR"
+      ],
+      "status": "Publié",
+      "édito": "Ces quelques lieux qui me tiennent à cœur ont certainement pour point commun une forme de dépaysement, une double identité. Le végétal et le minéral, la transposition de cultures lointaines, la nature qui voyage et le fleuve qui les transportent. Chacun de ces lieux est à la fois concret et diffus, présent et absent. Ils me semblent compléter le paysage, l'enrichir, le diversifier, plutôt que de tenter de se fondre dedans.\n-426 caractères\n-72 mots\n",
+      "dernière modification": "2022-04-11T08:33:32.000Z",
+      "en une": true
+    }
   ],
   "type": [
     {
       "id": "recSeb3dAa0pY6eHi",
-      "lieux": [
-        "rec6MZxevbNGiJ90H"
-      ],
+      "type_destination": "Espace public",
       "destination": "Parc",
-      "type_destination": "Espace public"
-    }
-  ],
-  "date": "1890",
-  "périodes": [
-    {
-      "id": "recVhrl84dZwOGR7N",
       "lieux": [
         "rec6MZxevbNGiJ90H"
-      ],
-      "nom": "XIXème siècle",
-      "début": "1800-01-01",
-      "fin": "1899-12-31"
+      ]
     }
   ],
-  "status": "Publié",
   "maitre_oeuvre": [
     {
       "id": "rec060ExeVbC1zGPp",
@@ -65,24 +66,24 @@
       "nom": "Privé"
     }
   ],
-  "adresse": "Route de Mauléon, 49360 Maulevrier\n",
-  "sélections": [
+  "status": "Publié",
+  "nom": "Parc oriental de Maulevrier",
+  "périodes": [
     {
-      "id": "rec5X8si05LRKyMUD",
-      "invité": "Antoine Corbineau",
-      "dernière modification": "2022-04-11T08:16:11.000Z",
-      "édito": "Ces quelques lieux qui me tiennent à cœur ont certainement pour point commun une forme de dépaysement, une double identité. Le végétal et le minéral, la transposition de cultures lointaines, la nature qui voyage et le fleuve qui les transportent. Chacun de ces lieux est à la fois concret et diffus, présent et absent. Ils me semblent compléter le paysage, l'enrichir, le diversifier, plutôt que de tenter de se fondre dedans.\n",
+      "id": "recVhrl84dZwOGR7N",
+      "début": "1800-01-01",
+      "fin": "1899-12-31",
       "lieux": [
-        "recYCyZT7T1N3nJUU",
-        "rec66AkRp5IKwpx8e",
-        "rec6MZxevbNGiJ90H",
-        "rec7sRoLrqcLTfCUD",
-        "recf5C827P1uSq4ZR"
+        "rec6MZxevbNGiJ90H"
       ],
-      "status": "Publié",
-      "portrait": [
-        "recwnRENqV3eCr8TS"
-      ]
+      "nom": "XIXème siècle"
     }
-  ]
+  ],
+  "geolocalisation": [
+    47.005711,
+    -0.744597
+  ],
+  "département": "49 Maine-et-Loire",
+  "date": "1890",
+  "dernière modification": "2022-04-11T08:13:51.000Z"
 }
