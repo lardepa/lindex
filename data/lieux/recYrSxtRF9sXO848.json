@@ -1,0 +1,177 @@
+{
+  "id": "recYrSxtRF9sXO848",
+  "nom": "Musée et Parc Robert Tatin ",
+  "dernière modification": "2022-05-04T07:45:49.000Z",
+  "département": "53 Mayenne",
+  "type": [
+    {
+      "id": "recpXtVGJnicjtjCe",
+      "type_destination": "Équipement",
+      "destination": "Musée",
+      "lieux": [
+        "recAIyOLNUx4kiPXv",
+        "receMWo5ARK964EuD",
+        "recq4adxSr0wOfKMW",
+        "rec6HBg31w4QGilK7",
+        "recYrSxtRF9sXO848"
+      ]
+    },
+    {
+      "id": "recSeb3dAa0pY6eHi",
+      "type_destination": "Espace public",
+      "destination": "Parc",
+      "lieux": [
+        "rec6MZxevbNGiJ90H",
+        "recz8IN13SxTUTkuH",
+        "recip6AUDWRn3ay2m",
+        "recYrSxtRF9sXO848"
+      ]
+    }
+  ],
+  "status": "Publié",
+  "sélections": [
+    {
+      "id": "reca03V0P2VRq7nb3",
+      "invité": "Clémence Marchand",
+      "dernière modification": "2022-05-04T08:00:34.000Z",
+      "status": "Publié",
+      "introduction": "Clémence Marchand est membre du CA de l'ardepa",
+      "édito": "J’ai grandi en Mayenne, territoire de l’entre-deux : entre Rennes et Le Mans, entre la Bretagne et la Normandie… Dans cet entre-deux exempté de sentiment d’appartenance et plus encore de chauvinisme, il était de bon ton de ne pas s’attarder. Lycéen, nous avions envie d’ailleurs. De plus loin. De plus grand certainement. Aussi révolutionnaires que nous semblaient ces perspectives nouvelles, nous les avons imaginées dans des lieux familiers de notre enfance. Sans aucun regard alors pour ces espaces déjà foulés, snobant leur apparent immobilisme d’un œil morne, incarnation quasi parfaite de l’indolence adolescente.\nEt pourtant, à travers cette sélection, ce sont ces lieux, témoins bienveillants de l’enfance et du temps qui passe, que je souhaite partager. Il n’existe pas entre eux de liens, ou même de cohérence géographique, architecturale, d’usage… Ils sont réunis ici par le souvenir, que le temps est venu auréolé de merveilleux.  \nEn complète subjectivité, bienvenu chez moi. J’ai grandi en Mayenne, territoire de l’entre-deux : entre Rennes et Le Mans, entre la Bretagne et la Normandie… Dans cet entre-deux exempté de sentiment d’appartenance et plus encore de chauvinisme, il était de bon ton de ne pas s’attarder. Lycéen, nous avions envie d’ailleurs. De plus loin. De plus grand certainement. Aussi révolutionnaires que nous semblaient ces perspectives nouvelles, nous les avons imaginées dans des lieux familiers de notre enfance. Sans aucun regard alors pour ces espaces déjà foulés, snobant leur apparent immobilisme d’un œil morne, incarnation quasi parfaite de l’indolence adolescente.\nEt pourtant, à travers cette sélection, ce sont ces lieux, témoins bienveillants de l’enfance et du temps qui passe, que je souhaite partager. Il n’existe pas entre eux de liens, ou même de cohérence géographique, architecturale, d’usage… Ils sont réunis ici par le souvenir, que le temps est venu auréolé de merveilleux.  \nEn complète subjectivité, bienvenu chez moi. \n\n\n_ « J’avais cessé de me sentir médiocre, contingent, mortel. D’où avait pu me venir cette puissante joie ? **Je sentais qu’elle était liée au goût du thé et du gâteau, mais qu’elle le dépassait infiniment, ne devait pas être de même nature.** D’où venait-elle ? Que signifiait-elle ? Où l’appréhender ? Je bois une seconde gorgée où je ne trouve rien de plus que dans la première, une troisième qui m’apporte un peu moins que la seconde. Il est temps que je m’arrête, la vertu du breuvage semble diminuer**. Il est clair que la vérité que je cherche n’est pas en lui, mais en moi** »_\n(Du Côté de chez Swann, Marcel PROUST)\n\n",
+      "portrait": [
+        "recIwd1dZ2nHUd5WG"
+      ],
+      "en une": true,
+      "lieux": [
+        "recz8IN13SxTUTkuH",
+        "rec6HBg31w4QGilK7",
+        "recip6AUDWRn3ay2m",
+        "recFIz67ks1QZhY6g",
+        "recYrSxtRF9sXO848",
+        "reclSufNYYP7Qc64U"
+      ]
+    }
+  ],
+  "cover_media": {
+    "id": "recK8HPv0dgOTYJoe",
+    "cover_lieux": [
+      "recYrSxtRF9sXO848"
+    ],
+    "titre": "Musée robert tatin",
+    "credits": "Petit Angevin - Licence CC",
+    "fichiers": [
+      {
+        "id": "attQm1ghZSLbdl12S",
+        "width": 1280,
+        "height": 720,
+        "url": "https://dl.airtable.com/.attachments/1dbf6e2bcc7ff34175a9ed476577537f/735c47f7/Muse_tatin.jpg?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=7b1be6677455662b",
+        "filename": "Musée_tatin.jpg",
+        "size": 254548,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/c1e104f34cdc5e093ad6b6e67e488055/fa6adad6?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=a6f1a56dc62ad0b8",
+            "width": 64,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/8c921cb7a40ea7f5b79cfe1b5199fd83/0bd6b1eb?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=e3d52f6e8b2549db",
+            "width": 910,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7c4c026e14ddf868cf4cd9f7281e383e/841f1a01?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=389eb830cf2beed5",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ]
+  },
+  "adresse": "Route de la Frénouse, 53230 Cossé-le-Vivien\n",
+  "geolocalisation": [
+    47.93307,
+    -0.897018
+  ],
+  "date": "1962-1983",
+  "périodes": [
+    {
+      "id": "rectDhbx03n7FzdV7",
+      "nom": "2ème moitié du XXième siècle",
+      "lieux": [
+        "recYrSxtRF9sXO848"
+      ],
+      "début": "1950-01-01",
+      "fin": "1999-12-31"
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "recUg1P05DKzQ4cty",
+      "maitre_oeuvre": [
+        "recYrSxtRF9sXO848"
+      ],
+      "nom": "Robert Tatin"
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recXT4TItsP1IuLWU",
+      "maitre_ouvrage": [
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recahyhau12Ghaztg",
+        "recY5jgLHC0792Lr0",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V",
+        "rec6MZxevbNGiJ90H",
+        "recFIz67ks1QZhY6g",
+        "recYrSxtRF9sXO848",
+        "reclSufNYYP7Qc64U"
+      ],
+      "nom": "Privé"
+    }
+  ],
+  "médias": [
+    {
+      "id": "reciN5lUxLOOphQQB",
+      "lieux": [
+        "recYrSxtRF9sXO848"
+      ],
+      "titre": "musée robert tatin",
+      "fichiers": [
+        {
+          "id": "attgylyLtswZ1Fbk7",
+          "width": 1280,
+          "height": 720,
+          "url": "https://dl.airtable.com/.attachments/71ed7545b8abaf6aff2c808a7efb3733/897fb311/Alle_gants_muse_tatin.jpg?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=16e08c774c6b7da4",
+          "filename": "Allée_géants_musée_tatin.jpg",
+          "size": 243283,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2c2ea0866c6f222902dd03e15e5d3dc4/6d6704b1?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=40f2489b13a63fb2",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2a29e3e2171fd34d0095a6b3f2a9f72c/7e15657a?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=9dc6e95879943777",
+              "width": 910,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/f04f5dfd602aa0f1627043e9fd0b9ef1/c6b3e346?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=c6195e0e8aa4eba7",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Petit Angevin - licence CC"
+    }
+  ],
+  "présentation": "Le musée Robert-Tatin est un « environnement d'art » créé par l'artiste Robert Tatin, entre 1962 et 1983, sur le lieu-dit La Frénouse à Cossé-le-Vivien, en Mayenne. \n"
+}

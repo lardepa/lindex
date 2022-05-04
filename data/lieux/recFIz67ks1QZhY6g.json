@@ -1,0 +1,249 @@
+{
+  "id": "recFIz67ks1QZhY6g",
+  "adresse": "24, Place Paul-Doumer, 53200 Chatea-Gontier\n",
+  "dernière modification": "2022-05-04T07:38:21.000Z",
+  "nom": "Café de la Mairie",
+  "département": "53 Mayenne",
+  "type": [
+    {
+      "id": "recvYQkJNzMNb10UF",
+      "type_destination": "Équipement",
+      "destination": "Restauration",
+      "lieux": [
+        "recLVrdGzklj7mmLE",
+        "recT5ti90aD2NTdCN",
+        "recTaYdefmJUHsBOi",
+        "recFIz67ks1QZhY6g"
+      ]
+    }
+  ],
+  "status": "Publié",
+  "sélections": [
+    {
+      "id": "reca03V0P2VRq7nb3",
+      "invité": "Clémence Marchand",
+      "dernière modification": "2022-05-04T08:00:34.000Z",
+      "status": "Publié",
+      "introduction": "Clémence Marchand est membre du CA de l'ardepa",
+      "édito": "J’ai grandi en Mayenne, territoire de l’entre-deux : entre Rennes et Le Mans, entre la Bretagne et la Normandie… Dans cet entre-deux exempté de sentiment d’appartenance et plus encore de chauvinisme, il était de bon ton de ne pas s’attarder. Lycéen, nous avions envie d’ailleurs. De plus loin. De plus grand certainement. Aussi révolutionnaires que nous semblaient ces perspectives nouvelles, nous les avons imaginées dans des lieux familiers de notre enfance. Sans aucun regard alors pour ces espaces déjà foulés, snobant leur apparent immobilisme d’un œil morne, incarnation quasi parfaite de l’indolence adolescente.\nEt pourtant, à travers cette sélection, ce sont ces lieux, témoins bienveillants de l’enfance et du temps qui passe, que je souhaite partager. Il n’existe pas entre eux de liens, ou même de cohérence géographique, architecturale, d’usage… Ils sont réunis ici par le souvenir, que le temps est venu auréolé de merveilleux.  \nEn complète subjectivité, bienvenu chez moi. J’ai grandi en Mayenne, territoire de l’entre-deux : entre Rennes et Le Mans, entre la Bretagne et la Normandie… Dans cet entre-deux exempté de sentiment d’appartenance et plus encore de chauvinisme, il était de bon ton de ne pas s’attarder. Lycéen, nous avions envie d’ailleurs. De plus loin. De plus grand certainement. Aussi révolutionnaires que nous semblaient ces perspectives nouvelles, nous les avons imaginées dans des lieux familiers de notre enfance. Sans aucun regard alors pour ces espaces déjà foulés, snobant leur apparent immobilisme d’un œil morne, incarnation quasi parfaite de l’indolence adolescente.\nEt pourtant, à travers cette sélection, ce sont ces lieux, témoins bienveillants de l’enfance et du temps qui passe, que je souhaite partager. Il n’existe pas entre eux de liens, ou même de cohérence géographique, architecturale, d’usage… Ils sont réunis ici par le souvenir, que le temps est venu auréolé de merveilleux.  \nEn complète subjectivité, bienvenu chez moi. \n\n\n_ « J’avais cessé de me sentir médiocre, contingent, mortel. D’où avait pu me venir cette puissante joie ? **Je sentais qu’elle était liée au goût du thé et du gâteau, mais qu’elle le dépassait infiniment, ne devait pas être de même nature.** D’où venait-elle ? Que signifiait-elle ? Où l’appréhender ? Je bois une seconde gorgée où je ne trouve rien de plus que dans la première, une troisième qui m’apporte un peu moins que la seconde. Il est temps que je m’arrête, la vertu du breuvage semble diminuer**. Il est clair que la vérité que je cherche n’est pas en lui, mais en moi** »_\n(Du Côté de chez Swann, Marcel PROUST)\n\n",
+      "portrait": [
+        "recIwd1dZ2nHUd5WG"
+      ],
+      "en une": true,
+      "lieux": [
+        "recz8IN13SxTUTkuH",
+        "rec6HBg31w4QGilK7",
+        "recip6AUDWRn3ay2m",
+        "recFIz67ks1QZhY6g",
+        "recYrSxtRF9sXO848",
+        "reclSufNYYP7Qc64U"
+      ]
+    }
+  ],
+  "geolocalisation": [
+    47.826922,
+    -0.707237
+  ],
+  "présentation": "La décoration du Café **_Béguin Peltier_**, dit aujourd'hui **Café de la Mairie**, est inscrite au titre des monuments historiques depuis le 11 avril 1990\n",
+  "date": "1900",
+  "périodes": [
+    {
+      "id": "recxEeRygVzEPnLWh",
+      "lieux": [
+        "recFIz67ks1QZhY6g"
+      ],
+      "nom": "années 1900"
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "recTaI5JC3x6Rwa1i",
+      "nom": "Carl Schuller (céramiste)",
+      "maitre_oeuvre": [
+        "recFIz67ks1QZhY6g"
+      ]
+    },
+    {
+      "id": "recFH1d6QjMzj9uMR",
+      "nom": "Théodore Deck (Céramiste)",
+      "maitre_oeuvre": [
+        "recFIz67ks1QZhY6g"
+      ]
+    },
+    {
+      "id": "recNTTLKiaGroj5mf",
+      "nom": "Pierre-Louis Richard (Peintre)",
+      "maitre_oeuvre": [
+        "recFIz67ks1QZhY6g"
+      ]
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recXT4TItsP1IuLWU",
+      "maitre_ouvrage": [
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recahyhau12Ghaztg",
+        "recY5jgLHC0792Lr0",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V",
+        "rec6MZxevbNGiJ90H",
+        "recFIz67ks1QZhY6g",
+        "recYrSxtRF9sXO848",
+        "reclSufNYYP7Qc64U"
+      ],
+      "nom": "Privé"
+    }
+  ],
+  "médias": [
+    {
+      "id": "recwYFTawc6RbnqUz",
+      "titre": "café de la mairie château gontier",
+      "fichiers": [
+        {
+          "id": "attQi2eosBzvIcfBf",
+          "width": 1280,
+          "height": 960,
+          "url": "https://dl.airtable.com/.attachments/2d21c6f5a4e18c1b6529aa64bba9268e/6746106a/Caf_de_la_Mairie_5.JPG?ts=1651651311&userId=usrSG16S5bZ5oJVrY&cs=9a8b7cb889d026ae",
+          "filename": "Café_de_la_Mairie_5.JPG",
+          "size": 317092,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/fadb741a6e9b817e945b128cd68b1f02/8eb577dc?ts=1651651311&userId=usrSG16S5bZ5oJVrY&cs=33fbca22103833e2",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/2775119d704521260c39253143c6af7b/f90b98dd?ts=1651651311&userId=usrSG16S5bZ5oJVrY&cs=4055094ef370e127",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/ada2a55142f02dcbad536ce72113c2d0/7ee3f576?ts=1651651311&userId=usrSG16S5bZ5oJVrY&cs=379e866751691842",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Romain Bréget - licence CC",
+      "lieux": [
+        "recFIz67ks1QZhY6g"
+      ]
+    },
+    {
+      "id": "recD4CabExKGHjJjn",
+      "lieux": [
+        "recFIz67ks1QZhY6g"
+      ],
+      "titre": "café de la mairie chateau gontier",
+      "fichiers": [
+        {
+          "id": "attsGesmW05SRWnJO",
+          "width": 800,
+          "height": 600,
+          "url": "https://dl.airtable.com/.attachments/b10250a3b490a68760b2a5ed60eaab6b/3e851917/94322-this-image-was-uploaded-part-wiki-loves-monuments-.jpg?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=d118df3a7612b063",
+          "filename": "94322-this-image-was-uploaded-part-wiki-loves-monuments-.jpg",
+          "size": 125055,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/727e392098665c652d637909e15b5b0d/a4c2f1d7?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=0cdeb34dfb5366f5",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a3162ae5103b2bbaa5f4317f6accfc0d/b83315d3?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=0181ba28654f66f2",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/4b348d3fdeb23db11025aa076b6497a4/5be64f5c?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=3127ad18941528ea",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Romain Bréget - licence CC"
+    },
+    {
+      "id": "rec7no2ZO1tSrdmLn",
+      "lieux": [
+        "recFIz67ks1QZhY6g"
+      ],
+      "titre": "café de la mairie chateau gontier",
+      "credits": "Romain Bréget - licence CC",
+      "fichiers": [
+        {
+          "id": "attkKvw0po1pZWxNv",
+          "width": 800,
+          "height": 600,
+          "url": "https://dl.airtable.com/.attachments/33b30a5f92bf6e3888cd67d87565d6d7/04127fec/94327-this-image-was-uploaded-part-wiki-loves-monuments-.jpg?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=cc91402b7370d593",
+          "filename": "94327-this-image-was-uploaded-part-wiki-loves-monuments-.jpg",
+          "size": 109122,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/a6184f9e984f69258bb7a47101a45b27/acbf9122?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=44f5f4f43a69cd7f",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/d1eb0e714726772e04b2f230e5a0ac4a/d724419e?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=2c18afd83ae6a72c",
+              "width": 683,
+              "height": 512
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/64eaba4bfae73c71a2ece9147b09439f/9a5dd6eb?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=25d1908949c88b82",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "cover_media": {
+    "id": "recGA67NGOOC813p3",
+    "cover_lieux": [
+      "recFIz67ks1QZhY6g"
+    ],
+    "titre": "café de la mairie chateau gontier",
+    "fichiers": [
+      {
+        "id": "att8szib3x1exEQ1s",
+        "width": 800,
+        "height": 600,
+        "url": "https://dl.airtable.com/.attachments/a934746cbdc6a7222efa6e2ea3e15caf/1f24108c/94324-this-image-was-uploaded-part-wiki-loves-monuments-.jpg?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=5eb7635ff6d1543b",
+        "filename": "94324-this-image-was-uploaded-part-wiki-loves-monuments-.jpg",
+        "size": 122760,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/549c779755c8f60cdc6f0a971d524f61/fbbbb956?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=b14bddd7a1a64772",
+            "width": 48,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/b35bea3254d24913ea52d886ffd0c377/b2bb97bf?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=ee256d10119e0962",
+            "width": 683,
+            "height": 512
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/7e88abdd7a7c86e70e245e63ee41d96a/e0027093?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=53b36ddb0f348501",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "credits": "Romain Bréget - licence CC"
+  }
+}

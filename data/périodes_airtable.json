@@ -70,7 +70,8 @@
       "recq85i5LBfpWsp9R",
       "recYCyZT7T1N3nJUU",
       "rec66AkRp5IKwpx8e",
-      "rec7sRoLrqcLTfCUD"
+      "rec7sRoLrqcLTfCUD",
+      "rec6HBg31w4QGilK7"
     ],
     "nom": "années 2000"
   },
@@ -92,7 +93,8 @@
     "début": "1800-01-01",
     "fin": "1899-12-31",
     "lieux": [
-      "rec6MZxevbNGiJ90H"
+      "rec6MZxevbNGiJ90H",
+      "reclSufNYYP7Qc64U"
     ],
     "nom": "XIXème siècle"
   },
@@ -120,6 +122,15 @@
     ],
     "nom": "années 2020"
   },
+  "rectDhbx03n7FzdV7": {
+    "id": "rectDhbx03n7FzdV7",
+    "nom": "2ème moitié du XXième siècle",
+    "lieux": [
+      "recYrSxtRF9sXO848"
+    ],
+    "début": "1950-01-01",
+    "fin": "1999-12-31"
+  },
   "rectIY4LvjIh60mHP": {
     "id": "rectIY4LvjIh60mHP",
     "nom": "années 1950"
@@ -127,5 +138,12 @@
   "recvZzDZl9CjwwI2F": {
     "id": "recvZzDZl9CjwwI2F",
     "nom": "années 1980"
+  },
+  "recxEeRygVzEPnLWh": {
+    "id": "recxEeRygVzEPnLWh",
+    "lieux": [
+      "recFIz67ks1QZhY6g"
+    ],
+    "nom": "années 1900"
   }
 }

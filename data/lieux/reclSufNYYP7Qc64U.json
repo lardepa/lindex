@@ -1,0 +1,173 @@
+{
+  "id": "reclSufNYYP7Qc64U",
+  "nom": "Maison Faucheux, Parné sur Roc",
+  "dernière modification": "2022-05-04T08:00:34.000Z",
+  "présentation": "Le maçon Charles Fripier, auquel on doit beaucoup de réalisations à Parné-sur-Roc dans la deuxième moitié du 19ème siècle, a passé sa jeunesse et a commencé son activité dans une maison, aujourd’hui disparue, située au carrefour de la Grande Rue et de la rue de la Tannerie. Ce carrefour était appelé autrefois carrefour Beaubet (nom attesté dès 1672, déformé en Bon-Bec au 19ème siècle). Après qu’il ait déménagé au n° 13 de la Grande Rue, Fripier édifia au carrefour, en 1878, une maison nouvelle pour le frère de son épouse, Pierre Augustin Faucheux, couvreur de son état.\nDe dix ans postérieure au café qu’il avait construit au n° 25 de la Grande Rue, en haut de la rue aux Chèvres, cette maison présente la même exubérance décorative et exprime le même principe de polychromie permis par l’utilisation de la terre cuite. La surface de la façade est traitée de façon presque exactement identique : sur un fond de briques rouges, est tracé un treillis losangique, noir au rez-de-chaussée et blanc à l’étage, ponctué par un motif répété de quatre briques. La seule différence réside dans la couleur de ces ponctuations, de même couleur que le treillis dans le café, de couleur opposée dans la maison Faucheux. On trouve aussi, dans les deux cas, les mêmes consoles supportant l’appui de la lucarne.\nMais les points communs s’arrêtent là. Les lignes soulignant les ouvertures et la base du toit sont réalisées de manière bien différente. La terre cuite colorée est remplacée ici par le calcaire pour les encadrements et la corniche supérieure. Les petites rosaces en terre cuite, si fréquentes dans les autres réalisations de Fripier, ont disparu. De plus, on voit apparaître la réminiscence d’un style assez inattendu. Toutes les ouvertures sont surmontées d’un arc en accolade, lui-même prolongé par une ligne verticale. Cela évoque, mais de très loin et sous une forme extrêmement schématique, les arcs à pinacles du gothique finissant, comme si le goût néo-gothique venait pointer le bout de son nez. Il est vrai que l’ornementation des surfaces de briques peut avoir, elle aussi, une certaine source d’inspiration dans l’architecture de briques de l’extrême fin du 15ème siècle.\nToujours est-il qu’avec l’usage du calcaire, Charles Fripier fait une tentative qui n’aura pas de lendemain. Il montre au moins dans cette recherche, une fois de plus, sa capacité d’ouverture et d’évolution.\n\nTexte : Ville de Parné-sur-Roc\n",
+  "adresse": "2, grande rue, 53260 Parné-sur-Roc\n",
+  "département": "53 Mayenne",
+  "geolocalisation": [
+    48.005568,
+    -0.668753
+  ],
+  "type": [
+    {
+      "id": "recrpFA9KQQobRh6X",
+      "type_destination": "Logement",
+      "destination": "Maison",
+      "lieux": [
+        "recTr9BzAt1jG9yaJ",
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V",
+        "recf5C827P1uSq4ZR",
+        "reclSufNYYP7Qc64U"
+      ]
+    }
+  ],
+  "date": "1879",
+  "périodes": [
+    {
+      "id": "recVhrl84dZwOGR7N",
+      "début": "1800-01-01",
+      "fin": "1899-12-31",
+      "lieux": [
+        "rec6MZxevbNGiJ90H",
+        "reclSufNYYP7Qc64U"
+      ],
+      "nom": "XIXème siècle"
+    }
+  ],
+  "maitre_oeuvre": [
+    {
+      "id": "recAxGJNKaPid9yLw",
+      "nom": "Charles Fripier",
+      "maitre_oeuvre": [
+        "reclSufNYYP7Qc64U"
+      ]
+    }
+  ],
+  "maitre_ouvrage": [
+    {
+      "id": "recXT4TItsP1IuLWU",
+      "maitre_ouvrage": [
+        "recHVehEvNmwXAJIO",
+        "rechFw6KIHy4PVSUb",
+        "recahyhau12Ghaztg",
+        "recY5jgLHC0792Lr0",
+        "recRFuKGP2zlHup3A",
+        "rec5EHfAartf4PUHm",
+        "recATsZWxsng7iDNK",
+        "recLD9rnkZv8VOOLu",
+        "recrkntJi6bURIOSA",
+        "recwnakX0XGMKhW3V",
+        "rec6MZxevbNGiJ90H",
+        "recFIz67ks1QZhY6g",
+        "recYrSxtRF9sXO848",
+        "reclSufNYYP7Qc64U"
+      ],
+      "nom": "Privé"
+    }
+  ],
+  "status": "Publié",
+  "cover_media": {
+    "id": "recTDLLppXOSOV3Re",
+    "cover_lieux": [
+      "reclSufNYYP7Qc64U"
+    ],
+    "fichiers": [
+      {
+        "id": "att4CwNaBjcfmM6BV",
+        "width": 512,
+        "height": 768,
+        "url": "https://dl.airtable.com/.attachments/e3691ff93a6973cb4dcd0d30ec34ccd2/366a568a/IVR52_20115300171NUCA_P.jpg?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=8dc316642285f0ba",
+        "filename": "IVR52_20115300171NUCA_P.jpg",
+        "size": 122524,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/11275097000a26c8af8e6efd2f974fa5/ac65aada?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=f42503271bf62278",
+            "width": 24,
+            "height": 36
+          },
+          "large": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/176721d586c5ff068dc11cef9f0a29b2/61c848dd?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=9bed9258866a5f77",
+            "width": 512,
+            "height": 768
+          },
+          "full": {
+            "url": "https://dl.airtable.com/.attachmentThumbnails/41c58a30104fba46d2598804c774cdcb/79396802?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=1bdd2498cd36c337",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "titre": "maison faucheux",
+    "credits": "Ville de Parné-sur-Roc"
+  },
+  "médias": [
+    {
+      "id": "recU6RtqSl7frS9Aw",
+      "lieux": [
+        "reclSufNYYP7Qc64U"
+      ],
+      "titre": "maison faucheux",
+      "fichiers": [
+        {
+          "id": "attzoFA0JWvTS2bCL",
+          "width": 999,
+          "height": 1498,
+          "url": "https://dl.airtable.com/.attachments/f18106506b6ae2a337724d9636d847c9/d95125d1/53PARNE-09B01b-Gde-Rue-2-maison-Faucheux.jpg?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=b59f41db37332f2c",
+          "filename": "53PARNE-09B01b-Gde-Rue-2-maison-Faucheux.jpg",
+          "size": 686734,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/85271bf4df42e8002ee21ce8a94ea918/962baee6?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=76c4445923f2c98c",
+              "width": 24,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/c948ac746179fe4590de8497193501d5/92bc2978?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=3c348fa0bd1979ea",
+              "width": 512,
+              "height": 768
+            },
+            "full": {
+              "url": "https://dl.airtable.com/.attachmentThumbnails/0ebc0f264b9bad8f37bec1e3e8a8ac3d/b6ef0ba5?ts=1651651310&userId=usrSG16S5bZ5oJVrY&cs=0b3b3e7f06e8b6a9",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "credits": "Ville de Parné sur Roc"
+    }
+  ],
+  "sélections": [
+    {
+      "id": "reca03V0P2VRq7nb3",
+      "invité": "Clémence Marchand",
+      "dernière modification": "2022-05-04T08:00:34.000Z",
+      "status": "Publié",
+      "introduction": "Clémence Marchand est membre du CA de l'ardepa",
+      "édito": "J’ai grandi en Mayenne, territoire de l’entre-deux : entre Rennes et Le Mans, entre la Bretagne et la Normandie… Dans cet entre-deux exempté de sentiment d’appartenance et plus encore de chauvinisme, il était de bon ton de ne pas s’attarder. Lycéen, nous avions envie d’ailleurs. De plus loin. De plus grand certainement. Aussi révolutionnaires que nous semblaient ces perspectives nouvelles, nous les avons imaginées dans des lieux familiers de notre enfance. Sans aucun regard alors pour ces espaces déjà foulés, snobant leur apparent immobilisme d’un œil morne, incarnation quasi parfaite de l’indolence adolescente.\nEt pourtant, à travers cette sélection, ce sont ces lieux, témoins bienveillants de l’enfance et du temps qui passe, que je souhaite partager. Il n’existe pas entre eux de liens, ou même de cohérence géographique, architecturale, d’usage… Ils sont réunis ici par le souvenir, que le temps est venu auréolé de merveilleux.  \nEn complète subjectivité, bienvenu chez moi. J’ai grandi en Mayenne, territoire de l’entre-deux : entre Rennes et Le Mans, entre la Bretagne et la Normandie… Dans cet entre-deux exempté de sentiment d’appartenance et plus encore de chauvinisme, il était de bon ton de ne pas s’attarder. Lycéen, nous avions envie d’ailleurs. De plus loin. De plus grand certainement. Aussi révolutionnaires que nous semblaient ces perspectives nouvelles, nous les avons imaginées dans des lieux familiers de notre enfance. Sans aucun regard alors pour ces espaces déjà foulés, snobant leur apparent immobilisme d’un œil morne, incarnation quasi parfaite de l’indolence adolescente.\nEt pourtant, à travers cette sélection, ce sont ces lieux, témoins bienveillants de l’enfance et du temps qui passe, que je souhaite partager. Il n’existe pas entre eux de liens, ou même de cohérence géographique, architecturale, d’usage… Ils sont réunis ici par le souvenir, que le temps est venu auréolé de merveilleux.  \nEn complète subjectivité, bienvenu chez moi. \n\n\n_ « J’avais cessé de me sentir médiocre, contingent, mortel. D’où avait pu me venir cette puissante joie ? **Je sentais qu’elle était liée au goût du thé et du gâteau, mais qu’elle le dépassait infiniment, ne devait pas être de même nature.** D’où venait-elle ? Que signifiait-elle ? Où l’appréhender ? Je bois une seconde gorgée où je ne trouve rien de plus que dans la première, une troisième qui m’apporte un peu moins que la seconde. Il est temps que je m’arrête, la vertu du breuvage semble diminuer**. Il est clair que la vérité que je cherche n’est pas en lui, mais en moi** »_\n(Du Côté de chez Swann, Marcel PROUST)\n\n",
+      "portrait": [
+        "recIwd1dZ2nHUd5WG"
+      ],
+      "en une": true,
+      "lieux": [
+        "recz8IN13SxTUTkuH",
+        "rec6HBg31w4QGilK7",
+        "recip6AUDWRn3ay2m",
+        "recFIz67ks1QZhY6g",
+        "recYrSxtRF9sXO848",
+        "reclSufNYYP7Qc64U"
+      ]
+    }
+  ]
+}
