@@ -115,6 +115,7 @@ interface SelectionRoot {
   introduction: string;
   édito: string;
   "en une"?: boolean;
+  "dernière modification": Date;
 }
 
 export interface SelectionAirtable extends SelectionRoot {

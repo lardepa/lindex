@@ -1,7 +1,7 @@
 import { AirtableBase } from "airtable/lib/airtable_base";
 import fs from "fs";
 import Airtable from "airtable";
-import { flatten, keys, mapValues, sortBy, values } from "lodash";
+import { flatten, keys, mapValues, reverse, sortBy, values } from "lodash";
 import https from "https";
 import {
   Dataset,
@@ -56,13 +56,13 @@ const dumpObjects = (
 };
 const saveModelOnDisk = (
   modelName: string,
-  data: { [key: string]: LieuType | ParcoursType | SelectionType }
+  data: Array<LieuType | ParcoursType | SelectionType>
 ): void => {
   // write public objects
   fs.writeFileSync(
     `${process.env.DATA_PATH}/data/${modelName}.json`,
     JSON.stringify(
-      values(data).filter((o) => o.status === "Publié"),
+      data.filter((o) => o.status === "Publié"),
       null,
       2
     )
@@ -70,13 +70,13 @@ const saveModelOnDisk = (
   // write all including preview objects
   fs.writeFileSync(
     `${process.env.DATA_PATH}/data/${modelName}_preview.json`,
-    JSON.stringify(values(data), null, 2)
+    JSON.stringify(data, null, 2)
   );
 
   // write individual object json
   if (!fs.existsSync(`${process.env.DATA_PATH}/data/${modelName}`))
     fs.mkdirSync(`${process.env.DATA_PATH}/data/${modelName}/`);
-  values(data).forEach((o) => {
+  data.forEach((o) => {
     fs.writeFileSync(
       `${process.env.DATA_PATH}/data/${modelName}/${o.id}.json`,
       JSON.stringify(o, null, 2)
@@ -244,7 +244,7 @@ importAllTables().then(async (dataset) => {
       return lieu;
     }
   );
-  saveModelOnDisk("lieux", lieux);
+  saveModelOnDisk("lieux", values(lieux));
   // hydrate parcours
   const parcours: any = mapValues(
     dataset.parcours,
@@ -263,7 +263,7 @@ importAllTables().then(async (dataset) => {
       return p;
     }
   );
-  saveModelOnDisk("parcours", parcours);
+  saveModelOnDisk("parcours", values(parcours));
   // hydrate sélections
   const selections = mapValues(
     dataset.sélections,
@@ -279,7 +279,10 @@ importAllTables().then(async (dataset) => {
       return s;
     }
   );
-  saveModelOnDisk("selections", selections);
+  saveModelOnDisk(
+    "selections",
+    reverse(sortBy(values(selections), (s) => s["dernière modification"]))
+  );
   // en une objects
   const dateFormater = new Intl.DateTimeFormat("fr-FR", {
     weekday: "long",

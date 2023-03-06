@@ -20,13 +20,13 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
       } max-height-but-logo`}
     >
       <div className="presentation">Retrouvez les parcours proposés par l'Ardepa.</div>
-      <div className="parcours-list">
+      <div className="page-list">
         {parcours?.map((p) => (
           <LinkPreview to={`/parcours/${p.id}`}>
-            <div key={p.id} className="parcours-card">
+            <div key={p.id} className="page-list-card">
               {p.cover_media && p.cover_media?.fichiers && (
                 <div
-                  className="parcours-cover"
+                  className="page-list-cover"
                   style={{
                     backgroundImage: `url(${p.cover_media?.fichiers[0].thumbnails?.large?.url})`,
                     backgroundSize: "cover",
@@ -34,7 +34,7 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
                   }}
                 ></div>
               )}
-              <div className="parcours-title overflow-auto">
+              <div className="page-list-title overflow-auto">
                 <div className="title">{p.nom}</div>
                 <div className="subtitle">{p["sous-titre"]}</div>
               </div>

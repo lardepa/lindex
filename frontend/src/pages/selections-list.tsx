@@ -1,7 +1,7 @@
 import React from "react";
 import { SelectionType } from "../types";
 import { Map } from "../components/map/map";
-import { flatten } from "lodash";
+import { flatten, groupBy, reverse, sortBy, toPairs } from "lodash";
 import { PageLayout } from "../components/layout/page-layout";
 import { LinkPreview } from "../components/link-preview";
 import { useGetList } from "../hooks/useAPI";
@@ -20,25 +20,34 @@ const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
       } max-height-but-logo`}
     >
       <div className="presentation">L'Ardepa invite des citoyens à vous faire découvrir l'architecture.</div>
-      <div className="parcours-list">
-        {selections?.map((s) => (
-          <LinkPreview to={`/selections/${s.id}`}>
-            <div key={s.id} className="parcours-card">
-              {s.portrait && s.portrait?.fichiers && (
-                <div
-                  className="parcours-cover"
-                  style={{
-                    backgroundImage: `url(${s.portrait?.fichiers[0].thumbnails?.large?.url})`,
-                    backgroundSize: "cover",
-                    backgroundPosition: "center center",
-                  }}
-                ></div>
-              )}
-              <div className="parcours-title">
-                <div className="title">{s.invité}</div>
-              </div>
-            </div>
-          </LinkPreview>
+      <div className="page-list">
+        {reverse(
+          sortBy(toPairs(groupBy(selections, (s) => new Date(s["dernière modification"]).getFullYear())), ([y]) => y),
+        ).map(([year, selections], i) => (
+          <details open={i === 0}>
+            <summary>{year}</summary>
+            {selections.map((s) => (
+              <LinkPreview to={`/selections/${s.id}`}>
+                <div key={s.id} className="page-list-card">
+                  {s.portrait && s.portrait?.fichiers && (
+                    <div
+                      className="page-list-cover"
+                      style={{
+                        backgroundImage: `url(${s.portrait?.fichiers[0].thumbnails?.large?.url})`,
+                        backgroundSize: "cover",
+                        backgroundPosition: "center center",
+                      }}
+                    ></div>
+                  )}
+                  <div className="page-list-title">
+                    <div className="title">
+                      {s.invité} {new Date(s["dernière modification"]).getFullYear()}
+                    </div>
+                  </div>
+                </div>
+              </LinkPreview>
+            ))}
+          </details>
         ))}
       </div>{" "}
     </div>
