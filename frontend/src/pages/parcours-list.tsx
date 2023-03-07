@@ -2,12 +2,12 @@ import React from "react";
 import { ParcoursType } from "../types";
 import { Map } from "../components/map/map";
 import { flatten } from "lodash";
-import { PageLayout } from "../components/layout/page-layout";
 import { LinkPreview } from "../components/link-preview";
 import { useGetList } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
 import withSize from "../components/layout/with-size";
 import config from "../config";
+import { PageListLayout } from "../components/layout/page-list-layout";
 
 const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
   const [parcours, loading] = useGetList<ParcoursType>("parcours");
@@ -46,12 +46,12 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
   );
 
   return (
-    <PageLayout
+    <PageListLayout
       menuSelectedItem="parcours"
       leftContent={parcoursListWithTitle}
       rightContent={
         smallScreen ? null : (
-          <div style={{ gridArea: "2/1/2/4" }}>
+          <div className="w-100 h-100">
             {!loading && parcours && <Map lieux={flatten(parcours.map((p) => p.lieux))} className="listing-map" />}
             <Loader loading={loading} />
           </div>

@@ -2,12 +2,12 @@ import React from "react";
 import { SelectionType } from "../types";
 import { Map } from "../components/map/map";
 import { flatten, groupBy, reverse, sortBy, toPairs } from "lodash";
-import { PageLayout } from "../components/layout/page-layout";
 import { LinkPreview } from "../components/link-preview";
 import { useGetList } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
 import withSize from "../components/layout/with-size";
 import config from "../config";
+import { PageListLayout } from "../components/layout/page-list-layout";
 
 const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
   const [selections, loading] = useGetList<SelectionType>("selections");
@@ -53,12 +53,12 @@ const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
     </div>
   );
   return (
-    <PageLayout
+    <PageListLayout
       menuSelectedItem="selections"
       leftContent={selectionsListWithTitle}
       rightContent={
         smallScreen ? null : (
-          <div style={{ gridArea: "2/1/2/4" }}>
+          <div className="w-100 h-100">
             {!loading && selections && <Map lieux={flatten(selections.map((s) => s.lieux))} className="listing-map" />}
             <Loader loading={loading} />
           </div>
