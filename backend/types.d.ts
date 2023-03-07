@@ -112,8 +112,10 @@ interface SelectionRoot {
   id: string;
   invité: string;
   status: Status;
+  "sous-titre": string;
   introduction: string;
   édito: string;
+  date: Date;
   "en une"?: boolean;
   "dernière modification": Date;
 }
@@ -133,7 +135,7 @@ interface ParcoursRoot {
   édito: string;
   "sous-titre": string;
   status: Status;
-  date?: Date;
+  date: Date;
   expédition?: boolean;
   "en une"?: boolean;
 }

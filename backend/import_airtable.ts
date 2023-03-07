@@ -252,6 +252,7 @@ importAllTables().then(async (dataset) => {
       // replacing ids by foreign objects
       const p: ParcoursType = {
         ...parcoursAirtable,
+        date: parcoursAirtable.date || new Date(),
         lieux: (parcoursAirtable["lieux"] || []).map((l) => lieux[l]),
         médias:
           parcoursAirtable["médias"] &&
@@ -271,6 +272,7 @@ importAllTables().then(async (dataset) => {
       // replacing ids by foreign objects
       const s: SelectionType = {
         ...selectionAirtable,
+        date: selectionAirtable.date || new Date(),
         lieux: (selectionAirtable.lieux || []).map((l) => lieux[l]),
         portrait:
           selectionAirtable.portrait &&
@@ -281,7 +283,7 @@ importAllTables().then(async (dataset) => {
   );
   saveModelOnDisk(
     "selections",
-    reverse(sortBy(values(selections), (s) => s["dernière modification"]))
+    reverse(sortBy(values(selections), (s) => s.date))
   );
   // en une objects
   const dateFormater = new Intl.DateTimeFormat("fr-FR", {
