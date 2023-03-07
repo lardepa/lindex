@@ -162,21 +162,41 @@
   background-color: $color_parcours;
 }
 
-// TODO: refacto those style which are usefull in selection too
 .page-list {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
   margin: 0 1rem;
+  margin-bottom: 3rem;
+  .page-list-year {
+    display: contents;
+    summary {
+      border: $menu-border;
+      padding: 1rem;
+      margin: 0.5rem;
+    }
+    &.alt {
+      summary {
+        border: 0;
+        border-bottom: $menu-border;
+        width: 100%;
+      }
+    }
+  }
 
   .page-list-card {
-    display: flex;
-    flex-direction: row;
-    border-top: 1px black solid;
+    border: $menu-border;
+    margin: 0.5rem;
+
+    display: grid;
+    grid-template-areas: "cover content action";
+    grid-template-columns: 60px auto min-content;
 
     .page-list-cover {
-      width: 25%;
-      max-height: 100%;
+      height: 100%;
+      width: 60px;
       flex-shrink: 0;
+      grid-area: cover;
       // .media {
       //   img {
       //     object-fit: cover;
@@ -185,8 +205,9 @@
     }
 
     .page-list-title {
+      grid-area: content;
       padding: 0.5em 0 0.5em 1em;
-      min-height: 50px;
+      min-height: 60px;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -201,6 +222,16 @@
         font-weight: lighter;
         line-height: 1.25rem;
       }
+    }
+    .page-list-action {
+      grid-area: action;
+
+      padding: 0 0.5rem;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: nowrap;
     }
   }
   a:last-child > .parcours-card {

@@ -1,9 +1,14 @@
 import React from "react";
-import { MediaType } from "../../types";
+import { MediaType, Attachment } from "../../types";
 import Embed from "react-tiny-oembed";
 import config from "../../config";
 import PDF from "./pdf";
 import PDFSVG from "./pdf.svg";
+
+export const fileUrl = (file: Attachment, version: "small" | "large" | "full"): string => {
+  const ext = file.type.split("/").slice(-1)[0];
+  return `${config.DATA_URL}/attachments/${file.id}/${version}.${ext}`;
+};
 
 const Figure: React.FC<{ url: string; className?: string; pdf?: boolean; media: MediaType }> = ({
   url,
