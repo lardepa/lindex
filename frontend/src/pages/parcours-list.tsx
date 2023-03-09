@@ -3,7 +3,7 @@ import { TbMapPin, TbMapPinOff } from "react-icons/tb";
 
 import { ParcoursType } from "../types";
 import { Map } from "../components/map/map";
-import { flatten, groupBy, reverse, sortBy, toPairs } from "lodash";
+import { flatten, fromPairs, groupBy, mapValues, pick, reverse, sortBy, toPairs } from "lodash";
 import { LinkPreview } from "../components/link-preview";
 import { useGetList } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
@@ -84,6 +84,9 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
                   parcours
                     .filter((p) => selectedParcours.length === 0 || selectedParcours.includes(p.id))
                     .map((p) => p.lieux),
+                )}
+                itinaries={fromPairs(
+                  parcours.map((p) => [p.id, p.lieux.map((l) => pick(l, ["id", "geolocalisation"]))]),
                 )}
                 className="listing-map"
               />

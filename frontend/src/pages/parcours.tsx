@@ -11,6 +11,7 @@ import { Loader } from "../components/loader";
 import { LieuItem } from "../components/lieu/lieu-item";
 import withSize from "../components/layout/with-size";
 import config from "../config";
+import { pick } from "lodash";
 
 const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
   const { id } = useParams<{ id: string }>();
@@ -24,7 +25,12 @@ const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
           <div className="map-aside d-flex flex-column">
             <div className="rightHeader">{parcours["sous-titre"]}</div>
             {parcours.lieux && (
-              <Map lieux={parcours.lieux} className="map-in-menu" itinary={true} disableScroll={!!smallScreen} />
+              <Map
+                lieux={parcours.lieux}
+                className="map-in-menu"
+                itinaries={{ [parcours.id]: parcours.lieux.map((l) => pick(l, ["id", "geolocalisation"])) }}
+                disableScroll={!!smallScreen}
+              />
             )}
           </div>
           <div className="steps vertical-menu">

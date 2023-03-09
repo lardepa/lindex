@@ -12,17 +12,17 @@ import { MarkerIcon } from "./marker-icon";
 import { CenterMap } from "./center-map";
 import { LinkPreview } from "../link-preview";
 import { MetadataField } from "../lieu/lieu";
-import { uniq } from "lodash";
+import { toPairs, uniq } from "lodash";
 
 interface MapProps {
   lieux: LieuType[];
   className?: string;
-  itinary?: boolean;
+  itinaries?: Record<string, Pick<LieuType, "id" | "geolocalisation">[]>;
   disableScroll?: boolean;
 }
 
 export const Map: React.FC<MapProps> = (props) => {
-  const { lieux, className, itinary, disableScroll } = props;
+  const { lieux, className, itinaries, disableScroll } = props;
 
   // TODO: Change marker pixels size according to zoom? https://jsfiddle.net/falkedesign/nobapxvd/
 
@@ -83,14 +83,16 @@ export const Map: React.FC<MapProps> = (props) => {
             </Popup>
           </Marker>
         ))}
-      {itinary && (
-        <Polyline
-          pathOptions={{ color: "black", dashArray: "0 8" }}
-          positions={lieux
-            .filter((lieu) => lieu.geolocalisation)
-            .map((lieu) => lieu.geolocalisation as LatLngExpression)}
-        />
-      )}
+      {itinaries &&
+        toPairs(itinaries).map(([parcoursId, lieux]) => (
+          <Polyline
+            key={parcoursId}
+            pathOptions={{ color: "#7fa9fd", dashArray: "5,10", lineCap: "square" }}
+            positions={lieux
+              .filter((lieu) => lieu.geolocalisation)
+              .map((lieu) => lieu.geolocalisation as LatLngExpression)}
+          />
+        ))}
     </MapContainer>
   );
 };
