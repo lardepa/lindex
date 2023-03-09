@@ -1,4 +1,4 @@
-import { sortBy } from "lodash";
+import { flatten, sortBy } from "lodash";
 import { useEffect, useState } from "react";
 import { useHistory, useLocation } from "react-router";
 import filtersConfig from "../filters-config";
@@ -38,21 +38,22 @@ export const useQueryParamsState = (): [QueryParamsState, (queryParamsState: Que
 
 const queryParamsStateToQueryString = (state: QueryParamsState): string => {
   const { filtersParams, isPreview } = state;
-  let query: string[] = sortBy(
-    filtersParams.map(
-      ({ filter, values }) => `${encodeURIComponent(filter.key)}=${encodeURIComponent(values.join(","))}`,
-    ),
+
+  let query = new URLSearchParams(
+    sortBy(flatten(filtersParams.map(({ filter, values }) => values.map((value) => [filter.key, value])))),
   );
-  if (isPreview) query.push("preview");
-  return query.join("&");
+
+  if (isPreview) query.append("preview", "");
+
+  return query.toString();
 };
 
 const queryStringToQueryParamsState = (query: URLSearchParams): QueryParamsState => {
   // get filters params
   const filtersParams: FiltersParamType[] = [];
   filtersConfig.forEach((f) => {
-    const param = query.get(f.key);
-    if (param) filtersParams.push({ filter: f, values: param.split(",") });
+    const values = query.getAll(f.key);
+    if (values && values.length > 0) filtersParams.push({ filter: f, values });
   });
   // get preview
   const isPreview = query.get("preview") === "";
