@@ -22,7 +22,7 @@ const leafletICon = (SVGURL: any) =>
   new L.Icon({
     iconUrl: SVGURL,
     iconRetinaUrl: SVGURL,
-    iconSize: new L.Point(12, 12),
+    iconSize: new L.Point(18, 18),
   });
 
 const MarkerIcon = (destination: DestinationType | undefined) => {
