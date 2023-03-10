@@ -171,23 +171,74 @@
   .page-list-year {
     display: contents;
     summary {
-      border: $menu-border;
-      padding: 1rem;
-      margin: 0.5rem;
-    }
-    &.alt {
-      summary {
-        border: 0;
-        border-bottom: $menu-border;
-        width: 100%;
+      font-size: $h4-font-size;
+      font-family: $technical_font;
+      line-height: 50px;
+
+      border-bottom: $menu_strong_border;
+      width: 100%;
+
+      .active-badge {
+        vertical-align: super;
+        padding: 0.2rem 0.5rem;
+        color: $primary;
       }
+    }
+    &[open] {
+      .year-grid {
+        border-bottom: $menu_strong_border;
+      }
+      .active-badge {
+        display: none;
+      }
+    }
+
+    .year-grid {
+      display: grid;
+
+      grid-template-columns: 1fr 1fr;
+      &.solo-child {
+        grid-template-columns: 1fr;
+        a:last-child() {
+          .page-list-card {
+            border-bottom: 0;
+          }
+        }
+      }
+      grid-template-rows: auto;
+      column-gap: 1em;
+      width: 100%;
+      &:not(.solo-child) {
+        // target last row of our 2-columns grid
+        a:nth-child(2n + 1):nth-last-child(-n + 2),
+        a:nth-child(2n + 1):nth-last-child(-n + 2) ~ a {
+          .page-list-card {
+            border-bottom: 0;
+          }
+        }
+      }
+      > a {
+        display: contents;
+      }
+    }
+
+    .selections-highlighted {
+      background-color: $color_selections;
+    }
+    .selections-selected {
+      background-color: $color_selections_full !important;
+    }
+    .parcours-highlighted {
+      background-color: $color_parcours;
+    }
+    .parcours-selected {
+      background-color: $color_parcours_full !important;
     }
   }
 
   .page-list-card {
-    border: $menu-border;
-    margin: 0.5rem;
-
+    border-bottom: $menu_strong_border;
+    background-color: #fafaf8;
     display: grid;
     grid-template-areas: "cover content action";
     grid-template-columns: 60px auto min-content;
@@ -206,6 +257,7 @@
 
     .page-list-title {
       grid-area: content;
+
       padding: 0.5em 0 0.5em 1em;
       min-height: 60px;
       display: flex;

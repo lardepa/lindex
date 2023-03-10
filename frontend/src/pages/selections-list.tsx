@@ -67,73 +67,82 @@ const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
       <div className="page-list">
         {reverse(sortBy(toPairs(groupBy(selections, (s) => new Date(s.date).getFullYear())), ([y]) => y)).map(
           ([year, yearSelections], i) => {
+            const nbSelectedSelections = yearSelections.filter((s) => selectedSelections.includes(s.id)).length;
+            const nbHighlightedSelections = yearSelections.filter((s) => highlightedSelections.has(s.id)).length;
             const nbActiveSelections = yearSelections.filter(
               (s) => highlightedSelections.has(s.id) || selectedSelections.includes(s.id),
             ).length;
             return (
-              <details key={year} open={i === 0} className="page-list-year alt">
+              <details key={year} open={i === 0} className="page-list-year">
                 <summary>
-                  <span className="position-relative pe-2">
-                    {nbActiveSelections > 0 && (
-                      <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-secondary">
-                        {nbActiveSelections}
-                        <span className="visually-hidden">Selections survolées ou sélectionnées</span>
-                      </span>
-                    )}
-                    <span className="position-relative">{year}</span>
-                  </span>
-                </summary>
-                {yearSelections.map((s) => (
-                  <LinkPreview key={s.id} to={`/selections/${s.id}`}>
-                    <div
-                      className="page-list-card"
-                      style={{
-                        opacity: highlightedSelections.size !== 0 && !highlightedSelections.has(s.id) ? 0.5 : 1,
-                      }}
-                      onMouseOver={() => {
-                        setHighlightedSelections(new Set([s.id]));
-                        setHighlightedLieux(new Set(s.lieux.map((l) => l.id)));
-                      }}
-                      onMouseOut={() => {
-                        setHighlightedSelections(new Set([]));
-                        setHighlightedLieux(new Set([]));
-                      }}
+                  <span>{year}</span>
+                  {nbActiveSelections > 0 && (
+                    <span
+                      className={`active-badge badge rounded-circle ms-1  
+                            ${nbHighlightedSelections > 0 ? "selections-highlighted" : ""}
+                            ${nbSelectedSelections > 0 ? "selections-selected" : ""}`}
                     >
-                      {s.portrait && s.portrait?.fichiers && (
-                        <div
-                          className="page-list-cover"
-                          style={{
-                            backgroundImage: `url(${fileUrl(s.portrait?.fichiers[0], "large")})`,
-                            backgroundSize: "cover",
-                            backgroundPosition: "center center",
-                          }}
-                        ></div>
-                      )}
-                      <div className="page-list-title">
-                        <div className="title">{s.invité}</div>
-                        <div className="subtitle">{s["sous-titre"]}</div>
-                      </div>
-                      <button
-                        className="btn btn-icon page-list-action"
-                        title="Afficher sur la carte"
-                        onClick={(e) => {
-                          e.preventDefault();
-                          e.stopPropagation();
-                          if (selectedSelections.includes(s.id))
-                            setSelectedSelections(selectedSelections.filter((id) => id !== s.id));
-                          else setSelectedSelections([...selectedSelections, s.id]);
+                      {nbActiveSelections}
+                      <span className="visually-hidden">Selections survolées ou sélectionnées</span>
+                    </span>
+                  )}
+                </summary>
+                <div className="year-grid">
+                  {yearSelections.map((s) => (
+                    <LinkPreview key={s.id} to={`/selections/${s.id}`}>
+                      <div
+                        className={`page-list-card 
+                            ${highlightedSelections.has(s.id) ? "selections-highlighted" : ""}
+                             ${selectedSelections.includes(s.id) ? "selections-selected" : ""}
+                            `}
+                        // style={{
+                        //   opacity: highlightedSelections.size !== 0 && !highlightedSelections.has(s.id) ? 0.5 : 1,
+                        // }}
+                        onMouseOver={() => {
+                          setHighlightedSelections(new Set([s.id]));
+                          setHighlightedLieux(new Set(s.lieux.map((l) => l.id)));
+                        }}
+                        onMouseOut={() => {
+                          setHighlightedSelections(new Set([]));
+                          setHighlightedLieux(new Set([]));
                         }}
                       >
-                        {s.lieux.length}
-                        {selectedSelections.length === 0 || selectedSelections.includes(s.id) ? (
-                          <TbMapPin />
-                        ) : (
-                          <TbMapPinOff />
+                        {s.portrait && s.portrait?.fichiers && (
+                          <div
+                            className="page-list-cover"
+                            style={{
+                              backgroundImage: `url(${fileUrl(s.portrait?.fichiers[0], "large")})`,
+                              backgroundSize: "cover",
+                              backgroundPosition: "center center",
+                            }}
+                          ></div>
                         )}
-                      </button>
-                    </div>
-                  </LinkPreview>
-                ))}
+                        <div className="page-list-title">
+                          <div className="title">{s.invité}</div>
+                          <div className="subtitle">{s["sous-titre"]}</div>
+                        </div>
+                        <button
+                          className="btn btn-icon page-list-action"
+                          title="Afficher sur la carte"
+                          onClick={(e) => {
+                            e.preventDefault();
+                            e.stopPropagation();
+                            if (selectedSelections.includes(s.id))
+                              setSelectedSelections(selectedSelections.filter((id) => id !== s.id));
+                            else setSelectedSelections([...selectedSelections, s.id]);
+                          }}
+                        >
+                          {s.lieux.length}
+                          {selectedSelections.length === 0 || selectedSelections.includes(s.id) ? (
+                            <TbMapPin />
+                          ) : (
+                            <TbMapPinOff />
+                          )}
+                        </button>
+                      </div>
+                    </LinkPreview>
+                  ))}
+                </div>
               </details>
             );
           },
