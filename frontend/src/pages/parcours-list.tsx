@@ -1,9 +1,9 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { TbMapPin, TbMapPinOff } from "react-icons/tb";
 
-import { ParcoursType } from "../types";
+import { LieuType, ParcoursType } from "../types";
 import { Map } from "../components/map/map";
-import { flatten, fromPairs, groupBy, mapValues, pick, reverse, sortBy, toPairs } from "lodash";
+import { flatten, fromPairs, groupBy, pick, reverse, sortBy, toPairs, uniqBy } from "lodash";
 import { LinkPreview } from "../components/link-preview";
 import { useGetList } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
@@ -16,7 +16,50 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
   const [parcours, loading] = useGetList<ParcoursType>("parcours");
   const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.sm;
 
+  const [visibleLieux, setVisibleLieux] = useState<LieuType[]>([]);
   const [selectedParcours, setSelectedParcours] = useState<string[]>([]);
+  const [overLieu, setOverLieu] = useState<string | null>(null);
+  const [highlightedLieux, setHighlightedLieux] = useState<Set<string>>(new Set());
+  const [highlightedParcours, setHighlightedParcours] = useState<Set<string>>(new Set());
+
+  // lieux to display on map
+  useEffect(() => {
+    if (parcours)
+      setVisibleLieux(
+        uniqBy(
+          flatten(
+            parcours
+              .filter((s) => selectedParcours.length === 0 || selectedParcours.includes(s.id))
+              .map((s) => s.lieux),
+          ),
+          (l) => l.id,
+        ),
+      );
+  }, [parcours, selectedParcours]);
+
+  useEffect(() => {
+    if (overLieu) {
+      const hp = new Set<string>();
+      setHighlightedLieux(
+        new Set(
+          flatten(
+            parcours?.map((p) => {
+              const ids = p.lieux.map((l) => l.id);
+              if (ids.includes(overLieu)) {
+                hp.add(p.id);
+                return ids;
+              }
+              return [];
+            }),
+          ),
+        ),
+      );
+      setHighlightedParcours(hp);
+    } else {
+      setHighlightedParcours(new Set());
+      setHighlightedLieux(new Set());
+    }
+  }, [parcours, setHighlightedLieux, overLieu]);
 
   const parcoursListWithTitle = (
     <div
@@ -27,45 +70,76 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
       <div className="presentation">Retrouvez les parcours proposés par l'Ardepa.</div>
       <div className="page-list">
         {reverse(sortBy(toPairs(groupBy(parcours, (p) => new Date(p.date).getFullYear())), ([y]) => y)).map(
-          ([year, parcours], i) => (
-            <details key={year} open={i === 0} className="page-list-year">
-              <summary>{year}</summary>
-              {parcours.map((p) => (
-                <LinkPreview to={`/parcours/${p.id}`}>
-                  <div key={p.id} className="page-list-card">
-                    {p.cover_media && p.cover_media?.fichiers && (
-                      <div
-                        className="page-list-cover"
-                        style={{
-                          backgroundImage: `url(${fileUrl(p.cover_media?.fichiers[0], "large")})`,
-                          backgroundSize: "cover",
-                          backgroundPosition: "center center",
-                        }}
-                      ></div>
+          ([year, yearParcours], i) => {
+            const nbActiveParcours = yearParcours.filter(
+              (s) => highlightedParcours.has(s.id) || selectedParcours.includes(s.id),
+            ).length;
+            return (
+              <details key={year} open={i === 0} className="page-list-year">
+                <summary>
+                  <span className="position-relative pe-2">
+                    {nbActiveParcours > 0 && (
+                      <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-secondary">
+                        {nbActiveParcours}
+                        <span className="visually-hidden">Parcours survolées ou sélectionnées</span>
+                      </span>
                     )}
-                    <div className="page-list-title overflow-auto">
-                      <div className="title">{p.nom}</div>
-                      <div className="subtitle">{p["sous-titre"]}</div>
-                    </div>
-                    <button
-                      className="btn btn-icon page-list-action"
-                      title="Afficher sur la carte"
-                      onClick={(e) => {
-                        e.preventDefault();
-                        e.stopPropagation();
-                        if (selectedParcours.includes(p.id))
-                          setSelectedParcours(selectedParcours.filter((id) => id !== p.id));
-                        else setSelectedParcours([...selectedParcours, p.id]);
+                    <span className="position-relative">{year}</span>
+                  </span>
+                </summary>
+                {yearParcours.map((p) => (
+                  <LinkPreview to={`/parcours/${p.id}`}>
+                    <div
+                      key={p.id}
+                      className="page-list-card"
+                      style={{ opacity: highlightedParcours.size !== 0 && !highlightedParcours.has(p.id) ? 0.5 : 1 }}
+                      onMouseOver={() => {
+                        setHighlightedParcours(new Set([p.id]));
+                        setHighlightedLieux(new Set(p.lieux.map((l) => l.id)));
+                      }}
+                      onMouseOut={() => {
+                        setHighlightedParcours(new Set([]));
+                        setHighlightedLieux(new Set([]));
                       }}
                     >
-                      {p.lieux.length}
-                      {selectedParcours.length > 0 && selectedParcours.includes(p.id) ? <TbMapPinOff /> : <TbMapPin />}
-                    </button>
-                  </div>
-                </LinkPreview>
-              ))}
-            </details>
-          ),
+                      {p.cover_media && p.cover_media?.fichiers && (
+                        <div
+                          className="page-list-cover"
+                          style={{
+                            backgroundImage: `url(${fileUrl(p.cover_media?.fichiers[0], "large")})`,
+                            backgroundSize: "cover",
+                            backgroundPosition: "center center",
+                          }}
+                        ></div>
+                      )}
+                      <div className="page-list-title overflow-auto">
+                        <div className="title">{p.nom}</div>
+                        <div className="subtitle">{p["sous-titre"]}</div>
+                      </div>
+                      <button
+                        className="btn btn-icon page-list-action"
+                        title="Afficher sur la carte"
+                        onClick={(e) => {
+                          e.preventDefault();
+                          e.stopPropagation();
+                          if (selectedParcours.includes(p.id))
+                            setSelectedParcours(selectedParcours.filter((id) => id !== p.id));
+                          else setSelectedParcours([...selectedParcours, p.id]);
+                        }}
+                      >
+                        {p.lieux.length}
+                        {selectedParcours.length > 0 && selectedParcours.includes(p.id) ? (
+                          <TbMapPinOff />
+                        ) : (
+                          <TbMapPin />
+                        )}
+                      </button>
+                    </div>
+                  </LinkPreview>
+                ))}
+              </details>
+            );
+          },
         )}
       </div>
     </div>
@@ -80,15 +154,15 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
           <div className="w-100 h-100">
             {!loading && parcours && (
               <Map
-                lieux={flatten(
+                lieux={visibleLieux}
+                itinaries={fromPairs(
                   parcours
                     .filter((p) => selectedParcours.length === 0 || selectedParcours.includes(p.id))
-                    .map((p) => p.lieux),
-                )}
-                itinaries={fromPairs(
-                  parcours.map((p) => [p.id, p.lieux.map((l) => pick(l, ["id", "geolocalisation"]))]),
+                    .map((p) => [p.id, p.lieux.map((l) => pick(l, ["id", "geolocalisation"]))]),
                 )}
                 className="listing-map"
+                setOverLieu={setOverLieu}
+                highlightedLieux={highlightedLieux}
               />
             )}
             <Loader loading={loading} />
