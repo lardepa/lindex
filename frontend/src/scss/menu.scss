@@ -21,6 +21,9 @@
     font-size: 1rem;
     line-height: 0.5rem;
   }
+  .menu-item:last-child() {
+    padding-bottom: 1.5rem;
+  }
 }
 
 .horizontal-menu {

@@ -15,11 +15,11 @@ export const VerticalMenu: React.FC<{}> = () => (
       Les parcours de l'Ardepa
     </LinkPreview>
 
-    <LinkPreview to="/a-propos" className="about-item menu-item parcours selected">
+    <LinkPreview to="/a-propos" className=" menu-item parcours selected">
       Qui sommes nous ?
     </LinkPreview>
 
-    <LinkPreview to="/mentions-legales" className="about-item menu-item parcours selected">
+    <LinkPreview to="/mentions-legales" className=" menu-item parcours selected">
       Mentions légales
     </LinkPreview>
   </div>
