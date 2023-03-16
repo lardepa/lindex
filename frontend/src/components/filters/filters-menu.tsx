@@ -31,10 +31,17 @@ const FiltersMenu: React.FC<{
                       }
                 }
               >
-                <span>
-                  {filter.label}{" "}
-                  {filterParams && filterParams?.values.length !== 0 ? `(${filterParams?.values.length})` : ""}
+                <span className="flex-grow-1 " style={{ lineHeight: "35px" }}>
+                  <img src={filter.pictoURL} alt={""} height="30px" className="me-2" />
+                  {filter.label}
+                  {filterParams && filterParams?.values.length !== 0 && (
+                    <span className={`active-badge badge rounded-circle ms-1  explorer`} title="Filtres actifs">
+                      {filterParams?.values.length}
+                      <span className="visually-hidden">Filtres actifs</span>
+                    </span>
+                  )}
                 </span>
+
                 {!disable && <img src={PlusSVG} alt="open filter" height="10px" />}
               </div>
             );

@@ -21,6 +21,7 @@ export interface ConfigType {
 export interface FilterType {
   key: string; // used in URL to store state
   label: string; // used in UI for filter menu
+  pictoURL: string; // the icon URL
   getValueFromLieu: (lieu: LieuType) => string[]; // used to index filter values
   prefixLabel?: (plural: boolean) => string; //used to render the current filter state phrase
   hide?: boolean;

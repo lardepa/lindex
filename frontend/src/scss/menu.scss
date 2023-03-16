@@ -161,7 +161,11 @@
 .parcours.menu-item:hover {
   background-color: $color_parcours;
 }
-
+.active-badge {
+  vertical-align: super;
+  padding: 0.2rem 0.5rem;
+  color: $primary;
+}
 .page-list {
   display: flex;
   flex-direction: row;
@@ -177,12 +181,6 @@
 
       border-bottom: $menu_strong_border;
       width: 100%;
-
-      .active-badge {
-        vertical-align: super;
-        padding: 0.2rem 0.5rem;
-        color: $primary;
-      }
     }
     &[open] {
       .year-grid {

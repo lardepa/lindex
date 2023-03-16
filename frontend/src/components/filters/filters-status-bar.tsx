@@ -9,7 +9,7 @@ const FiltersStatusBar: React.FC<{ nbSelectedLieux: number; showMenu?: (show: bo
   const [queryParamsState] = useQueryParamsState();
   const { filtersParams } = queryParamsState;
   return (
-    <div className="filters-status-bar p-0" style={{ gridArea: "status-bar" }}>
+    <div className="filters-status-bar" style={{ gridArea: "status-bar" }}>
       {showMenu && (
         <button className="btn show-filter-menu" onClick={() => showMenu(true)}>
           <img height="80%" src={FiltersMenuIcon} alt="filters menu" />

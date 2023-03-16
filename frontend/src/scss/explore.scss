@@ -22,16 +22,32 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+
     .filter-value {
       font-size: 1.5rem;
+      @include media-breakpoint-down(md) {
+        font-size: 0.9rem;
+      }
       margin-bottom: 0.5rem;
-
+      border-radius: 2rem !important;
+      padding: 0.25rem 1rem !important;
+      font-weight: 700;
       &.selected {
         background-color: $primary;
         color: white;
+        .icon {
+          * {
+            stroke: white;
+          }
+        }
         //border: white 2px solid;
         &:hover {
           color: $primary;
+          .icon {
+            * {
+              stroke: $primary;
+            }
+          }
         }
       }
     }
@@ -53,9 +69,18 @@
   font-weight: bold;
   display: flex;
   flex-wrap: wrap;
-  .filter-value {
-    font-size: 1.875rem;
-    line-height: 1.875rem;
+  align-items: baseline;
+  .filter-value-container {
+    display: contents;
+
+    //margin-top: 0.25rem;
+
+    .filter-value {
+      font-size: 1.875rem;
+      line-height: 1.875rem;
+      flex-shrink: 1;
+      margin-bottom: 0.25rem;
+    }
   }
   .show-filter-menu {
     display: none;
@@ -78,10 +103,11 @@
   background-color: white;
   font-weight: bold;
   display: flex;
-  align-items: center;
-  color: #313138;
-
-  img {
+  color: $primary;
+  align-items: baseline;
+  .icon {
+    align-self: center;
+    stroke: $primary;
     margin-right: 0.5rem;
   }
 }
