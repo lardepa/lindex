@@ -46,18 +46,26 @@ export const ExplorePage: React.FC<{}> = () => {
   useEffect(() => {
     setFiltersOptions(
       filtersConfig.reduce((options, filter) => {
-        const filterParams = filtersParams.find((f) => f.filter.key === filter.key);
-        const selectedValues = filterParams ? filterParams.values : [];
+        const lieuxFilteredByOtherFilters = (lieux || []).filter(
+          (l) =>
+            l.geolocalisation &&
+            every(
+              filtersParams,
+              ({ filter: filterP, values }) =>
+                filterP === filter || some(filterP.getValueFromLieu(l), (v: string) => values.includes(v)),
+            ),
+        );
+
         return {
           ...options,
-          // options are : selected values (to allow unselect) + other available values in remaining lieux
+          // options are : all existing values in lieux filtered by other active filters
           [filter.key]: sortedUniq(
-            sortBy(selectedValues.concat(flatten((filteredLieux || []).map((l) => filter.getValueFromLieu(l))))),
+            sortBy(flatten((lieuxFilteredByOtherFilters || []).map((l) => filter.getValueFromLieu(l)))),
           ),
         };
       }, {}),
     );
-  }, [filteredLieux, filtersParams]);
+  }, [lieux, filtersParams]);
 
   return (
     <>
