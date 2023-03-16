@@ -223,16 +223,16 @@
     }
 
     .selections-highlighted {
-      background-color: $color_selections;
+      background-color: $color_selections !important;
     }
     .selections-selected {
-      background-color: $color_selections_full !important;
+      background-color: $color_selections_full;
     }
     .parcours-highlighted {
-      background-color: $color_parcours;
+      background-color: $color_parcours !important;
     }
     .parcours-selected {
-      background-color: $color_parcours_full !important;
+      background-color: $color_parcours_full;
     }
   }
 

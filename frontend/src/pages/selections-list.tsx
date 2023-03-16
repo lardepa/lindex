@@ -99,8 +99,10 @@ const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
                         //   opacity: highlightedSelections.size !== 0 && !highlightedSelections.has(s.id) ? 0.5 : 1,
                         // }}
                         onMouseOver={() => {
-                          setHighlightedSelections(new Set([s.id]));
-                          setHighlightedLieux(new Set(s.lieux.map((l) => l.id)));
+                          if (selectedSelections.length === 0 || selectedSelections.includes(s.id)) {
+                            setHighlightedSelections(new Set([s.id]));
+                            setHighlightedLieux(new Set(s.lieux.map((l) => l.id)));
+                          }
                         }}
                         onMouseOut={() => {
                           setHighlightedSelections(new Set([]));

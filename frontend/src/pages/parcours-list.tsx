@@ -102,10 +102,12 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
                         className={`page-list-card 
                               ${highlightedParcours.has(p.id) ? "parcours-highlighted" : ""}
                              ${selectedParcours.includes(p.id) ? "parcours-selected" : ""}`}
-                        style={{ opacity: highlightedParcours.size !== 0 && !highlightedParcours.has(p.id) ? 0.5 : 1 }}
+                        // style={{ opacity: highlightedParcours.size !== 0 && !highlightedParcours.has(p.id) ? 0.5 : 1 }}
                         onMouseOver={() => {
-                          setHighlightedParcours(new Set([p.id]));
-                          setHighlightedLieux(new Set(p.lieux.map((l) => l.id)));
+                          if (selectedParcours.length === 0 || selectedParcours.includes(p.id)) {
+                            setHighlightedParcours(new Set([p.id]));
+                            setHighlightedLieux(new Set(p.lieux.map((l) => l.id)));
+                          }
                         }}
                         onMouseOut={() => {
                           setHighlightedParcours(new Set([]));
