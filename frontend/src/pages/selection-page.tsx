@@ -61,7 +61,7 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
                   <ReactMarkdown className="metadata">{selection?.introduction}</ReactMarkdown>
                 </div>
               </div>
-              <div className="long-text px-3" style={{ gridArea: "main-content", marginTop: "0.6rem" }}>
+              <div className="long-text" style={{ gridArea: "main-content", marginTop: "0.6rem" }}>
                 <ReactMarkdown>{selection?.édito}</ReactMarkdown>
               </div>
               <div className="horizontal-carousel selection-medias" style={{ gridArea: "footer" }}>

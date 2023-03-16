@@ -38,7 +38,7 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
       {/* first 1/3 column */}
       <div
         style={{ gridArea: "col-content", marginTop: "0.6rem" }}
-        className={`d-flex flex-column justify-content-between`}
+        className={`d-flex flex-column justify-content-start`}
       >
         <div
           // className="flex-shrink-1 flex-grow-1 flex-basis-1"
@@ -48,7 +48,7 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
             lineHeight: "1.5rem",
             fontSize: "1.125em",
             flexGrow: 1,
-            height: smallScreen ? "auto" : "1px",
+            //height: smallScreen ? "auto" : "1px",
           }}
         >
           <h1 className="mb-3">{lieu.nom}</h1>
@@ -59,20 +59,8 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
               <Media media={lieu?.cover_media} cover />{" "}
             </div>
           )}
-          <div className="long-text" style={{ lineHeight: "1.45rem", fontSize: "1em" }}>
-            <ReactMarkdown>{lieu.présentation}</ReactMarkdown>
-          </div>
         </div>
-
-        {/*  MEDIAS in this olumn on small screen */}
-        {smallScreen && (
-          <div className="media-container">
-            {lieu?.médias?.map((m) => (
-              <Media key={m.id} media={m} />
-            ))}
-          </div>
-        )}
-        <div className=" metadata-panel flex-shrink-0">
+        <div className=" metadata-panel">
           {lieu.maitre_oeuvre && (
             <MetadataField filterKey="moeuvre" label="Maître d'œuvre" value={lieu.maitre_oeuvre.map((m) => m.nom)} />
           )}
@@ -103,7 +91,19 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
             </>
           )}
         </div>
+        <div className="long-text" style={{ lineHeight: "1.45rem", fontSize: "1em" }}>
+          <ReactMarkdown>{lieu.présentation}</ReactMarkdown>
+        </div>
+        {/*  MEDIAS in this column on small screen */}
+        {smallScreen && (
+          <div className="media-container">
+            {lieu?.médias?.map((m) => (
+              <Media key={m.id} media={m} />
+            ))}
+          </div>
+        )}
       </div>
+
       {/* seccond 2/3 column */}
       <div className="media-container" style={{ gridArea: "main-content", overflowY: "auto", overflowX: "hidden" }}>
         {lieu?.cover_media && <Media media={lieu?.cover_media} />}
