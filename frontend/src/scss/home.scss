@@ -14,7 +14,6 @@
   }
   .carousel-control-next,
   .carousel-control-prev {
-    display: none;
     position: unset;
     width: unset;
     .carousel-control-next-icon,
@@ -27,6 +26,7 @@
     position: unset;
     margin-bottom: 0;
     align-items: center;
+    margin: 0;
   }
   .carousel-controls {
     background-color: $color_default_text;

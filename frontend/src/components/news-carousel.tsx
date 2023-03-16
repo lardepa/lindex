@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import { useGetList } from "../hooks/useAPI";
 import { NewsType } from "../types";
 import { LinkPreview } from "./link-preview";
@@ -30,6 +30,19 @@ const NewsItem: React.FC<{ news: NewsType }> = ({ news }) => (
 export const NewsCarousel: React.FC<{}> = () => {
   const [news, loading] = useGetList<NewsType>("news");
   const [carouselIndex, setCarouselIndex] = useState<number>(0);
+  const [autoCarousel, setAutoCarousel] = useState<boolean>(true);
+
+  const next = useCallback(() => {
+    if (news) setCarouselIndex(carouselIndex !== news.length - 1 ? carouselIndex + 1 : 0);
+  }, [news, carouselIndex]);
+
+  useEffect(() => {
+    if (next && autoCarousel) {
+      const autoNext = setTimeout(next, 3000);
+      return () => clearTimeout(autoNext);
+    }
+    return;
+  }, [next, autoCarousel]);
 
   return (
     <>
@@ -48,16 +61,22 @@ export const NewsCarousel: React.FC<{}> = () => {
               className="carousel-control-prev"
               type="button"
               data-bs-target="#news-carousel"
-              onClick={() => setCarouselIndex(carouselIndex !== 0 ? carouselIndex - 1 : news.length - 1)}
+              onClick={() => {
+                setAutoCarousel(false);
+                setCarouselIndex(carouselIndex !== 0 ? carouselIndex - 1 : news.length - 1);
+              }}
             >
               <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span className="visually-hidden">Previous</span>
+              <span className="visually-hidden">Précédent</span>
             </button>
             <div className="carousel-indicators">
               {news?.map((n, i) => (
                 <button
                   type="button"
-                  onClick={() => setCarouselIndex(i)}
+                  onClick={() => {
+                    setAutoCarousel(false);
+                    setCarouselIndex(i);
+                  }}
                   className={`${i === carouselIndex ? "active" : ""}`}
                   data-bs-target="#news-carousel"
                   aria-current={i === carouselIndex}
@@ -68,11 +87,14 @@ export const NewsCarousel: React.FC<{}> = () => {
             <button
               className="carousel-control-next"
               data-bs-target="#news-carousel"
-              onClick={() => setCarouselIndex(carouselIndex !== news.length - 1 ? carouselIndex + 1 : 0)}
+              onClick={() => {
+                setAutoCarousel(false);
+                next();
+              }}
               type="button"
             >
               <span className="carousel-control-next-icon" aria-hidden="true"></span>
-              <span className="visually-hidden">Next</span>
+              <span className="visually-hidden">Suivant</span>
             </button>
           </div>
         </div>
