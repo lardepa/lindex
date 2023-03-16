@@ -31,7 +31,7 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
               // todo: change link to state in params
               <LieuItem lieu={l} className="selections" />
             ))}
-            <LinkPreview className="menu-item related" to="/sélections">
+            <LinkPreview className="menu-item related" to="/selections">
               Voir les autres sélections
             </LinkPreview>
           </div>
