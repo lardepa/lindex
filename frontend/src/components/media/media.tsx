@@ -10,13 +10,14 @@ export const fileUrl = (file: Attachment, version: "small" | "large" | "full"): 
   return `${config.DATA_URL}/attachments/${file.id}/${version}.${ext}`;
 };
 
-const Figure: React.FC<{ url: string; className?: string; pdf?: boolean; media: MediaType }> = ({
-  url,
-  media,
-  pdf,
-  className,
-}) => (
-  <figure className={`media ${className ? className : ""} ${pdf ? "pdf-page" : ""}`}>
+const Figure: React.FC<{
+  url: string;
+  className?: string;
+  pdf?: boolean;
+  media: MediaType;
+  onClick?: React.MouseEventHandler<HTMLElement>;
+}> = ({ url, media, pdf, className, onClick }) => (
+  <figure className={`media ${className ? className : ""} ${pdf ? "pdf-page" : ""}`} onClick={onClick}>
     {pdf && media.fichiers && media.fichiers[0] && (
       <a href={`${config.DATA_URL}/attachments/${media.fichiers[0].id}/full.pdf`} rel="noreferrer">
         <img src={PDFSVG} alt="télécharger le PDF" className="action" />
@@ -27,11 +28,12 @@ const Figure: React.FC<{ url: string; className?: string; pdf?: boolean; media: 
   </figure>
 );
 
-export const Media: React.FC<{ media: MediaType; cover?: boolean; forceRatio?: "force-height" | "force-width" }> = ({
-  media,
-  cover,
-  forceRatio,
-}) => {
+export const Media: React.FC<{
+  media: MediaType;
+  cover?: boolean;
+  forceRatio?: "force-height" | "force-width";
+  onClick?: React.MouseEventHandler<HTMLElement>;
+}> = ({ media, cover, forceRatio, onClick }) => {
   // media as files
   if (media.fichiers && media.fichiers.length > 0) {
     return (
@@ -46,7 +48,7 @@ export const Media: React.FC<{ media: MediaType; cover?: boolean; forceRatio?: "
               if (!forceRatio) forceRatio = ratio && ratio >= 1 ? "force-height" : "force-width";
               if (!cover)
                 return (
-                  <div className={`media ${forceRatio}`}>
+                  <div className={`media media-pdf ${forceRatio}`}>
                     <PDF
                       key={f.id}
                       file={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`}
@@ -56,16 +58,38 @@ export const Media: React.FC<{ media: MediaType; cover?: boolean; forceRatio?: "
                   </div>
                 );
               else
-                return <Figure key={f.id} pdf url={`${config.DATA_URL}/attachments/${f.id}/large.png`} media={media} />;
+                return (
+                  <Figure
+                    key={f.id}
+                    pdf
+                    url={`${config.DATA_URL}/attachments/${f.id}/large.png`}
+                    media={media}
+                    onClick={onClick}
+                  />
+                );
             default:
-              return <Figure key={f.id} url={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`} media={media} />;
+              return (
+                <Figure
+                  key={f.id}
+                  url={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`}
+                  media={media}
+                  onClick={onClick}
+                />
+              );
           }
         })}
       </>
     );
   }
   if (media.url) {
-    return <Embed url={media.url} />;
+    return onClick ? (
+      <div className="w-100 position-relative">
+        <div className="position-absolute top-0 start-0 w-100 h-100 cursor-pointer" onClick={onClick} />
+        <Embed url={media.url} />
+      </div>
+    ) : (
+      <Embed url={media.url} />
+    );
   }
   // bad media don't return nothing
   return <></>;

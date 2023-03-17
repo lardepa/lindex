@@ -4,6 +4,7 @@ import ReactMarkdown from "react-markdown";
 import config from "../../config";
 import { LieuType } from "../../types";
 import { LinkPreview } from "../link-preview";
+import { MediaGallery } from "../media/gallery";
 import { Media } from "../media/media";
 
 export const MetadataField: React.FC<{ label: string; filterKey: string; value: string | string[]; noLink?: Boolean }> =
@@ -33,6 +34,7 @@ export const MetadataField: React.FC<{ label: string; filterKey: string; value: 
 
 export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width }) => {
   const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.md;
+
   return (
     <>
       {/* first 1/3 column */}
@@ -106,10 +108,7 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
 
       {/* seccond 2/3 column */}
       <div className="media-container" style={{ gridArea: "main-content", overflowY: "auto", overflowX: "hidden" }}>
-        {lieu?.cover_media && <Media media={lieu?.cover_media} />}
-        {lieu?.médias?.map((m) => (
-          <Media key={m.id} media={m} />
-        ))}
+        <MediaGallery medias={(lieu?.cover_media ? [lieu.cover_media] : []).concat(lieu?.médias || [])} />
       </div>
     </>
   );
