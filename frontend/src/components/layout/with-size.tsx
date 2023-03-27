@@ -33,7 +33,7 @@ export default function withSize<T>(WrappedComponent: ComponentType<T & SizeStat
 
     render() {
       return (
-        <div ref={this.wrapper}>
+        <div ref={this.wrapper} className="w-100 h-100">
           <WrappedComponent {...(this.props as T)} {...this.state} />
         </div>
       );

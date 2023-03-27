@@ -164,14 +164,10 @@ h3 {
 
   .media:not(.media-pdf) {
     display: contents;
-    .caption {
-      left: auto;
-      right: auto;
-    }
   }
   figure > img {
-    height: 100%;
-    width: 100%;
+    max-height: 100%;
+    max-width: 100%;
     object-fit: contain;
   }
   .__embed {
@@ -199,6 +195,10 @@ h3 {
     display: flex;
     list-style: none;
     margin: 0;
+
+    @include media-breakpoint-down(md) {
+      display: none !important;
+    }
 
     li {
       cursor: pointer;
@@ -242,14 +242,13 @@ h3 {
   }
 
   .pdf-page {
-    //   // width: 100%;
+    width: fit-content;
     //   .react-pdf__Page__canvas {
     //     // height: 65vh !important;
     //     // width: unset !important;
     //     // max-width: 100% !important;
     //     // margin: 0 auto;
     //   }
-
     .react-pdf__Page__textContent {
       transform: unset !important;
       top: 0 !important;
@@ -259,6 +258,9 @@ h3 {
 }
 .pdf-page {
   border: $menu-border;
+}
+.react-pdf__Document {
+  width: fit-content;
 }
 .media-container:last-child {
   margin-bottom: 0;
@@ -275,10 +277,11 @@ figure {
     position: absolute;
     bottom: 0;
     right: 0;
-    background-color: rgba(lightgray, 0.3);
-    padding: 0.1rem;
+    background-color: rgba(lightgray, 0.8);
+    padding: 0.4rem;
     color: $color_default_text;
-    font-size: 0.5rem;
+    font-size: 0.8rem;
+    border-radius: 0.25rem 0 0 0;
   }
   .caption::before {
     content: "© ";
@@ -288,10 +291,17 @@ figure {
   position: relative;
   .action {
     position: absolute;
-    top: 0;
-    right: 0;
-    width: 1.5rem;
-    margin: 0.2rem;
+    top: auto;
+    bottom: auto;
+    left: 0;
+    * {
+      width: 1.5rem;
+      height: 1.5rem;
+    }
+    *:first-child {
+      margin-right: 0.5rem;
+    }
+
     z-index: 9;
   }
 }

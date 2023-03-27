@@ -99,9 +99,7 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
         {/*  MEDIAS in this column on small screen */}
         {smallScreen && (
           <div className="media-container">
-            {lieu?.médias?.map((m) => (
-              <Media key={m.id} media={m} />
-            ))}
+            <MediaGallery medias={(lieu?.cover_media ? [lieu.cover_media] : []).concat(lieu?.médias || [])} />
           </div>
         )}
       </div>

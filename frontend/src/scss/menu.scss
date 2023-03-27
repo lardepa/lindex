@@ -105,6 +105,7 @@
   .navbar-toggler {
     margin: 0.5rem;
     padding: 0.3rem 0.5rem;
+    background-color: adjust-color($color-grey-background, $alpha: -0.4);
   }
 }
 #burger-menu .vertical-menu {

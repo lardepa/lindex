@@ -4,6 +4,7 @@ import Embed from "react-tiny-oembed";
 import config from "../../config";
 import PDF from "./pdf";
 import PDFSVG from "./pdf.svg";
+import { GrDocumentPdf } from "react-icons/gr";
 
 export const fileUrl = (file: Attachment, version: "small" | "large" | "full"): string => {
   const ext = file.type.split("/").slice(-1)[0];
@@ -17,11 +18,15 @@ const Figure: React.FC<{
   media: MediaType;
   onClick?: React.MouseEventHandler<HTMLElement>;
 }> = ({ url, media, pdf, className, onClick }) => (
-  <figure className={`media ${className ? className : ""} ${pdf ? "pdf-page" : ""}`} onClick={onClick}>
-    {pdf && media.fichiers && media.fichiers[0] && (
-      <a href={`${config.DATA_URL}/attachments/${media.fichiers[0].id}/full.pdf`} rel="noreferrer">
-        <img src={PDFSVG} alt="télécharger le PDF" className="action" />
-      </a>
+  <figure
+    className={`media ${className ? className : ""} ${pdf ? "pdf-page" : ""}`}
+    role={onClick && "button"}
+    onClick={onClick}
+  >
+    {pdf && (
+      <div className="action" title="PDF">
+        <GrDocumentPdf />
+      </div>
     )}
     <img src={url} alt={media.nom} title={media.nom} />
     {media.credits && <div className="caption">{media.credits}</div>}
@@ -48,7 +53,7 @@ export const Media: React.FC<{
               if (!forceRatio) forceRatio = ratio && ratio >= 1 ? "force-height" : "force-width";
               if (!cover)
                 return (
-                  <div className={`media media-pdf ${forceRatio}`}>
+                  <div className={`media media-pdf w-100 h-100`}>
                     <PDF
                       key={f.id}
                       file={`${config.DATA_URL}/attachments/${f.id}/full.${ext}`}
@@ -84,7 +89,7 @@ export const Media: React.FC<{
   if (media.url) {
     return onClick ? (
       <div className="w-100 position-relative">
-        <div className="position-absolute top-0 start-0 w-100 h-100 cursor-pointer" onClick={onClick} />
+        <div className="position-absolute top-0 start-0 w-100 h-100" role="button" onClick={onClick} />
         <Embed url={media.url} />
       </div>
     ) : (
