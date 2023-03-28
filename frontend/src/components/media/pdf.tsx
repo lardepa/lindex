@@ -53,39 +53,41 @@ const _PDF: React.FC<PDFProps & SizeState> = ({ file, ratio, forceRatio, width, 
         onLoadSuccess={onDocumentLoadSuccess}
         loading={<PDFLoader width={realSize.width} height={realSize.height} />}
       >
-        {numPages && numPages > 1 && (
-          <div
-            className="d-flex justify-content-center align-items-center p-1 position-relative"
-            style={{ width: realSize.width, height: `${pageSelectionHeight}px` }}
-          >
-            <a href={file} rel="noreferrer" className="action" title="télécharger le PDF">
-              <GrDocumentPdf />
-              <GrDownload />
-            </a>
-
-            <button
-              className="btn me-4"
-              style={buttonStyle}
-              disabled={pageNumber <= 1}
-              onClick={() => setPageNumber(pageNumber - 1)}
-            >
-              &lt;
-            </button>
-            <span>
+        <div
+          className="d-flex justify-content-center align-items-center p-1 position-relative"
+          style={{ width: realSize.width, height: `${pageSelectionHeight}px` }}
+        >
+          <a href={file} rel="noreferrer" className="action" title="télécharger le PDF">
+            <GrDocumentPdf />
+            <GrDownload />
+          </a>
+          {numPages && numPages > 1 && (
+            <>
+              <button
+                className="btn me-4"
+                style={buttonStyle}
+                disabled={pageNumber <= 1}
+                onClick={() => setPageNumber(pageNumber - 1)}
+              >
+                &lt;
+              </button>
               <span>
-                Page {pageNumber} sur {numPages}
+                <span>
+                  Page {pageNumber} sur {numPages}
+                </span>
               </span>
-            </span>
-            <button
-              className="btn ms-4"
-              style={buttonStyle}
-              disabled={pageNumber >= numPages}
-              onClick={() => setPageNumber(pageNumber + 1)}
-            >
-              &gt;
-            </button>
-          </div>
-        )}
+              <button
+                className="btn ms-4"
+                style={buttonStyle}
+                disabled={pageNumber >= numPages}
+                onClick={() => setPageNumber(pageNumber + 1)}
+              >
+                &gt;
+              </button>
+            </>
+          )}
+        </div>
+
         <Page
           className="pdf-page"
           pageNumber={pageNumber}

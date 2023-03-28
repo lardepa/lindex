@@ -12,6 +12,7 @@ import { LieuItem } from "../components/lieu/lieu-item";
 import withSize from "../components/layout/with-size";
 import config from "../config";
 import { pick } from "lodash";
+import { MediaGallery } from "../components/media/gallery";
 
 const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
   const { id } = useParams<{ id: string }>();
@@ -78,9 +79,7 @@ const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
                 className={`${smallScreen ? "media-container" : "horizontal-carousel"} parcours-gallery `}
                 style={{ gridArea: smallScreen ? "media" : "footer" }}
               >
-                {parcours?.médias?.map((m) => (
-                  <Media key={m.id} media={m} forceRatio="force-height" cover />
-                ))}
+                <MediaGallery medias={parcours?.médias || []} />
               </div>
               {smallScreen && <div style={{ gridArea: "map" }}>{map}</div>}
             </>
