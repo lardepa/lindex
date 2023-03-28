@@ -40,7 +40,7 @@ export const MediaGallery: FC<{ medias: MediaType[] }> = ({ medias }) => {
           </div>
           <button
             type="button"
-            className="btn btn-icon position-absolute top-0 start-0"
+            className="btn btn-icon position-absolute top-0 end-0"
             style={{ margin: "0.5rem" }}
             aria-label="Fermer"
             onClick={() => {

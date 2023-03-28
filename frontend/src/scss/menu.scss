@@ -98,11 +98,17 @@
 #burger-menu {
   position: absolute;
   top: -100px;
-  right: 0;
+  left: 0;
   // leaflet control z-index is 1000
-  z-index: 1100;
-
+  z-index: 1200;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
   .navbar-toggler {
+    &.btn-close {
+      align-self: flex-end;
+    }
     margin: 0.5rem;
     padding: 0.3rem 0.5rem;
     background-color: adjust-color($color-grey-background, $alpha: -0.4);
@@ -111,6 +117,9 @@
 #burger-menu .vertical-menu {
   width: 100vw;
   display: flex;
+  a:last-child() {
+    padding-bottom: 0.6rem;
+  }
 }
 .logo {
   height: $logo-height;
@@ -130,6 +139,10 @@
 @include media-breakpoint-down(md) {
   .max-height-but-logo {
     height: auto;
+  }
+  .logo {
+    display: flex;
+    justify-content: flex-end;
   }
 }
 
@@ -207,15 +220,23 @@
           }
         }
       }
+      @include media-breakpoint-down(md) {
+        grid-template-columns: 1fr;
+        a:last-child() > .page-list-card {
+          border-bottom: 0;
+        }
+      }
       grid-template-rows: auto;
       column-gap: 1em;
       width: 100%;
-      &:not(.solo-child) {
-        // target last row of our 2-columns grid
-        a:nth-child(2n + 1):nth-last-child(-n + 2),
-        a:nth-child(2n + 1):nth-last-child(-n + 2) ~ a {
-          .page-list-card {
-            border-bottom: 0;
+      @include media-breakpoint-up(md) {
+        &:not(.solo-child) {
+          // target last row of our 2-columns grid
+          a:nth-child(2n + 1):nth-last-child(-n + 2),
+          a:nth-child(2n + 1):nth-last-child(-n + 2) ~ a {
+            .page-list-card {
+              border-bottom: 0;
+            }
           }
         }
       }

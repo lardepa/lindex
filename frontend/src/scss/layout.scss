@@ -144,6 +144,9 @@ h3 {
 @include media-breakpoint-down(md) {
   .page-list-layout-grid-container {
     grid-template-columns: 1fr;
+    .main-content {
+      display: none;
+    }
     grid-template-areas:
       "logo"
       "col-content";
@@ -152,6 +155,7 @@ h3 {
 
 // MEDIA
 .media-full-screen-gallery {
+  z-index: 1001;
   position: absolute;
   top: 0;
   left: 0;
