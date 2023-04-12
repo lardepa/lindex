@@ -3,7 +3,6 @@ import { MediaType, Attachment } from "../../types";
 import Embed from "react-tiny-oembed";
 import config from "../../config";
 import PDF from "./pdf";
-import PDFSVG from "./pdf.svg";
 import { GrDocumentPdf } from "react-icons/gr";
 
 export const fileUrl = (file: Attachment, version: "small" | "large" | "full"): string => {
