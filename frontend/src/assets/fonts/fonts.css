@@ -1,59 +1,94 @@
-@font-face {
-  font-family: "Neuzeit Grotesk";
-  src: url("NeuzeitGroExt-Bla.eot");
-  src: local("Neuzeit Grotesk Extra-condensed Black"), local("NeuzeitGroExt-Bla"),
-    url("NeuzeitGroExt-Bla.eot?#iefix") format("embedded-opentype"), url("NeuzeitGroExt-Bla.woff2") format("woff2"),
-    url("NeuzeitGroExt-Bla.woff") format("woff"), url("NeuzeitGroExt-Bla.ttf") format("truetype");
-  font-weight: 600;
-  font-style: normal;
-}
+/**
+ * @license
+ * MyFonts Webfont Build ID 3867246, 2020-12-16T11:57:38-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Neuzeit Grotesk Black by URW Type Foundry
+ * URL: https://www.myfonts.com/products/t-black-neuzeit-grotesk-332534
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Neuzeit Grotesk Bold by URW Type Foundry
+ * URL: https://www.myfonts.com/products/t-bold-neuzeit-grotesk-332531
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Neuzeit Grotesk Black Condensed by URW Type Foundry
+ * URL: https://www.myfonts.com/products/t-black-condensed-neuzeit-grotesk-332537
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Neuzeit Grotesk Black Extra Condensed by URW Type Foundry
+ * URL: https://www.myfonts.com/products/t-black-extra-condensed-neuzeit-grotesk-332540
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Neuzeit Grotesk Light by URW Type Foundry
+ * URL: https://www.myfonts.com/products/t-light-neuzeit-grotesk-332525
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Neuzeit Grotesk Regular by URW Type Foundry
+ * URL: https://www.myfonts.com/products/t-regular-neuzeit-grotesk-332528
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ * 
+ * © 2023 MyFonts Inc. */
 
-@font-face {
-  font-family: "Neuzeit Grotesk";
-  src: url("NeuzeitGro-Bla.eot");
-  src: local("Neuzeit Grotesk Black"), local("NeuzeitGro-Bla"),
-    url("NeuzeitGro-Bla.eot?#iefix") format("embedded-opentype"), url("NeuzeitGro-Bla.woff2") format("woff2"),
-    url("NeuzeitGro-Bla.woff") format("woff"), url("NeuzeitGro-Bla.ttf") format("truetype");
-  font-weight: 900;
-  font-style: normal;
-}
 
+  
 @font-face {
-  font-family: "Neuzeit Grotesk";
-  src: url("NeuzeitGro-Reg.eot");
-  src: local("Neuzeit Grotesk Regular"), local("NeuzeitGro-Reg"),
-    url("NeuzeitGro-Reg.eot?#iefix") format("embedded-opentype"), url("NeuzeitGro-Reg.woff2") format("woff2"),
-    url("NeuzeitGro-Reg.woff") format("woff"), url("NeuzeitGro-Reg.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Neuzeit Grotesk";
-  src: url("NeuzeitGro-Lig.eot");
-  src: local("Neuzeit Grotesk Light"), local("NeuzeitGro-Lig"),
-    url("NeuzeitGro-Lig.eot?#iefix") format("embedded-opentype"), url("NeuzeitGro-Lig.woff2") format("woff2"),
-    url("NeuzeitGro-Lig.woff") format("woff"), url("NeuzeitGro-Lig.ttf") format("truetype");
+  font-family: "NeuzeitGrotesk";
   font-weight: 300;
-  font-style: normal;
+  src: url('./NeuzeitGroteskLight/font.woff2') format('woff2'), url('./NeuzeitGroteskLight/font.woff') format('woff');
+}
+@font-face {
+  font-family: "NeuzeitGrotesk";
+  font-weight: 400;
+  src: url('./NeuzeitGroteskRegular/font.woff2') format('woff2'), url('./NeuzeitGroteskRegular/font.woff') format('woff');
+}
+@font-face {
+  font-family: "NeuzeitGrotesk";
+  font-weight: 700;
+  src: url('./NeuzeitGroteskBold/font.woff2') format('woff2'), url('./NeuzeitGroteskBold/font.woff') format('woff');
+}
+@font-face {
+  font-family: "NeuzeitGrotesk";
+  font-weight: 900;
+  src: url('./NeuzeitGroteskBlack/font.woff2') format('woff2'), url('./NeuzeitGroteskBlack/font.woff') format('woff');
+}
+@font-face {
+  font-family: "NeuzeitGrotesk";
+  font-weight: 900;
+  font-stretch: condensed;
+  src: url('./NeuzeitGroteskBlackCondensed/font.woff2') format('woff2'), url('./NeuzeitGroteskBlackCondensed/font.woff') format('woff');
+}
+@font-face {
+  font-family: "NeuzeitGrotesk";
+  font-weight: 900;
+  font-stretch: extra-condensed;
+  src: url('./NeuzeitGroteskBlackExtraCondensed/font.woff2') format('woff2'), url('./NeuzeitGroteskBlackExtraCondensed/font.woff') format('woff');
 }
 
+/**
+* PPNeueMachina-Inktrap
+**/
 @font-face {
-  font-family: "Neuzeit Grotesk";
-  src: url("NeuzeitGro-Bol.eot");
-  src: local("Neuzeit Grotesk Bold"), local("NeuzeitGro-Bol"),
-    url("NeuzeitGro-Bol.eot?#iefix") format("embedded-opentype"), url("NeuzeitGro-Bol.woff2") format("woff2"),
-    url("NeuzeitGro-Bol.woff") format("woff"), url("NeuzeitGro-Bol.ttf") format("truetype");
-  font-weight: bold;
-  font-style: normal;
+  font-family: "PPNeueMachina";
+  font-weight: 700;
+  src: url('./PPNeueMachina-InktrapBold.woff2') format('woff2'), url('./PPNeueMachina-InktrapBold.woff') format('woff');
 }
-
 @font-face {
-  font-family: "Neuzeit Grotesk";
-  src: url("NeuzeitGroCon-Bla.eot");
-  src: local("Neuzeit Grotesk Condensed Black"), local("NeuzeitGroCon-Bla"),
-    url("NeuzeitGroCon-Bla.eot?#iefix") format("embedded-opentype"), url("NeuzeitGroCon-Bla.woff2") format("woff2"),
-    url("NeuzeitGroCon-Bla.woff") format("woff"), url("NeuzeitGroCon-Bla.ttf") format("truetype");
-  font-weight: 500;
-  font-style: normal;
+  font-family: "PPNeueMachina";
+  font-weight: 700;
+  font-style: italic;
+  src: url('./PPNeueMachina-InktrapBoldItalic.woff2') format('woff2'), url('./PPNeueMachina-InktrapBoldItalic.woff') format('woff');
+}
+@font-face {
+  font-family: "PPNeueMachina";
+  src: url('./PPNeueMachina-InktrapRegular.woff2') format('woff2'), url('./PPNeueMachina-InktrapRegular.woff') format('woff');
+}
+@font-face {
+  font-family: "PPNeueMachina";
+  font-style: italic;
+  src: url('./PPNeueMachina-InktrapRegularItalic.woff2') format('woff2'), url('./PPNeueMachina-InktrapRegularItalic.woff') format('woff');
 }
