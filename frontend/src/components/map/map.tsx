@@ -1,5 +1,5 @@
-import React, { useMemo } from "react";
-import { MapContainer, TileLayer, Popup, Polyline, Marker, ScaleControl } from "react-leaflet";
+import React, { useEffect, useMemo, useState } from "react";
+import { MapContainer, TileLayer, Popup, Polyline, Marker, ScaleControl, ZoomControl, GeoJSON } from "react-leaflet";
 import { LatLngExpression, LeafletEventHandlerFnMap } from "leaflet";
 import { toPairs, uniq } from "lodash";
 
@@ -12,7 +12,7 @@ import { MarkerIcon } from "./marker-icon";
 import { CenterMap } from "./center-map";
 import { LinkPreview } from "../link-preview";
 import { MetadataField } from "../lieu/lieu";
-
+import { GeoJsonObject } from "geojson";
 interface MapProps {
   lieux: LieuType[];
   className?: string;
@@ -25,6 +25,7 @@ interface MapProps {
 export const Map: React.FC<MapProps> = (props) => {
   const { lieux, className, itinaries, disableScroll, setOverLieu, highlightedLieux } = props;
 
+  const [contours, setContours] = useState<GeoJsonObject | null>(null);
   // TODO: Change marker pixels size according to zoom? https://jsfiddle.net/falkedesign/nobapxvd/
 
   const eventHandlersFactory: (lieu: LieuType) => LeafletEventHandlerFnMap = useMemo(
@@ -42,10 +43,27 @@ export const Map: React.FC<MapProps> = (props) => {
     [setOverLieu],
   );
 
+  useEffect(() => {
+    if (contours === null) {
+      fetch(`${process.env.PUBLIC_URL}/234400034_contours-paysdelaloire.json`)
+        .then((response) => {
+          if (response.status === 200) response.json().then((data) => setContours(data));
+        })
+        .catch((e) => console.log("can't retrieve contours", e));
+    }
+  }, [contours, setContours]);
+
   return (
     lieux && (
-      <MapContainer center={[47.207562, -1.557635]} zoom={15} scrollWheelZoom={!disableScroll} className={className}>
+      <MapContainer
+        center={[47.207562, -1.557635]}
+        zoom={15}
+        scrollWheelZoom={!disableScroll}
+        className={className}
+        zoomControl={false}
+      >
         <CenterMap lieux={lieux} />
+        <ZoomControl position="topright" />
         <ScaleControl position="bottomleft" metric={true} imperial={false} />
         <TileLayer
           attribution={config.MAP_LAYERS[config.MAP_LAYER].TILE_CREDITS}
@@ -61,7 +79,7 @@ export const Map: React.FC<MapProps> = (props) => {
               eventHandlers={eventHandlersFactory(lieu)}
               opacity={!highlightedLieux || highlightedLieux.size === 0 || highlightedLieux.has(lieu.id) ? 1 : 0.5}
             >
-              <Popup className="lieu-popup">
+              <Popup className="lieu-popup" maxWidth={500}>
                 <LinkPreview className="d-flex flex-column" to={`/lieux/${lieu.id}`}>
                   <h5>{lieu.nom}</h5>
 
@@ -119,6 +137,7 @@ export const Map: React.FC<MapProps> = (props) => {
                 .map((lieu) => lieu.geolocalisation as LatLngExpression)}
             />
           ))}
+        {contours && <GeoJSON data={contours} style={{ fill: false, color: "#313138", weight: 1 }} />}
       </MapContainer>
     )
   );

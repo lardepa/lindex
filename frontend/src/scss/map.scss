@@ -36,15 +36,39 @@
       }
       .media {
         width: 100%;
+        margin-bottom: 0.5rem;
       }
       h5 {
         padding: 0.8rem;
         font-weight: bold;
-        min-width: 301px;
 
         font-family: $technical_font;
       }
       text-decoration: none;
+    }
+  }
+}
+
+.map-in-menu {
+  position: relative;
+  .metadata-panel {
+    display: none;
+  }
+  .leaflet-popup-content {
+    width: 200px !important;
+  }
+}
+
+:not(.map-in-menu) {
+  .leaflet-popup-content {
+    @include media-breakpoint-up(md) {
+      width: 400px;
+    }
+    @include media-breakpoint-down(md) {
+      width: 300px !important;
+    }
+    @include media-breakpoint-down(sm) {
+      width: 80vw !important;
     }
   }
 }
