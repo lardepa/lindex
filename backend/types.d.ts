@@ -115,6 +115,7 @@ interface SelectionRoot {
   "sous-titre": string;
   introduction: string;
   édito: string;
+  soundcloud: string;
   date: Date;
   "en une"?: boolean;
   "dernière modification": Date;

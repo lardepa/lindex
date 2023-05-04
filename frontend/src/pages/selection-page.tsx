@@ -11,6 +11,7 @@ import { LinkPreview } from "../components/link-preview";
 import { DestinationSVG } from "../components/map/marker-icon";
 import config from "../config";
 import withSize from "../components/layout/with-size";
+import Embed from "react-tiny-oembed";
 
 export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
   const { id } = useParams<{ id: string }>();
@@ -62,6 +63,9 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
                 </div>
               </div>
               <div className="long-text" style={{ gridArea: "main-content", marginTop: "0.6rem" }}>
+                {selection.soundcloud && (
+                  <Embed options={{ maxheight: 100 }} url={selection.soundcloud} style={{ marginBottom: "1rem" }} />
+                )}
                 <ReactMarkdown>{selection?.édito}</ReactMarkdown>
               </div>
               <div className="horizontal-carousel selection-medias" style={{ gridArea: "footer" }}>
