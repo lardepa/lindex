@@ -1,7 +1,15 @@
 import { AirtableBase } from "airtable/lib/airtable_base";
 import fs from "fs";
 import Airtable from "airtable";
-import { flatten, keys, mapValues, reverse, sortBy, values } from "lodash";
+import {
+  flatten,
+  keys,
+  mapValues,
+  replace,
+  reverse,
+  sortBy,
+  values,
+} from "lodash";
 import https from "https";
 import {
   Dataset,
@@ -18,6 +26,18 @@ import {
 
 // load .env variables into process.env
 require("dotenv").config();
+
+const sanitizeAirTableMarkdown = (markdown: string): string => {
+  let sanitized = markdown;
+  // trailing whitespace in bold outside markers "**something **" => "**something** "
+  sanitized = replace(
+    sanitized,
+    /\*\*([ \s]*)([^*]*[^ \s])([ \s]*)\*\*/g,
+    "$1**$2**$3"
+  );
+
+  return sanitized;
+};
 
 const dumpObjects = (
   base: AirtableBase,
@@ -206,6 +226,7 @@ importAllTables().then(async (dataset) => {
       // replacing ids by foreign objects
       const lieu: LieuType = {
         ...lieuAirtable,
+        présentation: sanitizeAirTableMarkdown(lieuAirtable["présentation"]),
         maitre_oeuvre:
           lieuAirtable["maitre_oeuvre"] &&
           flatten([lieuAirtable["maitre_oeuvre"]]).map(
@@ -252,6 +273,7 @@ importAllTables().then(async (dataset) => {
       // replacing ids by foreign objects
       const p: ParcoursType = {
         ...parcoursAirtable,
+        édito: sanitizeAirTableMarkdown(parcoursAirtable.édito),
         date: parcoursAirtable.date || new Date(),
         lieux: (parcoursAirtable["lieux"] || []).map((l) => lieux[l]),
         médias:
@@ -272,6 +294,8 @@ importAllTables().then(async (dataset) => {
       // replacing ids by foreign objects
       const s: SelectionType = {
         ...selectionAirtable,
+        édito: sanitizeAirTableMarkdown(selectionAirtable.édito),
+        introduction: sanitizeAirTableMarkdown(selectionAirtable.introduction),
         date: selectionAirtable.date || new Date(),
         lieux: (selectionAirtable.lieux || []).map((l) => lieux[l]),
         portrait:
@@ -345,9 +369,12 @@ importAllTables().then(async (dataset) => {
   fs.writeFileSync(
     `${process.env.DATA_PATH}/data/a_propos.json`,
     JSON.stringify(
-      values(dataset["contenus"]).filter(
-        (n: ContenuType) => n.page === "à propos"
-      ),
+      values(dataset["contenus"])
+        .filter((n: ContenuType) => n.page === "à propos")
+        .map((c) => ({
+          ...c,
+          contenu: sanitizeAirTableMarkdown(c.contenu),
+        })),
       null,
       2
     )
@@ -355,9 +382,12 @@ importAllTables().then(async (dataset) => {
   fs.writeFileSync(
     `${process.env.DATA_PATH}/data/mentions_legales.json`,
     JSON.stringify(
-      values(dataset["contenus"]).filter(
-        (n: ContenuType) => n.page === "mentions légales"
-      ),
+      values(dataset["contenus"])
+        .filter((n: ContenuType) => n.page === "mentions légales")
+        .map((c) => ({
+          ...c,
+          contenu: sanitizeAirTableMarkdown(c.contenu),
+        })),
       null,
       2
     )
