@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect } from "react";
+import React, { useEffect } from "react";
 import { Logo } from "../components/logo";
 import { VerticalMenu } from "../components/layout/vertical-menu";
 import { useGetList } from "../hooks/useAPI";
@@ -17,7 +17,6 @@ const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }
   useEffect(() => {
     if (location.hash !== "") {
       const title = document.getElementById(decodeURIComponent(location.hash.slice(1)));
-      console.log(title);
       if (title) title.scrollIntoView();
     }
   }, [location.hash]);
