@@ -166,4 +166,5 @@ export interface ContenuType {
   section: string;
   page: "à propos" | "mentions légales";
   contenu: string;
+  ordre: number;
 }

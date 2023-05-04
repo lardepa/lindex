@@ -369,12 +369,15 @@ importAllTables().then(async (dataset) => {
   fs.writeFileSync(
     `${process.env.DATA_PATH}/data/a_propos.json`,
     JSON.stringify(
-      values(dataset["contenus"])
-        .filter((n: ContenuType) => n.page === "à propos")
-        .map((c) => ({
-          ...c,
-          contenu: sanitizeAirTableMarkdown(c.contenu),
-        })),
+      sortBy(
+        values(dataset["contenus"])
+          .filter((n: ContenuType) => n.page === "à propos")
+          .map((c) => ({
+            ...c,
+            contenu: sanitizeAirTableMarkdown(c.contenu),
+          })),
+        (c) => c.ordre
+      ),
       null,
       2
     )
@@ -382,12 +385,15 @@ importAllTables().then(async (dataset) => {
   fs.writeFileSync(
     `${process.env.DATA_PATH}/data/mentions_legales.json`,
     JSON.stringify(
-      values(dataset["contenus"])
-        .filter((n: ContenuType) => n.page === "mentions légales")
-        .map((c) => ({
-          ...c,
-          contenu: sanitizeAirTableMarkdown(c.contenu),
-        })),
+      sortBy(
+        values(dataset["contenus"])
+          .filter((n: ContenuType) => n.page === "mentions légales")
+          .map((c) => ({
+            ...c,
+            contenu: sanitizeAirTableMarkdown(c.contenu),
+          })),
+        (c) => c.ordre
+      ),
       null,
       2
     )

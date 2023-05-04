@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useCallback, useEffect } from "react";
 import { Logo } from "../components/logo";
 import { VerticalMenu } from "../components/layout/vertical-menu";
 import { useGetList } from "../hooks/useAPI";
@@ -13,6 +13,14 @@ import { BurgerMenu } from "../components/layout/BurgerMenu";
 const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }) => {
   const [contenus, loading] = useGetList<ContenuType>(contentType.modelName);
   const location = useLocation();
+
+  useEffect(() => {
+    if (location.hash !== "") {
+      const title = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+      console.log(title);
+      if (title) title.scrollIntoView();
+    }
+  }, [location.hash]);
 
   return (
     <div className="container-fluid">
@@ -29,34 +37,35 @@ const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }
             <VerticalMenu />
           </div>
         </div>
-        <div className="col-sm-6 col-lg-8 col-xl-9 px-0 d-flex">
-          {!loading && contenus && (
-            <>
-              <nav className="nav vertical-menu d-none d-sm-none d-lg-flex" style={{ width: "33%" }}>
+
+        {!loading && contenus && (
+          <>
+            <div className="d-none d-sm-none d-lg-flex col-lg-2 col-xl-2 px-0">
+              <nav className="nav vertical-menu  d-flex w-100">
                 {contenus?.map((c) => (
                   <Link to={{ hash: encodeURIComponent(c.section) }} key={c.id} className="menu-item">
                     {c.section}
                   </Link>
                 ))}
               </nav>
-              <div className="flex-grow-1 p-3">
-                <h1>{contentType.title}</h1>
-                {contenus.map((c) => (
-                  <div key={c.id}>
-                    <h2
-                      id={c.section}
-                      className={decodeURIComponent(location.hash).includes(c.section) ? "selected" : ""}
-                    >
-                      {c.section}
-                    </h2>
-                    <ReactMarkdown>{c.contenu}</ReactMarkdown>
-                  </div>
-                ))}
-              </div>
-            </>
-          )}
-          <Loader loading={loading} />
-        </div>
+            </div>
+            <div className="col-sm-6 col-lg-6 col-xl-7 p-3 full-height  overflow-scroll">
+              <h1>{contentType.title}</h1>
+              {contenus.map((c) => (
+                <div key={c.id}>
+                  <h2
+                    id={c.section}
+                    className={decodeURIComponent(location.hash).includes(c.section) ? "selected" : ""}
+                  >
+                    {c.section}
+                  </h2>
+                  <ReactMarkdown className="long-text">{c.contenu}</ReactMarkdown>
+                </div>
+              ))}
+            </div>
+          </>
+        )}
+        <Loader loading={loading} />
       </div>
     </div>
   );
