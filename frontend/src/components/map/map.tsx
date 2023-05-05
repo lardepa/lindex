@@ -2,9 +2,10 @@ import React, { useEffect, useMemo, useState } from "react";
 import { MapContainer, TileLayer, Popup, Polyline, Marker, ScaleControl, ZoomControl, GeoJSON } from "react-leaflet";
 import { LatLngExpression, LeafletEventHandlerFnMap } from "leaflet";
 import { toPairs, uniq } from "lodash";
+import { HiInformationCircle } from "react-icons/hi";
 
 import config from "../../config";
-import { LieuType } from "../../types";
+import { DestinationType, LieuType } from "../../types";
 import { Media } from "../media/media";
 // FYI: default leaflet icon can't be used without a workaround: https://github.com/PaulLeCam/react-leaflet/issues/453
 // anyway we use custom icons
@@ -13,6 +14,7 @@ import { CenterMap } from "./center-map";
 import { LinkPreview } from "../link-preview";
 import { MetadataField } from "../lieu/lieu";
 import { GeoJsonObject } from "geojson";
+import { DestinationSVG } from "./marker-icon";
 interface MapProps {
   lieux: LieuType[];
   className?: string;
@@ -61,14 +63,29 @@ export const Map: React.FC<MapProps> = (props) => {
         scrollWheelZoom={!disableScroll}
         className={className}
         zoomControl={false}
+        attributionControl={false}
       >
+        {/* MAP LEGEND */}
+        <div className="leaflet-bottom leaflet-right map-legend">
+          <ul className="list-unstyled">
+            {(["Logement", "Équipement", "Espace public"] as DestinationType[]).map((typeDestination) => (
+              <li key={typeDestination}>
+                <img src={DestinationSVG(typeDestination)} alt={typeDestination} width={18} height={18} />{" "}
+                {typeDestination}
+              </li>
+            ))}
+          </ul>
+        </div>
+        <details className="map-attribution">
+          <summary>
+            <HiInformationCircle />{" "}
+          </summary>
+          <span dangerouslySetInnerHTML={{ __html: config.MAP_LAYERS[config.MAP_LAYER].TILE_CREDITS }} />
+        </details>
         <CenterMap lieux={lieux} />
         <ZoomControl position="topright" />
         <ScaleControl position="bottomleft" metric={true} imperial={false} />
-        <TileLayer
-          attribution={config.MAP_LAYERS[config.MAP_LAYER].TILE_CREDITS}
-          url={config.MAP_LAYERS[config.MAP_LAYER].TILE_URL}
-        />
+        <TileLayer url={config.MAP_LAYERS[config.MAP_LAYER].TILE_URL} />
         {lieux
           .filter((lieu) => lieu.geolocalisation)
           .map((lieu) => (
