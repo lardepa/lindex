@@ -16,8 +16,10 @@ const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }
 
   useEffect(() => {
     if (location.hash !== "") {
-      const title = document.getElementById(decodeURIComponent(location.hash.slice(1)));
-      if (title) title.scrollIntoView();
+      setTimeout(() => {
+        const title = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+        if (title) title.scrollIntoView();
+      }, 0);
     }
   }, [location.hash]);
 
