@@ -143,7 +143,7 @@ export const Map: React.FC<MapProps> = (props) => {
               key={parcoursId}
               pathOptions={{
                 color:
-                  !highlightedLieux || highlightedLieux.size === 0 || lieux.some((l) => highlightedLieux.has(l.id))
+                  !highlightedLieux || highlightedLieux.size === 0 || lieux.every((l) => highlightedLieux.has(l.id))
                     ? "#7fa9fd"
                     : "#7fa9fd88",
                 dashArray: "5,10",
