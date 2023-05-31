@@ -96,7 +96,7 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
                 </summary>
                 <div className={`year-grid solo-child`}>
                   {yearParcours.map((p) => (
-                    <LinkPreview to={`/parcours/${p.id}`}>
+                    <LinkPreview key={p.id} to={`/parcours/${p.id}`}>
                       <div
                         key={p.id}
                         className={`page-list-card 
