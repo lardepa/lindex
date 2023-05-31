@@ -1,4 +1,4 @@
-import React from "react";
+import React, { FC, useEffect, useState } from "react";
 import { ParcoursType } from "../types";
 import { useParams } from "react-router-dom";
 import { Media } from "../components/media/media";
@@ -6,7 +6,7 @@ import { Map } from "../components/map/map";
 import { PageLayout } from "../components/layout/page-layout";
 import ReactMarkdown from "react-markdown";
 import { LinkPreview } from "../components/link-preview";
-import { useGetOne } from "../hooks/useAPI";
+import { useGetLasyData, useGetOne } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
 import { LieuItem } from "../components/lieu/lieu-item";
 import withSize from "../components/layout/with-size";
@@ -14,29 +14,44 @@ import config from "../config";
 import { pick } from "lodash";
 import { MediaGallery } from "../components/media/gallery";
 
-const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
-  const { id } = useParams<{ id: string }>();
-  const [parcours, loading] = useGetOne<ParcoursType | null>("parcours", id);
-  const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.md;
+export const ParcoursMapMenu: FC<{
+  parcoursId: string;
+  parcours?: ParcoursType;
+  loading?: boolean;
+  smallScreen?: boolean;
+}> = ({ parcoursId, parcours: alreadyLoadedParcours, loading, smallScreen }) => {
+  const { getData: getParcours, loading: loadingParcours } = useGetLasyData<ParcoursType>("parcours", parcoursId);
+  const [parcours, setParcours] = useState<ParcoursType | undefined>(alreadyLoadedParcours);
+  useEffect(() => {
+    if (parcoursId && alreadyLoadedParcours === undefined) {
+      getParcours().then((data) => {
+        if (data) {
+          setParcours(data);
+        }
+      });
+    }
+  }, [parcoursId, alreadyLoadedParcours, setParcours, getParcours]);
 
-  const map = (
+  return (
     <>
-      {!loading && parcours && (
+      {!loading && !loadingParcours && parcours && (
         <div className="d-flex flex-column flex-grow-1 justify-content-end">
           <div className="map-aside d-flex flex-column">
-            <div className="rightHeader">{parcours["sous-titre"]}</div>
+            <LinkPreview to={`/parcours/${parcoursId}`}>
+              <div className="rightHeader">{parcours["sous-titre"]}</div>
+            </LinkPreview>
             {parcours.lieux && (
               <Map
                 lieux={parcours.lieux}
                 className="map-in-menu"
                 itinaries={{ [parcours.id]: parcours.lieux.map((l) => pick(l, ["id", "geolocalisation"])) }}
-                disableScroll={!!smallScreen}
+                disableScroll={smallScreen}
               />
             )}
           </div>
           <div className="steps vertical-menu">
             {parcours.lieux.map((l, stepIndex) => (
-              <LieuItem lieu={l} className="parcours" />
+              <LieuItem key={stepIndex} lieu={l} className="parcours" parcoursId={parcoursId} />
             ))}
             <LinkPreview className="menu-item" to="/parcours">
               Voir les autres parcours
@@ -46,12 +61,18 @@ const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
       )}
     </>
   );
+};
+
+const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
+  const { id } = useParams<{ id: string }>();
+  const [parcours, loading] = useGetOne<ParcoursType | null>("parcours", id);
+  const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.md;
 
   return (
     <PageLayout
       gridLayoutName="parcours-grid-area"
       menuSelectedItem="parcours"
-      leftContent={smallScreen ? null : map}
+      leftContent={!smallScreen && parcours ? <ParcoursMapMenu parcoursId={parcours.id} parcours={parcours} /> : null}
       rightContent={
         <>
           {!loading && parcours && (
@@ -81,7 +102,11 @@ const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
               >
                 <MediaGallery medias={parcours?.médias || []} />
               </div>
-              {smallScreen && <div style={{ gridArea: "map" }}>{map}</div>}
+              {smallScreen && (
+                <div style={{ gridArea: "map" }}>
+                  <ParcoursMapMenu parcoursId={parcours.id} parcours={parcours} />
+                </div>
+              )}
             </>
           )}
           <Loader loading={loading} />

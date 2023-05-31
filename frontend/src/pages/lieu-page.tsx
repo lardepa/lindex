@@ -7,13 +7,29 @@ import { useGetOne } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
 import { LieuRelatedItems } from "../components/lieu/lieu-related-items";
 import withSize from "../components/layout/with-size";
+import { useQueryParamsState } from "../hooks/queryParams";
+import { SelectionMapMenu } from "./selection-page";
+import config from "../config";
+import { ParcoursMapMenu } from "./parcours";
 
 export const _LieuPage: React.FC<{ width: number }> = ({ width }) => {
   const { id } = useParams<{ id: string }>();
   const [lieu, loading] = useGetOne<LieuType>("lieux", id);
+  const [queryParamState] = useQueryParamsState();
+  const smallScreen = width <= config.RESPONSIVE_BREAKPOINTS.md;
   return (
     <PageLayout
-      leftContent={<> {lieu && <LieuRelatedItems lieu={lieu} />}</>}
+      leftContent={
+        <>
+          {lieu && !queryParamState.selection && !queryParamState.parcours && <LieuRelatedItems lieu={lieu} />}
+          {queryParamState.selection && (
+            <SelectionMapMenu selectionId={queryParamState.selection} smallScreen={smallScreen} />
+          )}
+          {queryParamState.parcours && (
+            <ParcoursMapMenu parcoursId={queryParamState.parcours} smallScreen={smallScreen} />
+          )}
+        </>
+      }
       rightContent={
         <>
           {!loading && lieu && <Lieu lieu={lieu} width={width} />}

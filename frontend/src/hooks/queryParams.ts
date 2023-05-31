@@ -57,8 +57,10 @@ const queryStringToQueryParamsState = (query: URLSearchParams): QueryParamsState
   });
   // get preview
   const isPreview = query.get("preview") === "";
+  const selection = query.get("selection") || undefined;
+  const parcours = query.get("parcours") || undefined;
 
-  return { filtersParams, isPreview };
+  return { filtersParams, isPreview, selection, parcours };
 };
 
 // //utils for filter (de)selection

@@ -1,8 +1,8 @@
-import React from "react";
+import React, { FC, useEffect, useState } from "react";
 import { MediaType, SelectionType } from "../types";
 import { useParams } from "react-router-dom";
 import { Media } from "../components/media/media";
-import { useGetOne } from "../hooks/useAPI";
+import { useGetLasyData, useGetOne } from "../hooks/useAPI";
 import { PageLayout } from "../components/layout/page-layout";
 import ReactMarkdown from "react-markdown";
 import { Map } from "../components/map/map";
@@ -13,24 +13,38 @@ import config from "../config";
 import withSize from "../components/layout/with-size";
 import Embed from "react-tiny-oembed";
 
-export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
-  const { id } = useParams<{ id: string }>();
-  const [selection, loading] = useGetOne<SelectionType>("selections", id);
+export const SelectionMapMenu: FC<{
+  selectionId: string;
+  selection?: SelectionType;
+  loading?: boolean;
+  smallScreen?: boolean;
+}> = ({ selectionId, selection: alreadyLoadedSelection, loading, smallScreen }) => {
+  const { getData: getSelection, loading: loadingSelection } = useGetLasyData<SelectionType>("selections", selectionId);
+  const [selection, setSelection] = useState<SelectionType | undefined>(alreadyLoadedSelection);
+  useEffect(() => {
+    if (selectionId && alreadyLoadedSelection === undefined) {
+      getSelection().then((data) => {
+        if (data) {
+          setSelection(data);
+        }
+      });
+    }
+  }, [selectionId, alreadyLoadedSelection, setSelection, getSelection]);
 
-  const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.md;
-
-  const map = (
+  return (
     <>
-      {!loading && selection && (
+      {!loading && !loadingSelection && selection && (
         <div className="d-flex flex-column flex-grow-1 justify-content-end">
           <div className="map-aside d-flex flex-column">
-            <div className="rightHeader">Sélection de {selection.invité}</div>
-            {selection.lieux && <Map lieux={selection.lieux} className="map-in-menu" disableScroll={!!smallScreen} />}
+            <LinkPreview to={`/selections/${selectionId}`}>
+              <div className="rightHeader">Sélection de {selection.invité}</div>
+            </LinkPreview>
+            {selection.lieux && <Map lieux={selection.lieux} className="map-in-menu" disableScroll={smallScreen} />}
           </div>
           <div className="steps vertical-menu selections">
             {selection.lieux.map((l, stepIndex) => (
               // todo: change link to state in params
-              <LieuItem lieu={l} className="selections" />
+              <LieuItem key={stepIndex} lieu={l} className="selections" selectionId={selectionId} />
             ))}
             <LinkPreview className="menu-item related" to="/selections">
               Voir les autres sélections
@@ -40,12 +54,22 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
       )}
     </>
   );
+};
+
+export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
+  const { id } = useParams<{ id: string }>();
+
+  const [selection, loading] = useGetOne<SelectionType>("selections", id);
+
+  const smallScreen = width <= config.RESPONSIVE_BREAKPOINTS.md;
 
   return (
     <PageLayout
       menuSelectedItem="selections"
       gridLayoutName="colonne-main-footer-area "
-      leftContent={map}
+      leftContent={
+        selection && <SelectionMapMenu selectionId={selection.id} selection={selection} smallScreen={smallScreen} />
+      }
       rightContent={
         <>
           {!loading && selection && (
@@ -82,7 +106,11 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
                     ),
                 )}
               </div>
-              {smallScreen && <div style={{ gridArea: "map" }}>{map}</div>}
+              {smallScreen && (
+                <div style={{ gridArea: "map" }}>
+                  <SelectionMapMenu selectionId={selection.id} selection={selection} smallScreen={smallScreen} />
+                </div>
+              )}
             </>
           )}
         </>

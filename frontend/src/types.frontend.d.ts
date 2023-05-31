@@ -35,6 +35,8 @@ export interface FiltersParamType {
 export interface QueryParamsState {
   filtersParams: FiltersParamType[];
   isPreview: boolean;
+  selection?: string;
+  parcours?: string;
 }
 export interface StatiPageContent {
   modelName: "a_propos" | "mentions_legales";
