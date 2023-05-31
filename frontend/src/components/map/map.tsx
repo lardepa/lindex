@@ -112,11 +112,11 @@ export const Map: React.FC<MapProps> = (props) => {
                     {lieu.date && <MetadataField filterKey="date" label="Date" value={lieu.date} noLink />}
                     {lieu.type && (
                       <>
-                        <MetadataField
+                        {/* <MetadataField
                           filterKey="type"
                           label="Typologie"
                           value={uniq(lieu.type.map((t) => t.type_destination))}
-                        />
+                        /> */}
                         <MetadataField
                           filterKey="prog"
                           label="Programme"
@@ -125,13 +125,9 @@ export const Map: React.FC<MapProps> = (props) => {
                       </>
                     )}
 
-                    {lieu.distinctions && (
-                      <>
-                        {lieu.distinctions.map((d, i) => (
-                          <MetadataField filterKey="dist" key={i} label="Récompense" value={d.nom} />
-                        ))}
-                      </>
-                    )}
+                    {/* {lieu.distinctions && (
+                      <MetadataField filterKey="dist" label="Distinction" value={lieu.distinctions.map((d) => d.nom)} />
+                    )} */}
                   </div>
                 </LinkPreview>
               </Popup>

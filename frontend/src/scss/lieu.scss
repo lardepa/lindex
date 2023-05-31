@@ -10,29 +10,37 @@
     align-items: center;
     display: flex;
     flex-wrap: wrap;
-    span,
-    .value {
-      margin-bottom: 0.2rem;
+    margin-bottom: 0.3rem;
+
+    .label {
+      margin-bottom: 0.5rem;
     }
     .label {
       font-family: $technical_font;
       margin-right: 0.75rem;
       font-weight: normal;
       white-space: nowrap;
-      // margin top to align fonts
-      margin-top: -0.1em;
+      //margin-top: 0.1rem;
     }
     .value-no-link {
-      margin-top: 0.2em;
+      // margin top to align fonts
+      margin-top: -0.1rem;
+      margin-bottom: 0.5rem;
     }
     .value {
       white-space: nowrap;
       font-size: 0.85rem;
+      max-width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
       background-color: white;
       border-radius: 2em;
-      padding: 0.3rem 1rem 0.2rem 1rem;
+      padding: 0.3rem 1rem 0.3rem 1rem;
       margin-right: 0.5em;
       text-decoration: none;
+      // margin top to align fonts
+      margin-top: -0.2rem;
+      margin-bottom: 0.5rem;
     }
     .value:hover {
       background-color: lightgrey;

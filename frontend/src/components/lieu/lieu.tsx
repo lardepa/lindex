@@ -86,11 +86,7 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
           )}
 
           {lieu.distinctions && (
-            <>
-              {lieu.distinctions.map((d, i) => (
-                <MetadataField filterKey="dist" key={i} label="Récompense" value={d.nom} />
-              ))}
-            </>
+            <MetadataField filterKey="dist" label="Distinction" value={lieu.distinctions.map((d) => d.nom)} />
           )}
         </div>
         <div className="long-text" style={{ lineHeight: "1.45rem", fontSize: "1em" }}>
