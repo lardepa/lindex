@@ -1,5 +1,5 @@
 import { uniq } from "lodash";
-import React from "react";
+import React, { Fragment } from "react";
 import ReactMarkdown from "react-markdown";
 import config from "../../config";
 import { LieuType } from "../../types";
@@ -14,19 +14,15 @@ export const MetadataField: React.FC<{ label: string; filterKey: string; value: 
       <div className={`${filterKey !== "moeuvre" ? "extra-metadata" : "main-metadata"} field`}>
         <span className="label">{label}</span>
         {values?.map((v, i) => (
-          <>
+          <Fragment key={i}>
             {!noLink ? (
-              <LinkPreview
-                key={i}
-                to={`/explorer?${encodeURIComponent(filterKey)}=${encodeURIComponent(v)}`}
-                className="value"
-              >
+              <LinkPreview to={`/explorer?${encodeURIComponent(filterKey)}=${encodeURIComponent(v)}`} className="value">
                 {v}
               </LinkPreview>
             ) : (
               <span className="value-no-link">{v}</span>
             )}
-          </>
+          </Fragment>
         ))}
       </div>
     );

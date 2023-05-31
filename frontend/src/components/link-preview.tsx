@@ -1,5 +1,6 @@
+import { omit } from "lodash";
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link, LinkProps } from "react-router-dom";
 
 export const previewURL = (url: string, preview: boolean): string => {
   const { pathname, searchParams } = new URL(url, process.env.PUBLIC_URL || "http://localhost");
@@ -27,18 +28,20 @@ interface LinkPreviewProps extends React.AnchorHTMLAttributes<HTMLAnchorElement>
   replace?: boolean;
 }
 
-export const LinkPreview: React.FC<LinkPreviewProps> = (props) => {
-  const { to } = props;
+export const LinkPreview: React.FC<Omit<LinkProps, "to"> & LinkPreviewProps> = (props) => {
+  const { to, children } = props;
 
   return (
     <Link
-      {...props}
+      {...omit(props, ["to", "children"])}
       to={(location) => {
         const args = new URLSearchParams(location.search);
         const isPreview = args.get("preview") === "";
 
         return previewURL(to, isPreview);
       }}
-    />
+    >
+      {children}
+    </Link>
   );
 };

@@ -101,35 +101,35 @@ export const Map: React.FC<MapProps> = (props) => {
                   <h5>{lieu.nom}</h5>
 
                   {lieu.cover_media && <Media media={lieu.cover_media} cover forceRatio="force-width" />}
-                  <div className="metadata-panel">
-                    {lieu.maitre_oeuvre && (
-                      <MetadataField
-                        filterKey="moeuvre"
-                        label="Maître d'œuvre"
-                        value={lieu.maitre_oeuvre.map((m) => m.nom)}
-                      />
-                    )}
-                    {lieu.date && <MetadataField filterKey="date" label="Date" value={lieu.date} noLink />}
-                    {lieu.type && (
-                      <>
-                        {/* <MetadataField
+                </LinkPreview>
+                <div className="metadata-panel">
+                  {lieu.maitre_oeuvre && (
+                    <MetadataField
+                      filterKey="moeuvre"
+                      label="Maître d'œuvre"
+                      value={lieu.maitre_oeuvre.map((m) => m.nom)}
+                    />
+                  )}
+                  {lieu.date && <MetadataField filterKey="date" label="Date" value={lieu.date} noLink />}
+                  {lieu.type && (
+                    <>
+                      {/* <MetadataField
                           filterKey="type"
                           label="Typologie"
                           value={uniq(lieu.type.map((t) => t.type_destination))}
                         /> */}
-                        <MetadataField
-                          filterKey="prog"
-                          label="Programme"
-                          value={uniq(lieu.type.map((t) => t.destination))}
-                        />
-                      </>
-                    )}
+                      <MetadataField
+                        filterKey="prog"
+                        label="Programme"
+                        value={uniq(lieu.type.map((t) => t.destination))}
+                      />
+                    </>
+                  )}
 
-                    {/* {lieu.distinctions && (
+                  {/* {lieu.distinctions && (
                       <MetadataField filterKey="dist" label="Distinction" value={lieu.distinctions.map((d) => d.nom)} />
                     )} */}
-                  </div>
-                </LinkPreview>
+                </div>
               </Popup>
             </Marker>
           ))}

@@ -72,6 +72,7 @@ export const NewsCarousel: React.FC<{}> = () => {
             <div className="carousel-indicators">
               {news?.map((n, i) => (
                 <button
+                  key={i}
                   type="button"
                   onClick={() => {
                     setAutoCarousel(false);

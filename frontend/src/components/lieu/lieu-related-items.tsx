@@ -1,7 +1,7 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import { useQueryParamsState } from "../../hooks/queryParams";
 import { LieuType } from "../../types";
+import { LinkPreview } from "../link-preview";
 
 export const LieuRelatedItems: React.FC<{ lieu: LieuType }> = ({ lieu }) => {
   const [{ isPreview }] = useQueryParamsState();
@@ -12,17 +12,17 @@ export const LieuRelatedItems: React.FC<{ lieu: LieuType }> = ({ lieu }) => {
         lieu.parcours
           .filter((p) => isPreview || p.status === "Publié")
           .map((p) => (
-            <Link to={`/parcours/${p.id}`} className="parcours menu-item selected related">
+            <LinkPreview key={p.id} to={`/parcours/${p.id}`} className="parcours menu-item selected related">
               Mentionné dans le parcours "{p["sous-titre"]}"
-            </Link>
+            </LinkPreview>
           ))}
       {lieu.sélections &&
         lieu.sélections
           .filter((s) => isPreview || s.status === "Publié")
           .map((s) => (
-            <Link to={`/selections/${s.id}`} className="selections menu-item selected related">
+            <LinkPreview key={s.id} to={`/selections/${s.id}`} className="selections menu-item selected related">
               Sélectionné par {s.invité}
-            </Link>
+            </LinkPreview>
           ))}
     </div>
   );
