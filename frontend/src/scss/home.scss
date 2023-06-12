@@ -11,6 +11,17 @@
     figure .action {
       display: none;
     }
+    figure {
+      aspect-ratio: 16/9;
+      width: 100%;
+      img {
+        object-position: center center;
+        object-fit: cover;
+
+        width: 100%;
+        height: 100%;
+      }
+    }
   }
   .carousel-control-next,
   .carousel-control-prev {
@@ -23,10 +34,18 @@
     }
   }
   .carousel-indicators {
+    flex-grow: 1;
+    flex-wrap: nowrap;
     position: unset;
     margin-bottom: 0;
     align-items: center;
     margin: 0;
+    padding: 0 0.5rem;
+
+    button {
+      width: 0.5em;
+      flex-grow: 1;
+    }
   }
   .carousel-controls {
     background-color: $color_default_text;
@@ -35,15 +54,20 @@
     text-decoration: none;
     .info-box {
       padding: 0.5em;
+      height: calc(3.8rem + 1em);
+      text-overflow: ellipsis;
+      overflow: hidden;
       .title {
         font-size: 1.5rem;
+        line-height: 2rem;
       }
       .subtitle {
         font-family: $technical_font;
+        line-height: 2rem;
       }
     }
   }
-  @media (max-height: 925px) {
+  @media (max-height: 825px) {
     #news-carousel {
       display: none;
     }
