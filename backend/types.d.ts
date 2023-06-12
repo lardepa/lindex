@@ -165,7 +165,7 @@ export interface NewsType {
 export interface ContenuType {
   id: string;
   section: string;
-  page: "à propos" | "mentions légales";
+  page: "à propos" | "glossaire";
   contenu: string;
   ordre: number;
 }

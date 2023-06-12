@@ -4,7 +4,7 @@ import config from "../config";
 import { useQueryParamsState } from "./queryParams";
 
 const useGetData = <Data>(
-  modelName: "lieux" | "parcours" | "selections" | "news" | "a_propos" | "mentions_legales",
+  modelName: "lieux" | "parcours" | "selections" | "news" | "a_propos" | "glossaire",
   id?: string,
 ): [data: Data | null, loading: boolean] => {
   const [data, setData] = useState<Data | null>(null);
@@ -56,7 +56,7 @@ export const useGetLasyData = <Data>(
 };
 
 export const useGetList = <Data>(
-  modelName: "lieux" | "parcours" | "selections" | "news" | "a_propos" | "mentions_legales",
+  modelName: "lieux" | "parcours" | "selections" | "news" | "a_propos" | "glossaire",
 ): [data: Data[] | null, loading: boolean] => {
   return useGetData<Data[]>(modelName);
 };

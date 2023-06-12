@@ -39,6 +39,6 @@ export interface QueryParamsState {
   parcours?: string;
 }
 export interface StatiPageContent {
-  modelName: "a_propos" | "mentions_legales";
+  modelName: "a_propos" | "glossaire";
   title: string;
 }

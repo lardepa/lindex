@@ -73,6 +73,6 @@ const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }
 };
 
 export const APropos: React.FC<{}> = () => <StaticPage contentType={{ modelName: "a_propos", title: "À Propos" }} />;
-export const MentionsLegales: React.FC<{}> = () => (
-  <StaticPage contentType={{ modelName: "mentions_legales", title: "Mentions Légales" }} />
+export const Glossaire: React.FC<{}> = () => (
+  <StaticPage contentType={{ modelName: "glossaire", title: "Glossaire" }} />
 );

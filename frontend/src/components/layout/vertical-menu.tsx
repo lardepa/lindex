@@ -4,7 +4,7 @@ import { LinkPreview } from "../link-preview";
 export const VerticalMenu: React.FC<{}> = () => (
   <div className="vertical-menu nav-home">
     <LinkPreview className="selections selected menu-item" to="/selections">
-      Les sélections de nos invités
+      Sélections des invités
     </LinkPreview>
 
     <LinkPreview to="/explorer" className="explorer selected menu-item">
@@ -12,15 +12,15 @@ export const VerticalMenu: React.FC<{}> = () => (
     </LinkPreview>
 
     <LinkPreview to="/parcours" className="parcours selected menu-item">
-      Les parcours de l'Ardepa
+      Parcours
     </LinkPreview>
 
     <LinkPreview to="/a-propos" className=" menu-item parcours selected">
-      Qui sommes nous ?
+      À propos
     </LinkPreview>
 
-    <LinkPreview to="/mentions-legales" className=" menu-item parcours selected">
-      Mentions légales
+    <LinkPreview to="/glossaire" className=" menu-item parcours selected">
+      Glossaire
     </LinkPreview>
   </div>
 );

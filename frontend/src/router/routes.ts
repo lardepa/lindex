@@ -1,4 +1,4 @@
-import { APropos, MentionsLegales } from "../pages/static-pages";
+import { APropos, Glossaire } from "../pages/static-pages";
 import { ExplorePage } from "../pages/explore";
 import { Home } from "../pages/home";
 import { LieuPage } from "../pages/lieu-page";
@@ -49,8 +49,8 @@ export const routes: RouteDefinition[] = [
         component: APropos,
       },
       {
-        path: "/mentions-legales",
-        component: MentionsLegales,
+        path: "/glossaire",
+        component: Glossaire,
       },
     ],
   },

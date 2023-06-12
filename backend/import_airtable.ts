@@ -383,11 +383,11 @@ importAllTables().then(async (dataset) => {
     )
   );
   fs.writeFileSync(
-    `${process.env.DATA_PATH}/data/mentions_legales.json`,
+    `${process.env.DATA_PATH}/data/glossaire.json`,
     JSON.stringify(
       sortBy(
         values(dataset["contenus"])
-          .filter((n: ContenuType) => n.page === "mentions légales")
+          .filter((n: ContenuType) => n.page === "glossaire")
           .map((c) => ({
             ...c,
             contenu: sanitizeAirTableMarkdown(c.contenu),
