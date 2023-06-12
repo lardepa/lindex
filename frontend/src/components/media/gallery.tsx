@@ -15,9 +15,9 @@ export const MediaGallery: FC<{ medias: MediaType[] }> = ({ medias }) => {
     }
   }, [fullscreenMediaIndex, gallery]);
 
-  const flattenMedias = flatten(medias.map((m) => m.fichiers?.map((f) => ({ ...m, fichiers: [f] })))).filter(
-    identity,
-  ) as MediaType[];
+  const flattenMedias = flatten(
+    medias.map((m) => (m.fichiers ? m.fichiers.map((f) => ({ ...m, fichiers: [f] })) : m)),
+  ).filter(identity) as MediaType[];
 
   return (
     <>
