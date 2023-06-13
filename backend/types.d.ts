@@ -168,4 +168,5 @@ export interface ContenuType {
   page: "à propos" | "glossaire";
   contenu: string;
   ordre: number;
+  médias?: MediaType[];
 }

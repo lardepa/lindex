@@ -22,18 +22,7 @@
     "footer footer footer";
 }
 
-.parcours-gallery {
-  .media {
-    margin-right: 1rem;
-  }
-  .media:last-child {
-    margin-right: 0;
-  }
-}
 @include media-breakpoint-down(md) {
-  .parcours-gallery {
-    flex-direction: column;
-  }
   .parcours-grid-area {
     grid-template-rows: auto;
     grid-template-areas:

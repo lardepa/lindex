@@ -375,6 +375,8 @@ importAllTables().then(async (dataset) => {
           .map((c) => ({
             ...c,
             contenu: sanitizeAirTableMarkdown(c.contenu),
+            médias:
+              c.médias && c.médias.map((m) => dataset.médias[m] as MediaType),
           })),
         (c) => c.ordre
       ),
@@ -391,6 +393,8 @@ importAllTables().then(async (dataset) => {
           .map((c) => ({
             ...c,
             contenu: sanitizeAirTableMarkdown(c.contenu),
+            médias:
+              c.médias && c.médias.map((m) => dataset.médias[m] as MediaType),
           })),
         (c) => c.ordre
       ),

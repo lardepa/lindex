@@ -322,6 +322,12 @@ figure {
   display: flex;
   justify-content: flex-start;
   overflow-x: scroll;
+  padding-bottom: 0.5rem;
+
+  @include media-breakpoint-down(md) {
+    flex-direction: column;
+  }
+
   .lieu-card,
   .media {
     flex-shrink: 0;
@@ -337,6 +343,12 @@ figure {
       padding: 0.2rem 0.5rem;
       z-index: 1;
     }
+
+    margin-right: 1rem;
+  }
+  .lieu-card:last-child,
+  .media:last-child {
+    margin-right: 0;
   }
   .media {
     height: 40vh;

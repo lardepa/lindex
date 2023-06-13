@@ -9,6 +9,7 @@ import ReactMarkdown from "react-markdown";
 import { StatiPageContent } from "../types.frontend";
 import { Link, useLocation } from "react-router-dom";
 import { BurgerMenu } from "../components/layout/BurgerMenu";
+import { Media } from "../components/media/media";
 
 const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }) => {
   const [contenus, loading] = useGetList<ContenuType>(contentType.modelName);
@@ -61,6 +62,13 @@ const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }
                     {c.section}
                   </h2>
                   <ReactMarkdown className="long-text">{c.contenu}</ReactMarkdown>
+                  {c.médias && (
+                    <div className={"horizontal-carousel section-gallery "}>
+                      {c?.médias.map((m, i) => (
+                        <Media media={m} cover key={i} />
+                      ))}
+                    </div>
+                  )}
                 </div>
               ))}
             </div>
