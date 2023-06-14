@@ -67,7 +67,15 @@
       }
     }
   }
-  @media (max-height: 825px) {
+  @media (max-height: 820px) {
+    #news-carousel .rightHeader {
+      display: none;
+    }
+    #news-carousel {
+      border-top: 8px $color_default_text solid;
+    }
+  }
+  @media (max-height: 775px) {
     #news-carousel {
       display: none;
     }
