@@ -39,6 +39,8 @@ const sanitizeAirTableMarkdown = (markdown: string): string => {
   return sanitized;
 };
 
+const geolocalisationRgexp = new RegExp(/-?\d+(\.\d+)?,-?\d+(\.\d+)?/);
+
 const dumpObjects = (
   base: AirtableBase,
   table: string,
@@ -240,7 +242,7 @@ importAllTables().then(async (dataset) => {
         périodes:
           lieuAirtable.périodes &&
           lieuAirtable.périodes.map((p) => dataset.périodes[p]),
-        geolocalisation: lieuAirtable.geolocalisation
+        geolocalisation: geolocalisationRgexp.test(lieuAirtable.geolocalisation)
           ? lieuAirtable.geolocalisation.split(",").map((l) => parseFloat(l))
           : null,
         médias:
