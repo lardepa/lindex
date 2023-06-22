@@ -3,6 +3,7 @@ import fs from "fs";
 import Airtable from "airtable";
 import {
   flatten,
+  keyBy,
   keys,
   mapValues,
   replace,
@@ -400,6 +401,15 @@ importAllTables().then(async (dataset) => {
           })),
         (c) => c.ordre
       ),
+      null,
+      2
+    )
+  );
+
+  fs.writeFileSync(
+    `${process.env.DATA_PATH}/data/types_lieu.json`,
+    JSON.stringify(
+      keyBy(dataset.types_lieu, (tp) => tp.destination),
       null,
       2
     )

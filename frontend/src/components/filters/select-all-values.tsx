@@ -1,22 +1,25 @@
-import { uniq } from "lodash";
-import React from "react";
+import { FC } from "react";
+
+import { BsList, BsListCheck } from "react-icons/bs";
+
 import { useQueryParamsState } from "../../hooks/queryParams";
 import { FiltersParamType } from "../../types.frontend";
-import FilterValueIcons from "./filter-value-icons";
+import { every } from "lodash";
 
-const FilterValue: React.FC<{
-  filterParams: FiltersParamType;
-  value: string;
-  selected?: boolean;
-}> = ({ filterParams, value }) => {
+export const SelectAllValues: FC<{ options: string[]; filterParams: FiltersParamType }> = ({
+  options,
+  filterParams,
+}) => {
   const [queryParamsState, setQueryParamsState] = useQueryParamsState();
 
   const currentState = queryParamsState.filtersParams.filter(({ filter }) => filter.key === filterParams.filter.key)[0];
-  const selected = currentState && currentState.values.includes(value);
+  const selected = currentState && every(options, (v) => currentState.values.includes(v));
+
   return (
     <button
       className={`btn filter-value ${selected ? "selected" : ""}`}
-      onClick={() => {
+      onClick={(e) => {
+        e.stopPropagation();
         if (selected) {
           //DESELECT OPTION
 
@@ -24,7 +27,7 @@ const FilterValue: React.FC<{
             //other filters
             ...queryParamsState.filtersParams.filter(({ filter }) => filter.key !== filterParams.filter.key),
             // remove one value to the picker filter
-            { ...filterParams, values: (currentState?.values || []).filter((v) => v !== value) },
+            { ...filterParams, values: (currentState?.values || []).filter((v) => !options.includes(v)) },
           ];
           setQueryParamsState({ ...queryParamsState, filtersParams: newFilters });
         } else {
@@ -34,18 +37,14 @@ const FilterValue: React.FC<{
             //other filters
             ...queryParamsState.filtersParams.filter(({ filter, values }) => filter.key !== filterParams.filter.key),
             // add one value to the picker filter
-            { ...filterParams, values: uniq([...(currentState?.values || []), value]) },
+            { ...filterParams, values: options },
           ];
           setQueryParamsState({ ...queryParamsState, filtersParams: newFilters });
         }
       }}
     >
-      {filterParams.filter.getTypeFromValue && (
-        <FilterValueIcons filterKey={filterParams.filter.key} value={filterParams.filter.getTypeFromValue(value)} />
-      )}
-      {filterParams.filter.getLabelFromValue ? filterParams.filter.getLabelFromValue(value) : value}
+      {selected ? <BsList size="1.5rem" className="icon" /> : <BsListCheck size="1.5rem" className="icon" />} Tout{" "}
+      {selected ? "dé" : ""}sélectionner
     </button>
   );
 };
-
-export default FilterValue;

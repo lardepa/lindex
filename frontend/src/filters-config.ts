@@ -11,14 +11,17 @@ import parcours from "./components/filters/pictos/parcours.png";
 
 const filtersConfig: FilterType[] = [
   {
-    key: "type",
-    label: "Typologie",
+    key: "programme",
+    label: "Programmes",
     pictoURL: typologie,
-    getValueFromLieu: (lieu) => uniq(lieu.type.map((t) => t.type_destination).filter(identity)),
+    getValueFromLieu: (lieu) => uniq(lieu.type.map((t) => t.destination).filter(identity)),
+    //  uniq(lieu.type.map((t) => [t.destination, t.type_destination].join("|")).filter(identity)),
+    // getLabelFromValue: (value) => value.split("|")[0],
+    // getTypeFromValue: (value) => value.split("|")[1],
   },
   {
     key: "moeuvre",
-    label: "Maître d'œuvre",
+    label: "Maîtres d'œuvre",
     pictoURL: maitre_oeuvre,
     prefixLabel: (plural) => `signé${plural ? "s" : ""}`,
     getValueFromLieu: (lieu) =>
@@ -26,7 +29,7 @@ const filtersConfig: FilterType[] = [
   },
   {
     key: "mouvrage",
-    label: "Maître d'ouvrage",
+    label: "Maîtres d'ouvrage",
     pictoURL: maitre_ouvrage,
     prefixLabel: () => "pour",
     getValueFromLieu: (lieu) =>
@@ -34,31 +37,33 @@ const filtersConfig: FilterType[] = [
   },
   {
     key: "dept",
-    label: "Département",
+    label: "Départements",
     pictoURL: departement,
     prefixLabel: () => "en",
     getValueFromLieu: (lieu) => (lieu.département ? [lieu.département] : []),
   },
   {
     key: "date",
-    label: "Date d'inauguration",
+    label: "Dates d'inauguration",
     pictoURL: inauguration,
     prefixLabel: (plural) => `inauguré${plural ? "s" : ""}`,
     getValueFromLieu: (lieu) => (lieu.périodes ? lieu.périodes.map((p) => p.nom).filter((t) => t !== "") : []),
   },
   {
     key: "dist",
-    label: "Distinction",
+    label: "Distinctions",
     pictoURL: distinction,
     prefixLabel: (plural) => `récompensé${plural ? "s" : ""} par`,
     getValueFromLieu: (lieu) => (lieu.distinctions ? lieu.distinctions.map((d) => d.nom).filter((t) => t !== "") : []),
+    selectAll: true,
   },
   {
     key: "sel",
-    label: "Sélection",
+    label: "Sélections des invités",
     pictoURL: selection,
     prefixLabel: (plural) => `sélectionné${plural ? "s" : ""} par`,
     getValueFromLieu: (lieu) => (lieu.sélections ? lieu.sélections.map((s) => s.invité).filter((t) => t !== "") : []),
+    selectAll: true,
   },
   {
     key: "parc",
@@ -66,6 +71,7 @@ const filtersConfig: FilterType[] = [
     pictoURL: parcours,
     prefixLabel: (plural) => `${plural ? "font" : "fait"} partie de`,
     getValueFromLieu: (lieu) => (lieu.parcours ? lieu.parcours.map((p) => p.nom).filter((t) => t !== "") : []),
+    selectAll: true,
   },
 ];
 

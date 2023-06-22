@@ -1,4 +1,4 @@
-import { uniq } from "lodash";
+import { identity, uniq } from "lodash";
 import React, { Fragment } from "react";
 import ReactMarkdown from "react-markdown";
 import config from "../../config";
@@ -75,9 +75,14 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
               <MetadataField
                 filterKey="type"
                 label="Typologie"
-                value={uniq(lieu.type.map((t) => t.type_destination))}
+                value={uniq(lieu.type.map((t) => t.type_destination)).filter(identity)}
+                noLink
               />
-              <MetadataField filterKey="prog" label="Programme" value={uniq(lieu.type.map((t) => t.destination))} />
+              <MetadataField
+                filterKey="programme"
+                label="Programme"
+                value={uniq(lieu.type.map((t) => t.destination))}
+              />
             </>
           )}
 

@@ -9,7 +9,7 @@ export const HorizontalMenu: React.FC<{ selected?: "selections" | "parcours" | "
         to={`/selections`}
         style={{ gridColumn: 1 }}
       >
-        Les sélections de nos invités
+        Sélections des invités
       </LinkPreview>
 
       <LinkPreview
@@ -25,7 +25,7 @@ export const HorizontalMenu: React.FC<{ selected?: "selections" | "parcours" | "
         to="/parcours"
         style={{ gridColumn: 3 }}
       >
-        Les parcours de l'Ardepa
+        Parcours
       </LinkPreview>
     </div>
   );

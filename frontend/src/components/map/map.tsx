@@ -119,7 +119,7 @@ export const Map: React.FC<MapProps> = (props) => {
                           value={uniq(lieu.type.map((t) => t.type_destination))}
                         /> */}
                       <MetadataField
-                        filterKey="prog"
+                        filterKey="programme"
                         label="Programme"
                         value={uniq(lieu.type.map((t) => t.destination))}
                       />

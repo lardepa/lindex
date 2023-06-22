@@ -4,7 +4,7 @@ import { useState } from "react";
 import { LieuType } from "../types";
 import { every, flatten, some, sortBy, sortedUniq } from "lodash";
 import { Map } from "../components/map/map";
-import { FiltersParamType } from "../types.frontend";
+import { FilterType } from "../types.frontend";
 import { useQueryParamsState } from "../hooks/queryParams";
 import { PageLayout } from "../components/layout/page-layout";
 import { useGetList } from "../hooks/useAPI";
@@ -23,7 +23,7 @@ export const ExplorePage: React.FC<{}> = () => {
   const [queryParamsState] = useQueryParamsState();
   const { filtersParams } = queryParamsState;
 
-  const [filterForPicker, showFilterPicker] = useState<FiltersParamType | null>(null);
+  const [filterForPicker, showFilterPicker] = useState<FilterType | null>(null);
   const [responsiveFilterMenu, showResponsiveFilterMenu] = useState<boolean>(false);
   const [filtersOptions, setFiltersOptions] = useState<{ [filterKey: string]: string[] }>({});
 
@@ -72,8 +72,11 @@ export const ExplorePage: React.FC<{}> = () => {
       {filteredLieux && filterForPicker && (
         // Full screen Modal to change filter state
         <FilterModal
-          filterParam={filterForPicker}
-          options={filtersOptions[filterForPicker.filter.key]}
+          filterParam={{
+            filter: filterForPicker,
+            values: filtersParams.find((f) => f.filter.key === filterForPicker.key)?.values || [],
+          }}
+          options={filtersOptions[filterForPicker.key]}
           onClose={() => showFilterPicker(null)}
         />
       )}
@@ -85,7 +88,7 @@ export const ExplorePage: React.FC<{}> = () => {
             filtersOptions={filtersOptions}
             showFilterPicker={(filter) => {
               showResponsiveFilterMenu(false);
-              showFilterPicker(filter);
+              showFilterPicker(filter.filter);
             }}
           />
         </div>
@@ -99,7 +102,7 @@ export const ExplorePage: React.FC<{}> = () => {
             <FiltersMenu
               filtersParams={filtersParams}
               filtersOptions={filtersOptions}
-              showFilterPicker={showFilterPicker}
+              showFilterPicker={(f) => showFilterPicker(f.filter)}
             />
           </div>
         }

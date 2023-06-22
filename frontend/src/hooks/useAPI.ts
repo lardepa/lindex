@@ -31,7 +31,7 @@ const useGetData = <Data>(
 };
 
 export const useGetLasyData = <Data>(
-  modelName: "lieux" | "parcours" | "selections" | "news" | "a_propos" | "mentions_legales",
+  modelName: "lieux" | "parcours" | "selections" | "news" | "a_propos" | "mentions_legales" | "types_lieu",
   id?: string,
 ): { getData: () => Promise<Data | null>; loading: boolean } => {
   const [{ isPreview }] = useQueryParamsState();

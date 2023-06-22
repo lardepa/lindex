@@ -23,8 +23,11 @@ export interface FilterType {
   label: string; // used in UI for filter menu
   pictoURL: string; // the icon URL
   getValueFromLieu: (lieu: LieuType) => string[]; // used to index filter values
+  getLabelFromValue?: (value: string) => string;
+  getTypeFromValue?: (value: string) => string;
   prefixLabel?: (plural: boolean) => string; //used to render the current filter state phrase
   hide?: boolean;
+  selectAll?: boolean;
 }
 
 export interface FiltersParamType {
