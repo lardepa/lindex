@@ -3,6 +3,7 @@ import { MapContainer, TileLayer, Popup, Polyline, Marker, ScaleControl, ZoomCon
 import { LatLngExpression, LeafletEventHandlerFnMap } from "leaflet";
 import { toPairs, uniq } from "lodash";
 import { HiInformationCircle } from "react-icons/hi";
+import { isMobile } from "react-device-detect";
 
 import config from "../../config";
 import { DestinationType, LieuType } from "../../types";
@@ -15,6 +16,7 @@ import { LinkPreview } from "../link-preview";
 import { MetadataField } from "../lieu/lieu";
 import { GeoJsonObject } from "geojson";
 import { DestinationSVG } from "./marker-icon";
+import { LocateControl } from "./LocateControl";
 interface MapProps {
   lieux: LieuType[];
   className?: string;
@@ -28,6 +30,7 @@ export const Map: React.FC<MapProps> = (props) => {
   const { lieux, className, itinaries, disableScroll, setOverLieu, highlightedLieux } = props;
 
   const [contours, setContours] = useState<GeoJsonObject | null>(null);
+
   // TODO: Change marker pixels size according to zoom? https://jsfiddle.net/falkedesign/nobapxvd/
 
   const eventHandlersFactory: (lieu: LieuType) => LeafletEventHandlerFnMap = useMemo(
@@ -85,6 +88,7 @@ export const Map: React.FC<MapProps> = (props) => {
         <CenterMap lieux={lieux} />
         <ZoomControl position="topright" />
         <ScaleControl position="bottomleft" metric={true} imperial={false} />
+        {isMobile && <LocateControl position="topright" showPopup={false} />}
         <TileLayer url={config.MAP_LAYERS[config.MAP_LAYER].TILE_URL} />
         {lieux
           .filter((lieu) => lieu.geolocalisation)
@@ -150,6 +154,7 @@ export const Map: React.FC<MapProps> = (props) => {
                 .map((lieu) => lieu.geolocalisation as LatLngExpression)}
             />
           ))}
+
         {contours && <GeoJSON data={contours} style={{ fill: false, color: "#313138", weight: 1 }} />}
       </MapContainer>
     )
