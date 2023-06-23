@@ -1,32 +1,39 @@
 import { identity, uniq } from "lodash";
-import React, { Fragment } from "react";
+import React, { Fragment, ReactNode } from "react";
 import ReactMarkdown from "react-markdown";
 import config from "../../config";
 import { LieuType } from "../../types";
 import { LinkPreview } from "../link-preview";
 import { MediaGallery } from "../media/gallery";
 import { Media } from "../media/media";
+import { NavigateTo } from "../map/NavigateTo";
 
-export const MetadataField: React.FC<{ label: string; filterKey: string; value: string | string[]; noLink?: Boolean }> =
-  ({ label, value, filterKey, noLink }) => {
-    const values: string[] = Array.isArray(value) ? value : [value];
-    return (
-      <div className={`${filterKey !== "moeuvre" ? "extra-metadata" : "main-metadata"} field`}>
-        <span className="label">{label}</span>
-        {values?.map((v, i) => (
-          <Fragment key={i}>
-            {!noLink ? (
-              <LinkPreview to={`/explorer?${encodeURIComponent(filterKey)}=${encodeURIComponent(v)}`} className="value">
-                {v}
-              </LinkPreview>
-            ) : (
-              <span className="value-no-link">{v}</span>
-            )}
-          </Fragment>
-        ))}
-      </div>
-    );
-  };
+export const MetadataField: React.FC<{
+  label: string;
+  filterKey: string;
+  value: string | string[];
+  noLink?: Boolean;
+  children?: ReactNode;
+}> = ({ label, value, filterKey, noLink, children }) => {
+  const values: string[] = Array.isArray(value) ? value : [value];
+  return (
+    <div className={`${filterKey !== "moeuvre" ? "extra-metadata" : "main-metadata"} field`}>
+      <span className="label">{label}</span>
+      {values?.map((v, i) => (
+        <Fragment key={i}>
+          {!noLink ? (
+            <LinkPreview to={`/explorer?${encodeURIComponent(filterKey)}=${encodeURIComponent(v)}`} className="value">
+              {v}
+            </LinkPreview>
+          ) : (
+            <span className="value-no-link">{v}</span>
+          )}
+        </Fragment>
+      ))}
+      {children}
+    </div>
+  );
+};
 
 export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width }) => {
   const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.md;
@@ -88,6 +95,12 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
 
           {lieu.distinctions && (
             <MetadataField filterKey="dist" label="Distinction" value={lieu.distinctions.map((d) => d.nom)} />
+          )}
+
+          {lieu.adresse && (
+            <MetadataField filterKey="adresse" label="Adresse" value={lieu.adresse} noLink>
+              <NavigateTo lieu={lieu} className="ps-2 align-self-start" />
+            </MetadataField>
           )}
         </div>
         <div className="long-text" style={{ lineHeight: "1.45rem", fontSize: "1em" }}>

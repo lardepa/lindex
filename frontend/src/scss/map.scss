@@ -15,6 +15,7 @@
       background-color: inherit;
       border-top: unset;
       font-weight: bold;
+      margin-bottom: 0;
       @include media-breakpoint-down(sm) {
         .extra-metadata {
           display: none;
@@ -47,6 +48,22 @@
       text-decoration: none;
     }
   }
+
+  .navigate-action {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 0 0.5rem 0.5rem 0;
+    padding: 0.3em 0.3em;
+
+    display: flex;
+    align-items: center;
+    border-radius: 2%;
+    background-color: #fff;
+    &:hover {
+      background-color: lightgrey;
+    }
+  }
 }
 
 .map-in-menu {
@@ -56,6 +73,11 @@
   }
   .leaflet-popup-content {
     width: 200px !important;
+    padding-bottom: 1.2rem !important;
+  }
+  .navigate-action {
+    padding: 0.1em;
+    margin: 0 0.2rem 0.2rem 0;
   }
   .map-legend {
     display: none;

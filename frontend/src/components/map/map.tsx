@@ -17,6 +17,9 @@ import { MetadataField } from "../lieu/lieu";
 import { GeoJsonObject } from "geojson";
 import { DestinationSVG } from "./marker-icon";
 import { LocateControl } from "./LocateControl";
+import { NavigateTo } from "./NavigateTo";
+import { ResetZoomToBoundingBox } from "./ResetZoomToBoundingBox";
+import Control from "react-leaflet-custom-control";
 interface MapProps {
   lieux: LieuType[];
   className?: string;
@@ -88,6 +91,9 @@ export const Map: React.FC<MapProps> = (props) => {
         <CenterMap lieux={lieux} />
         <ZoomControl position="topright" />
         <ScaleControl position="bottomleft" metric={true} imperial={false} />
+        <Control position="topright">
+          <ResetZoomToBoundingBox lieux={lieux} />
+        </Control>
         {isMobile && <LocateControl position="topright" showPopup={false} />}
         <TileLayer url={config.MAP_LAYERS[config.MAP_LAYER].TILE_URL} />
         {lieux
@@ -134,6 +140,8 @@ export const Map: React.FC<MapProps> = (props) => {
                       <MetadataField filterKey="dist" label="Distinction" value={lieu.distinctions.map((d) => d.nom)} />
                     )} */}
                 </div>
+
+                <NavigateTo lieu={lieu} className="navigate-action border" />
               </Popup>
             </Marker>
           ))}
