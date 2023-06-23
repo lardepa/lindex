@@ -50,8 +50,8 @@ export const NewsCarousel: React.FC<{}> = () => {
         <div id="news-carousel" className="carousel slide ">
           <div className="carousel-inner">
             {news?.map((n, i) => (
-              <div className={`carousel-item ${i === carouselIndex ? "active" : ""}`}>
-                <NewsItem key={n.id} news={n} />
+              <div key={n.id} className={`carousel-item ${i === carouselIndex ? "active" : ""}`}>
+                <NewsItem news={n} />
               </div>
             ))}
           </div>
