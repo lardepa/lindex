@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, Popup, Polyline, Marker, ScaleControl, ZoomCon
 import { LatLngExpression, LeafletEventHandlerFnMap } from "leaflet";
 import { toPairs, uniq } from "lodash";
 import { HiInformationCircle } from "react-icons/hi";
-import { isMobile } from "react-device-detect";
+import { isMobile, isTablet } from "react-device-detect";
 
 import config from "../../config";
 import { DestinationType, LieuType } from "../../types";
@@ -94,7 +94,7 @@ export const Map: React.FC<MapProps> = (props) => {
         <Control position="topright">
           <ResetZoomToBoundingBox lieux={lieux} />
         </Control>
-        {isMobile && <LocateControl position="topright" showPopup={false} />}
+        {(isMobile || isTablet) && <LocateControl position="topright" showPopup={false} />}
         <TileLayer url={config.MAP_LAYERS[config.MAP_LAYER].TILE_URL} />
         {lieux
           .filter((lieu) => lieu.geolocalisation)
