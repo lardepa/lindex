@@ -42,8 +42,7 @@
   width: 100vw;
   height: 100vh;
 
-  //   TODO: change color when final color chosen
-  background-color: rgba($color_explorer_full, 0.9);
+  background-color: rgba($color_lindex, 0.8);
   .filter {
     padding: 2rem;
     display: flex;
@@ -85,7 +84,7 @@
 }
 
 .filters-status-bar {
-  background-color: $color_explorer_full;
+  background-color: $color_lindex;
   font-size: 1.25rem;
   line-height: 2rem;
   padding: 0.8rem;

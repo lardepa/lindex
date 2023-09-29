@@ -1,15 +1,15 @@
 import React, { useEffect } from "react";
-import { Logo } from "../components/logo";
-import { VerticalMenu } from "../components/layout/vertical-menu";
-import { useGetList } from "../hooks/useAPI";
-import { ContenuType } from "../types";
-import { NewsCarousel } from "../components/news-carousel";
-import { Loader } from "../components/loader";
 import ReactMarkdown from "react-markdown";
-import { StatiPageContent } from "../types.frontend";
 import { Link, useLocation } from "react-router-dom";
 import { BurgerMenu } from "../components/layout/BurgerMenu";
+import { VerticalMenu } from "../components/layout/vertical-menu";
+import { Loader } from "../components/loader";
+import { Logo } from "../components/logo";
 import { Media } from "../components/media/media";
+import { NewsCarousel } from "../components/news-carousel";
+import { useGetList } from "../hooks/useAPI";
+import { ContenuType } from "../types";
+import { StatiPageContent } from "../types.frontend";
 
 const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }) => {
   const [contenus, loading] = useGetList<ContenuType>(contentType.modelName);
@@ -43,7 +43,7 @@ const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }
         {!loading && contenus && (
           <>
             <div className="d-none d-sm-none d-lg-flex col-lg-2 col-xl-2 px-0">
-              <nav className="nav vertical-menu  d-flex w-100">
+              <nav className="nav vertical-menu-static  d-flex w-100">
                 {contenus?.map((c) => (
                   <Link to={{ hash: encodeURIComponent(c.section) }} key={c.id} className="menu-item">
                     {c.section}
@@ -52,15 +52,14 @@ const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }
               </nav>
             </div>
             <div className="col-sm-6 col-lg-6 col-xl-7 p-3 full-height  overflow-scroll">
-              <h1>{contentType.title}</h1>
               {contenus.map((c) => (
                 <div key={c.id}>
-                  <h2
+                  <h1
                     id={c.section}
                     className={decodeURIComponent(location.hash).includes(c.section) ? "selected" : ""}
                   >
                     {c.section}
-                  </h2>
+                  </h1>
                   <ReactMarkdown className="long-text">{c.contenu}</ReactMarkdown>
                   {c.médias && (
                     <div className={"horizontal-carousel section-gallery "}>

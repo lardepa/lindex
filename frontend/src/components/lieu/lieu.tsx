@@ -4,9 +4,9 @@ import ReactMarkdown from "react-markdown";
 import config from "../../config";
 import { LieuType } from "../../types";
 import { LinkPreview } from "../link-preview";
+import { NavigateTo } from "../map/NavigateTo";
 import { MediaGallery } from "../media/gallery";
 import { Media } from "../media/media";
-import { NavigateTo } from "../map/NavigateTo";
 
 export const MetadataField: React.FC<{
   label: string;
@@ -22,11 +22,17 @@ export const MetadataField: React.FC<{
       {values?.map((v, i) => (
         <Fragment key={i}>
           {!noLink ? (
-            <LinkPreview to={`/explorer?${encodeURIComponent(filterKey)}=${encodeURIComponent(v)}`} className="value">
+            <LinkPreview
+              title={v}
+              to={`/explorer?${encodeURIComponent(filterKey)}=${encodeURIComponent(v)}`}
+              className="value"
+            >
               {v}
             </LinkPreview>
           ) : (
-            <span className="value-no-link">{v}</span>
+            <span className="value-no-link" title={v}>
+              {v}
+            </span>
           )}
         </Fragment>
       ))}
@@ -46,9 +52,9 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
         className={`d-flex flex-column justify-content-start`}
       >
         <div
-          // className="flex-shrink-1 flex-grow-1 flex-basis-1"
+          className="px-3"
           style={{
-            padding: "0.5rem 1rem",
+            padding: "0.5rem 0",
             overflowY: smallScreen ? "unset" : "auto",
             lineHeight: "1.5rem",
             fontSize: "1.125em",
@@ -103,7 +109,7 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
             </MetadataField>
           )}
         </div>
-        <div className="long-text" style={{ lineHeight: "1.45rem", fontSize: "1em" }}>
+        <div className="long-text px-3">
           <ReactMarkdown>{lieu.présentation}</ReactMarkdown>
         </div>
         {/*  MEDIAS in this column on small screen */}

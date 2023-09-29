@@ -33,15 +33,15 @@ h3 {
     height: calc(100vh - #{$logo-height} - 2 * #{$logo-margin-top});
   }
 }
-.parcours {
-  background-color: $color_parcours_full;
-}
-.explorer {
-  background-color: $color_explorer_full;
-}
-.selections {
-  background-color: $color_selections_full;
-}
+// .parcours {
+//   background-color: $color_parcours_full;
+// }
+// .explorer {
+//   background-color: $color_explorer_full;
+// }
+// .selections {
+//   background-color: $color_selections_full;
+// }
 
 .explore-map {
   height: 100%;
@@ -65,7 +65,7 @@ h3 {
 .page-layout-grid-container {
   height: 100vh;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 33.33% 33.33% 33.33%;
 }
 
 @include media-breakpoint-down(md) {
@@ -116,6 +116,8 @@ h3 {
     img {
       height: $logo-height;
       position: absolute;
+      top: $logo-margin-top;
+      left: 1rem;
     }
   }
   .context-menu {

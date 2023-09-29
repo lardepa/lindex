@@ -1,7 +1,7 @@
-import { isAndroid, isIOS } from "react-device-detect";
-import { LieuType } from "../../types";
 import { FC } from "react";
-import { BiSolidNavigation } from "react-icons/bi";
+import { isAndroid, isIOS } from "react-device-detect";
+import { BiSolidDirectionRight } from "react-icons/bi";
+import { LieuType } from "../../types";
 
 const ZOOM_LEVEL = 19;
 
@@ -15,7 +15,7 @@ export const NavigateTo: FC<{ lieu: LieuType; className?: string }> = ({ lieu, c
   if (isIOS) mapURL = `maps://${lieu.geolocalisation.join(",")}?q=${encodeURIComponent(lieu.adresse)}`;
   return (
     <a href={mapURL} className={`${className ? className : ""}`} title="Créer un itinéraire vers ce lieu">
-      <BiSolidNavigation />
+      <BiSolidDirectionRight />
     </a>
   );
 };
