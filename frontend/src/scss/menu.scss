@@ -5,6 +5,7 @@
   text-decoration: none;
   cursor: pointer; //some menu item are not <a>
   background-color: $color_lindex;
+  color: white;
 }
 .menu-item.related {
   font-size: 0.875rem;
@@ -14,7 +15,7 @@
   cursor: not-allowed;
   color: grey;
 }
-.menu-item:hover {
+.menu-item:not(.disabled):hover {
   color: $color_lindex;
   background-color: white;
 }
@@ -37,6 +38,7 @@
 }
 .vertical-menu-static > .menu-item {
   background-color: white !important;
+  color: unset;
 
   &:first-child() {
     border-top: unset;
@@ -90,7 +92,7 @@
 }
 
 .context-menu {
-  border-right: $menu-border;
+  //border-right: $menu-border;
   .map-aside {
     height: 50%; //calc((100vh - #{$logo-height}) / 2);
   }
@@ -193,8 +195,19 @@
 // }
 .active-badge {
   vertical-align: super;
-  padding: 0.2rem 0.5rem;
-  color: $primary;
+  text-align: center;
+  padding: unset;
+  line-height: 1.2em;
+  color: $color_lindex;
+  width: 1.2em;
+  height: 1.2em;
+  background-color: white;
+}
+.menu-item:hover {
+  .active-badge {
+    background-color: $color_lindex;
+    color: white;
+  }
 }
 .page-list {
   display: flex;

@@ -1,18 +1,16 @@
-import React from "react";
-import { useEffect } from "react";
-import { useState } from "react";
-import { LieuType } from "../types";
 import { every, flatten, some, sortBy, sortedUniq } from "lodash";
-import { Map } from "../components/map/map";
-import { FilterType } from "../types.frontend";
-import { useQueryParamsState } from "../hooks/queryParams";
+import React, { useEffect, useState } from "react";
 import { PageLayout } from "../components/layout/page-layout";
-import { useGetList } from "../hooks/useAPI";
 import { Loader } from "../components/loader";
+import { Map } from "../components/map/map";
+import { useQueryParamsState } from "../hooks/queryParams";
+import { useGetList } from "../hooks/useAPI";
+import { LieuType } from "../types";
+import { FilterType } from "../types.frontend";
 
-import FiltersStatusBar from "../components/filters/filters-status-bar";
 import FilterModal from "../components/filters/filter-modal";
 import FiltersMenu from "../components/filters/filters-menu";
+import FiltersStatusBar from "../components/filters/filters-status-bar";
 import filtersConfig from "../filters-config";
 
 export const ExplorePage: React.FC<{}> = () => {
@@ -98,7 +96,7 @@ export const ExplorePage: React.FC<{}> = () => {
         gridLayoutName="explore-grid-area"
         leftContent={
           // Menu top open filters modals
-          <div className="d-flex flex-grow-1 flex-column justify-content-center d-none d-sm-none d-md-flex">
+          <div className="d-flex flex-grow-1 flex-column justify-content-end d-none d-sm-none d-md-flex">
             <FiltersMenu
               filtersParams={filtersParams}
               filtersOptions={filtersOptions}
