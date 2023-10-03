@@ -137,3 +137,7 @@
     font-size: 0.8rem;
   }
 }
+
+.leaflet-marker-icon.unselected {
+  filter: saturate(0);
+}

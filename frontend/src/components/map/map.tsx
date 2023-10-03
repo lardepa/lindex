@@ -1,25 +1,24 @@
-import React, { useEffect, useMemo, useState } from "react";
-import { MapContainer, TileLayer, Popup, Polyline, Marker, ScaleControl, ZoomControl, GeoJSON } from "react-leaflet";
 import { LatLngExpression, LeafletEventHandlerFnMap } from "leaflet";
 import { toPairs, uniq } from "lodash";
-import { HiInformationCircle } from "react-icons/hi";
+import React, { useEffect, useMemo, useState } from "react";
 import { isMobile, isTablet } from "react-device-detect";
+import { HiInformationCircle } from "react-icons/hi";
+import { GeoJSON, MapContainer, Marker, Polyline, Popup, ScaleControl, TileLayer, ZoomControl } from "react-leaflet";
 
 import config from "../../config";
 import { DestinationType, LieuType } from "../../types";
 import { Media } from "../media/media";
 // FYI: default leaflet icon can't be used without a workaround: https://github.com/PaulLeCam/react-leaflet/issues/453
 // anyway we use custom icons
-import { MarkerIcon } from "./marker-icon";
-import { CenterMap } from "./center-map";
-import { LinkPreview } from "../link-preview";
-import { MetadataField } from "../lieu/lieu";
 import { GeoJsonObject } from "geojson";
-import { DestinationSVG } from "./marker-icon";
+import Control from "react-leaflet-custom-control";
+import { MetadataField } from "../lieu/lieu";
+import { LinkPreview } from "../link-preview";
 import { LocateControl } from "./LocateControl";
 import { NavigateTo } from "./NavigateTo";
 import { ResetZoomToBoundingBox } from "./ResetZoomToBoundingBox";
-import Control from "react-leaflet-custom-control";
+import { CenterMap } from "./center-map";
+import { DestinationSVG, MarkerIcon } from "./marker-icon";
 interface MapProps {
   lieux: LieuType[];
   className?: string;
@@ -101,10 +100,12 @@ export const Map: React.FC<MapProps> = (props) => {
           .map((lieu) => (
             <Marker
               key={lieu.id}
-              icon={MarkerIcon(lieu.type[0]?.type_destination)}
+              icon={MarkerIcon(
+                lieu.type[0]?.type_destination,
+                !highlightedLieux || highlightedLieux.size === 0 || highlightedLieux.has(lieu.id) ? "" : "unselected",
+              )}
               position={lieu.geolocalisation as LatLngExpression}
               eventHandlers={eventHandlersFactory(lieu)}
-              opacity={!highlightedLieux || highlightedLieux.size === 0 || highlightedLieux.has(lieu.id) ? 1 : 0.5}
             >
               <Popup className="lieu-popup" maxWidth={500}>
                 <LinkPreview className="d-flex flex-column" to={`/lieux/${lieu.id}`}>
@@ -152,8 +153,8 @@ export const Map: React.FC<MapProps> = (props) => {
               pathOptions={{
                 color:
                   !highlightedLieux || highlightedLieux.size === 0 || lieux.every((l) => highlightedLieux.has(l.id))
-                    ? "#7fa9fd"
-                    : "#7fa9fd88",
+                    ? "hsl(220 97% 75%)"
+                    : "hsl(220 0% 75%)",
                 dashArray: "5,10",
                 lineCap: "square",
               }}
