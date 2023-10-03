@@ -1,17 +1,17 @@
 import React, { FC, useEffect, useState } from "react";
-import { MediaType, SelectionType } from "../types";
-import { useParams } from "react-router-dom";
-import { Media } from "../components/media/media";
-import { useGetLasyData, useGetOne } from "../hooks/useAPI";
-import { PageLayout } from "../components/layout/page-layout";
 import ReactMarkdown from "react-markdown";
-import { Map } from "../components/map/map";
+import { useParams } from "react-router-dom";
+import Embed from "react-tiny-oembed";
+import { PageLayout } from "../components/layout/page-layout";
+import withSize from "../components/layout/with-size";
 import { LieuItem } from "../components/lieu/lieu-item";
 import { LinkPreview } from "../components/link-preview";
+import { Map } from "../components/map/map";
 import { DestinationSVG } from "../components/map/marker-icon";
+import { Media } from "../components/media/media";
 import config from "../config";
-import withSize from "../components/layout/with-size";
-import Embed from "react-tiny-oembed";
+import { useGetLasyData, useGetOne } from "../hooks/useAPI";
+import { MediaType, SelectionType } from "../types";
 
 export const SelectionMapMenu: FC<{
   selectionId: string;
@@ -46,7 +46,7 @@ export const SelectionMapMenu: FC<{
               // todo: change link to state in params
               <LieuItem key={stepIndex} lieu={l} className="selections" selectionId={selectionId} />
             ))}
-            <LinkPreview className="menu-item related" to="/selections">
+            <LinkPreview className="menu-item related see-also" to="/selections">
               Voir les autres sélections
             </LinkPreview>
           </div>

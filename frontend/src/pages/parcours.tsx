@@ -1,18 +1,18 @@
-import React, { FC, useEffect, useState } from "react";
-import { ParcoursType } from "../types";
-import { useParams } from "react-router-dom";
-import { Media } from "../components/media/media";
-import { Map } from "../components/map/map";
-import { PageLayout } from "../components/layout/page-layout";
-import ReactMarkdown from "react-markdown";
-import { LinkPreview } from "../components/link-preview";
-import { useGetLasyData, useGetOne } from "../hooks/useAPI";
-import { Loader } from "../components/loader";
-import { LieuItem } from "../components/lieu/lieu-item";
-import withSize from "../components/layout/with-size";
-import config from "../config";
 import { pick } from "lodash";
+import React, { FC, useEffect, useState } from "react";
+import ReactMarkdown from "react-markdown";
+import { useParams } from "react-router-dom";
+import { PageLayout } from "../components/layout/page-layout";
+import withSize from "../components/layout/with-size";
+import { LieuItem } from "../components/lieu/lieu-item";
+import { LinkPreview } from "../components/link-preview";
+import { Loader } from "../components/loader";
+import { Map } from "../components/map/map";
 import { MediaGallery } from "../components/media/gallery";
+import { Media } from "../components/media/media";
+import config from "../config";
+import { useGetLasyData, useGetOne } from "../hooks/useAPI";
+import { ParcoursType } from "../types";
 
 export const ParcoursMapMenu: FC<{
   parcoursId: string;
@@ -53,7 +53,7 @@ export const ParcoursMapMenu: FC<{
             {parcours.lieux.map((l, stepIndex) => (
               <LieuItem key={stepIndex} lieu={l} className="parcours" parcoursId={parcoursId} />
             ))}
-            <LinkPreview className="menu-item" to="/parcours">
+            <LinkPreview className="menu-item related see-also" to="/parcours">
               Voir les autres parcours
             </LinkPreview>
           </div>
