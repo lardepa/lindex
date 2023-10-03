@@ -1,16 +1,16 @@
 import React, { useEffect, useState } from "react";
 import { TbMapPin, TbMapPinOff } from "react-icons/tb";
 
-import { LieuType, SelectionType } from "../types";
-import { Map } from "../components/map/map";
 import { flatten, groupBy, reverse, sortBy, toPairs, uniqBy } from "lodash";
-import { LinkPreview } from "../components/link-preview";
-import { useGetList } from "../hooks/useAPI";
-import { Loader } from "../components/loader";
-import withSize from "../components/layout/with-size";
-import config from "../config";
 import { PageListLayout } from "../components/layout/page-list-layout";
+import withSize from "../components/layout/with-size";
+import { LinkPreview } from "../components/link-preview";
+import { Loader } from "../components/loader";
+import { Map } from "../components/map/map";
 import { fileUrl } from "../components/media/media";
+import config from "../config";
+import { useGetList } from "../hooks/useAPI";
+import { LieuType, SelectionType } from "../types";
 
 const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
   const [selections, loading] = useGetList<SelectionType>("selections");
@@ -63,7 +63,7 @@ const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
         smallScreen ? "justify-content-start" : "justify-content-end"
       } max-height-but-logo`}
     >
-      <div className="presentation">L'Ardepa invite des citoyens à vous faire découvrir l'architecture.</div>
+      <div className="presentation">Des citoyens vous invitent à découvrir l'architecture.</div>
       <div className="page-list">
         {reverse(sortBy(toPairs(groupBy(selections, (s) => new Date(s.date).getFullYear())), ([y]) => y)).map(
           ([year, yearSelections], i) => {

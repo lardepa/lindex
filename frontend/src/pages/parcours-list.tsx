@@ -1,16 +1,16 @@
 import React, { useEffect, useState } from "react";
 import { TbMapPin, TbMapPinOff } from "react-icons/tb";
 
-import { LieuType, ParcoursType } from "../types";
-import { Map } from "../components/map/map";
 import { flatten, fromPairs, groupBy, pick, reverse, sortBy, toPairs, uniqBy } from "lodash";
-import { LinkPreview } from "../components/link-preview";
-import { useGetList } from "../hooks/useAPI";
-import { Loader } from "../components/loader";
-import withSize from "../components/layout/with-size";
-import config from "../config";
 import { PageListLayout } from "../components/layout/page-list-layout";
+import withSize from "../components/layout/with-size";
+import { LinkPreview } from "../components/link-preview";
+import { Loader } from "../components/loader";
+import { Map } from "../components/map/map";
 import { fileUrl } from "../components/media/media";
+import config from "../config";
+import { useGetList } from "../hooks/useAPI";
+import { LieuType, ParcoursType } from "../types";
 
 const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
   const [parcours, loading] = useGetList<ParcoursType>("parcours");
@@ -67,7 +67,7 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
         smallScreen ? "justify-content-start" : "justify-content-end"
       } max-height-but-logo`}
     >
-      <div className="presentation">Retrouvez les parcours proposés par l'Ardepa.</div>
+      <div className="presentation">Itinéraires à travers l'architecture.</div>
       <div className="page-list">
         {reverse(sortBy(toPairs(groupBy(parcours, (p) => new Date(p.date).getFullYear())), ([y]) => y)).map(
           ([year, yearParcours], i) => {
