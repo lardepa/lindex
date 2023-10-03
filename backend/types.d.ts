@@ -166,7 +166,15 @@ export interface ContenuType {
   id: string;
   section: string;
   page: "à propos" | "glossaire";
+  chapeau: string;
   contenu: string;
+  definitions: { nom: string; description: string }[];
   ordre: number;
   médias?: MediaType[];
+}
+
+export interface GlossaireType {
+  id: string;
+  nom: string;
+  description: string;
 }

@@ -1,5 +1,31 @@
-h1.selected {
-  text-decoration: underline;
+.static-content {
+  h1 {
+    font-size: 3rem !important;
+    line-height: 3rem !important;
+    margin-bottom: revert;
+  }
+  h1.selected {
+    text-decoration: underline;
+  }
+  .introduction-text {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  .glossary-entry {
+    .introduction-text {
+      color: $color_lindex;
+      margin-bottom: 1rem;
+    }
+    .definition > p {
+      margin-bottom: unset;
+    }
+    border-bottom: 1px solid $color_lindex;
+    padding-bottom: 24px;
+    margin-bottom: 24px;
+  }
+  .glossary-entry:last-child() {
+    border-bottom: unset;
+  }
 }
 .horizontal-carousel.section-gallery {
   flex-wrap: nowrap;

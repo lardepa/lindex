@@ -1,10 +1,9 @@
 import React, { useEffect } from "react";
 import ReactMarkdown from "react-markdown";
 import { Link, useLocation } from "react-router-dom";
-import { BurgerMenu } from "../components/layout/BurgerMenu";
+import { PageLayout } from "../components/layout/page-layout";
 import { VerticalMenu } from "../components/layout/vertical-menu";
 import { Loader } from "../components/loader";
-import { Logo } from "../components/logo";
 import { Media } from "../components/media/media";
 import { NewsCarousel } from "../components/news-carousel";
 import { useGetList } from "../hooks/useAPI";
@@ -25,57 +24,77 @@ const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }
   }, [location.hash]);
 
   return (
-    <div className="container-fluid">
-      <div className="row full-height no-gutters">
-        <div
-          className="col-sm-6 col-lg-4 col-xl-3 px-0 overflow-auto d-flex flex-column justify-content-between"
-          id="left-menu"
-        >
-          <BurgerMenu />
-          <Logo />
+    <PageLayout
+      hideHorizontalMenu
+      leftContent={
+        <>
           <div className="presentation">Une cartographie de l'architecture en Pays de la Loire.</div>
           <div>
             <NewsCarousel />
             <VerticalMenu />
           </div>
-        </div>
-
-        {!loading && contenus && (
-          <>
-            <div className="d-none d-sm-none d-lg-flex col-lg-2 col-xl-2 px-0">
-              <nav className="nav vertical-menu-static  d-flex w-100">
-                {contenus?.map((c) => (
-                  <Link to={{ hash: encodeURIComponent(c.section) }} key={c.id} className="menu-item">
-                    {c.section}
-                  </Link>
+        </>
+      }
+      rightContent={
+        <>
+          {!loading && contenus && (
+            <>
+              <div
+                style={{ gridArea: "col-content", marginTop: "0.6rem" }}
+                className={`d-flex flex-column justify-content-start d-none d-sm-none d-lg-flex `}
+              >
+                <nav className="nav vertical-menu-static  d-flex w-100">
+                  {contenus?.map((c) => (
+                    <Link to={{ hash: encodeURIComponent(c.section) }} key={c.id} className="menu-item">
+                      {c.section}
+                    </Link>
+                  ))}
+                </nav>
+              </div>
+              <div
+                className=" px-3 static-content"
+                style={{ gridArea: "main-content", overflowY: "auto", overflowX: "hidden", paddingTop: "1em" }}
+              >
+                {contenus.map((c) => (
+                  <div key={c.id}>
+                    <h1
+                      id={c.section}
+                      className={decodeURIComponent(location.hash).includes(c.section) ? "selected" : ""}
+                    >
+                      {c.section}
+                    </h1>
+                    {c.chapeau && <ReactMarkdown className="long-text introduction-text">{c.chapeau}</ReactMarkdown>}
+                    {c.definitions !== undefined && (
+                      <>
+                        {c.definitions.map((d, i) =>
+                          d.description ? (
+                            <div key={i} className="glossary-entry">
+                              <div className="long-text introduction-text">{d.nom}</div>
+                              <ReactMarkdown className="definition long-text long-text-static">
+                                {d.description}
+                              </ReactMarkdown>
+                            </div>
+                          ) : null,
+                        )}
+                      </>
+                    )}
+                    {c.contenu && <ReactMarkdown className="long-text">{c.contenu}</ReactMarkdown>}
+                    {c.médias && (
+                      <div className={"horizontal-carousel section-gallery "}>
+                        {c?.médias.map((m, i) => (
+                          <Media media={m} cover key={i} />
+                        ))}
+                      </div>
+                    )}
+                  </div>
                 ))}
-              </nav>
-            </div>
-            <div className="col-sm-6 col-lg-6 col-xl-7 p-3 full-height  overflow-scroll">
-              {contenus.map((c) => (
-                <div key={c.id}>
-                  <h1
-                    id={c.section}
-                    className={decodeURIComponent(location.hash).includes(c.section) ? "selected" : ""}
-                  >
-                    {c.section}
-                  </h1>
-                  <ReactMarkdown className="long-text">{c.contenu}</ReactMarkdown>
-                  {c.médias && (
-                    <div className={"horizontal-carousel section-gallery "}>
-                      {c?.médias.map((m, i) => (
-                        <Media media={m} cover key={i} />
-                      ))}
-                    </div>
-                  )}
-                </div>
-              ))}
-            </div>
-          </>
-        )}
-        <Loader loading={loading} />
-      </div>
-    </div>
+              </div>
+            </>
+          )}
+          <Loader loading={loading} />
+        </>
+      }
+    />
   );
 };
 

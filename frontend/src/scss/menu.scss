@@ -60,6 +60,13 @@
   .menu-item:last-child {
     border-right: 0;
   }
+
+  .empty-spacer {
+    border: none;
+    height: calc(0.8rem + 0.6rem + #{$horizontal_menu_height});
+    grid-column: 1 / 3;
+    grid-row: menu;
+  }
 }
 
 @include media-breakpoint-down(md) {

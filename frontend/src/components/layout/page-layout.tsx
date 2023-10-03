@@ -8,10 +8,11 @@ interface Props {
   leftContent: ReactNode;
   rightContent: ReactNode;
   gridLayoutName?: string;
+  hideHorizontalMenu?: boolean;
 }
 
 export const PageLayout: React.FC<Props> = (props) => {
-  const { menuSelectedItem, leftContent, rightContent, gridLayoutName } = props;
+  const { menuSelectedItem, leftContent, rightContent, gridLayoutName, hideHorizontalMenu } = props;
 
   return (
     <div className="container-fluid">
@@ -29,7 +30,13 @@ export const PageLayout: React.FC<Props> = (props) => {
                 gridLayoutName ? gridLayoutName : "page-layout-default-area"
               } overflow-auto`}
             >
-              <HorizontalMenu selected={menuSelectedItem} />
+              {!hideHorizontalMenu ? (
+                <HorizontalMenu selected={menuSelectedItem} />
+              ) : (
+                <div className="horizontal-menu">
+                  <div className="empty-spacer" />
+                </div>
+              )}
               {rightContent}
             </div>
           </div>

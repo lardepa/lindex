@@ -1,6 +1,7 @@
+import Airtable from "airtable";
 import { AirtableBase } from "airtable/lib/airtable_base";
 import fs from "fs";
-import Airtable from "airtable";
+import https from "https";
 import {
   flatten,
   keyBy,
@@ -11,18 +12,17 @@ import {
   sortBy,
   values,
 } from "lodash";
-import https from "https";
 import {
+  ContenuType,
   Dataset,
-  LieuType,
   LieuAirTable,
+  LieuType,
   MediaType,
-  ParcoursType,
+  NewsType,
   ParcoursAirtable,
+  ParcoursType,
   SelectionAirtable,
   SelectionType,
-  NewsType,
-  ContenuType,
 } from "./types";
 
 // load .env variables into process.env
@@ -128,6 +128,7 @@ const importAllTables = async (incremental?: boolean) => {
       "distinctions",
       "parcours",
       "contenus",
+      "glossaire",
     ]) {
       const incomingData: { [key: string]: any } = await dumpObjects(
         base,
@@ -377,6 +378,7 @@ importAllTables().then(async (dataset) => {
           .filter((n: ContenuType) => n.page === "à propos")
           .map((c) => ({
             ...c,
+            chapeau: sanitizeAirTableMarkdown(c.chapeau),
             contenu: sanitizeAirTableMarkdown(c.contenu),
             médias:
               c.médias && c.médias.map((m) => dataset.médias[m] as MediaType),
@@ -395,7 +397,11 @@ importAllTables().then(async (dataset) => {
           .filter((n: ContenuType) => n.page === "glossaire")
           .map((c) => ({
             ...c,
+            chapeau: sanitizeAirTableMarkdown(c.chapeau),
             contenu: sanitizeAirTableMarkdown(c.contenu),
+            definitions: dataset[c.section.toLowerCase()]
+              ? sortBy(values(dataset[c.section.toLowerCase()]), (d) => d.nom)
+              : undefined,
             médias:
               c.médias && c.médias.map((m) => dataset.médias[m] as MediaType),
           })),
