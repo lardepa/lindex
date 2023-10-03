@@ -86,7 +86,7 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
                   <ReactMarkdown className="metadata">{selection?.introduction}</ReactMarkdown>
                 </div>
               </div>
-              <div className="long-text" style={{ gridArea: "main-content", marginTop: "0.6rem" }}>
+              <div className="long-text edito" style={{ gridArea: "main-content", marginTop: "0.6rem" }}>
                 {selection.soundcloud && (
                   <Embed options={{ maxheight: 100 }} url={selection.soundcloud} style={{ marginBottom: "1rem" }} />
                 )}
