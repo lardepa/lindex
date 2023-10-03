@@ -3,18 +3,12 @@
   "name": "L'ardepa Cartographie",
   "icons": [
     {
-      "src": "cropped-logo-ardepa-carré-512px-transparent-32x32.png",
-      "sizes": "32x32",
-      "type": "image/png"
-    },
-    {
-      "src": "cropped-logo-ardepa-carré-512px-transparent-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "lindexfavicon.ico",
+      "sizes": "72x72 96x96 128x128 256x256"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#566CE6",
   "background_color": "#ffffff"
 }
