@@ -323,7 +323,7 @@ figure {
   width: 100%;
   display: flex;
   justify-content: flex-start;
-  overflow-x: scroll;
+  overflow-x: auto;
   padding-bottom: 0.5rem;
 
   @include media-breakpoint-down(md) {
