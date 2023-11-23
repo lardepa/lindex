@@ -135,7 +135,7 @@
 #burger-menu {
   position: absolute;
   top: -100px;
-  left: 0;
+  right: 0;
   // leaflet control z-index is 1000
   z-index: 1200;
   padding: 0;
@@ -160,7 +160,7 @@
 }
 .logo {
   height: $logo-height;
-  margin: $logo-margin-top 1rem;
+  margin: $logo-margin-top $logo-margin-left;
   // max-height: 10vh;
   // min-height: $logo-height;
   //width: calc(100% - 2rem);
@@ -176,10 +176,6 @@
 @include media-breakpoint-down(md) {
   .max-height-but-logo {
     height: auto;
-  }
-  .logo {
-    display: flex;
-    justify-content: flex-end;
   }
 }
 
