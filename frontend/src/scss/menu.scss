@@ -21,9 +21,14 @@
   cursor: not-allowed;
   color: grey;
 }
-.menu-item:not(.disabled):hover {
+.horizontal-menu .menu-item:not(.selected),
+.vertical-menu .menu-item:not(.disabled):hover {
   color: $color_lindex;
   background-color: white;
+}
+.horizontal-menu .menu-item:not(.selected):hover {
+  background-color: $color_lindex;
+  color: white;
 }
 
 .vertical-menu,
@@ -63,8 +68,8 @@
     text-align: left;
     grid-row: menu;
   }
-  .menu-item:last-child {
-    border-right: 0;
+  .menu-item:first-child {
+    border-left: $menu-border;
   }
 
   .empty-spacer {
@@ -183,6 +188,7 @@
 .disabled:hover {
   background-color: $color_grey_background !important;
 }
+
 // .explorer.menu-item.selected {
 //   background-color: $color_explorer_full;
 // }
