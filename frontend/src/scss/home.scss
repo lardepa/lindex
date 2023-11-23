@@ -3,10 +3,12 @@
   // carousel
   #news-carousel {
     display: block;
-    border-left: 8px $color_default_text solid;
+    border: 4px $color_lindex solid;
+    border-top: none;
     .rightHeader {
       font-size: 1.25rem;
       font-weight: 700;
+      background-color: $color_lindex;
     }
     figure .action {
       display: none;
@@ -48,7 +50,7 @@
     }
   }
   .carousel-controls {
-    background-color: $color_default_text;
+    background-color: $color_lindex;
   }
   .news {
     text-decoration: none;
@@ -72,7 +74,7 @@
       display: none;
     }
     #news-carousel {
-      border-top: 8px $color_default_text solid;
+      border-top: 4px $color_lindex solid;
     }
 
     .presentation {

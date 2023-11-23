@@ -7,20 +7,20 @@ export const VerticalMenu: React.FC<{}> = () => (
       Sélections des invités
     </LinkPreview>
 
-    <LinkPreview to="/explorer" className="explorer selected menu-item">
-      Explorer la carte
-    </LinkPreview>
-
     <LinkPreview to="/parcours" className="parcours selected menu-item">
       Parcours
     </LinkPreview>
 
-    <LinkPreview to="/a-propos" className=" menu-item parcours selected">
-      À propos
+    <LinkPreview to="/explorer" className="explorer selected menu-item">
+      Explorer la carte
     </LinkPreview>
 
     <LinkPreview to="/glossaire" className=" menu-item parcours selected">
       Glossaire
+    </LinkPreview>
+
+    <LinkPreview to="/a-propos" className=" menu-item parcours selected">
+      À propos
     </LinkPreview>
   </div>
 );

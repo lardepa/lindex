@@ -335,23 +335,24 @@ importAllTables().then(async (dataset) => {
         })) as NewsType[]),
       ...(values(selections)
         .filter((s) => s["en une"])
-        .map((s) => ({
+        .map((s: SelectionType) => ({
           id: s.id,
           type: "selections",
           status: s.status,
           cover_media: s.portrait,
           title: s.invité,
+          subtitle: s["sous-titre"],
           lastModification: s["dernière modification"],
         })) as NewsType[]),
       ...(values(parcours)
         .filter((l) => l["en une"])
-        .map((p) => ({
+        .map((p: ParcoursType) => ({
           id: p.id,
           type: "parcours",
           status: p.status,
           cover_media: p.cover_media,
           title: p.nom,
-          subtitle: dateFormater.format(new Date(p.date)),
+          subtitle: p["sous-titre"],
           lastModification: p["dernière modification"],
         })) as NewsType[]),
     ],
