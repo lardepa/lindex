@@ -1,3 +1,14 @@
+.filters-menu {
+  .filter-icon {
+    background-color: white;
+  }
+  .menu-item:hover {
+    .filter-icon {
+      background-color: $color_lindex;
+    }
+  }
+}
+
 // common in modal and status bar
 .filter-value {
   font-size: 1.25rem;
@@ -41,6 +52,13 @@
   z-index: 1900;
   width: 100vw;
   height: 100vh;
+
+  .modal-header {
+    color: white;
+    .filter-icon {
+      background-color: white;
+    }
+  }
 
   background-color: rgba($color_lindex, 0.8);
   .filter {

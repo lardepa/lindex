@@ -33,8 +33,8 @@ const FilterModal: React.FC<{
   return (
     <div className="filter-modal" onClick={onClose}>
       <div className="filter" style={{ justifyContent: isOptionsFilterActive ? "start" : "center" }}>
-        <h2 className="d-flex align-items-center">
-          <img src={filterParam.filter.pictoURL} alt={""} height="30px" className="me-2" />
+        <h2 className="d-flex align-items-center modal-header">
+          <img src={filterParam.filter.pictoURL} alt={""} height="30px" className="me-2 filter-icon rounded" />
           <span>{filterParam.filter.label}</span>
         </h2>
         {isOptionsFilterActive && (

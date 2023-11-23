@@ -1,7 +1,7 @@
 import React from "react";
-import { FiltersParamType } from "../../types.frontend";
-import filtersConfig from "../../filters-config";
 import PlusSVG from "../../assets/plus.svg";
+import filtersConfig from "../../filters-config";
+import { FiltersParamType } from "../../types.frontend";
 
 const FiltersMenu: React.FC<{
   filtersParams: FiltersParamType[];
@@ -11,7 +11,7 @@ const FiltersMenu: React.FC<{
   return (
     <div style={{ backgroundColor: "white" }}>
       <h4 className="px-3 pt-3">Filtres</h4>
-      <div className="vertical-menu">
+      <div className="vertical-menu filters-menu">
         {filtersConfig
           .filter((filter) => !filter.hide)
           .map((filter) => {
@@ -32,7 +32,7 @@ const FiltersMenu: React.FC<{
                 }
               >
                 <span className="flex-grow-1 d-flex align-items-center">
-                  <img src={filter.pictoURL} alt={""} height="30px" className="me-2" />
+                  <img src={filter.pictoURL} alt={""} height="30px" className="me-2 filter-icon rounded" />
                   <span>{filter.label}</span>
                   {filterParams && filterParams?.values.length !== 0 && (
                     <span>
