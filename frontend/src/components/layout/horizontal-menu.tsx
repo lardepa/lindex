@@ -1,11 +1,16 @@
 import React from "react";
 import { LinkPreview } from "../link-preview";
 
-export const HorizontalMenu: React.FC<{ selected?: "selections" | "parcours" | "explorer" }> = ({ selected }) => {
+export const HorizontalMenu: React.FC<{
+  selected?: "selections" | "parcours" | "explorer";
+  hideLeftBorder?: boolean;
+}> = ({ selected, hideLeftBorder }) => {
   return (
     <div className="horizontal-menu">
       <LinkPreview
-        className={`menu-item selections ${selected === "selections" ? "selected" : ""}`}
+        className={`menu-item selections ${selected === "selections" ? "selected" : ""} ${
+          hideLeftBorder ? "no-left-border" : ""
+        }`}
         to={`/selections`}
         style={{ gridColumn: 1 }}
       >

@@ -31,7 +31,10 @@ export const PageLayout: React.FC<Props> = (props) => {
               } overflow-auto`}
             >
               {!hideHorizontalMenu ? (
-                <HorizontalMenu selected={menuSelectedItem} />
+                <HorizontalMenu
+                  selected={menuSelectedItem}
+                  hideLeftBorder={gridLayoutName !== undefined || menuSelectedItem === undefined}
+                />
               ) : (
                 <div className="horizontal-menu">
                   <div className="empty-spacer" />

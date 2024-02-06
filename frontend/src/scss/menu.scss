@@ -68,7 +68,7 @@
     text-align: left;
     grid-row: menu;
   }
-  .menu-item:first-child {
+  .menu-item:first-child:not(.no-left-border) {
     border-left: $menu-border;
   }
 
@@ -237,12 +237,12 @@
 
       line-height: 50px;
 
-      border-bottom: $menu_strong_border;
+      border-bottom: $menu_border;
       width: 100%;
     }
     &[open] {
       .year-grid {
-        border-bottom: $menu_strong_border;
+        border-bottom: $menu_border;
       }
       .active-badge {
         display: none;
@@ -301,7 +301,7 @@
   }
 
   .page-list-card {
-    border-bottom: $menu_strong_border;
+    border-bottom: $menu_border;
     background-color: $color_lindex;
     color: white;
     &:hover {
