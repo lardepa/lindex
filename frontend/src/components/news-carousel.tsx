@@ -19,7 +19,7 @@ const NewsItem: React.FC<{ news: NewsType }> = ({ news }) => (
   <LinkPreview className="d-flex flex-column news" to={`/${news.type}/${news.id}`}>
     <div className="rightHeader">Découvrez {headerTitle(news.type)}</div>
 
-    <Media media={news.cover_media} cover />
+    <Media media={news.cover_media} cover sizes="(max-width:576px) 50vw, (max-width:960px) 33vw, 25vw" />
     <div className="info-box">
       <div className="title">{news.title}</div>
       <div className="subtitle">{news.subtitle}</div>

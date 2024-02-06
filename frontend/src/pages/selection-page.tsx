@@ -77,7 +77,7 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
               <div style={{ gridArea: "col-content" }}>
                 {selection?.portrait && (
                   <div className="w-100 media-container">
-                    <Media media={selection?.portrait} />
+                    <Media media={selection?.portrait} sizes="(max-width:576px) 100vw, (max-width:960px) 80vw, 25vw" />
                   </div>
                 )}
                 <div className="p-3 pt-2">
@@ -101,7 +101,12 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
                           <img src={DestinationSVG(l.type[0]?.type_destination)} alt={l.type[0]?.type_destination} />
                           {l.nom}
                         </span>
-                        <Media media={l.cover_media || (l.médias?.[0] as MediaType)} forceRatio="force-height" cover />
+                        <Media
+                          media={l.cover_media || (l.médias?.[0] as MediaType)}
+                          forceRatio="force-height"
+                          cover
+                          sizes="50vw"
+                        />
                       </LinkPreview>
                     ),
                 )}

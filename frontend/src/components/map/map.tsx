@@ -111,7 +111,14 @@ export const Map: React.FC<MapProps> = (props) => {
                 <LinkPreview className="d-flex flex-column" to={`/lieux/${lieu.id}`}>
                   <h5>{lieu.nom}</h5>
 
-                  {lieu.cover_media && <Media media={lieu.cover_media} cover forceRatio="force-width" />}
+                  {lieu.cover_media && (
+                    <Media
+                      media={lieu.cover_media}
+                      cover
+                      forceRatio="force-width"
+                      sizes="(max-width:576px) 80vw, (max-width:768px) 300px, (min-width:768px) 400px"
+                    />
+                  )}
                 </LinkPreview>
                 <div className="metadata-panel">
                   {lieu.maitre_oeuvre && (

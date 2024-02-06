@@ -80,7 +80,7 @@ const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
               <div className="flex-grow-1" style={{ gridArea: "col-content" }}>
                 {parcours.cover_media && (
                   <div className="w-100 media-container">
-                    <Media media={parcours.cover_media} />
+                    <Media media={parcours.cover_media} sizes="(max-width:768px) 100vw, 25vw" />
                   </div>
                 )}
                 <h1 className="mb-3 px-3" style={{ fontWeight: 700 }}>
@@ -100,7 +100,7 @@ const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
                 className={`${smallScreen ? "media-container" : "horizontal-carousel"}`}
                 style={{ gridArea: smallScreen ? "media" : "footer" }}
               >
-                <MediaGallery medias={parcours?.médias || []} />
+                <MediaGallery medias={parcours?.médias || []} sizes={smallScreen ? "100vw" : "50vw"} />
               </div>
               {smallScreen && (
                 <div style={{ gridArea: "map" }}>

@@ -1,11 +1,11 @@
 import { flatten, identity, range } from "lodash";
 import { FC, useEffect, useRef, useState } from "react";
-import { MdNavigateNext, MdNavigateBefore, MdClose } from "react-icons/md";
+import { MdClose, MdNavigateBefore, MdNavigateNext } from "react-icons/md";
 
 import { MediaType } from "../../types";
 import { Media } from "./media";
 
-export const MediaGallery: FC<{ medias: MediaType[] }> = ({ medias }) => {
+export const MediaGallery: FC<{ medias: MediaType[]; sizes?: string }> = ({ medias, sizes }) => {
   const [fullscreenMediaIndex, setFullscreenMediaIndex] = useState<number | null>(null);
   const gallery = useRef<HTMLDivElement | null>(null);
 
@@ -36,7 +36,7 @@ export const MediaGallery: FC<{ medias: MediaType[] }> = ({ medias }) => {
           }}
         >
           <div className="w-100 h-100 position-relative d-flex justify-content-center align-items-center">
-            <Media key={fullscreenMediaIndex} media={flattenMedias[fullscreenMediaIndex]} />
+            <Media key={fullscreenMediaIndex} media={flattenMedias[fullscreenMediaIndex]} sizes="100vw" />
           </div>
           <button
             type="button"
@@ -83,6 +83,7 @@ export const MediaGallery: FC<{ medias: MediaType[] }> = ({ medias }) => {
         flattenMedias.map((media, i) => (
           <Media
             media={media}
+            sizes={sizes}
             cover
             key={i}
             onClick={() => {

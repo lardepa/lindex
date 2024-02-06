@@ -137,6 +137,36 @@ const importAllTables = async (incremental?: boolean) => {
       );
       if (keys(incomingData).length > 0) {
         let newData = incomingData;
+        // correcting thumbnails generation issue in airtable
+        if (table === "médias") {
+          newData = mapValues(newData, (media: MediaType) => {
+            if (media.fichiers)
+              return {
+                ...media,
+                fichiers: media.fichiers.map((fichier) => {
+                  if (
+                    fichier.thumbnails &&
+                    fichier.thumbnails.full &&
+                    fichier.thumbnails.full.width === 3000 &&
+                    fichier.thumbnails.full.height === 3000
+                  )
+                    return {
+                      ...fichier,
+                      thumbnails: {
+                        ...fichier.thumbnails,
+                        full: {
+                          width: fichier.width,
+                          height: fichier.height,
+                          url: fichier.url,
+                        },
+                      },
+                    };
+                  else return fichier;
+                }),
+              };
+            return media;
+          });
+        }
         if (incremental) {
           // update existingData
           const existingData = fs.existsSync(
@@ -153,7 +183,9 @@ const importAllTables = async (incremental?: boolean) => {
           // TODO: find a way to get deleted items
           newData = { ...existingData, ...incomingData };
         }
+
         dataset[table] = newData;
+
         // storing on disk
         fs.writeFileSync(
           `${process.env.DATA_PATH}/data/${table}_airtable.json`,

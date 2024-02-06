@@ -67,7 +67,7 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
           {smallScreen && lieu?.cover_media && (
             <div className="media-container">
               {" "}
-              <Media media={lieu?.cover_media} cover />{" "}
+              <Media media={lieu?.cover_media} cover sizes="100vw" />{" "}
             </div>
           )}
         </div>
@@ -115,14 +115,17 @@ export const Lieu: React.FC<{ lieu: LieuType; width?: number }> = ({ lieu, width
         {/*  MEDIAS in this column on small screen */}
         {smallScreen && (
           <div className="media-container">
-            <MediaGallery medias={(lieu?.cover_media ? [lieu.cover_media] : []).concat(lieu?.médias || [])} />
+            <MediaGallery
+              medias={(lieu?.cover_media ? [lieu.cover_media] : []).concat(lieu?.médias || [])}
+              sizes="100vw"
+            />
           </div>
         )}
       </div>
 
-      {/* seccond 2/3 column */}
+      {/* second 2/3 column */}
       <div className="media-container" style={{ gridArea: "main-content", overflowY: "auto", overflowX: "hidden" }}>
-        <MediaGallery medias={(lieu?.cover_media ? [lieu.cover_media] : []).concat(lieu?.médias || [])} />
+        <MediaGallery medias={(lieu?.cover_media ? [lieu.cover_media] : []).concat(lieu?.médias || [])} sizes="50vw" />
       </div>
     </>
   );

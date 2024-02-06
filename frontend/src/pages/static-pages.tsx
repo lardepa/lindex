@@ -82,7 +82,7 @@ const StaticPage: React.FC<{ contentType: StatiPageContent }> = ({ contentType }
                     {c.médias && (
                       <div className={"horizontal-carousel section-gallery "}>
                         {c?.médias.map((m, i) => (
-                          <Media media={m} cover key={i} />
+                          <Media media={m} cover key={i} sizes="50vw" />
                         ))}
                       </div>
                     )}
