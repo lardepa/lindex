@@ -9,10 +9,12 @@ import { Loader } from "../components/loader";
 import { Map } from "../components/map/map";
 import { fileUrl } from "../components/media/media";
 import config from "../config";
+import { useQueryParamsState } from "../hooks/queryParams";
 import { useGetList } from "../hooks/useAPI";
 import { LieuType, SelectionType } from "../types";
 
 const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
+  const [{ isPreview }] = useQueryParamsState();
   const [selections, loading] = useGetList<SelectionType>("selections");
   const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.sm;
 
@@ -30,7 +32,7 @@ const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
           flatten(
             selections
               .filter((s) => selectedSelections.length === 0 || selectedSelections.includes(s.id))
-              .map((s) => s.lieux),
+              .map((s) => s.lieux.filter((l) => isPreview || l.status === "Publié")),
           ),
           (l) => l.id,
         ),
@@ -134,7 +136,7 @@ const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
                             else setSelectedSelections([...selectedSelections, s.id]);
                           }}
                         >
-                          {s.lieux.length}
+                          {s.lieux.filter((l) => isPreview || l.status === "Publié").length}
                           {selectedSelections.length === 0 || selectedSelections.includes(s.id) ? (
                             <TbMapPin />
                           ) : (

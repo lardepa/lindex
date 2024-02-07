@@ -9,10 +9,12 @@ import { Loader } from "../components/loader";
 import { Map } from "../components/map/map";
 import { fileUrl } from "../components/media/media";
 import config from "../config";
+import { useQueryParamsState } from "../hooks/queryParams";
 import { useGetList } from "../hooks/useAPI";
 import { LieuType, ParcoursType } from "../types";
 
 const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
+  const [{ isPreview }] = useQueryParamsState();
   const [parcours, loading] = useGetList<ParcoursType>("parcours");
   const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.sm;
 
@@ -171,7 +173,12 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
                 itinaries={fromPairs(
                   parcours
                     .filter((p) => selectedParcours.length === 0 || selectedParcours.includes(p.id))
-                    .map((p) => [p.id, p.lieux.map((l) => pick(l, ["id", "geolocalisation"]))]),
+                    .map((p) => [
+                      p.id,
+                      p.lieux
+                        .filter((l) => isPreview || l.status === "Publié")
+                        .map((l) => pick(l, ["id", "geolocalisation"])),
+                    ]),
                 )}
                 className="listing-map"
                 setOverLieu={setOverLieu}

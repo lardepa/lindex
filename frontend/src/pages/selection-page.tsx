@@ -10,6 +10,7 @@ import { Map } from "../components/map/map";
 import { DestinationSVG } from "../components/map/marker-icon";
 import { Media } from "../components/media/media";
 import config from "../config";
+import { useQueryParamsState } from "../hooks/queryParams";
 import { useGetLasyData, useGetOne } from "../hooks/useAPI";
 import { MediaType, SelectionType } from "../types";
 
@@ -19,6 +20,7 @@ export const SelectionMapMenu: FC<{
   loading?: boolean;
   smallScreen?: boolean;
 }> = ({ selectionId, selection: alreadyLoadedSelection, loading, smallScreen }) => {
+  const [{ isPreview }] = useQueryParamsState();
   const { getData: getSelection, loading: loadingSelection } = useGetLasyData<SelectionType>("selections", selectionId);
   const [selection, setSelection] = useState<SelectionType | undefined>(alreadyLoadedSelection);
   useEffect(() => {
@@ -39,13 +41,21 @@ export const SelectionMapMenu: FC<{
             <LinkPreview to={`/selections/${selectionId}`}>
               <div className="rightHeader">Sélection de {selection.invité}</div>
             </LinkPreview>
-            {selection.lieux && <Map lieux={selection.lieux} className="map-in-menu" disableScroll={smallScreen} />}
+            {selection.lieux && (
+              <Map
+                lieux={selection.lieux.filter((l) => isPreview || l.status === "Publié")}
+                className="map-in-menu"
+                disableScroll={smallScreen}
+              />
+            )}
           </div>
           <div className="steps vertical-menu selections">
-            {selection.lieux.map((l, stepIndex) => (
-              // todo: change link to state in params
-              <LieuItem key={stepIndex} lieu={l} className="selections" selectionId={selectionId} />
-            ))}
+            {selection.lieux
+              .filter((l) => isPreview || l.status === "Publié")
+              .map((l, stepIndex) => (
+                // todo: change link to state in params
+                <LieuItem key={stepIndex} lieu={l} className="selections" selectionId={selectionId} />
+              ))}
             <LinkPreview className="menu-item related see-also" to="/selections">
               Voir les autres sélections
             </LinkPreview>
@@ -58,6 +68,7 @@ export const SelectionMapMenu: FC<{
 
 export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
   const { id } = useParams<{ id: string }>();
+  const [{ isPreview }] = useQueryParamsState();
 
   const [selection, loading] = useGetOne<SelectionType>("selections", id);
 
@@ -95,23 +106,25 @@ export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
                 <ReactMarkdown>{selection?.édito}</ReactMarkdown>
               </div>
               <div className="horizontal-carousel selection-medias" style={{ gridArea: "footer" }}>
-                {selection.lieux.map(
-                  (l) =>
-                    (l.cover_media || l.médias?.[0]) && (
-                      <LinkPreview to={`/lieux/${l.id}`} className="lieu-card">
-                        <span className="title">
-                          <img src={DestinationSVG(l.type[0]?.type_destination)} alt={l.type[0]?.type_destination} />
-                          {l.nom}
-                        </span>
-                        <Media
-                          media={l.cover_media || (l.médias?.[0] as MediaType)}
-                          forceRatio="force-height"
-                          cover
-                          sizes="50vw"
-                        />
-                      </LinkPreview>
-                    ),
-                )}
+                {selection.lieux
+                  .filter((l) => isPreview || l.status === "Publié")
+                  .map(
+                    (l) =>
+                      (l.cover_media || l.médias?.[0]) && (
+                        <LinkPreview to={`/lieux/${l.id}`} className="lieu-card">
+                          <span className="title">
+                            <img src={DestinationSVG(l.type[0]?.type_destination)} alt={l.type[0]?.type_destination} />
+                            {l.nom}
+                          </span>
+                          <Media
+                            media={l.cover_media || (l.médias?.[0] as MediaType)}
+                            forceRatio="force-height"
+                            cover
+                            sizes="50vw"
+                          />
+                        </LinkPreview>
+                      ),
+                  )}
               </div>
               {smallScreen && (
                 <div style={{ gridArea: "map" }}>

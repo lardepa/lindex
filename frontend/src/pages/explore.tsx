@@ -19,7 +19,8 @@ export const ExplorePage: React.FC<{}> = () => {
   const [filteredLieux, setFilteredLieux] = useState<LieuType[] | null>(null);
   // filters params
   const [queryParamsState] = useQueryParamsState();
-  const { filtersParams } = queryParamsState;
+
+  const { filtersParams, isPreview } = queryParamsState;
 
   const [filterForPicker, showFilterPicker] = useState<FilterType | null>(null);
   const [responsiveFilterMenu, showResponsiveFilterMenu] = useState<boolean>(false);
@@ -31,6 +32,7 @@ export const ExplorePage: React.FC<{}> = () => {
       setFilteredLieux(
         lieux.filter(
           (l) =>
+            (isPreview || l.status === "Publié") &&
             l.geolocalisation &&
             every(filtersParams, ({ filter, values }) =>
               some(filter.getValueFromLieu(l), (v: string) => values.includes(v)),

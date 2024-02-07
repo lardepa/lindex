@@ -11,6 +11,7 @@ import { Map } from "../components/map/map";
 import { MediaGallery } from "../components/media/gallery";
 import { Media } from "../components/media/media";
 import config from "../config";
+import { useQueryParamsState } from "../hooks/queryParams";
 import { useGetLasyData, useGetOne } from "../hooks/useAPI";
 import { ParcoursType } from "../types";
 
@@ -20,6 +21,7 @@ export const ParcoursMapMenu: FC<{
   loading?: boolean;
   smallScreen?: boolean;
 }> = ({ parcoursId, parcours: alreadyLoadedParcours, loading, smallScreen }) => {
+  const [{ isPreview }] = useQueryParamsState();
   const { getData: getParcours, loading: loadingParcours } = useGetLasyData<ParcoursType>("parcours", parcoursId);
   const [parcours, setParcours] = useState<ParcoursType | undefined>(alreadyLoadedParcours);
   useEffect(() => {
@@ -42,17 +44,23 @@ export const ParcoursMapMenu: FC<{
             </LinkPreview>
             {parcours.lieux && (
               <Map
-                lieux={parcours.lieux}
+                lieux={parcours.lieux.filter((l) => isPreview || l.status === "Publié")}
                 className="map-in-menu"
-                itinaries={{ [parcours.id]: parcours.lieux.map((l) => pick(l, ["id", "geolocalisation"])) }}
+                itinaries={{
+                  [parcours.id]: parcours.lieux
+                    .filter((l) => isPreview || l.status === "Publié")
+                    .map((l) => pick(l, ["id", "geolocalisation"])),
+                }}
                 disableScroll={smallScreen}
               />
             )}
           </div>
           <div className="steps vertical-menu">
-            {parcours.lieux.map((l, stepIndex) => (
-              <LieuItem key={stepIndex} lieu={l} className="parcours" parcoursId={parcoursId} />
-            ))}
+            {parcours.lieux
+              .filter((l) => isPreview || l.status === "Publié")
+              .map((l, stepIndex) => (
+                <LieuItem key={stepIndex} lieu={l} className="parcours" parcoursId={parcoursId} />
+              ))}
             <LinkPreview className="menu-item related see-also" to="/parcours">
               Voir les autres parcours
             </LinkPreview>
@@ -65,6 +73,7 @@ export const ParcoursMapMenu: FC<{
 
 const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
   const { id } = useParams<{ id: string }>();
+  const [{ isPreview }] = useQueryParamsState();
   const [parcours, loading] = useGetOne<ParcoursType | null>("parcours", id);
   const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.md;
 

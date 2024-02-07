@@ -38,7 +38,7 @@ export interface MediaType {
   fichiers?: Attachment[];
 }
 
-export type Status = "En Rédaction" | "Publié";
+export type Status = "En rédaction" | "Publié";
 
 interface LieuRoot {
   id: string;
