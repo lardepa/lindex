@@ -43,7 +43,7 @@
     font-size: 1rem;
     line-height: 0.5rem;
   }
-  &.nav-home > .menu-item:last-child() {
+  &.nav-home > .menu-item:last-child {
     padding-bottom: 1.5rem;
   }
 }
@@ -51,7 +51,7 @@
   background-color: white !important;
   color: unset;
 
-  &:first-child() {
+  &:first-child {
     border-top: unset;
   }
 }
@@ -154,7 +154,7 @@
 #burger-menu .vertical-menu {
   width: 100vw;
   display: flex;
-  a:last-child() {
+  a:last-child {
     padding-bottom: 0.6rem;
   }
 }
@@ -255,7 +255,7 @@
       grid-template-columns: 1fr 1fr;
       &.solo-child {
         grid-template-columns: 1fr;
-        a:last-child() {
+        a:last-child {
           .page-list-card {
             border-bottom: 0;
           }
@@ -263,7 +263,7 @@
       }
       @include media-breakpoint-down(md) {
         grid-template-columns: 1fr;
-        a:last-child() > .page-list-card {
+        a:last-child > .page-list-card {
           border-bottom: 0;
         }
       }

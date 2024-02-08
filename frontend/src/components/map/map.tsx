@@ -52,7 +52,7 @@ export const Map: React.FC<MapProps> = (props) => {
 
   useEffect(() => {
     if (contours === null) {
-      fetch(`${process.env.PUBLIC_URL}/234400034_contours-paysdelaloire.json`)
+      fetch(`${import.meta.env.BASE_URL}234400034_contours-paysdelaloire.json`)
         .then((response) => {
           if (response.status === 200) response.json().then((data) => setContours(data));
         })

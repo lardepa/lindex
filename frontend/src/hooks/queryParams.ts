@@ -1,12 +1,12 @@
 import { flatten, sortBy } from "lodash";
 import { useEffect, useState } from "react";
-import { useHistory, useLocation } from "react-router";
+import { useLocation, useNavigate } from "react-router";
 import filtersConfig from "../filters-config";
 import { FiltersParamType, QueryParamsState } from "../types.frontend";
 
 export const useQueryParamsState = (): [QueryParamsState, (queryParamsState: QueryParamsState) => void] => {
   const location = useLocation();
-  const history = useHistory();
+  const navigate = useNavigate();
   const query = new URLSearchParams(location.search);
   // create state
   const [queryParamsState, setQueryParamsState] = useState<QueryParamsState>(queryStringToQueryParamsState(query));
@@ -29,7 +29,7 @@ export const useQueryParamsState = (): [QueryParamsState, (queryParamsState: Que
     queryParamsState,
     //Kind of a hack till I understand the issue
     (newQueryState: QueryParamsState) => {
-      history.push({
+      navigate({
         search: queryParamsStateToQueryString(newQueryState),
       });
     },

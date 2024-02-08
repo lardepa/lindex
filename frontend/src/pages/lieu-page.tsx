@@ -1,19 +1,24 @@
 import React from "react";
-import { LieuType } from "../types";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import { PageLayout } from "../components/layout/page-layout";
-import { Lieu } from "../components/lieu/lieu";
-import { useGetOne } from "../hooks/useAPI";
-import { Loader } from "../components/loader";
-import { LieuRelatedItems } from "../components/lieu/lieu-related-items";
 import withSize from "../components/layout/with-size";
-import { useQueryParamsState } from "../hooks/queryParams";
-import { SelectionMapMenu } from "./selection-page";
+import { Lieu } from "../components/lieu/lieu";
+import { LieuRelatedItems } from "../components/lieu/lieu-related-items";
+import { Loader } from "../components/loader";
 import config from "../config";
+import { useQueryParamsState } from "../hooks/queryParams";
+import { useGetOne } from "../hooks/useAPI";
+import { LieuType } from "../types";
 import { ParcoursMapMenu } from "./parcours";
+import { SelectionMapMenu } from "./selection-page";
 
 export const _LieuPage: React.FC<{ width: number }> = ({ width }) => {
+  const navigate = useNavigate();
   const { id } = useParams<{ id: string }>();
+  if (!id) {
+    navigate("/explorer");
+    return null;
+  }
   const [lieu, loading] = useGetOne<LieuType>("lieux", id);
   const [queryParamState] = useQueryParamsState();
   const smallScreen = width <= config.RESPONSIVE_BREAKPOINTS.md;

@@ -37,7 +37,7 @@ const _SelectionsListPage: React.FC<{ width: number }> = ({ width }) => {
           (l) => l.id,
         ),
       );
-  }, [selections, selectedSelections]);
+  }, [selections, selectedSelections, isPreview]);
 
   // Highlight lieux in same selection as the one beeing hovered
   useEffect(() => {

@@ -1,7 +1,7 @@
 import { pick } from "lodash";
 import React, { FC, useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import { PageLayout } from "../components/layout/page-layout";
 import withSize from "../components/layout/with-size";
 import { LieuItem } from "../components/lieu/lieu-item";
@@ -72,8 +72,12 @@ export const ParcoursMapMenu: FC<{
 };
 
 const _ParcoursPage: React.FC<{ width: number }> = ({ width }) => {
+  const navigate = useNavigate();
   const { id } = useParams<{ id: string }>();
-  const [{ isPreview }] = useQueryParamsState();
+  if (!id) {
+    navigate("/parcours");
+    return null;
+  }
   const [parcours, loading] = useGetOne<ParcoursType | null>("parcours", id);
   const smallScreen = width && width <= config.RESPONSIVE_BREAKPOINTS.md;
 

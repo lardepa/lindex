@@ -218,7 +218,7 @@ h3 {
         background-color: $color-grey-background;
         border: $primary 2px solid;
       }
-      &:last-child() {
+      &:last-child {
         margin-right: 0;
       }
     }

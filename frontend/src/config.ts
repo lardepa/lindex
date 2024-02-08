@@ -1,9 +1,7 @@
 import { ConfigType } from "./types.frontend";
-// load .env variables
-import env from "react-dotenv";
 
 const config: ConfigType = {
-  DATA_URL: env.DATA_URL || process.env.PUBLIC_URL || "",
+  DATA_URL: import.meta.env.VITE_DATA_URL || "",
   RESPONSIVE_BREAKPOINTS: {
     sm: 576,
     md: 768,
@@ -18,10 +16,10 @@ const config: ConfigType = {
     "maptiler.pastel": {
       TILE_CREDITS:
         '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>',
-      TILE_URL: `https://api.maptiler.com/maps/pastel/{z}/{x}/{y}.png?key=${env.MAPTILER_KEY}`,
+      TILE_URL: `https://api.maptiler.com/maps/pastel/{z}/{x}/{y}.png?key=${import.meta.env.VITE_MAPTILER_KEY}`,
     },
   },
-  MAP_LAYER: env.MAP_LAYER || "positron",
+  MAP_LAYER: import.meta.env.VITE_MAP_LAYER || "positron",
   COLORS: {
     DESTINATIONS: {
       Équipement: "#6F5FF9",
@@ -30,4 +28,5 @@ const config: ConfigType = {
     },
   },
 };
+console.log(config);
 export default config;

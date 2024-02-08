@@ -1,11 +1,13 @@
 import React, { useState } from "react";
-import { GrDownload, GrDocumentPdf } from "react-icons/gr";
-import { Document, Page, pdfjs } from "react-pdf/dist/esm/entry.webpack";
+import { GrDocumentPdf, GrDownload } from "react-icons/gr";
+import { Document, Page, pdfjs } from "react-pdf";
+import "react-pdf/dist/Page/AnnotationLayer.css";
+import "react-pdf/dist/Page/TextLayer.css";
 import withSize, { SizeState } from "../layout/with-size";
 import { Loader } from "../loader";
 
-// issue with webworker load through webpack see https://github.com/wojtekmaj/react-pdf/issues/291
-pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
+console.log(pdfjs.version);
+pdfjs.GlobalWorkerOptions.workerSrc = new URL("pdfjs-dist/build/pdf.worker.min.js", import.meta.url).toString();
 
 const PDFLoader: React.FC<{ width: number | undefined; height: number | undefined }> = ({ width, height }) => (
   <div className="d-flex  align-items-center" style={{ width, height }}>
@@ -42,8 +44,10 @@ const _PDF: React.FC<PDFProps & SizeState> = ({ file, ratio, forceRatio, width, 
     possibleSizes.length === 1
       ? possibleSizes[0]
       : forceRatio === "force-width" || (!forceRatio && ratio && ratio <= 1)
-      ? possibleSizes[0]
-      : possibleSizes[1];
+        ? possibleSizes[0]
+        : possibleSizes[1];
+
+  console.log(realSize, possibleSizes, availableHeight, availableWidth);
 
   const buttonStyle = { padding: "0.3rem" };
   return (

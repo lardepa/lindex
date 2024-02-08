@@ -31,7 +31,7 @@ jobs:
         uses: actions/setup-node@v2.4.0
         with:
           # Version Spec of the version to use.  Examples: 12.x, 10.15.1, >=10.15.0
-          node-version: 16.20
+          node-version: 18.17
 
       # Runs a single command using the runners shell
       - name: Build Frontend code
@@ -42,7 +42,7 @@ jobs:
         run: |
           cd frontend
           npm i
-          npm run build
+          npm run build -- --base=/lindex/
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5

@@ -1,9 +1,9 @@
 import { omit } from "lodash";
 import React from "react";
-import { Link, LinkProps } from "react-router-dom";
+import { Link, LinkProps, useLocation } from "react-router-dom";
 
 export const previewURL = (url: string, preview: boolean): string => {
-  const { pathname, searchParams } = new URL(url, process.env.PUBLIC_URL || "http://localhost");
+  const { pathname, searchParams } = new URL(url, "http://localhost");
   if (!url) return "";
   // normal mode leave url intact
   if (!preview) return url;
@@ -30,17 +30,12 @@ interface LinkPreviewProps extends React.AnchorHTMLAttributes<HTMLAnchorElement>
 
 export const LinkPreview: React.FC<Omit<LinkProps, "to"> & LinkPreviewProps> = (props) => {
   const { to, children } = props;
+  const location = useLocation();
+  const args = new URLSearchParams(location.search);
+  const isPreview = args.get("preview") === "";
 
   return (
-    <Link
-      {...omit(props, ["to", "children"])}
-      to={(location) => {
-        const args = new URLSearchParams(location.search);
-        const isPreview = args.get("preview") === "";
-
-        return previewURL(to, isPreview);
-      }}
-    >
+    <Link {...omit(props, ["to", "children"])} to={previewURL(to, isPreview)}>
       {children}
     </Link>
   );

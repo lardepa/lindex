@@ -1,6 +1,6 @@
 import React, { FC, useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import Embed from "react-tiny-oembed";
 import { PageLayout } from "../components/layout/page-layout";
 import withSize from "../components/layout/with-size";
@@ -67,9 +67,13 @@ export const SelectionMapMenu: FC<{
 };
 
 export const _SelectionPage: React.FC<{ width: number }> = ({ width }) => {
+  const navigate = useNavigate();
   const { id } = useParams<{ id: string }>();
   const [{ isPreview }] = useQueryParamsState();
-
+  if (!id) {
+    navigate("/selections");
+    return null;
+  }
   const [selection, loading] = useGetOne<SelectionType>("selections", id);
 
   const smallScreen = width <= config.RESPONSIVE_BREAKPOINTS.md;

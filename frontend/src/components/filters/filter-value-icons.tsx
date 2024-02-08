@@ -1,8 +1,8 @@
 import React from "react";
 
-import { ReactComponent as LogementSVG } from "../map/logement.svg";
-import { ReactComponent as EquipementSVG } from "../map/equipement.svg";
-import { ReactComponent as EspacePublicSVG } from "../map/espace_public.svg";
+import EquipementSVG from "../map/equipement.svg";
+import EspacePublicSVG from "../map/espace_public.svg";
+import LogementSVG from "../map/logement.svg";
 
 const FilterValueIcons: React.FC<{ filterKey: string; value: string }> = ({ filterKey, value }) => {
   switch (value) {

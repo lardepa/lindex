@@ -1,23 +1,18 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import "./scss/index.scss";
-import reportWebVitals from "./reportWebVitals";
 // Routing system
-import { HashRouter } from "react-router-dom";
-import { Layout } from "./components/layout";
-import { RouterWrapper } from "./router/router";
+import { createRoot } from "react-dom/client";
+import { RouterProvider, createHashRouter } from "react-router-dom";
 import { routes } from "./router/routes";
 
-ReactDOM.render(
-  <React.StrictMode>
-    <HashRouter>
-      <RouterWrapper routes={routes} wrapper={Layout} />
-    </HashRouter>
-  </React.StrictMode>,
-  document.getElementById("root"),
-);
+const container = document.getElementById("root");
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+const root = createRoot(container as HTMLElement); // createRoot(container!) if you use TypeScript
+const router = createHashRouter(routes);
+root.render(
+  <main>
+    <React.StrictMode>
+      <RouterProvider router={router} />
+    </React.StrictMode>
+  </main>,
+);
