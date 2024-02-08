@@ -226,6 +226,7 @@
 }
 .page-list {
   display: flex;
+  overflow-y: auto;
   flex-direction: row;
   flex-wrap: wrap;
   margin: 0 1rem;
