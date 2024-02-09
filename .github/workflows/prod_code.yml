@@ -68,5 +68,6 @@ jobs:
           password: ${{secrets.FTP_PASSWORD}}
           port: 22
           uploads: |
-            ./frontend/build/ => ./lindex/
+            ./frontend/build/ => /home/lardepa/lindex/
+          delete: true
           dry-run: true
