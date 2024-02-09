@@ -19,7 +19,7 @@ export const PageListLayout: React.FC<Props> = (props) => {
         <Logo />
         <BurgerMenu />
         <HorizontalMenu selected={menuSelectedItem} />
-        <div className="px-0 overflow-auto d-flex flex-column justify-content-between context-menu">{leftContent}</div>
+        <div className="px-0 d-md-flex flex-column justify-content-between context-menu">{leftContent}</div>
 
         {rightContent && <div className="main-content  px-0">{rightContent}</div>}
       </div>

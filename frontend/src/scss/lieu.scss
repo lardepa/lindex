@@ -11,7 +11,7 @@
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 0.3rem;
-
+    position: relative;
     .label {
       margin-bottom: 0.5rem;
     }
@@ -40,6 +40,7 @@
       // margin top to align fonts
       margin-top: -0.2rem;
       margin-bottom: 0.5rem;
+      max-width: 100%;
     }
     .value:hover {
       background-color: lightgrey;

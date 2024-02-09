@@ -75,7 +75,7 @@ h3 {
 }
 @include media-breakpoint-down(md) {
   .page-layout-grid-container {
-    grid-template-columns: 1fr 0fr !important;
+    grid-template-columns: 100% 0fr !important;
   }
 }
 .page-layout-default-area {
@@ -112,12 +112,21 @@ h3 {
     "col-content col-content main-content main-content";
   .logo {
     grid-area: logo;
-    height: min-content;
-    img {
-      height: $logo-height;
-      position: absolute;
-      top: $logo-margin-top;
-      left: $logo-margin-left;
+    padding: 0;
+    @include media-breakpoint-up(md) {
+      margin: 0;
+      width: 100%;
+      position: relative;
+      height: $horizontal_menu_height;
+      overflow: visible;
+      img {
+        max-height: $logo-height !important;
+        // height: 100%;
+        // position: absolute;
+        margin-top: $logo-margin-top;
+        margin-left: $logo-margin-left;
+        width: calc(100% - $logo-margin-left * 2);
+      }
     }
   }
   .context-menu {
@@ -158,7 +167,7 @@ h3 {
 // MEDIA
 .media-full-screen-gallery {
   z-index: 1301;
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100vw;
@@ -188,6 +197,7 @@ h3 {
   .btn-icon {
     background-color: adjust-color($color-grey-background, $alpha: -0.4);
     padding: 0.01rem 0.01rem;
+    z-index: 1300;
   }
 
   .gallery-pages {

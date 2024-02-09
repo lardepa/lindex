@@ -136,6 +136,7 @@
   position: absolute;
   top: -100px;
   right: 0;
+  width: fit-content;
   // leaflet control z-index is 1000
   z-index: 1200;
   padding: 0;
@@ -171,11 +172,8 @@
   }
 }
 .max-height-but-logo {
-  height: calc(100vh - #{$logo-height} - 2 * #{$logo-margin-top});
-}
-@include media-breakpoint-down(md) {
-  .max-height-but-logo {
-    height: auto;
+  @include media-breakpoint-up(md) {
+    height: calc(100vh - #{$logo-height} - 2 * #{$logo-margin-top});
   }
 }
 
@@ -231,6 +229,10 @@
   flex-wrap: wrap;
   margin: 0 1rem;
   margin-bottom: 3rem;
+  @include media-breakpoint-down(md) {
+    margin-bottom: 0;
+    overflow-y: visible;
+  }
   .page-list-year {
     display: contents;
     summary {
@@ -262,7 +264,7 @@
           }
         }
       }
-      @include media-breakpoint-down(md) {
+      @include media-breakpoint-down(lg) {
         grid-template-columns: 1fr;
         a:last-child > .page-list-card {
           border-bottom: 0;

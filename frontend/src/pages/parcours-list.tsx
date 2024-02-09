@@ -65,9 +65,7 @@ const _ParcoursListPage: React.FC<{ width: number }> = ({ width }) => {
 
   const parcoursListWithTitle = (
     <div
-      className={`d-flex flex-column flex-grow-1 ${
-        smallScreen ? "justify-content-start" : "justify-content-end"
-      } max-height-but-logo`}
+      className={`d-md-flex flex-column flex-grow-1 max-height-but-logo ${smallScreen ? "justify-content-start" : "justify-content-end"} `}
     >
       <div className="presentation">Itinéraires à travers l'architecture.</div>
       <div className="page-list">
