@@ -32,19 +32,41 @@ jobs:
         with:
           # Version Spec of the version to use.  Examples: 12.x, 10.15.1, >=10.15.0
           node-version: 18.17
+          cache: "npm"
+          cache-dependency-path: "**/package-lock.json"
 
-      # Runs a single command using the runners shell
-      - name: Build Frontend code
+      - name: Cache Data
+        id: cache-data
+        uses: actions/cache@v4
+        with:
+          path: frontend/public/data
+          key: ${{ runner.os }}-data
+
+      - name: Build 🛠️ data 💾 from airtable
         env:
-          VITE_DATA_URL: ./data
+          DATA_PATH: ../frontend/public
+          AIRTABLE_API_KEY: ${{secrets.AIRTABLE_API_KEY}}
+          AIRTABLE_BASE: ${{secrets.AIRTABLE_BASE}}
+        run: |
+          cd backend
+          npm i
+          npm run import
+
+      - name: Build 🛠️ frontend code 🖥️
+        env:
+          VITE_DATA_URL: /data
         run: |
           cd frontend
           npm i
-          npm run build -- --base=/lindex/
+          npm run build
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+      - name: Deploy 🚀 data 💾 and code 🖥️
+        uses: Dylan700/sftp-upload-action@latest
         with:
-          branch: gh-pages # The branch the action should deploy to.
-          folder: frontend/build # The folder the action should deploy.
-          clean-exclude: data
+          server: ${{secrets.FTP_URL}}
+          username: ${{secrets.FTP_USERNAME}}
+          password: ${{secrets.FTP_PASSWORD}}
+          port: 22
+          uploads: |
+            ./frontend/build/ => ./lindex/
+          dry-run: true

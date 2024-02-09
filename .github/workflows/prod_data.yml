@@ -2,13 +2,7 @@
 
 name: Prod Data
 
-# Controls when the workflow will run
-on:
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-  # update code on prod might impact import code
-  push:
-    branches: [prod]
+on: workflow_dispatch
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -22,23 +16,21 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Get data prepare code
         uses: actions/checkout@v2
-
-      - name: Get current data version
-        uses: actions/checkout@v2
         with:
-          ref: gh-pages
-          path: gh-pages
+          ref: prod
 
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.4.0
         with:
           # Version Spec of the version to use.  Examples: 12.x, 10.15.1, >=10.15.0
           node-version: 18.17.1
+          cache: "npm"
+          cache-dependency-path: "backend/package-lock.json"
 
       # Runs a single command using the runners shell
-      - name: Build data from airtable
+      - name: Build 🛠️ data 💾 from airtable
         env:
-          DATA_PATH: ${{github.workspace}}/gh-pages
+          DATA_PATH: ./
           AIRTABLE_API_KEY: ${{secrets.AIRTABLE_API_KEY}}
           AIRTABLE_BASE: ${{secrets.AIRTABLE_BASE}}
         run: |
@@ -47,8 +39,11 @@ jobs:
           npm run import
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+        uses: Dylan700/sftp-upload-action@latest
         with:
-          branch: gh-pages # The branch the action should deploy to.
-          folder: gh-pages/data # The folder the action should deploy
-          target-folder: data
+          server: ${{secrets.FTP_URL}}
+          username: ${{secrets.FTP_USERNAME}}
+          password: ${{secrets.FTP_PASSWORD}}
+          port: 22
+          uploads: |
+            ./backend/data/ => ./lindex/data/
