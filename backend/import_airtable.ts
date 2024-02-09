@@ -24,6 +24,7 @@ import {
   SelectionAirtable,
   SelectionType,
 } from "./types";
+import { taskInSeries } from "./utils";
 
 // load .env variables into process.env
 require("dotenv").config();
@@ -205,19 +206,24 @@ const importAllTables = async (incremental?: boolean) => {
   }
 };
 
-const downloadFile = (url: string, filenameWithoutExtension: string) => {
-  https.get(url, (res) => {
-    // Image will be stored at this path
-    const ext = res.headers["content-type"].split("/").slice(-1);
-    const fileStream = fs.createWriteStream(
-      `${filenameWithoutExtension}.${ext}`
-    );
-    res.pipe(fileStream);
-    fileStream.on("finish", () => {
-      fileStream.close();
-      console.log(`Download ${url} completed`);
+const downloadFile = async (url: string, filenameWithoutExtension: string) => {
+  console.log(`downloading ${url} into ${filenameWithoutExtension}`);
+  const promise = new Promise<void>((resolve) => {
+    https.get(url, (res) => {
+      // Image will be stored at this path
+      const ext = res.headers["content-type"].split("/").slice(-1);
+      const fileStream = fs.createWriteStream(
+        `${filenameWithoutExtension}.${ext}`
+      );
+      res.pipe(fileStream);
+      fileStream.on("finish", () => {
+        fileStream.close();
+        console.log(`Download ${url} completed`);
+        resolve();
+      });
     });
   });
+  return promise;
 };
 
 importAllTables().then(async (dataset) => {
@@ -227,22 +233,40 @@ importAllTables().then(async (dataset) => {
   if (!fs.existsSync(attachmentDir)) {
     fs.mkdirSync(attachmentDir);
   }
-  values(dataset.médias).forEach((media: MediaType) => {
-    if (media.fichiers && media.fichiers.length > 0) {
-      media.fichiers.forEach((fichier) => {
-        fichierIds.add(fichier.id);
-        const dirname = `${attachmentDir}/${fichier.id}/`;
-        if (!fs.existsSync(dirname)) {
-          fs.mkdirSync(dirname);
-          downloadFile(fichier.url, `${dirname}/full`);
-          if (fichier.thumbnails && fichier.thumbnails.small)
-            downloadFile(fichier.thumbnails.small.url, `${dirname}/small`);
-          if (fichier.thumbnails && fichier.thumbnails.large)
-            downloadFile(fichier.thumbnails.large.url, `${dirname}/large`);
-        }
-      });
-    }
-  });
+  await taskInSeries(
+    values(dataset.médias).map((media: MediaType) => async () => {
+      if (media.fichiers && media.fichiers.length > 0) {
+        await Promise.all(
+          media.fichiers.map(async (fichier) => {
+            fichierIds.add(fichier.id);
+            const dirname = `${attachmentDir}/${fichier.id}`;
+            if (!fs.existsSync(dirname)) fs.mkdirSync(dirname);
+            const ext = fichier.filename.split(".").slice(-1);
+            if (!fs.existsSync(`${dirname}/full.${ext}`))
+              await downloadFile(fichier.url, `${dirname}/full`);
+            if (
+              fichier.thumbnails &&
+              fichier.thumbnails.small &&
+              !fs.existsSync(`${dirname}/small.${ext}`)
+            )
+              await downloadFile(
+                fichier.thumbnails.small.url,
+                `${dirname}/small`
+              );
+            if (
+              fichier.thumbnails &&
+              fichier.thumbnails.large &&
+              !fs.existsSync(`${dirname}/large.${ext}`)
+            )
+              await downloadFile(
+                fichier.thumbnails.large.url,
+                `${dirname}/large`
+              );
+          })
+        );
+      }
+    })
+  );
   // remove deprecated attachments
   fs.readdirSync(`${process.env.DATA_PATH}/data/attachments`, {
     withFileTypes: true,
