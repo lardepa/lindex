@@ -207,7 +207,6 @@ const importAllTables = async (incremental?: boolean) => {
 };
 
 const downloadFile = async (url: string, filenameWithoutExtension: string) => {
-  console.log(`downloading ${url} into ${filenameWithoutExtension}`);
   const promise = new Promise<void>((resolve) => {
     https.get(url, (res) => {
       // Image will be stored at this path
