@@ -206,18 +206,15 @@ const importAllTables = async (incremental?: boolean) => {
   }
 };
 
-const downloadFile = async (url: string, filenameWithoutExtension: string) => {
+const downloadFile = async (url: string, filepath: string) => {
   const promise = new Promise<void>((resolve) => {
     https.get(url, (res) => {
       // Image will be stored at this path
-      const ext = res.headers["content-type"].split("/").slice(-1);
-      const fileStream = fs.createWriteStream(
-        `${filenameWithoutExtension}.${ext}`
-      );
+      const fileStream = fs.createWriteStream(filepath);
       res.pipe(fileStream);
       fileStream.on("finish", () => {
         fileStream.close();
-        console.log(`Download ${url} completed`);
+        console.log(`Download ${url} -> ${filepath} completed`);
         resolve();
       });
     });
@@ -238,11 +235,12 @@ importAllTables().then(async (dataset) => {
         await Promise.all(
           media.fichiers.map(async (fichier) => {
             fichierIds.add(fichier.id);
+            const ext = fichier.type.split("/").slice(-1);
             const dirname = `${attachmentDir}/${fichier.id}`;
             if (!fs.existsSync(dirname)) fs.mkdirSync(dirname);
-            const ext = fichier.filename.split(".").slice(-1);
+
             if (!fs.existsSync(`${dirname}/full.${ext}`))
-              await downloadFile(fichier.url, `${dirname}/full`);
+              await downloadFile(fichier.url, `${dirname}/full.${ext}`);
             if (
               fichier.thumbnails &&
               fichier.thumbnails.small &&
@@ -250,7 +248,7 @@ importAllTables().then(async (dataset) => {
             )
               await downloadFile(
                 fichier.thumbnails.small.url,
-                `${dirname}/small`
+                `${dirname}/small.${ext}`
               );
             if (
               fichier.thumbnails &&
@@ -259,7 +257,7 @@ importAllTables().then(async (dataset) => {
             )
               await downloadFile(
                 fichier.thumbnails.large.url,
-                `${dirname}/large`
+                `${dirname}/large.${ext}`
               );
           })
         );
