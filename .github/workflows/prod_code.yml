@@ -67,5 +67,3 @@ jobs:
           port: 22
           uploads: |
             ./frontend/build/ => /home/lardepa/lindex/
-          delete: true
-          dry-run: true
