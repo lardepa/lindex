@@ -36,9 +36,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Build Frontend code
         env:
-          # since we switched to hash router PUBLIC_URL might be deprecated
-          PUBLIC_URL: https://lardepa.github.io/lindex/
-          DATA_URL: ./data
+          VITE_DATA_URL: ./data
         run: |
           cd frontend
           npm i
