@@ -6,6 +6,7 @@ import {
   flatten,
   keyBy,
   keys,
+  last,
   mapValues,
   replace,
   reverse,
@@ -235,12 +236,16 @@ importAllTables().then(async (dataset) => {
         await Promise.all(
           media.fichiers.map(async (fichier) => {
             fichierIds.add(fichier.id);
-            const ext = fichier.type.split("/").slice(-1);
+            let ext = last(fichier.type.split("/"));
             const dirname = `${attachmentDir}/${fichier.id}`;
             if (!fs.existsSync(dirname)) fs.mkdirSync(dirname);
 
             if (!fs.existsSync(`${dirname}/full.${ext}`))
               await downloadFile(fichier.url, `${dirname}/full.${ext}`);
+
+            // special case for PDF => small and large are png
+            if (ext === "pdf") ext = "png";
+
             if (
               fichier.thumbnails &&
               fichier.thumbnails.small &&
