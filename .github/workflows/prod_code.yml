@@ -38,7 +38,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: frontend/public/data
-          key: ${{ runner.os }}-data
+          key: lindex-data
 
       - name: Build 🛠️ data 💾 from airtable
         env:
@@ -59,11 +59,14 @@ jobs:
           npm run build
 
       - name: Deploy 🚀 data 💾 and code 🖥️
-        uses: Dylan700/sftp-upload-action@latest
+        uses: pressidium/lftp-mirror-action@v1
         with:
-          server: ${{secrets.FTP_URL}}
-          username: ${{secrets.FTP_USERNAME}}
-          password: ${{secrets.FTP_PASSWORD}}
-          port: 22
-          uploads: |
-            ./frontend/build/ => /home/lardepa/lindex/
+          host: ${{secrets.FTP_URL}}
+          user: ${{secrets.FTP_USERNAME}}
+          pass: ${{secrets.FTP_PASSWORD}}
+          onlyNewer: false
+          restoreMTime: false
+          parallel: 2
+          localDir: ./frontend/build/
+          remoteDir: /home/lardepa/lindex/
+          options: "--delete -p --ignore-time --only-missing"

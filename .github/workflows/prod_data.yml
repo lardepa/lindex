@@ -22,12 +22,17 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.4.0
         with:
-          # Version Spec of the version to use.  Examples: 12.x, 10.15.1, >=10.15.0
           node-version: 18.17.1
           cache: "npm"
           cache-dependency-path: "backend/package-lock.json"
 
-      # Runs a single command using the runners shell
+      - name: Cache Data
+        id: cache-data
+        uses: actions/cache@v4
+        with:
+          path: frontend/public/data
+          key: lindex-data
+
       - name: Build 🛠️ data 💾 from airtable
         env:
           DATA_PATH: ./
@@ -38,14 +43,15 @@ jobs:
           npm i
           npm run import
 
-      - name: Deploy 🚀
-        uses: Dylan700/sftp-upload-action@latest
+      - name: Deploy 🚀 data 💾
+        uses: pressidium/lftp-mirror-action@v1
         with:
-          server: ${{secrets.FTP_URL}}
-          username: ${{secrets.FTP_USERNAME}}
-          password: ${{secrets.FTP_PASSWORD}}
-          port: 22
-          uploads: |
-            ./backend/data/ => /home/lardepa/lindex/data/
-          delete: true
-          dry-run: true
+          host: ${{secrets.FTP_URL}}
+          user: ${{secrets.FTP_USERNAME}}
+          pass: ${{secrets.FTP_PASSWORD}}
+          onlyNewer: false
+          restoreMTime: false
+          parallel: 2
+          localDir: ./frontend/build/data/
+          remoteDir: /home/lardepa/lindex/data/
+          options: "--delete -p --ignore-time --only-missing"
