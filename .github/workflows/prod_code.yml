@@ -69,4 +69,4 @@ jobs:
           parallel: 2
           localDir: ./frontend/build/
           remoteDir: /home/lardepa/lindex/
-          options: "--delete -p --ignore-time --only-missing"
+          options: "--delete --no-perms --ignore-time --only-missing"
