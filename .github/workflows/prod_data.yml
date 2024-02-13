@@ -35,7 +35,7 @@ jobs:
 
       - name: Build 🛠️ data 💾 from airtable
         env:
-          DATA_PATH: ./
+          DATA_PATH: ../frontend/public
           AIRTABLE_API_KEY: ${{secrets.AIRTABLE_API_KEY}}
           AIRTABLE_BASE: ${{secrets.AIRTABLE_BASE}}
         run: |
