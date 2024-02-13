@@ -193,7 +193,7 @@ const importAllTables = async (incremental?: boolean) => {
           `${process.env.DATA_PATH}/data/${table}_airtable.json`,
           JSON.stringify(newData, null, 2)
         );
-        console.log(`data/${table}.json updated`);
+        console.log(`${process.env.DATA_PATH}/data/${table}.json updated`);
       }
     }
     // write import date into disk
@@ -428,7 +428,7 @@ importAllTables().then(async (dataset) => {
       2
     )
   );
-  console.log(`data/news.json updated`);
+  console.log(`${process.env.DATA_PATH}/data/news.json updated`);
   fs.writeFileSync(
     `${process.env.DATA_PATH}/data/a_propos.json`,
     JSON.stringify(
