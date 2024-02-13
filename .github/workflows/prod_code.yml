@@ -81,4 +81,4 @@ jobs:
           parallel: 2
           localDir: ./frontend/build/data/
           remoteDir: /home/lardepa/lindex/data/
-          options: "--delete --no-perms --ignore-time --only-missing --verbose"
+          options: "--delete --no-perms --ignore-time --verbose"
