@@ -68,7 +68,7 @@ jobs:
           localDir: ./frontend/build/
           remoteDir: /home/lardepa/lindex/
           ignoreFile: ./frontend/.lftp_ignore
-          options: "--delete --no-perms --ignore-time --verbose"
+          options: "--delete --no-perms --verbose"
 
       - name: Deploy 🚀 data 💾
         uses: pressidium/lftp-mirror-action@v1
