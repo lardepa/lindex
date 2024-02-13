@@ -52,6 +52,6 @@ jobs:
           onlyNewer: false
           restoreMTime: false
           parallel: 2
-          localDir: frontend/build/data/
+          localDir: frontend/public/data/
           remoteDir: /home/lardepa/lindex/data/
           options: "--delete --no-perms --ignore-time --only-missing --verbose"
