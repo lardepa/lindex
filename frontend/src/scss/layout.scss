@@ -177,13 +177,10 @@ h3 {
   justify-content: center;
   align-items: center;
 
-  .media:not(.media-pdf) {
-    display: contents;
-  }
   figure > img {
-    height: 100%;
-    width: 100%;
-    object-fit: contain;
+    // those max does not apply correctly anymore since the sizes attributes set the width. I didn't understand how to use those.
+    max-height: 100%;
+    max-width: 100%;
   }
   .__embed {
     max-width: unset !important;
@@ -305,6 +302,8 @@ figure {
 }
 .media {
   position: relative;
+  max-width: 100%;
+  max-height: 100%;
   .action {
     position: absolute;
     top: auto;
