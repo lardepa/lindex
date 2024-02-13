@@ -67,7 +67,7 @@ jobs:
           restoreMTime: false
           localDir: ./frontend/build/
           remoteDir: /home/lardepa/lindex/
-          options: "--delete --no-perms --verbose --exclude-glob frontend/build/data/*"
+          options: "--delete --no-perms --verbose --exclude frontend/build/data/"
 
       - name: Deploy 🚀 data 💾
         uses: pressidium/lftp-mirror-action@v1
