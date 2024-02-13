@@ -15,12 +15,12 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Get data prepare code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: prod
 
       - name: Setup Node.js environment
-        uses: actions/setup-node@v2.4.0
+        uses: actions/setup-node@v4
         with:
           node-version: 18.17.1
           cache: "npm"

@@ -23,10 +23,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Setup Node.js environment
-        uses: actions/setup-node@v2.4.0
+        uses: actions/setup-node@v4
         with:
           # Version Spec of the version to use.  Examples: 12.x, 10.15.1, >=10.15.0
           node-version: 18.17
@@ -57,8 +57,19 @@ jobs:
           cd frontend
           npm i
           npm run build
+      - name: Deploy 🚀 code 🖥️
+        uses: pressidium/lftp-mirror-action@v1
+        with:
+          host: ${{secrets.FTP_URL}}
+          user: ${{secrets.FTP_USERNAME}}
+          pass: ${{secrets.FTP_PASSWORD}}
+          onlyNewer: false
+          restoreMTime: false
+          localDir: ./frontend/build/
+          remoteDir: /home/lardepa/lindex/
+          options: "--delete --no-perms --exclude-glob=./frontend/build/data/*"
 
-      - name: Deploy 🚀 data 💾 and code 🖥️
+      - name: Deploy 🚀 data 💾
         uses: pressidium/lftp-mirror-action@v1
         with:
           host: ${{secrets.FTP_URL}}
@@ -67,6 +78,6 @@ jobs:
           onlyNewer: false
           restoreMTime: false
           parallel: 2
-          localDir: ./frontend/build/
-          remoteDir: /home/lardepa/lindex/
+          localDir: ./frontend/build/data/
+          remoteDir: /home/lardepa/lindex/data/
           options: "--delete --no-perms --ignore-time --only-missing"
